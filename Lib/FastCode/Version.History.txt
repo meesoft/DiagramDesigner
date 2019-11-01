@@ -1,0 +1,26 @@
+0.3:
+- Enabled direct calling of any function irrespective of compiler 
+  options and removed unnecessary compiler options	
+- Inserted missing compiler options to prevent Overflow and Range 
+  Check errors when compiling Pascal versions
+- Modified FastCode.inc to ensure valid FastCode compiler options
+- Renamed some shared functions to remove one indirect function call
+
+0.2:
+- Implement "John O'Harrow" optimization calling common 
+  functions/procedures
+- Fixed Pos Stub on Delphi 2005
+- Fixed FastCodePatch unit for DEP enabled machines 
+  using the suggestions from "Hallvard Vassbotn"
+- Added Defines for choosing the target. (See Fastcode.inc)
+  From the default is the RTL Suggestion Target!
+- Added Version History file
+- Added support for: CompareMem, CompareStr and FillChar
+
+0.12:
+- Included forgotten FastCodePatch Unit
+- Fixed License information in the units
+
+
+0.1:
+First try & release ...

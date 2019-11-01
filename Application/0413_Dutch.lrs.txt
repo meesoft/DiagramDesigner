@@ -1,0 +1,813 @@
+ - Dock zone has no control	 - Dok-zone heeft geen besturingselement	Consts_SDockZoneHasNoCtl
+ - Dock zone not found	 - Dok-zone niet gevonden	Consts_SDockZoneNotFound
+%d files selected		DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d is een ongeldige PaginaIndex waarde. PaginaIndex moet liggen tussen 0 en %d	ComStrs_sPageIndexError
+%d link points defined	%d aansluitpunten niet gedefinieerd	PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s (%s, regel %d)	SysConst_SAssertError
+%s does not allow hiding	%s staat verbergen niet toe	Consts_SCannotHideActionBand
+%s expected	%s verwacht	ExpressionEval_rsSExpected
+%s not found	%s niet gevonden	ExpressionEval_rsSNotFound
+%s not in a class registration group	%s zit niet in een klasseregistratiegroep	RTLConsts_SUnknownGroup
+%s on %s	%s op %s	Consts_SDeviceOnPort
+%s property out of range	%s eigenschap buiten bereik	Consts_SPropertyOutOfRange
+%s.Seek not implemented	%s.Zoeken niet geïmplementeerd	RTLConsts_SSeekNotImplemented
+&Abort	&Afbreken	Consts_SMsgDlgAbort
+&Add or Remove Buttons	&Knoppen toevoegen of verwijderen	Consts_SAddRemoveButtons
+&All	&Alle	Consts_SMsgDlgAll	Consts_SAllButton
+&Close	&Sluiten	Consts_SCloseButton
+&Help	&Help	Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	&Negeren	Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	&Nee	Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	&Opnieuw	Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start	&Starten	SpellChecker_rsStart
+&Yes	&Ja	Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value		SysConst_SInvalidFloat
+'%s' is not a valid integer value	'%s' is geen geldig geheel getal	SysConst_SInvalidInteger
+''%s'' is not a valid component name	''%s'' is geen geldige componentnaam	RTLConsts_SInvalidName
+(No Name)	(Geen Naam)	Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	3D Donkere Schaduw	ExtCtrls_clName3DDkShadow
+3D Light	3D Licht	ExtCtrls_clName3DLight
+<unknown>	<onbekend>	SysConst_SUnknown
+= or ( expected	= of ( verwacht	ExpressionEval_rsOrExpected
+A call to an OS function failed	Aanroep van systeemfunctie mislukt	SysConst_SUnkOSError
+A class named %s already exists	Een klasse met de naam %s bestaat al	RTLConsts_SDuplicateClass
+A component named %s already exists	Een component met de naam %s bestaat al	RTLConsts_SDuplicateName
+A control cannot have itself as its parent	Een besturingselement kan zichzelf niet als ouder hebben	Consts_SControlParentSetToSelf
+Abort	Afbreken	Consts_SAbortButton
+About	Info...	TAboutBox: AboutBox.Caption
+About...	Info...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	Samenstel-fout	SysConst_SAbstractError
+Active Border	Huidige Rand	ExtCtrls_clNameActiveBorder
+Active Caption	Huidige Kop	ExtCtrls_clNameActiveCaption
+Add	Toevoegen	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	Sjabloon toevoegen	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	Toevoegen aan sjabloonpalet	TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation		TMainForm: PagePropertiesAction.Hint
+Adler32 error	Adler32 fout	Adler32_rsAdler32Error
+Align	Uitlijnen	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group	Enkel object op pagina of meerdere objecten op groep uitlijnen	TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	Alle objecten in een groep moeten eenvoudige lijnen zijn	GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+	Alt+	Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	Fout opgetreden tijdens lezen van FixedFileInfo structuur in bestand.	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	Fout opgetreden tijdens lezen van taal/tekenset beschrijving in bestand.	VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	Kon voorganger van '%s' niet vinden	RTLConsts_SAncestorNotFound
+Anchors		TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group		TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing	Antialias	TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export		TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	Willekeurige hoek...	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	Toepassingsfout	SysConst_SExceptTitle
+Application Workspace	Toepassingswerkruimte	ExtCtrls_clNameAppWorkSpace
+Apply to all pages	Toepassen op alle pagina's	TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	apr	SysConst_SShortMonthNameApr
+April	april	SysConst_SLongMonthNameApr
+Aqua	Water	ExtCtrls_clNameAqua
+Arrow 1	Pijl 1	LineObject_rsArrow1
+Arrow 2	Pijl 2	LineObject_rsArrow2
+Arrow 3	Pijl 3	LineObject_rsArrow3
+Assertion failed	Controle mislukt	SysConst_SAssertionFailed
+Associate file formats with	Koppel bestandstype aan	TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	Koppel programma met geselecteerd bestandstype	TFormatAssociateForm: AssociateButton.Hint
+Aug	aug	SysConst_SShortMonthNameAug
+August	augustus	SysConst_SLongMonthNameAug
+Auto connect to link points		TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break		TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes		TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects		TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled		TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging		TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	Achtergrond	ExtCtrls_clNameBackground
+Ball	Bal	LineObject_rsBall
+Base 10 logarithm	10 log	ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	2 log	ExpressionEval_rsBase2Logarithm
+Base e logarithm	e log	ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)		TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	Bitmap	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	Bitmap-afbeelding is ongeldig	Consts_SInvalidBitmap
+Bitmap scaling	Bitmap schaal	TPropertyEditorForm: Panel16.Caption
+Bitmaps	Bitmaps	Consts_SVBitmaps
+Bits index out of range	Bits index buiten bereik	RTLConsts_SBitsIndexError
+BkSp	Backspace	Consts_SmkcBkSp
+Black	Zwart	ExtCtrls_clNameBlack
+Blue	Blauw	ExtCtrls_clNameBlue
+Bold	Vet	TextEditor_rsBold
+Bottom	Onder	TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	Naar voren brengen	TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	Vlak knop	ExtCtrls_clNameBtnFace
+Button Highlight	Accent knop	ExtCtrls_clNameBtnHighlight
+Button Shadow	Schaduw knop	ExtCtrls_clNameBtnShadow
+Button Text	Knop Tekst	ExtCtrls_clNameBtnText
+CRC error	CRC fout	PNGLoader_rsCRCError
+Can't write to a read-only resource stream	Kan niet naar alleen-lezen stream schrijven	RTLConsts_SCantWriteResourceStreamError
+Cancel	Annuleren	TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	Kan %s niet aan %s toekennen	RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	Kan een subitem niet aan een werkbalk toekennen als een van z'n ouders al aan een werkbalk is toegekend	Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	Kan Zichtbaar niet veranderen in BijTonen of BijVerbergen	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	Kan de grootte van een JPEG afbeelding niet veranderen	JConsts_sChangeJPGSize
+Cannot change the size of an icon	Kan de grootte van een icon niet veranderen	Consts_SChangeIconSize
+Cannot create file \"%s\". %s	Kan het bestand \"%s\". %s niet aanmaken	RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active	Kan formulier niet aanmaken. MDI formulieren zijn op dit moment niet actief	Consts_SNoMDIForm
+Cannot drag a form	Kan formulier niet verslepen	Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	Kan een uitgeschakeld of onzichtbaar venster niet in focus krijgen	Consts_SCannotFocus
+Cannot hide an MDI Child Form	Kan een MDI subformulier niet verbergen	Consts_SMDIChildNotVisible
+Cannot make a visible window modal	Kan een zichtbaar venster niet modaal maken	Consts_SCannotShowModal
+Cannot open clipboard	Kan het klembord niet openen	Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	Kan bestand \"%s\".%s niet openen	RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	Het werkblad staat tekenen niet toe	Consts_SNoCanvasHandle
+Caption Text	Koptekst	ExtCtrls_clNameCaptionText
+Center	Midden	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	Kleuren van alle objecten in de huidige laag wijzigen	TMainForm: SetLayerColorAction.Hint
+Change value	Wijzig waarde	ExpressionHelp_rsChangeValue
+Check active layer only	Aleen actieve laag controleren	TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates	Check voor nieuwe versies	TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	CheckSynchronize aangeroepen vanuit thread $%x, wat NIET de hoofd thread is	RTLConsts_SCheckSynchronizeError
+Circle	Cirkel	LineObject_rsCircle
+Circular decoder table entry	Circulaire decoder tabelingang	GIFImage_sDecodeCircular
+Circular references not allowed	Cirkelreferenties zijn niet toegestaan	Consts_SCirularReferencesNotAllowed
+Class %s not found	Klasse %s niet gevonden	RTLConsts_SClassNotFound
+Clear	Legen	TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	Klik hier om te zien hoe	TPleaseSupportForm: Label4.Caption
+Click to apply format to selection		TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	Klembord staat geen iconen toe	Consts_SIconToClipboard
+Clipboard metafile scale:	Schaal metabestand klembord:	TDesignerSetupForm: Label4.Caption
+Close	Sluiten	TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: Button1.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator	Sluit expressie-evaluator	TExpressionEvalForm: ActionClose.Hint
+Color not in color table	Kleur niet in kleurentabel	GIFImage_sInvalidColor
+Color table is empty	Kleurtabel is leeg	GIFImage_sEmptyColorMap
+Color table overflow	Kleurentabel overloop	GIFImage_sTooManyColors
+Conditional value		ExpressionEval_rsConditionalValue
+Confirm	Bevestigen	Consts_SMsgDlgConfirm
+Connect links	Aansluitingen verbinden	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Continue	Doorgaan	TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	Besturingselement '%s' heeft geen ouder-venster	Consts_SParentRequired
+Control-C hit	Ctrl+C gedrukt	SysConst_SControlC
+Convert	Converteren	TMainForm: Convert1.Caption
+Convert binary number	Converteer binair getal	ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon	Groep lijnobjecten naar een polygoon converteren	TMainForm: MakePolygonAction.Hint
+Convert to metafile	Naar metabestand converteren	TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	Naar polygoon converteren	TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	Bezig met converteren	GIFImage_sProgressConverting
+Copy	Kopieren	TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all		TLinkEditorForm: CopyButton.Hint
+Copy templates to page	Sjablonen naar pagina kopiëren	TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	Kopieren...	GIFImage_sProgressCopying
+Corner radius		Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	Kon variant van type (%s) niet converteren naar type (%s)	SysConst_SVarTypeCouldNotConvert
+Cream	Crème	ExtCtrls_clNameCream
+Create default anchors for groups		TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images		TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents		DiagramExport_rsAutoCrop
+Ctrl+	Ctrl+	Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments		LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type		TPropertyEditorForm: Panel23.Caption
+Cut	Knippen	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Dec	dec	SysConst_SShortMonthNameDec
+December	december	SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	Bit buffer van decoder leeg	GIFImage_sDecodeTooFewBits
+Default	Standaard	ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	Standaard lettertype...	TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del	Del	Consts_SmkcDel
+Delete	Verwijderen	TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	Diagrampagina verwijderen?	RearrangePages_rsDeleteDiagramPage
+Delete symbol	Symbool verwijderen	TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	Sjabloonobject verwijderen	TMainForm: DeleteTemplateAction.Caption
+Description	Beschrijving	TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	Niets selecteren	TFormatAssociateForm: NoneButton.Caption
+Diagram	Diagram	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd	Diagram (*.ddd)|*.ddd	DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	Diagram gewijzigd, opslaan voor het afsluiten?	Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link		TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	Diagramsjabloonpalet (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter
+Diamond		LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	Woordenboeken (*.dic)|*.dic	DesignerSetup_rsDictionariesDicDic
+Disable font antialiasing		DiagramExport_rsDisableFontAntialiasing
+Disk full	Schijf vol	SysConst_SDiskFull
+Distance from top left corner		TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	Deling door nul	SysConst_SDivByZero
+Docked control must have a name	Gedokt besturingselement moet een naam hebben	Consts_SDockedCtlNeedsName
+Done	Gereed	PropertyEditor_rsDone
+Double arrow		LineObject_rsDoubleArrow3
+Down	Naar beneden	Consts_SmkcDown
+Download	Downloaden	PropertyEditor_rsDownload
+Draw arrow	Pijl tekenen	TMainForm: DrawArrowAction.Caption
+Draw connector	Verbinding tekenen	TMainForm: DrawConnectorAction.Caption
+Draw curve	Curve tekenen	TMainForm: DrawCurveAction.Caption
+Draw ellipse	Ellips tekenen	TMainForm: DrawEllipseAction.Caption
+Draw line	Lijn tekenen	TMainForm: DrawLineAction.Caption
+Draw rectangle	Rechthoek tekenen	TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects		TMainForm: ObjectShadowsAction.Hint
+Edit	Bewerken	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	Laag bewerken	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point		LinkEditor_rsEditLinkPoint
+Edit text	Tekst bewerken	TTextEditorForm: TextEditorForm.Caption
+Edit text...	Tekst bewerken...	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	Bezig met afbeelding bewerken	PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	Of lezen, of schrijven, of volledige toegang moet worden gespecificeerd in een aanroep aan CreateFile	Streams_rs_NoFileAccessSpec
+End	End	Consts_SmkcEnd
+Enhanced Metafiles	Uitgebreide Metabestanden	Consts_SVEnhMetafiles
+Enter	Enter	Consts_SmkcEnter
+Enter object text:	Voer tekst voor object in:	TTextEditorForm: Label2.Caption
+Error	Fout	Consts_SMsgDlgError
+Error closing \"%s\" - %s	Fout bij afsluiten van \"%s\" - %s	Streams_rs_CloseFileError
+Error creating variant or safe array	Fout bij aanmaken variant of veilige array	SysConst_SVarArrayCreate
+Error creating window class	Fout bij aanmaken van vensterklasse	Consts_SWindowClass
+Error creating window device context	Fout bij aanmaken van een vensterapparaatcontext	Consts_SWindowDCError
+Error deleting \"%s\" - %s	Fout bij verwijderen van \"%s\" - %s	Streams_rs_DeleteFileError
+Error in bitmap data	Fout in bitmap data	AnalyzerPlugins_rsErrorInBitmapData	LinarBitmap_rsErrorInBitmapData
+Error in compressed data	Fout in gecomprimeerde data	Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	Fout bij laden van eerder opgeslagen configuratiebestand: %s\rMoet het verwijderd worden?	Consts_SErrorLoadingFile
+Error moving file pointer - %s	Fout bij verplaatsen bestandspointer - %s	Streams_rs_SeekFileError
+Error moving stream pointer	Fout bij verplaatsen van streampointer	MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	Fout bij openen van \" %s\" -%s	Streams_rs_CreateFileError
+Error reading %s%s%s: %s	Fout bij lezen van %s%s%s: %s	RTLConsts_SPropertyException
+Error reading from stream - %s	Fout bij lezen van stream - %s	Streams_rs_ReadError
+Error removing control from dock tree	Fout bij verwijderen besturingselement uit verbindings-boom	Consts_SDockTreeRemoveError
+Error running Image Analyzer	Fout bij uitvoeren van Image Analyzer	PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	Fout bij het instellen van %s.Count	Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s	Fout bij inkorten van bestand \"%s\" - %s	Streams_rs_TruncateFileError
+Error while trying to send e-mail	Fout bij versturen van e-mail	EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	Fout bij schrijven naar stream - %s	Streams_rs_WriteError
+Esc	Esc	Consts_SmkcEsc
+Evaluate	Evalueer	TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	Evalueer (F5)	TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	Uitzondering %s in module %s op %p.\r\n%s%s\r\n	SysConst_SException
+Exception in safecall method	Uitzondering in safecall methode	SysConst_SSafecallException
+Expand	Uitbreiden	Consts_SExpand
+Export	Exporteren	TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages		DiagramExport_rsExportAllPages
+Export file DPI:	Bestand DPI exporteren:	DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	Pagina naar bitmap of metabestand exporteren	TMainForm: ExportAction.Hint
+Export page...	Pagina exporteren...	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator	Expressie-evaluator	TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...	Expressie-evaluator...	TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	Expressie is leeg	ExpressionEval_rsExpressionIsEmpty
+External exception %x	Externe uitzondering %x	SysConst_SExternalException
+Extra = found	Extra = gevonden	ExpressionEval_rsExtraFound
+Failed to Load Stream	Stream laden mislukt	ComStrs_sRichEditLoadFail
+Failed to Save Stream	Stream bewaren mislukt	ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	Geheugen toewijzen voor GIF DIB mislukt	GIFImage_sOutOfMemDIB
+Failed to clear tab control	Leegmaken van tab besturingselement mislukt	ComStrs_sTabFailClear
+Failed to delete tab at index %d	Verwijderen van tab op index %d mislukt	ComStrs_sTabFailDelete
+Failed to get data for '%s'	Ophalen van data voor '%s' mislukt	RTLConsts_SRegGetDataFailed
+Failed to get object at index %d	Ophalen van het object op index %d mislukt	ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	Lezen van ImageList data uit stream mislukt	Consts_SImageReadFail
+Failed to retrieve tab at index %d	Ophalen tab op index %d mislukt	ComStrs_sTabFailRetrieve
+Failed to set data for '%s'	Instellen van data voor '%s' mislukt	RTLConsts_SRegSetDataFailed
+Failed to set object at index %d	Instellen van object op index %d mislukt	ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d	Instellen van tab \" %s\" op index %d mislukt	ComStrs_sTabFailSet
+Failed to store GIF on clipboard	GIF op klembord plaatsen mislukt	GIFImage_sFailedPaste
+Failed to write ImageList data to stream	Schrijven van ImageList data op stream mislukt	Consts_SImageWriteFail
+Feb	feb	SysConst_SShortMonthNameFeb
+February	februari	SysConst_SLongMonthNameFeb
+File	Bestand	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	Bestandstoegang geweigerd	SysConst_SAccessDenied
+File format associations	Bestandstype koppelingen	TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	Bestand is van nieuwere versie van het programma	DiagramBase_rsFileFromLaterProgramVersion
+File not found	Bestand niet gevonden	SysConst_SFileNotFound
+Fill	Vullen	TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	Vulkleur	TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Find text...		TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	Zoek x die de expressie minimaliseert	ExpressionEval_rsFindXThatMinimizesExpression
+First	Eerste	TSlideShowForm: FirstSlideItem.Caption
+Flip	Spiegelen	TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	Drijvende komma deling door nul	SysConst_SZeroDivide
+Floating point overflow	Drijvende komma overloop	SysConst_SOverflow
+Floating point underflow	Drijvende komma onderloop	SysConst_SUnderflow
+Font	Lettertype	TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	Formaat '%s' ongeldig of niet compatibel met argument	SysConst_SInvalidFormat
+Format string too long	Formaattekenreeks te lang	SysConst_SFormatTooLong
+Fractional part of real number	Fractie van reëel getal	ExpressionEval_rsFractionalPartOfRealNumber
+Fri	vrij	SysConst_SShortDayNameFri
+Friday	vrijdag	SysConst_SLongDayNameFri
+Fuchsia	Fuchsia	ExtCtrls_clNameFuchsia
+GIF Image	GIF plaatje	GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	Gauss willekeurig getal, StdDev=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	Algemeen	TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	Paginaformaat van printer	TPagePropertiesForm: PrinterButton.Caption
+Global stencil	Globale stencil	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	Verbind connectoren met aangrenzende aansluitpunten van het object in de huidige laag	TMainForm: ConnectLinksAction.Hint
+Go to page	Ga naar pagina	TSlideShowForm: GoToPageItem.Caption
+Gradient color		TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format	Graphics Interchange Format	GIFLoader_rsGIFImageFile
+Gray	Grijs	ExtCtrls_clNameGray
+Gray Text	Grijze tekst	ExtCtrls_clNameGrayText
+Green	Groen	ExtCtrls_clNameGreen
+Grid (%s)	Raster (%s)	DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	Groeperen	TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines	Groep moet bestaan uit verbonden lijnen	GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	Geselecteerde objecten groeperen	TMainForm: GroupAction.Hint
+Group selected objects in metafile object	Geselecteerde objecten in metabestandobject groeperen	TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	GroupIndex kan niet kleiner zijn dan de GroupIndex van een vorig menu-item	Consts_SGroupIndexTooLow
+Guess undefined	Schatting ongedefinieerd	ExpressionEval_rsGuessUndefined
+HTML formatted color		TextEditor_rsHTMLFormattedColor
+Halftone	Halftoon	TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	Hoogte	TPropertyEditorForm: Panel8.Caption
+Height:	Hoogte:	TPagePropertiesForm: Label2.Caption
+Help	Help	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	Inhoud van help	TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	HelpLabel	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	Accentuering achtergrond	ExtCtrls_clNameHighlight
+Highlight Text	Accentuering tekst	ExtCtrls_clNameHighlightText
+Highlight syntax		TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.		Main_rsEditShapeHint
+Home	Home	Consts_SmkcHome
+Horizontal	Horizontaal	LinkEditor_rsHorizontal
+Horizontal scaling		TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	Horizontale tekstuitlijning	TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.	Met dank aan %s en anderen voor het beschikbaar stellen van hun software bibliotheken.	Main_rsIWouldLikeToThank
+I/O error %d	I/O fout %d	SysConst_SInOutError
+IO-error: %s	I/O-fout: %s	Streams_rs_IOError
+Icon image is not valid	Icon-afbeelding is ongeldig	Consts_SInvalidIcon
+Icons	Iconen	Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	Als deze software u bevalt ondersteun dan alstublieft mijn inspanningen en de verdere ontwikkeling van het programma, de documentatie en de web site.#$0DZonder uw ondersteuning is het laten bestaan van de website alleen een kostenpost voor mij.	TPleaseSupportForm: Label1.Caption
+Ignore all	Alles negeren	TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	Afbeelding is groter dan Logisch Venster afmeting	GIFImage_sScreenSizeExceeded
+Image has no DIB	Afbeelding heeft geen DIB	GIFImage_sNoDIB
+Image height too small for contained frames	Afbeeldingshoogte te smal voor betreffende frames	GIFImage_sBadHeight
+Image is empty	Afbeelding is leeg	GIFImage_sEmptyImage
+Image is too large for icon	Afbeelding is te groot voor een icoon	ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	Afbeeldingsafmeting te smal voor de bevattende frames	GIFImage_sBadWidth
+Inactive Border	Niet-actieve rand	ExtCtrls_clNameInactiveBorder
+Inactive Caption	Niet-actieve kop	ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	Niet-actieve koptekst	ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	Voeg formaatbeschrijving toe in bestandsoverzicht in plaats van alleen "XYZ bestand"	TFormatAssociateForm: DescriptionBox.Hint
+Info Background	Info achtergrond	ExtCtrls_clNameInfoBk
+Info Text	Info tekst	ExtCtrls_clNameInfoText
+InfoLabel	InfoLabel	TAboutBox: InfoLabel.Caption
+Information	Informatie	Consts_SMsgDlgInformation
+Inner bounds	Binnengrenzen	TPropertyEditorForm: InnerBoundsBox.Caption
+Ins	Insert	Consts_SmkcIns
+Insert inherited layer...	Geërfde laag invoegen...	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	Afbeelding in uit bestand invoegen	TMainForm: InsertPictureAction.Hint
+Insert picture...	Afbeelding invoegen...	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text		TMainForm: DrawTextAction.Caption
+Integer overflow	Geheel getal te groot	SysConst_SIntOverflow
+Interface not supported	Interface niet ondersteund	SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label	Interne fout: Extensie Voorbeeld komt niet overeen met Extensie Label	GIFImage_sBadExtensionInstance
+Internet help page	Internet helppagina	TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Internet:	Internet:	TAboutBox: Label3.Caption
+Invalid GIF data	Ongeldige GIF data	GIFImage_sInvalidData
+Invalid GIF signature	Ongeldige GIF signatuur	GIFImage_sBadSignature
+Invalid Image trailer	Ongeldige afbeeldings trailer	GIFImage_sBadTrailer
+Invalid ImageList	Ongeldige ImageList	Consts_SInvalidImageList
+Invalid ImageList Index	Ongeldige ImageList index	Consts_SImageIndexError
+Invalid NULL variant operation	Ongeldige NULL variant bewerking	SysConst_SInvalidVarNullOp
+Invalid PNG data	Ongeldige PNG data	PNGLoader_rsInvalidPNGData
+Invalid PNG header	Ongeldige PNG begin	PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions	Ongeldig alfakanaal formaat of afmetingen	PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	Ongeldig argument	SysConst_SVarInvalid
+Invalid binary number	Ongeldig binair getal	ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	Ongeldige bitmapgrootte	LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	Ongeldige buffergrootte	BufStream_rsInvalidBufferSize
+Invalid class typecast	Ongeldige klassetype	SysConst_SInvalidCast
+Invalid clipboard format	Ongeldig klembordformaat	Consts_SInvalidClipFmt
+Invalid color index	Ongeldige kleuren index	GIFImage_sBadColorIndex
+Invalid data type for '%s'	Ongeldig data type voor '%s'	RTLConsts_SInvalidRegType
+Invalid diagram	Ongeldig diagram	DiagramBase_rsInvalidDiagram
+Invalid extension introducer	Ongeldige extensie opener	GIFImage_sBadExtensionLabel
+Invalid filename	Ongeldige bestandsnaam	SysConst_SInvalidFilename
+Invalid floating point operation	Ongeldige drijvende komma bewerking	SysConst_SInvalidOp
+Invalid image dimensions	Ongeldige beeldafmetingen	GIFImage_sBadDimension
+Invalid image size	Ongeldige afbeeldingsgrootte	Consts_SInvalidImageSize
+Invalid index	Ongeldige index	ComStrs_sInvalidIndex
+Invalid number format	Ongeldig getalsformaat	ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	Ongeldig aantal kleuren opgegeven in Image Descriptor	GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	Ongeldig aantal kleuren opgegeven in Screen Descriptor	GIFImage_sScreenBadColorSize
+Invalid numeric input	Ongeldige numerieke invoer	SysConst_SInvalidInput
+Invalid numeric value	Ongeldige numerieke waarde	Consts_SInvalidNumber
+Invalid owner	Ongeldige eigenaar	ComStrs_sInvalidOwner
+Invalid pixel coordinates	Ongeldige pixel coördinaten	GIFImage_sBadPixelCoordinates
+Invalid pixel format	Ongeldig pixelformaat	Consts_SInvalidPixelFormat
+Invalid pointer operation	Ongeldig pointer bewerking	SysConst_SInvalidPointer
+Invalid property path	Ongeldig pad voor eigenschap	RTLConsts_SInvalidPropertyPath
+Invalid property value	Ongeldige waarde voor eigenschap	RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	Ongeldige reductiemethode	GIFImage_sInvalidReduction
+Invalid stream format	Ongeldig streamformaat	RTLConsts_SInvalidImage
+Invalid stream operation	Ongeldige streambewerking	GIFImage_sInvalidStream
+Invalid template palette	Ongeldig sjabloonpalet	TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	Ongeldige variantoperatie	SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	Ongeldige variantoperatie (%s%.8x)\n%s	SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	Ongeldig varianttype	SysConst_SVarBadType
+Invalid variant type conversion	Ongeldige conversie van varianttype	SysConst_SInvalidVarCast
+Italic	Cursief	TextEditor_rsItalic
+Item %s has subitems, delete anyway?	Item %s heeft subitems, toch verwijderen?	Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	Item %s kan niet verplaatst worden	Consts_SMoveNotAllowed
+JPEG Image File	JPEG afbeeldingsbestand	JConsts_sJPEGImageFile
+JPEG error #$23%d	JPEG fout #$23%d	JConsts_sJPEGError
+Jan	jan	SysConst_SShortMonthNameJan
+January	januari	SysConst_SLongMonthNameJan
+Joint Picture Expert Group	Joint Picture Expert Group	JPEGLoader_rsJPEGImageFile
+Jul	jul	SysConst_SShortMonthNameJul
+July	juli	SysConst_SLongMonthNameJul
+Jun	jun	SysConst_SShortMonthNameJun
+June	juni	SysConst_SLongMonthNameJun
+Known image formats	Bekende afbeeldingsformaten	Main_rsKnownImageFormats
+LabelCode1	LabelCode1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	LabelCode2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption
+Language:	Taal:	TSpellCheckForm: Label5.Caption
+Last	Laatste	TSlideShowForm: LastSlideItem.Caption
+Layer		TMainForm: LayerTabSet.Hint
+Layer %d		Main_rsLayerD
+Layer &1	Laag &1	TMainForm: EditLayer1Action.Caption
+Layer &2	Laag &2	TMainForm: EditLayer2Action.Caption
+Layer &3	Laag &3	TMainForm: EditLayer3Action.Caption
+Layer number:	Laagnummer:	Main_rsLayerNumber
+Layout	Lay-out	TPropertyEditorForm: Panel18.Caption
+Left	Links	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	Links#$0DMidden#$0DRechts#$0DBlok links#$0DBlok rechts#$0D	TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point		Main_rsLeftRightClickToAddPoint
+Legacy		PropertyEditor_rsLegacy
+Lime	Limoen	ExtCtrls_clNameLime
+Line color	Lijnkleur	TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	Einde van lijn	TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments		PropertyEditor_rsLineSegments
+Line start	Begin van lijn	TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	Lijnstijl	TPropertyEditorForm: Panel20.Caption
+Line width	Lijndikte	Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	Editor voor aansluitpunt	TLinkEditorForm: LinkEditorForm.Caption
+Link positions	Positie aansluitpunt	TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	Lijstcapaciteit buiten bereik (%d)	RTLConsts_SListCapacityError
+List count out of bounds (%d)	Lijstgrootte buiten bereik (%d)	RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	Lijst laat duplicaten niet toe ($0%x)	RTLConsts_SDuplicateItem
+List index out of bounds (%d)	Lijnstindex buiten bereik (%d)	StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count	Stijl van lijst (%s) moet virtueel zijn om Count te kunnen instellen	Consts_SListBoxMustBeVirtual
+Load template palette	Laden van sjabloonpalet	TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library		TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	Laden van sjabloonpalet...	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	Bezig te laden...	GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	Opzoeken:	TSpellCheckForm: LookUpLabel.Caption
+MainForm	Hoofdvenster	TMainForm: MainForm.Caption
+Make palette from active layer	Palet van actieve laag maken	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many		LineObject_rsMany
+Mar	mrt	SysConst_SShortMonthNameMar
+March	maart	SysConst_SLongMonthNameMar
+Margin for non-centered text		TPropertyEditorForm: Panel21.Hint
+Maroon	Blauwgroen	ExtCtrls_clNameMaroon
+Max 16 bits in binary number	Max. 16 bits in binair getal	ExpressionEval_rsMax16BitsInBinaryNumber
+Max=	Max=	TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	Maximaal aantal items in ongedaan maken	TDesignerSetupForm: UndoHistoryEdit.Hint
+May	mei	SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	Middelgrijs	ExtCtrls_clNameMedGray
+Menu	Menu	TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	Menu '%s' is al in gebruik door een ander formulier	Consts_SDuplicateMenus
+Menu Background	Menu achtergrond	ExtCtrls_clNameMenu
+Menu Text	Menutekst	ExtCtrls_clNameMenuText
+Menu index out of range	Menu-index buiten bereik	Consts_SMenuIndexError
+Menu inserted twice	Menu twee maal ingevoegd	Consts_SMenuReinserted
+Menu search	Menu zoeken	TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	Metabestand	TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	Metabestand is ongeldig	Consts_SInvalidMetafile
+Metafiles	Metabestanden	Consts_SVMetafiles
+Michael Vinther	Michael Vinther	TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	Millimeters#$0DCentimeters#$0DInches#$0Dpunten#$0D300 dpi punten#$0D600 dpi punten#$0D	TDesignerSetupForm: UnitsBox.Items.Strings
+Min=	Min=	TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	Minimale waarde voor uitdrukking in x	ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	Spiegelen	TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	ma	SysConst_SShortDayNameMon
+Monday	maandag	SysConst_SLongDayNameMon
+Money Green	Dollargroen	ExtCtrls_clNameMoneyGreen
+More Buttons	Meer knoppen	Consts_SMoreButtons
+Move canvas	Canvas verplaatsen	TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	MultiLine moet waar zijn als TabPosition tpLeft of tpRight is	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	Multiple-image Network Graphics	PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	Multiselectmodus moet aan staan voor deze instelling	Consts_SMultiSelectRequired
+N&o to All	N&ee op Alles	Consts_SMsgDlgNoToAll
+Name	Naam	TPropertyEditorForm: Panel1.Caption
+Name expected	Naam verwacht	ExpressionEval_rsNameExpected
+Navy	Marine	ExtCtrls_clNameNavy
+New diagram	Nieuw diagram	TMainForm: NewAction.Hint
+New line	Nieuwe regel	TextEditor_rsNewLine
+New page	Nieuwe pagina	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	Nieuw...	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	Volgende	TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	Geen ActionBand-stijleenheid aanwezig in de uses-deel.\rDe toepassing moet of XPStyleActnCtrls, of StdStyleActnCtrls of een ActionBand-stijl van een andere partij bevatten in het uses-deel.	Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	Geen OnGetItem event handler toegewezen	Consts_SNoGetItemEventHandler
+No argument for format '%s'	Geen argument voor formaat '%s'	SysConst_SArgumentMissing
+No context-sensitive help installed	Geen context-gevoelige help geïnstalleerd	HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	Geen woordenboeken geïnstalleerd of pad naar woordenboeken in het Opties-scherm niet ingesteld.	Main_rsNoDictionariesFound
+No files found		Main_rsNoFilesFound
+No global or local color table defined	Geen globale of lokale kleurentabel gedefinieerd	GIFImage_sNoColorTable
+No help found for %s	Geen help gevonden voor %s	HelpIntfs_hNothingFound
+No help keyword specified.	Geen help-sleutelwoord opgegeven	WinHelpViewer_hNoKeyword
+No icons in file	Geen iconen in bestand	ICOLoader_rsNoIconsInFile
+No more points allowed	Geen extra punten meer toegestaan	LineObject_rsNoMorePointsAllowed
+No objects in active layer	Geen objecten in actieve laag	Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	Geen oplossing gevonden, pas beginschatting aan	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	Geen onderwerp-gebaseerde help geïnstalleerd	HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	Geen versie-info gekoppeld aan opgevraagd bestand \"%s\"	VersionInfo_rs_noversioninfo
+None	Geen	ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	Niet genoeg timers beschikbaar	Consts_SNoTimers
+Not in dictionary:	Niet gevonden:	SpellChecker_rsNotInDictionary
+Note that closing tags are not required		TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.	Let op: deze actie kan niet ongedaan gemaakt worden, en bestandformaat registraties zullen NIET hersteld worden naar de originele instellingen als het programma verwijderd wordt.	TFormatAssociateForm: Label1.Caption
+Note that writing of files with multiple icons is not supported.	Merk op dat schrijven naar bestanden met meerdere iconen niet is ondersteund	TIconSelectionForm: Label1.Caption
+Nov	nov	SysConst_SShortMonthNameNov
+November	november	SysConst_SLongMonthNameNov
+OK	OK	TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	Object	TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	Objecteigenschappen	TMainForm: PropertiesAction.Hint
+Object type not supported for operation	Object type niet ondersteund voor bewerking	GIFImage_sUnsupportedClass
+Object:	Object:	TSpellCheckForm: Label2.Caption
+Objects cast shadows		TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages		TMainForm: EditStencilAction.Hint
+Oct	okt	SysConst_SShortMonthNameOct
+October	oktober	SysConst_SLongMonthNameOct
+Odd rounded 1	Oneven afgerond 1	FlowchartObject_rsOddRounded1
+Odd rounded 2	Oneven afgerond 2	FlowchartObject_rsOddRounded2
+Olive	Olijfgroen	ExtCtrls_clNameOlive
+Opacity		TPropertyEditorForm: Panel24.Caption
+Open	Openen	Main_rsOpen
+Open in new window...	Openen in nieuw venster...	TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	Openen...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	Bewerking afgebroken	SysConst_SOperationAborted
+Operation not allowed on sorted list	Bewerking niet toegestaan op gesorteerde lijst	RTLConsts_SSortedListError
+Operation not allowed on sorted string list	Bewerking niet toegestaan op gesorteerde lijst string	StringLists_rsSortedListError
+Operation not supported	Bewerking niet ondersteund	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	Bewerking niet ondersteund op gekozen printer	Consts_SInvalidPrinterOp
+Operator expected	Operator verwacht	ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operatoren:\n&\tLogische AND\n|\tLogische OR\n=\tGelijk aan\n#$23\tOngelijk aan\n>\tGroter dan\n<\tKleiner dan\n+\tOptellen\n-\tAftrekken\n*\tVermenigvuldigen\n/\tDelen\n%\tModulo\n^\tMachtsverheffen\n\nDefinitiesymbolen:\n:Naam = Waarde;\n:Func(x) = Expressie;	ExpressionHelp_rsExpressionHelp
+Optimizing...	Bezig te optimaliseren...	GIFImage_sProgressOptimizing
+Options	Opties	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	Onvoldoende geheugen	SysConst_SOutOfMemory
+Out of memory while expanding memory stream	Onvoldoende geheugen tijdens uitbreiden van geheugenstream	RTLConsts_SMemoryStreamError
+Out of system resources	Onvoldoende systeembronnen	Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	Overloop tijdens converteren van variant type (%s) naar type (%s)	SysConst_SVarTypeConvertOverflow
+Overline		TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	Overschrijf inhoud sjabloonpalet met objecten uit actieve laag?	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	Pagina %d	DiagramBase_rsPageD
+Page count		TextEditor_rsPageCount
+Page number	Paginanummer	TextEditor_rsPageNumber
+Page number:	Paginanummer:	SlideShow_rsPageNumber
+Page p%s layer %d	Pagina p%s laag %d	PictureObject_rsPagePSLayerD
+Page properties	Pagina-eigenschappen	TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	Pagina-eigenschappen...	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title	Paginatitel	TextEditor_rsPageTitle
+Page title (empty for auto):	Paginatitel (leeg=auto):	RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	Opgegeven Ouder is geen Ouder van '%s'	Consts_SParentGivenNotAParent
+Paste	Plakken	TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	Plakken speciaal	TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	PageDown	Consts_SmkcPgDn
+PgUp	PageUp	Consts_SmkcPgUp
+Please support %s	Ondersteun alstublieft %s	TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	Teken grafiek van expressie in x	ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	Grafiek van	TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	Polygoon moet minstens twee punten hebben	GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note		TextEditor_rsPopupNote
+Portable Network Graphics	Portable Network Graphics	PNGLoader_rsPNGImageFile
+Premature end of data	Voortijdig einde van data	GIFImage_sOutOfData
+Preview mode	Voorbeeld	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available	Preview niet beschikbaar	DialogsEx_rsPreviewNotAvailable
+Previous	Vorige	TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap		TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%		PrintDiagram_rsPrintScalingSetToD
+Print scaling:		TDesignerSetupForm: Label7.Caption
+Print...	Afdrukken...	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	Printer is nu niet aan het printen	Consts_SNotPrinting
+Printer selected is not valid	Geselecteerde printer is ongeldig	Consts_SInvalidPrinter
+Printing in progress	Bezig met afdrukken	Consts_SPrinting
+Privileged instruction	Geprivilegeerde instructie	SysConst_SPrivilege
+Process failed: %d	Process gefaald: %d	AnalyzerPlugins_rsProcessFailedD
+ProductName	ProductNaam	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.	Programma moet herstart worden voor nieuwe instellingen	LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	Eigenschappen	TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	Eigenschappen...	TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	Eigenschap %s bestaat niet	RTLConsts_SUnknownProperty
+Property is read-only	Eigenschap is alleen-lezen	RTLConsts_SReadOnlyProperty
+Purple	Paars	ExtCtrls_clNamePurple
+Radius of corner arc		TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	Willekeurig getal in [0;x[	ExpressionEval_rsRandomNumberIn0X
+Range check error	Fout bij controleren van bereik	SysConst_SRangeError
+Range:	Bereik:	TExpressionPlotForm: Label1.Caption
+Read	Lezen	SysConst_SReadAccess
+Read beyond end of file	Lezen voorbij einde van bestand	SysConst_SEndOfFile
+Read less than expected	Minder gelezen dan verwacht	Streams_rs_ReadLessError
+Rearrange pages	Pagina's herschikken	TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	Pagina's herschikken...	TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	Recursieve referentie	ExpressionEval_rsRecursiveReference
+Red	Rood	ExtCtrls_clNameRed
+Redo	Opnieuw	Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	Relatief paginanummer (-1 = vorige pagina):	Main_rsRelativePageNumber1PreviousPage
+Reload	Opnieuw laden	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?		Main_rsReloadAndLoseChanges
+Rename	Hernoemen	TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.		TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	Bezig met renderen...	GIFImage_sProgressRendering
+Reorder or delete pages	Herschikken of verwijderen van pagina's	TMainForm: ReorderPagesAction.Hint
+Replace	Vervangen	TSpellCheckForm: ReplaceButton.Caption
+Reset Toolbar	Knoppenbalk herstellen	Consts_SResetActionToolBar
+Reset symbol table	Tabel met symbolen herstellen	TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	Bron %s is niet gevonden	RTLConsts_SResNotFound
+RichEdit line insertion error	RichEdit regel invoeg fout	ComStrs_sRichEditInsertError
+Right	Rechts	Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear		Main_rsRightClickToClear
+Root of expression in x	Basis van expressie in x	ExpressionEval_rsRootOfExpressionInX
+Rotate	Roteren	Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180°	180° roteren	TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270°	270° roteren	TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90°	90° draaien	TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	Geslecteerde objecten tegen de klok in roteren. Niet alle objecten ondersteunen deze handeling	TMainForm: RotateAction.Hint
+Rotation angle	Rotatiehoek	Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	Afronden naar dichtstbijzijnd geheel getal	ExpressionEval_rsRoundToNearestInteger
+Rounded 1	Afgerond 1	FlowchartObject_rsRounded1
+Rounded 2	Afgerond 2	FlowchartObject_rsRounded2
+Rounded 3	Afgerond 3	FlowchartObject_rsRounded3
+Rounds toward negative infinity	Afronden naar min oneindig	ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	Afronden naar plus oneindig	ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	za	SysConst_SShortDayNameSat
+Saturday	zaterdag	SysConst_SLongDayNameSat
+Save	Opslaan	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	Opslaan als...	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	Sjabloonpalet opslaan...	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	Bezig met opslaan...	GIFImage_sProgressSaving
+Scan line index out of range	Index van aftastlijn buiten bereik	Consts_SScanLine
+Scroll Bar	Schuifbalk	ExtCtrls_clNameScrollBar
+Scrollbar property out of range	Schuifbalkeigenschap buiten bereik	Consts_SScrollBarRange
+Seeking not supported	Zoeken niet ondersteund	DelphiStream_rsSeekingNotSupported
+Select all	Alles selecteren	TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	Kies klembordformaat:	TPasteSpecialForm: Label1.Caption
+Select icon to import from file	Selecteer het icoon om uit bestand te importeren	TIconSelectionForm: IconSelectionForm.Caption
+Select program language	Programmataal kiezen	TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report	Verstuur programmafout rapport	StyleForm_rsSendBugReport
+Send to back	Naar achtergrond sturen	TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	sept	SysConst_SShortMonthNameSep
+Separator	Afscheiding	Consts_SSeparator
+Separator line		TextEditor_rsSeparatorLine
+September	september	SysConst_SLongMonthNameSep
+Set		TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	Lettertype voor diagram instellen	TMainForm: DiagramFontAction.Hint
+Set dictionary path	Pad naar woordenboek instellen	TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name	Stel lettertype in op naam	TextEditor_rsSetFontByName
+Set layer color...	Laagkleur instellen...	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	Programmataal instellen	TDesignerSetupForm: LanguageButton.Caption
+Shift+	Shift+	Consts_SmkcShift
+Show grid	Raster tonen	TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	Objectboom tonen	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins		TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer		TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	Dit bericht bij het starten tonen	TPleaseSupportForm: CheckBox1.Caption
+Side bars	Zijbalken	FlowchartObject_rsSideBars
+Silver	Zilver	ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	Afmeting van ontwerp bij het plakken uit het klembord in een andere toepassing	TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size		TDesignerSetupForm: PrintScalingEdit.Hint
+Skip	Overslaan	FormatAssociation_rsSkip
+Skip symbols	Symbolen overslaan	TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	Woorden met cijfers, losse letters en woorden in hoofdletters overslaan	TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	Luchtblauw	ExtCtrls_clNameSkyBlue
+Slant left	Schuin links	FlowchartObject_rsSlantLeft
+Slant right	Schuin rechts	FlowchartObject_rsSlantRight
+Slide show	Diashow	TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D		TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	Expressie in x oplossen	ExpressionEval_rsSolveEquationInX
+Space	Spatie	Consts_SmkcSpace
+Spell check	Spellingscontrole	TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	Spellingscontrole voltooid	SpellChecker_rsSpellCheckComplete
+Spell checker...	Spellingscontrole	TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	Wortel	ExpressionEval_rsSquareRoot
+Stack overflow	Stack overflow	SysConst_SStackOverflow
+Standard function	Standaardfunctie	ExpressionHelp_rsStandardFunction
+Stop	Stoppen	LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	Stream niet open voor schrijven	Deflate_rsWriteDenied
+Stream read error	Fout bij lezen stream	RTLConsts_SReadError
+Stream write error	Fout bij schrijven stream	RTLConsts_SWriteError
+Strikeout		TextEditor_rsStrikeout
+String list does not allow duplicates	Stringlijst staat geen duplicaten toe	StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	Stijl	TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	Submenu zit niet in menu	Consts_SMenuNotFound
+Subscript		TextEditor_rsSubscript
+Suggestions:	Suggesties:	TSpellCheckForm: Label4.Caption
+Sun	zo	SysConst_SShortDayNameSun
+Sunday	zondag	SysConst_SLongDayNameSun
+Superscript		TextEditor_rsSuperscript
+Support Diagram Designer...	Ondersteun Diagram Designer...	TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	Symbool	TExpressionEvalForm: ListView.Caption
+Symbol font	Symboollettertype	TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	Systeemfount. Code: %d.\r\n%s	SysConst_SOSError
+Tab	Tab	Consts_SmkcTab
+Tab index out of bounds		Consts_SInvalidTabIndex
+Tab position incompatible with current tab style	Tabpositie niet compatibel met huidige tabstijl	Consts_SInvalidTabPosition
+Tab style incompatible with current tab position	Tabstijl niet compatibel met huidige tabpositie	Consts_SInvalidTabStyle
+Teal	Blauwgroen	ExtCtrls_clNameTeal
+Template palette	Sjabloonpalet	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	Sjabloonpalet – sleep objecten hieruit naar het diagram	TMainForm: TemplateScrollBox.Hint
+Terminate application	Programma be-eindigen	StyleForm_rsTerminateApplication
+Text	Tekst	Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation		TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	Tekstkleur	TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	Tekst overschreidt geheugencapaciteit	Consts_SInvalidMemoSize
+Text formatting codes:	Tekstopmaak:	TTextEditorForm: Label1.Caption
+Text margin		TPropertyEditorForm: Panel21.Caption
+Text not found		Main_rsTextNotFound
+Text:	Tekst:	TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	Er is geen standaardprinter geselecteerd	Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	Dit besturingselement vereist versie 4.70 of later van COMCTL32.dll	ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)	Thread-fout: %s (%d)	RTLConsts_SThreadError
+Thread creation error: %s	Fout bij aanmaken thread: %s	RTLConsts_SThreadCreateError
+Three-digit font size	Driecijferige font-grootte	TextEditor_rsThreeDigitFontSize
+Thu	do	SysConst_SShortDayNameThu
+Thursday	donderdag	SysConst_SLongDayNameThu
+Title	Titel	TQuickMenuSearchForm: ListView.Caption
+Too few lines to create polygon	Te weinig lijnen om een polygoon te maken	GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	Te veel bestanden open	SysConst_STooManyOpenFiles
+Top	Boven	TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	Boven#$0DMidden#$0DOnder#$0D	TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color	Transparante kleur	TIconSelectionForm: TransparentButton.Caption
+Transparent color key	Transparante sleutelkleur	TPropertyEditorForm: Panel25.Caption
+Tue	di	SysConst_SShortDayNameTue
+Tuesday	dinsdag	SysConst_SLongDayNameTue
+Turn mouse wheel to change		Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size		Main_rsUseMouseWheelToChangeSize
+UML has a		LineObject_rsUMLHasA
+UML is a		LineObject_rsUMLIsA
+Unable to Replace Image	Kan afbeelding niet vervangen	Consts_SReplaceImage
+Unable to close file	Kan bestand niet sluiten	AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	Kan geen map aanmaken	SysConst_SCannotCreateDir
+Unable to evaluate guess:	Kan schatting niet evalueren:	ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	Kan geen inhoudsopgave vinden	HelpIntfs_hNoTableOfContents
+Unable to insert a line	Kan lijn niet invoegen	Consts_SInsertLineError
+Unable to insert an item	Kan item niet invoegen	ComStrs_sInsertError
+Unable to open file	Kan bestand niet openen	AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	Kan instellingen niet opslaan	Consts_SUnableToSaveSettings
+Undefined	Ongedefinieerd	ExpressionEval_rsUndefined
+Undefined symbol:	Ongedefinieerd symbool	ExpressionEval_rsUndefinedSymbol
+Underline		TextEditor_rsUnderline
+Undo	Ongedaan maken	Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	Aantal stappen historie:	TDesignerSetupForm: Label3.Caption
+Unexpected character:	Onverwacht teken:	ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	Onverwachte variant fout	SysConst_SVarUnexpected
+Ungroup	Splitsen	TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	Huidig object splitsen	TMainForm: UngroupAction.Hint
+UnitLabel1	UnitLabel1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	UnitLabel2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	Eenheden:	TDesignerSetupForm: Label5.Caption
+Unknown GIF block type	Onbekend GIF bloktype	GIFImage_sBadBlock
+Unknown extension type	Onbekend type extensie	GIFImage_sUnknownExtension
+Unknown seek origin	Onbekende oorsprong voor zoeken	DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	Niet ondersteunde blokgrootte van Application Extension	GIFImage_sBadBlockSize
+Unsupported GIF version	Niet ondersteunde GIF versie	GIFImage_sBadVersion
+Unsupported PNG data	PNG-data niet ondersteund	PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	PixelFormat niet ondersteund	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	Niet ondersteund bitmap-formaat	LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	Niet ondersteund klembord-formaat	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	Niet ondersteund bestandsformaat	LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	Niet ondersteund pixel-formaat	AnalyzerPlugins_rsUnsupportedPixelFormat	LinarBitmap_rsInvalidPixelFormat
+Up	Omhoog	Consts_SmkcUp
+Value expected	Waarde verwacht	ExpressionEval_rsValueExpected
+Value must be integer	Waarde moet een geheel getal zijn	ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	Waarde niet in toegestaan bereik: [%s - %s]	ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported	Aanroepen Variant-methode niet ondersteund	SysConst_SDispatchError
+Variant or safe array index out of bounds	Variant of veilige array-index buiten bereik	SysConst_SVarArrayBounds
+Variant or safe array is locked	Variant of veilige array is geblokkeerd	SysConst_SVarArrayLocked
+Variant overflow	Variant-overloop	SysConst_SVarOverflow
+Version	Versie	TAboutBox: Version.Caption
+Vertical	Vertikaal	LinkEditor_rsVertical
+Vertical scaling		TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	Verticale tekstuitlijning	TPropertyEditorForm: Panel4.Caption
+Warning	Waarschuwing	Consts_SMsgDlgWarning
+Wed	wo	SysConst_SShortDayNameWed
+Wednesday	woensdag	SysConst_SLongDayNameWed
+What can I do?	Wat kan ik doen?	TPleaseSupportForm: Label2.Caption
+White	Wit	ExtCtrls_clNameWhite
+Width	Breedte	TPropertyEditorForm: Panel9.Caption
+Width:	Breedte:	TPagePropertiesForm: Label1.Caption
+Window Background	Vensterachtergrond	ExtCtrls_clNameWindow
+Window Frame	Vensterrand	ExtCtrls_clNameWindowFrame
+Window Text	Venstertekst	ExtCtrls_clNameWindowText
+Windows Enhanced metafile	Uitgebreid Windows-metabestand	WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Windows bitmap	BMPLoader_rsWindowsBitmap
+Windows cursor	Windows muisaanwijzer	ICOLoader_rsWindowsCursor
+Windows icon	Windows icoon	ICOLoader_rsWindowsIcon
+Windows metafile	Windows metabestand	WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	Wilt u het standaard Prioriteitsschema herstellen?	Consts_SRestoreDefaultSchedule
+Write	Schrijven	SysConst_SWriteAccess
+X:	X:	TDesignerSetupForm: Label1.Caption
+Y:	Y:	TDesignerSetupForm: Label2.Caption
+Yellow	Geel	ExtCtrls_clNameYellow
+Yes to &All	Ja op &Alles	Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	U mag dit item niet verwijderen	Consts_SDeleteNotAllowed
+Zoom	Vergroten	TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft Paintbrush	PCXLoader_rsPCXImageFile
+add %s	%s toevoegen	Main_rsAddS
+add point	punt toevoegen	Main_rsAddPoint
+e-mail		TAboutBox: EMailLabel.Caption
+edit properties	eigenschappen wijzigen	Main_rsEditProperties
+http://logicnet.dk/mail.php	http://logicnet.dk/mail.php	TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk	http://meesoft.logicnet.dk	TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	http://meesoft.logicnet.dk/DiagramDesigner/support.htm	TMainForm: SupportAction.Hint
+move	verplaatsen	Main_rsMove
+rename	hernoemen 	Main_rsRename
+size		Main_rsSize
+· Develop plugins	· Ontwikkel plugins	TPleaseSupportForm: Label7.Caption
+· Help improve the documentation		TPleaseSupportForm: Label5.Caption
+· The easiest is to make a donation	· Het eenvoudigst is het om wat te schenken	TPleaseSupportForm: Label3.Caption
+· Translate the program to your language	· Vertaal het programma in uw taal	TPleaseSupportForm: Label6.Caption
+¼ points	¼ punt	Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption

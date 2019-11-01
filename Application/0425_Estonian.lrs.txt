@@ -1,0 +1,814 @@
+ - Dock zone has no control	 - Vähendustsoonis puudub kontroll	Consts_SDockZoneHasNoCtl
+ - Dock zone not found	 - Vähendustsooni puudub	Consts_SDockZoneNotFound
+%d files selected		DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d on lubamatu LeheIndeksi väärtus.  LeheIndeks peab olema 0 ja %d vahel	ComStrs_sPageIndexError
+%d link points defined	%d ühenduspunkti defineeritud	PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s (%s, joon %d)	SysConst_SAssertError
+%s does not allow hiding	%s ei luba peita	Consts_SCannotHideActionBand
+%s expected	%s eeldatav	ExpressionEval_rsSExpected
+%s not found	%s ei leitud	ExpressionEval_rsSNotFound
+%s not in a class registration group	%s pole klassi registreeritud grupis	RTLConsts_SUnknownGroup
+%s on %s	%s on %s	Consts_SDeviceOnPort
+%s property out of range	%s atribuut väljaspool piire	Consts_SPropertyOutOfRange
+%s.Seek not implemented	%s. Otsingut ei teostatud	RTLConsts_SSeekNotImplemented
+&Abort	&Loobu	Consts_SMsgDlgAbort
+&Add or Remove Buttons	&Lisa või Eemalda Nupp	Consts_SAddRemoveButtons
+&All	&Kõik	Consts_SMsgDlgAll	Consts_SAllButton
+&Close	&Sulge	Consts_SCloseButton
+&Help	&Abi	Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	&Ignoreeri	Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	&Ei	Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	&Korrata	Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start	&Alusta	SpellChecker_rsStart
+&Yes	&Jah	Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value		SysConst_SInvalidFloat
+'%s' is not a valid integer value	 '%s' on lubamatu täisarv	SysConst_SInvalidInteger
+''%s'' is not a valid component name	 ''%s'' on lubamatu komponendi nimetus	RTLConsts_SInvalidName
+(No Name)	(Nimetus puudub)	Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	3D Tume Varjutus	ExtCtrls_clName3DDkShadow
+3D Light	3D Valgustus	ExtCtrls_clName3DLight
+<unknown>		SysConst_SUnknown
+= or ( expected	= või ( eeldatav	ExpressionEval_rsOrExpected
+A call to an OS function failed	Kutsung OS funtsiooni poole nurjus	SysConst_SUnkOSError
+A class named %s already exists	Klass nimega %s on juba olemas	RTLConsts_SDuplicateClass
+A component named %s already exists	Komponent nimega %s on juba olemas	RTLConsts_SDuplicateName
+A control cannot have itself as its parent	Ei saa omada seost iseendaga kui peremehega	Consts_SControlParentSetToSelf
+Abort	Katkesta	Consts_SAbortButton
+About	Teave	TAboutBox: AboutBox.Caption
+About...	Teave...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	Abstract Error	SysConst_SAbstractError
+Active Border	Aktiivne Ääris	ExtCtrls_clNameActiveBorder
+Active Caption	Aktiivne Tiitel	ExtCtrls_clNameActiveCaption
+Add	Lisa	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	Lisa tingtähiste kataloogi	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	Lisa tingtähiste kataloogi	TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation		TMainForm: PagePropertiesAction.Hint
+Adler32 error	Adler32 viga	Adler32_rsAdler32Error
+Align	Joondamine	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group	Joonda üksikobjekt lehel või hulgi objekte rühmas	TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	Kõik objektid grupis peavad olema lihtjoontega	GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+	Alt+	Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	Viga ilmnes "fikseeritud faili info struktuuri" lugemisel failist	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	Viga ilmnes keele/märgitabeli lugemisel failist	VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	Eellast  '%s' jaoks ei leitud	RTLConsts_SAncestorNotFound
+Anchors		TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group		TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing		TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export		TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	Nurga järgi..	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	Rakenduse viga	SysConst_SExceptTitle
+Application Workspace	Rakenduse tööpiirkond	ExtCtrls_clNameAppWorkSpace
+Apply to all pages	Rakenda kõigile lehtedele	TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	Apr.	SysConst_SShortMonthNameApr
+April	Aprill	SysConst_SLongMonthNameApr
+Aqua	Rohekassinine	ExtCtrls_clNameAqua
+Arrow 1	Nool 1	LineObject_rsArrow1
+Arrow 2	Nool 2	LineObject_rsArrow2
+Arrow 3	Nool 3	LineObject_rsArrow3
+Assertion failed	Esitus vigane	SysConst_SAssertionFailed
+Associate file formats with	Seostada failiformaadid	TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	Seostada programm valitud failiformaadiga	TFormatAssociateForm: AssociateButton.Hint
+Aug	Aug.	SysConst_SShortMonthNameAug
+August	August	SysConst_SLongMonthNameAug
+Auto connect to link points		TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break		TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes		TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects		TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled		TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging		TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	Taust	ExtCtrls_clNameBackground
+Ball	Kera	LineObject_rsBall
+Base 10 logarithm	Kümnendlogaritm	ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	Kahendlogaritm	ExpressionEval_rsBase2Logarithm
+Base e logarithm	Naturaallogaritm	ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)		TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	Raster	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	Rasterkujutis pole lubatud	Consts_SInvalidBitmap
+Bitmap scaling	Rastri skaleerimine	TPropertyEditorForm: Panel16.Caption
+Bitmaps	Rastrid	Consts_SVBitmaps
+Bits index out of range	Biti indeksid väljaspool piire	RTLConsts_SBitsIndexError
+BkSp	<--Back Space	Consts_SmkcBkSp
+Black	Must	ExtCtrls_clNameBlack
+Blue	Sinine	ExtCtrls_clNameBlue
+Bold	Rasvane	TextEditor_rsBold
+Bottom	Alla	TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	Tõsta esile	TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	Nupu esikülg	ExtCtrls_clNameBtnFace
+Button Highlight	Nupu esiletõstmine	ExtCtrls_clNameBtnHighlight
+Button Shadow	Nupu varjutus	ExtCtrls_clNameBtnShadow
+Button Text	Nupu tekst	ExtCtrls_clNameBtnText
+CRC error	CRC viga	PNGLoader_rsCRCError
+Can't write to a read-only resource stream	Ei saa kirjutada kirjutuskaitsega tasemerühma	RTLConsts_SCantWriteResourceStreamError
+Cancel	Loobu	TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	Ei saa kehtestada %s  %s -le	RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	Ei saa kehtestada alamelementi tegevusribale kui peremeeselement on sellele tegevusribale juba kehtestatud	Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	Ei saa muuta nähtavust Näita või Peida korral	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	Ei saa muuta JPEG kujutise suurust	JConsts_sChangeJPGSize
+Cannot change the size of an icon	Ei saa muuta ikooni suurust	Consts_SChangeIconSize
+Cannot create file \"%s\". %s	Ei saa luua faili \"%s\". %s	RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active	Ei saa luua blanketti. MDI blankett pole aktiivne	Consts_SNoMDIForm
+Cannot drag a form	Ei saa lohistada blanketti	Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	Ei saa fokuseerida lubamatut või nähtamatut akent	Consts_SCannotFocus
+Cannot hide an MDI Child Form	Ei saa peita MDI alamblanketti	Consts_SMDIChildNotVisible
+Cannot make a visible window modal	Ei saa teha nähtavat akent kättesaadavaks	Consts_SCannotShowModal
+Cannot open clipboard	Ei saa avada lõikepuhvrit	Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	Ei saa avada faili \"%s\". %s	RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	Lõuendile joonistamine keelatud	Consts_SNoCanvasHandle
+Caption Text	Tiitel-tekst	ExtCtrls_clNameCaptionText
+Center	Keskele	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	Muuda aktiivse kihi kõigi objektide värvi	TMainForm: SetLayerColorAction.Hint
+Change value	Muuda väärtus	ExpressionHelp_rsChangeValue
+Check active layer only	Kontrolli vaid aktiivset kihti	TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates		TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	Kontrollsünkroniseering on välja kutsutud $%x, mis pole peamine ...	RTLConsts_SCheckSynchronizeError
+Circle	Ring	LineObject_rsCircle
+Circular decoder table entry	Dekodeerimistabeli ringsisestus	GIFImage_sDecodeCircular
+Circular references not allowed	Ringviited keelatud	Consts_SCirularReferencesNotAllowed
+Class %s not found	Klassi %s ei leitud	RTLConsts_SClassNotFound
+Clear	Tühi	TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	Kliki siia, et näha kuidas	TPleaseSupportForm: Label4.Caption
+Click to apply format to selection		TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	Lõikepuhver ei toeta ikoone	Consts_SIconToClipboard
+Clipboard metafile scale:	Lõikepuhvri mastaap:	TDesignerSetupForm: Label4.Caption
+Close	Sulge	TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: Button1.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator	Sulge avaldise kalkulaator	TExpressionEvalForm: ActionClose.Hint
+Color not in color table	Värv puudub värvitabelis	GIFImage_sInvalidColor
+Color table is empty	Värvitabel tühi	GIFImage_sEmptyColorMap
+Color table overflow	Värvitabel ületäitunud	GIFImage_sTooManyColors
+Conditional value		ExpressionEval_rsConditionalValue
+Confirm	Kinnita	Consts_SMsgDlgConfirm
+Connect links	Ühenda sidemed	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Continue	Jätka	TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	Kontroll '%s' ei oma peremees-akent	Consts_SParentRequired
+Control-C hit	Control-C vihje	SysConst_SControlC
+Convert	Konverteeri	TMainForm: Convert1.Caption
+Convert binary number	Konverteerimine binaaarvuks	ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon	Konverteeri ühendatud jooni sisaldav grupiobjekt polügoniks	TMainForm: MakePolygonAction.Hint
+Convert to metafile	Konverteeri metafaili	TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	Konverteerimine polügoniks	TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	Konverteerimine...	GIFImage_sProgressConverting
+Copy	Kopeeri	TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all		TLinkEditorForm: CopyButton.Hint
+Copy templates to page	Kopeeri tingtähised töölehele	TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	Kopeerimine...	GIFImage_sProgressCopying
+Corner radius		Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	Võimatu konverteerida (%s) tüüpi muutujat (%s) ks	SysConst_SVarTypeCouldNotConvert
+Cream	Koorima	ExtCtrls_clNameCream
+Create default anchors for groups		TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images		TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents		DiagramExport_rsAutoCrop
+Ctrl+	Ctrl+	Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments		LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type		TPropertyEditorForm: Panel23.Caption
+Cut	Lõika	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Dec	Dets.	SysConst_SShortMonthNameDec
+December	Detsember	SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	Dekoodri bitipuhver ei toimi	GIFImage_sDecodeTooFewBits
+Default	Vaikimisi	ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	Vaikimisi font...	TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del	Delete	Consts_SmkcDel
+Delete	Kustuta	TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	Kustutada diagrammi leht?	RearrangePages_rsDeleteDiagramPage
+Delete symbol	Kustuta sümbol	TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	Kustuta tingtähis	TMainForm: DeleteTemplateAction.Caption
+Description	Kirjeldus	TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	Kõik mittevalituks 	TFormatAssociateForm: NoneButton.Caption
+Diagram	Diagramm	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd	Diagramm (*.ddd)|*.ddd	DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	Diagramm muudetud, salvestada enne sulgemist?	Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link		TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	Diagrammi tingtähiste kataloog (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter
+Diamond		LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	Sõnastik (*.dic)|*.dic	DesignerSetup_rsDictionariesDicDic
+Disable font antialiasing		DiagramExport_rsDisableFontAntialiasing
+Disk full	Ketas on täis	SysConst_SDiskFull
+Distance from top left corner		TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	Jagamine nulliga	SysConst_SDivByZero
+Docked control must have a name	Kärpimise kontroll peab olema nimeline	Consts_SDockedCtlNeedsName
+Done	Tehtud	PropertyEditor_rsDone
+Double arrow	Topelt nool	LineObject_rsDoubleArrow3
+Down	Alla	Consts_SmkcDown
+Download	Allalaadimine	PropertyEditor_rsDownload
+Draw arrow	Joonista nool	TMainForm: DrawArrowAction.Caption
+Draw connector	Joonista ühendusjoon	TMainForm: DrawConnectorAction.Caption
+Draw curve	Joonista kõverjoon	TMainForm: DrawCurveAction.Caption
+Draw ellipse	Joonista ellips	TMainForm: DrawEllipseAction.Caption
+Draw line	Joonista sirgjoon	TMainForm: DrawLineAction.Caption
+Draw rectangle	Joonista ristkülik	TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects		TMainForm: ObjectShadowsAction.Hint
+Edit	Redigeeri	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	Redigeeritav kiht...	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point		LinkEditor_rsEditLinkPoint
+Edit text	Redigeeri teksti	TTextEditorForm: TextEditorForm.Caption
+Edit text...	Redigeeri teksti...	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	Redigeeri kujutist...	PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	Enne faili loomist määrata kas lugemise, kirjutamise või täisõigused	Streams_rs_NoFileAccessSpec
+End	End	Consts_SmkcEnd
+Enhanced Metafiles	Laiendatud Metafailid	Consts_SVEnhMetafiles
+Enter	Enter	Consts_SmkcEnter
+Enter object text:	Sisesta objekti tekst:	TTextEditorForm: Label2.Caption
+Error	Viga	Consts_SMsgDlgError
+Error closing \"%s\" - %s	Viga sulgemisel \"%s\" - %s	Streams_rs_CloseFileError
+Error creating variant or safe array	Viga muutuja või massiivi loomisel	SysConst_SVarArrayCreate
+Error creating window class	Viga akna klassi loomisel	Consts_SWindowClass
+Error creating window device context	Viga akna kujundteksti loomisel	Consts_SWindowDCError
+Error deleting \"%s\" - %s	Viga kustutamisel \"%s\" - %s	Streams_rs_DeleteFileError
+Error in bitmap data	Viga rasterandmetes	AnalyzerPlugins_rsErrorInBitmapData	LinarBitmap_rsErrorInBitmapData
+Error in compressed data	Viga pakitud andmetes	Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	Viga eelnevalt salvestatud seadete faili laadimisel: %s\rKas sa soovid seda kustutada?	Consts_SErrorLoadingFile
+Error moving file pointer - %s	Viga failiviida nihutamisel - %s	Streams_rs_SeekFileError
+Error moving stream pointer	Viga tasemerühma viida nihutamisel	MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	Viga avamisel \"%s\" - %s	Streams_rs_CreateFileError
+Error reading %s%s%s: %s	Viga lugemisel %s%s%s: %s	RTLConsts_SPropertyException
+Error reading from stream - %s	Viga tasemerühmast lugemisel - %s	Streams_rs_ReadError
+Error removing control from dock tree	Viga removing control from dock tree	Consts_SDockTreeRemoveError
+Error running Image Analyzer	Viga Image Analyzer'I töös	PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	Viga seadete %s.arveldusel	Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s	Viga faili kärpimisel \"%s\" - %s	Streams_rs_TruncateFileError
+Error while trying to send e-mail		EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	Viga tasemerühma kirjutamisel - %s	Streams_rs_WriteError
+Esc	Esc	Consts_SmkcEsc
+Evaluate	Arvuta	TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	Arvuta (F5)	TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	Vastuväide %s moodulis %s , kohal %p.\r\n%s%s\r\n	SysConst_SException
+Exception in safecall method	Exception in safecall method	SysConst_SSafecallException
+Expand	Laienda	Consts_SExpand
+Export	Eksport	TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages		DiagramExport_rsExportAllPages
+Export file DPI:	Eksportfail DPI:	DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	Ekspordi leht raster- või metafaili	TMainForm: ExportAction.Hint
+Export page...	Ekspordi leht...	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator	Avaldise kalkulaator	TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...	Avaldise kalkulaator...	TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	Avaldis on tühi	ExpressionEval_rsExpressionIsEmpty
+External exception %x	Väline vastuväide %x	SysConst_SExternalException
+Extra = found	Extra = leitud	ExpressionEval_rsExtraFound
+Failed to Load Stream		ComStrs_sRichEditLoadFail
+Failed to Save Stream		ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	Ebaõnnestus mälu eraldus GIF DIB jaoks	GIFImage_sOutOfMemDIB
+Failed to clear tab control	Ebaõnnestus märgise kontrolli puhastus	ComStrs_sTabFailClear
+Failed to delete tab at index %d	Ebaõnnestus indeksiga %d märgise kustutamine	ComStrs_sTabFailDelete
+Failed to get data for '%s'	Ebaõnnestus andmete saamine '%s' jaoks	RTLConsts_SRegGetDataFailed
+Failed to get object at index %d	Ebaõnnestus indeksiga %d objekti saamine 	ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	Ebaõnnestunud kujutiste nimekirja andmete lugemine tasemerühmast	Consts_SImageReadFail
+Failed to retrieve tab at index %d	Ebaõnnestus indeksiga %d märgise otsing	ComStrs_sTabFailRetrieve
+Failed to set data for '%s'	Ebaõnnestus andmete seadmine '%s' jaoks	RTLConsts_SRegSetDataFailed
+Failed to set object at index %d	Ebaõnnestus indeksiga %d objekti seadmine	ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d	Ebaõnnestus indeksiga %d märgise \"%s\" seadmine 	ComStrs_sTabFailSet
+Failed to store GIF on clipboard	Ebaõnnestus GIF laadimine lõikepuhvrisse	GIFImage_sFailedPaste
+Failed to write ImageList data to stream	Ebaõnnestunud kujutiste nimekirja andmete kirjutamine tasemerühma	Consts_SImageWriteFail
+Feb	Veebr.	SysConst_SShortMonthNameFeb
+February	Veebruar	SysConst_SLongMonthNameFeb
+File	Fail	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	Failile juurdepääs tõkestatud	SysConst_SAccessDenied
+File format associations	Toetatud faili formaadid	TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	Fail uuemast programmiversioonist	DiagramBase_rsFileFromLaterProgramVersion
+File not found	Faili ei leitud	SysConst_SFileNotFound
+Fill	Täida leht	TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	Täitevärv	TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Find text...		TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	Leia x, mis minimiseeriks avaldise väärtuse	ExpressionEval_rsFindXThatMinimizesExpression
+First	Esimene	TSlideShowForm: FirstSlideItem.Caption
+Flip	Peegeldus	TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	Ujukomaarvu jagamine 0 -ga	SysConst_SZeroDivide
+Floating point overflow	Ujukomaarvu ületäituvus	SysConst_SOverflow
+Floating point underflow	Ujukomaarvu alatäituvus	SysConst_SUnderflow
+Font		TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	Formmat '%s' mittelubatud või argumendile mittevastav	SysConst_SInvalidFormat
+Format string too long	Formaadi sõne liiga pikk	SysConst_SFormatTooLong
+Fractional part of real number	Reaalarvu kümnendosa	ExpressionEval_rsFractionalPartOfRealNumber
+Fri	R	SysConst_SShortDayNameFri
+Friday	Reede	SysConst_SLongDayNameFri
+Fuchsia	Fuksiinpunane	ExtCtrls_clNameFuchsia
+GIF Image	GIF kujutis	GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	Gaussian'i juhuslik arv, StdDev=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	Üldine	TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	Võta printeri lehe formaat	TPagePropertiesForm: PrinterButton.Caption
+Global stencil	Ühine taustakiht	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	Liimi ühendusklemmid naaberobjekti ühenduspunktiga aktiivsel kihil	TMainForm: ConnectLinksAction.Hint
+Go to page	Mine lehele	TSlideShowForm: GoToPageItem.Caption
+Gradient color		TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format	GIF - graafilise kujutise failivahetuse formaat	GIFLoader_rsGIFImageFile
+Gray	Hall	ExtCtrls_clNameGray
+Gray Text	Hall tekst	ExtCtrls_clNameGrayText
+Green	Roheline	ExtCtrls_clNameGreen
+Grid (%s)	Võrgustik (%s)	DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	Grupi loomine	TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines	Grupp peab sisaldama ühendatud jooni	GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	Objektide grupivalik	TMainForm: GroupAction.Hint
+Group selected objects in metafile object	Objektide grupivalik metafail objektis	TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	Grupiindeks ei saa olla väiksem kui menüü objekti eelnev indeks	Consts_SGroupIndexTooLow
+Guess undefined	Arvamus määratlemata	ExpressionEval_rsGuessUndefined
+HTML formatted color		TextEditor_rsHTMLFormattedColor
+Halftone	Pooltoonid	TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	Kõrgus	TPropertyEditorForm: Panel8.Caption
+Height:	Kõrgus:	TPagePropertiesForm: Label2.Caption
+Help	Abi	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	Abi sisukord	TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	HelpLabel	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	Tausta esiletõstmine	ExtCtrls_clNameHighlight
+Highlight Text	Teksti esiletõstmine	ExtCtrls_clNameHighlightText
+Highlight syntax		TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.		Main_rsEditShapeHint
+Home	Home	Consts_SmkcHome
+Horizontal		LinkEditor_rsHorizontal
+Horizontal scaling		TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	Joonda tekst horisont.	TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.	Tahan tänada %s ja teisi oma tarkvarakogu  kättesaadavaks tegemise eest.	Main_rsIWouldLikeToThank
+I/O error %d	I/O viga %d	SysConst_SInOutError
+IO-error: %s	I/O viga: %s	Streams_rs_IOError
+Icon image is not valid	Ikooni kujutis pole lubatud	Consts_SInvalidIcon
+Icons	Ikoonid	Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	Kui sulle meeldib see rakendus, siis palun toeta minu töid või programmi, dokumentatsiooni ja selle kodulehekülje arendamist. #$0DIlma sinu toetuseta on see kodulehekülg mulle kulukas.	TPleaseSupportForm: Label1.Caption
+Ignore all	Ignoreeri kõike	TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	Kujutis ületab loogilise kuva mõõtmeid	GIFImage_sScreenSizeExceeded
+Image has no DIB	Kujutises puudub DIB	GIFImage_sNoDIB
+Image height too small for contained frames	Kujutise kõrgus liiga väike antud paneeli jaoks	GIFImage_sBadHeight
+Image is empty	Kujutis on tühi	GIFImage_sEmptyImage
+Image is too large for icon	Kujutis on liiga suur ikooni jaoks	ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	Kujutise laius liiga väike antud paneeli jaoks	GIFImage_sBadWidth
+Inactive Border	Mitteaktiivne Ääris	ExtCtrls_clNameInactiveBorder
+Inactive Caption	Mitteaktiivne Tiitel	ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	Mitteaktiivne Tiiteltekst	ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	Sisaldab formaadi kirjeldust vaadatud failis "XYZ faili" asemel	TFormatAssociateForm: DescriptionBox.Hint
+Info Background	Info Taust	ExtCtrls_clNameInfoBk
+Info Text	Info Tekst	ExtCtrls_clNameInfoText
+InfoLabel	InfoLabel	TAboutBox: InfoLabel.Caption
+Information	Info	Consts_SMsgDlgInformation
+Inner bounds	Sisemised piirid	TPropertyEditorForm: InnerBoundsBox.Caption
+Ins	Ins	Consts_SmkcIns
+Insert inherited layer...	Sisesta lingitav kiht...	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	Sisesta pilt failist	TMainForm: InsertPictureAction.Hint
+Insert picture...	Sisesta pilt...	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text		TMainForm: DrawTextAction.Caption
+Integer overflow	Täisarvu ülemmäär ületatud	SysConst_SIntOverflow
+Interface not supported	Liidest ei toetata	SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label	Sisemine viga: Laiendi tase ei ühti laiendi sildiga	GIFImage_sBadExtensionInstance
+Internet help page	Abi internetist	TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Internet:	Internet:	TAboutBox: Label3.Caption
+Invalid GIF data	Kehtetu GIF andmed	GIFImage_sInvalidData
+Invalid GIF signature	Kehtetu GIF allkiri	GIFImage_sBadSignature
+Invalid Image trailer	Kehtetu kujutis	GIFImage_sBadTrailer
+Invalid ImageList	Kehtetu kujundite nimekiri	Consts_SInvalidImageList
+Invalid ImageList Index	Kehtetu kujundite nimekirja indeks	Consts_SImageIndexError
+Invalid NULL variant operation	Kehtetu NULL muutuja tehe	SysConst_SInvalidVarNullOp
+Invalid PNG data	Kehtetu PNG andmed	PNGLoader_rsInvalidPNGData
+Invalid PNG header	Kehtetu PNG päis	PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions		PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	Kehtetu argument	SysConst_SVarInvalid
+Invalid binary number	Lubamatu binaararv	ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	Kehtetu rastri suurus	LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	Kehtetu buhvri suurus	BufStream_rsInvalidBufferSize
+Invalid class typecast	Kehtetu klassi tüüpvorm	SysConst_SInvalidCast
+Invalid clipboard format	Kehtetu lõikepuhvri formaat	Consts_SInvalidClipFmt
+Invalid color index	Kehtetu värviindeks	GIFImage_sBadColorIndex
+Invalid data type for '%s'	Kehtetu andmetüüp '%s'	RTLConsts_SInvalidRegType
+Invalid diagram	Kehtetu skeem	DiagramBase_rsInvalidDiagram
+Invalid extension introducer	Kehtetu esitluse laiend	GIFImage_sBadExtensionLabel
+Invalid filename	Kehtetu failinimi	SysConst_SInvalidFilename
+Invalid floating point operation	Kehtetu ujukoma tehe	SysConst_SInvalidOp
+Invalid image dimensions	Kehtetu kujutise ulatus	GIFImage_sBadDimension
+Invalid image size	Kehtetu kujutise suurus	Consts_SInvalidImageSize
+Invalid index	Kehtetu indeks	ComStrs_sInvalidIndex
+Invalid number format	Lubamatu arvu formaat	ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	Kehtetu kujutise kirjelduses määratud värvide arv	GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	Kehtetu ekraani kirjelduses määratud värvide arv	GIFImage_sScreenBadColorSize
+Invalid numeric input	Arvu sisestamine keelatud	SysConst_SInvalidInput
+Invalid numeric value	Kehtetu arvu väärtus	Consts_SInvalidNumber
+Invalid owner	Kehtetu omanik	ComStrs_sInvalidOwner
+Invalid pixel coordinates	Kehtetu pikseli koordinaadid	GIFImage_sBadPixelCoordinates
+Invalid pixel format	Kehtetu pikseli formaat	Consts_SInvalidPixelFormat
+Invalid pointer operation	Kehtetu pidepunkti tehing	SysConst_SInvalidPointer
+Invalid property path	Kehtetu atribuudi tee	RTLConsts_SInvalidPropertyPath
+Invalid property value	Kehtetu atribuudi väärtus	RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	Kehtetu vähendusmeetod	GIFImage_sInvalidReduction
+Invalid stream format	Kehtetu tasemerühma formaat	RTLConsts_SInvalidImage
+Invalid stream operation	Kehtetu tasemerühma tehing	GIFImage_sInvalidStream
+Invalid template palette	Kehtetu tingtähiste kataloog	TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	Kehtetu muutuja tehe	SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	Kehtetu muutuja tehe (%s%.8x)\n%s	SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	Kehtetu muutuja tüüp	SysConst_SVarBadType
+Invalid variant type conversion	Kehtetu muutuja tüübi konverteerimine	SysConst_SInvalidVarCast
+Italic	Kald	TextEditor_rsItalic
+Item %s has subitems, delete anyway?	Element %s omab alamelemente, kas kustutame ikka?	Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	Elemendi %s teisaldamine keelatud	Consts_SMoveNotAllowed
+JPEG Image File	JPEG kujundfail	JConsts_sJPEGImageFile
+JPEG error #$23%d	JPEG viga #$23%d	JConsts_sJPEGError
+Jan	Jan.	SysConst_SShortMonthNameJan
+January	Jaanuar	SysConst_SLongMonthNameJan
+Joint Picture Expert Group	Joint Picture Expert Group	JPEGLoader_rsJPEGImageFile
+Jul	Jul.	SysConst_SShortMonthNameJul
+July	Juuli	SysConst_SLongMonthNameJul
+Jun	Jun.	SysConst_SShortMonthNameJun
+June	Juuni	SysConst_SLongMonthNameJun
+Known image formats	Tuntud kujutise formaadid	Main_rsKnownImageFormats
+LabelCode1	LabelCode1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	LabelCode2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption
+Language:	Keel:	TSpellCheckForm: Label5.Caption
+Last	Viimane	TSlideShowForm: LastSlideItem.Caption
+Layer		TMainForm: LayerTabSet.Hint
+Layer %d		Main_rsLayerD
+Layer &1	Kiht &1	TMainForm: EditLayer1Action.Caption
+Layer &2	Kiht &2	TMainForm: EditLayer2Action.Caption
+Layer &3	Kiht &3	TMainForm: EditLayer3Action.Caption
+Layer number:	Kihti number:	Main_rsLayerNumber
+Layout	Kavandaken	TPropertyEditorForm: Panel18.Caption
+Left	Vasakule	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	Vasakule#$0DKeskele#$0DParemale#$0DBlokis vasakule#$0DBlokis paremale#$0D	TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point		Main_rsLeftRightClickToAddPoint
+Legacy		PropertyEditor_rsLegacy
+Lime	Kollakasroheline	ExtCtrls_clNameLime
+Line color	Joone värv	TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	Joone lõpp	TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments		PropertyEditor_rsLineSegments
+Line start	Joone algus	TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	Joone laad	TPropertyEditorForm: Panel20.Caption
+Line width	Joone paksus	Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	Ühenduspunkti redigeerija	TLinkEditorForm: LinkEditorForm.Caption
+Link positions	Ühenduste asukohad	TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	Nimekirja maht ületatud (%d)	RTLConsts_SListCapacityError
+List count out of bounds (%d)	Nimekirja arv ületatud (%d)	RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	Nimekirjas keelatud samanimelised ($0%x)	RTLConsts_SDuplicateItem
+List index out of bounds (%d)	Nimekirja indeks lubatud piiridest väljas (%d)	StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count	Loendiboks (%s) laad peab olema virtuaalselt loendavalt järjestatud 	Consts_SListBoxMustBeVirtual
+Load template palette	Laadi tingtähiste kataloog	TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library		TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	Laadi tingtähiste kataloog...	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	Laadimine...	GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	Otsi:	TSpellCheckForm: LookUpLabel.Caption
+MainForm	MainForm	TMainForm: MainForm.Caption
+Make palette from active layer	Loo aktiivsest kihist kataloog	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many		LineObject_rsMany
+Mar	Märts	SysConst_SShortMonthNameMar
+March	Märts	SysConst_SLongMonthNameMar
+Margin for non-centered text		TPropertyEditorForm: Panel21.Hint
+Maroon	Kastanpruun	ExtCtrls_clNameMaroon
+Max 16 bits in binary number	Maksim. 16 bitti binaararvus	ExpressionEval_rsMax16BitsInBinaryNumber
+Max=	Max=	TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	Võta tagasi/Tee uuesti maksimumkäikude arv	TDesignerSetupForm: UndoHistoryEdit.Hint
+May	Mai	SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	Hall keskond	ExtCtrls_clNameMedGray
+Menu		TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	Menüü '%s' on kasutusel teises vormis	Consts_SDuplicateMenus
+Menu Background	Menüü taust	ExtCtrls_clNameMenu
+Menu Text	Menüü tekst	ExtCtrls_clNameMenuText
+Menu index out of range	Menüü indeks väljaspool piire	Consts_SMenuIndexError
+Menu inserted twice	Menüü sisestatud topelt	Consts_SMenuReinserted
+Menu search		TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	Metafile	TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	Metafile pole lubatud	Consts_SInvalidMetafile
+Metafiles	Metafailid	Consts_SVMetafiles
+Michael Vinther	Michael Vinther	TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	Millimeeter#$0DSentimeeter#$0DToll#$0Dpunkti#$0D300 DPI täppi#$0D600 DPI täppi#$0D	TDesignerSetupForm: UnitsBox.Items.Strings
+Min=	Min=	TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	Avaldise miinimumväärtus x korral	ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	Peegeldus	TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	E	SysConst_SShortDayNameMon
+Monday	Esmaspäev	SysConst_SLongDayNameMon
+Money Green	Hallikas roheline	ExtCtrls_clNameMoneyGreen
+More Buttons	Rohkem nuppe	Consts_SMoreButtons
+Move canvas	Teisalda lõuendit	TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	Hulgijoon peab olema sees kui Tab asend on tpVasak või tpParem	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	Multiple-image Network Graphics	PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	Hulgivalik peab olema sees	Consts_SMultiSelectRequired
+N&o to All	N&o kõigile	Consts_SMsgDlgNoToAll
+Name	Nimetus	TPropertyEditorForm: Panel1.Caption
+Name expected	Eeldatatav nimi	ExpressionEval_rsNameExpected
+Navy	Tumesinine	ExtCtrls_clNameNavy
+New diagram	Uus skeem	TMainForm: NewAction.Hint
+New line	Uus rida	TextEditor_rsNewLine
+New page	Uus leht	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	Uus...	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	Järgmine	TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	No OnGetItem event handler assigned	Consts_SNoGetItemEventHandler
+No argument for format '%s'	Puudub argument vormingule '%s'	SysConst_SArgumentMissing
+No context-sensitive help installed	Kontekstitundlik abi installeerimata	HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	Sõnaraamatut pole installeeritud või pole määratud selle asukoht parameetrite dialoogiaknas!	Main_rsNoDictionariesFound
+No files found		Main_rsNoFilesFound
+No global or local color table defined	Üldine või kohalik värvitabel defineerimata	GIFImage_sNoColorTable
+No help found for %s	Ei leitud abi %s jaoks	HelpIntfs_hNothingFound
+No help keyword specified.	Abiküsimus määratlemata	WinHelpViewer_hNoKeyword
+No icons in file	Failis pole ikoone	ICOLoader_rsNoIconsInFile
+No more points allowed	Rohkem punkte pole lubatud	LineObject_rsNoMorePointsAllowed
+No objects in active layer	Aktiivsel kihil pole objekte	Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	Lahendust ei leitud, püüa muuta algväärtusi	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	Teemakohane abisüsteem installerimata	HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	Version-info puudub nõutavas failis \"%s\"	VersionInfo_rs_noversioninfo
+None	Mitte ükski	ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	Pole piisavalt ajamõõdikuid	Consts_SNoTimers
+Not in dictionary:	Pole sõnastikus:	SpellChecker_rsNotInDictionary
+Note that closing tags are not required		TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.	Märkus, seda tehingut ei saa tagasi võtta ja faili formaadi registreeringu seadeid EI SAA taastada  kuni programmi deinstalleerimiseni.	TFormatAssociateForm: Label1.Caption
+Note that writing of files with multiple icons is not supported.		TIconSelectionForm: Label1.Caption
+Nov	Nov.	SysConst_SShortMonthNameNov
+November	November	SysConst_SLongMonthNameNov
+OK	OK	TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	Objekt	TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	Objekti atribuudid	TMainForm: PropertiesAction.Hint
+Object type not supported for operation	Objekti tüüp ei toeta tehingut	GIFImage_sUnsupportedClass
+Object:	Object:	TSpellCheckForm: Label2.Caption
+Objects cast shadows		TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages		TMainForm: EditStencilAction.Hint
+Oct	Okt.	SysConst_SShortMonthNameOct
+October	Oktoober	SysConst_SLongMonthNameOct
+Odd rounded 1	Ümardatud 1	FlowchartObject_rsOddRounded1
+Odd rounded 2	Ümardatud 2	FlowchartObject_rsOddRounded2
+Olive	Oliivroheline	ExtCtrls_clNameOlive
+Opacity		TPropertyEditorForm: Panel24.Caption
+Open	Ava	Main_rsOpen
+Open in new window...	Ava uues aknas...	TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	Avan..	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	Tehing katkestatud	SysConst_SOperationAborted
+Operation not allowed on sorted list	Tehing pole lubatud sorditud nimekirjas	RTLConsts_SSortedListError
+Operation not allowed on sorted string list	Tehing pole lubatud sorditud nimekirjas	StringLists_rsSortedListError
+Operation not supported	Tehingut ei toetata	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	Valitud printer ei toete tehingut	Consts_SInvalidPrinterOp
+Operator expected	Eeldatav operaator	ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operaatorid:\n&\tLoogiline JAH\n|\tLoogiline VÕI\n=\tVõrdub\n#$23\tEi võrdu\n>\tSuurem\n<\tVäiksem\n+\tLiida\n-\tLahuta\n*\tKorruta\n/\tJaga\n%\tProtsent\n^\tAstenda\n\nSümboli defineerimine:\n:Nimi = Väärtus;\n:F(x) = Avaldis;	ExpressionHelp_rsExpressionHelp
+Optimizing...	Optimeerimine...	GIFImage_sProgressOptimizing
+Options	Parameetrid	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	Mälu puudus	SysConst_SOutOfMemory
+Out of memory while expanding memory stream	Mälu puudus tasemerühma mälu laiendamisel	RTLConsts_SMemoryStreamError
+Out of system resources	Süsteemi ressursside puudus	Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	Ületäituvus (%s) tüüpi muutuja konverteerimisel (%s) tüüpi muutujaks	SysConst_SVarTypeConvertOverflow
+Overline		TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	Ülekirjutada tingtähiste kataloogi sisu aktiivse kihi objektidega?	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	Leht %d	DiagramBase_rsPageD
+Page count		TextEditor_rsPageCount
+Page number	Lehe number	TextEditor_rsPageNumber
+Page number:	Lehe number:	SlideShow_rsPageNumber
+Page p%s layer %d	Leht p%s kiht %d	PictureObject_rsPagePSLayerD
+Page properties	Lehe atribuudid	TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	Lehe atribuudid...	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title	Lehe tiitel	TextEditor_rsPageTitle
+Page title (empty for auto):	Lehe tiitel (tühi vaikimisi):	RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	Antud peremees pole peremees '%s' jaoks	Consts_SParentGivenNotAParent
+Paste	Kleebi	TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	Kleebi valikuliselt	TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	PgDn	Consts_SmkcPgDn
+PgUp	PgUp	Consts_SmkcPgUp
+Please support %s	Palun toeta %s	TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	Joonista graafik avaldisest x-i järgi	ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	Joonista 	TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	Polügon peb omama vähemalt kahte punkti	GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note		TextEditor_rsPopupNote
+Portable Network Graphics	Portable Network Graphics	PNGLoader_rsPNGImageFile
+Premature end of data	Enneaegne andmete lõpp	GIFImage_sOutOfData
+Preview mode	Eelvaate reziim	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available		DialogsEx_rsPreviewNotAvailable
+Previous	Eelmine	TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap		TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%		PrintDiagram_rsPrintScalingSetToD
+Print scaling:		TDesignerSetupForm: Label7.Caption
+Print...	Trüki..	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	Trükkal ei trüki käesoleval hetkel	Consts_SNotPrinting
+Printer selected is not valid	Valitud trükkal pole lubatud	Consts_SInvalidPrinter
+Printing in progress	Toimub trükkimine	Consts_SPrinting
+Privileged instruction	Eesõiguste juhend	SysConst_SPrivilege
+Process failed: %d	Protsess katkes: %d	AnalyzerPlugins_rsProcessFailedD
+ProductName	ProductName	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.		LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	Atribuudid	TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	Atribuudid...	TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	Atribuuti %s ei eksisteeri	RTLConsts_SUnknownProperty
+Property is read-only	Atribuudid on kirjutamiskaitsega	RTLConsts_SReadOnlyProperty
+Purple	Punakaslilla	ExtCtrls_clNamePurple
+Radius of corner arc		TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	Juhuslik arv [0;x[	ExpressionEval_rsRandomNumberIn0X
+Range check error	Piirulatuse kontrolli viga	SysConst_SRangeError
+Range:	Diapasoon:	TExpressionPlotForm: Label1.Caption
+Read	Lugema	SysConst_SReadAccess
+Read beyond end of file	Lugemine pärast faili lõppu	SysConst_SEndOfFile
+Read less than expected	Lugema eeldatust vähem	Streams_rs_ReadLessError
+Rearrange pages	Lehtede ümberpaigutus	TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	Lehtede ümberpaigutus:	TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	Rekursiivne viide	ExpressionEval_rsRecursiveReference
+Red	Punane	ExtCtrls_clNameRed
+Redo	Tee uuesti:	Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	Relatiivne lehe number (-1 = eelnev leht):	Main_rsRelativePageNumber1PreviousPage
+Reload	Lae uuesti	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?		Main_rsReloadAndLoseChanges
+Rename	Nimeta ümber	TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.		TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	Vastu andma	GIFImage_sProgressRendering
+Reorder or delete pages	Järjesta ümber või kustuta leht	TMainForm: ReorderPagesAction.Hint
+Replace	Aseta ümber	TSpellCheckForm: ReplaceButton.Caption
+Reset Toolbar	Taasta tööriistariba	Consts_SResetActionToolBar
+Reset symbol table	Taasta sümbolite tabel	TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	Resurssi %s ei leitud	RTLConsts_SResNotFound
+RichEdit line insertion error	RichEdit line insertion error	ComStrs_sRichEditInsertError
+Right	Paremale	Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear		Main_rsRightClickToClear
+Root of expression in x	Avaldise juur	ExpressionEval_rsRootOfExpressionInX
+Rotate	Pööra	Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180°	Pööra 180°	TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270°	Pööra 270°	TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90°	Pööra 90°	TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	Pöörata valitud objektid päripäeva. Kõik objekti tüübid toetavad seda operatsiooni	TMainForm: RotateAction.Hint
+Rotation angle	Pöördenurk	Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	Ümardamine lähima täisarvuni	ExpressionEval_rsRoundToNearestInteger
+Rounded 1	Ümardatud 1	FlowchartObject_rsRounded1
+Rounded 2	Ümarnurkadega ristkülik	FlowchartObject_rsRounded2
+Rounded 3	Ümardatud 3	FlowchartObject_rsRounded3
+Rounds toward negative infinity	Ümardamine negatiivse lõpmatuse suunas	ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	Ümardamine positiivse lõpmatuse suunas	ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	L	SysConst_SShortDayNameSat
+Saturday	Laupäev	SysConst_SLongDayNameSat
+Save	Salvesta	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	Salvesta nimega..	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	Salvesta tingtähiste kataloog...	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	Salvestamine...	GIFImage_sProgressSaving
+Scan line index out of range	Skaneerimise reaindeks piiridest väljas	Consts_SScanLine
+Scroll Bar	Kerimisriba	ExtCtrls_clNameScrollBar
+Scrollbar property out of range	Kerimisriba atribuut on väljaspool piire	Consts_SScrollBarRange
+Seeking not supported	Otsingut ei toetata	DelphiStream_rsSeekingNotSupported
+Select all	Valida kõik	TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	Valida lõikepuhvri formaat:	TPasteSpecialForm: Label1.Caption
+Select icon to import from file		TIconSelectionForm: IconSelectionForm.Caption
+Select program language	Vali programmi töökeel	TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report		StyleForm_rsSendBugReport
+Send to back	Saada taha	TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	Sept.	SysConst_SShortMonthNameSep
+Separator	Eraldaja	Consts_SSeparator
+Separator line		TextEditor_rsSeparatorLine
+September	September	SysConst_SLongMonthNameSep
+Set		TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	Sea skeemi font	TMainForm: DiagramFontAction.Hint
+Set dictionary path	Sõnastiku asukoht	TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name	Sea font nime järgi	TextEditor_rsSetFontByName
+Set layer color...	Sea kihi värv...	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	Programmi töökeel	TDesignerSetupForm: LanguageButton.Caption
+Shift+	Shift+	Consts_SmkcShift
+Show grid	Võrgustik	TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	Näita objekti puud	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins		TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer		TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	Näita seda teadet käivitamisel	TPleaseSupportForm: CheckBox1.Caption
+Side bars	Külgmine riba	FlowchartObject_rsSideBars
+Silver	Hõbedane	ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	Määra kujundi mõõtmed kui kleebid lõikepuhvrist teise rakendusse	TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size		TDesignerSetupForm: PrintScalingEdit.Hint
+Skip		FormatAssociation_rsSkip
+Skip symbols	Jäta vahele sümbolid	TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	Jäta vahele numbritega ja suurtähtedega sõnad ning üksiktähed	TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	Taevasinine	ExtCtrls_clNameSkyBlue
+Slant left	Kaldega vasakule	FlowchartObject_rsSlantLeft
+Slant right	Kaldega paremale	FlowchartObject_rsSlantRight
+Slide show	Näita slaide	TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D		TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	Lahendada võrrand x jaoks	ExpressionEval_rsSolveEquationInX
+Space	Tühik	Consts_SmkcSpace
+Spell check	Õigekirja kontroll	TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	Õigekirja kontroll teostatud	SpellChecker_rsSpellCheckComplete
+Spell checker...	Õigekirja kontroll...	TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	Ruutjuur	ExpressionEval_rsSquareRoot
+Stack overflow	Stack overflow	SysConst_SStackOverflow
+Standard function	Standardfunktsioon	ExpressionHelp_rsStandardFunction
+Stop	Katkesta	LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	Tasemerühm ei avane andmete kirjutamiseks	Deflate_rsWriteDenied
+Stream read error	Tasemerühma lugemise viga	RTLConsts_SReadError
+Stream write error	Tasemerühma kirjutamise viga	RTLConsts_SWriteError
+Strikeout		TextEditor_rsStrikeout
+String list does not allow duplicates	Sõne nimekiri ei tohi sisaldada dublikaate	StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	Laad	TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	Menüüs puudub alammenüü	Consts_SMenuNotFound
+Subscript	Alakiri	TextEditor_rsSubscript
+Suggestions:	Soovitused:	TSpellCheckForm: Label4.Caption
+Sun	P	SysConst_SShortDayNameSun
+Sunday	Pühapäev	SysConst_SLongDayNameSun
+Superscript	Ülakiri	TextEditor_rsSuperscript
+Support Diagram Designer...	Toeta Diagram Designer'it	TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	Sümbol	TExpressionEvalForm: ListView.Caption
+Symbol font	Sümboli font	TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	Süsteemne Veakood: %d.\r\n%s	SysConst_SOSError
+Tab	Tab	Consts_SmkcTab
+Tab index out of bounds		Consts_SInvalidTabIndex
+Tab position incompatible with current tab style	Tabulatsiooni asetus ei vasta kehtivale tabulatsiooni laadile	Consts_SInvalidTabPosition
+Tab style incompatible with current tab position	Tabulatsiooni laad ei vasta kehtivale tabulatsiooni asendile	Consts_SInvalidTabStyle
+Teal	Part	ExtCtrls_clNameTeal
+Template palette	Tingtähiste kataloog	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	Tingtähiste kataloog - lohista objekte siit skeemilehele	TMainForm: TemplateScrollBox.Hint
+Terminate application		StyleForm_rsTerminateApplication
+Text	Tekst	Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation		TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	Teksti värv	TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	Tekst ületab mälu mahtu	Consts_SInvalidMemoSize
+Text formatting codes:	Teksti vormindamine:	TTextEditorForm: Label1.Caption
+Text margin		TPropertyEditorForm: Panel21.Caption
+Text not found		Main_rsTextNotFound
+Text:	Tekst:	TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	Pole valitud vaikimisi printerit	Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	See kontroll nõuab versiooni 4.70 või uuemat COMCTL32.DLL faili	ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)	Lõimise viga: %s (%d)	RTLConsts_SThreadError
+Thread creation error: %s	Lõimise loomise viga: %s	RTLConsts_SThreadCreateError
+Three-digit font size	Fondi suurus kolmenumbriliselt	TextEditor_rsThreeDigitFontSize
+Thu	N	SysConst_SShortDayNameThu
+Thursday	Neljapäev	SysConst_SLongDayNameThu
+Title		TQuickMenuSearchForm: ListView.Caption
+Too few lines to create polygon	Vähe jooni polügoni loomiseks	GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	Liiga palju avatud faile	SysConst_STooManyOpenFiles
+Top	Ülesse	TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	Ülesse#$0DKeskele#$0DAlla#$0D	TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color		TIconSelectionForm: TransparentButton.Caption
+Transparent color key		TPropertyEditorForm: Panel25.Caption
+Tue	T	SysConst_SShortDayNameTue
+Tuesday	Teisipäev	SysConst_SLongDayNameTue
+Turn mouse wheel to change		Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size		Main_rsUseMouseWheelToChangeSize
+UML has a		LineObject_rsUMLHasA
+UML is a		LineObject_rsUMLIsA
+Unable to Replace Image	Suutmatus kujutist teisaldada	Consts_SReplaceImage
+Unable to close file	Suutmatus faili sulgeda	AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	Suutmatus luua kataloogi	SysConst_SCannotCreateDir
+Unable to evaluate guess:	Suutmatus anda hinnangut	ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	Suutmatus leida sisukorda	HelpIntfs_hNoTableOfContents
+Unable to insert a line	Suutmatus sisestada joont	Consts_SInsertLineError
+Unable to insert an item	Suutmatus sisestada objekti	ComStrs_sInsertError
+Unable to open file	Suutmatus avada faili	AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	Suutmatus salvestada seadeid	Consts_SUnableToSaveSettings
+Undefined	Määratlemata	ExpressionEval_rsUndefined
+Undefined symbol:	Määratlemata sümbol:	ExpressionEval_rsUndefinedSymbol
+Underline		TextEditor_rsUnderline
+Undo	Võta tagasi:	Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	"Võta tagasi" käikude arv:	TDesignerSetupForm: Label3.Caption
+Unexpected character:	Lubamatu märk:	ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	Ettenägemata viga:	SysConst_SVarUnexpected
+Ungroup	Grupi lahutamine	TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	Eralda grupist aktiivne objekt	TMainForm: UngroupAction.Hint
+UnitLabel1	UnitLabel1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	UnitLabel2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	Ühikud:	TDesignerSetupForm: Label5.Caption
+Unknown GIF block type	Tundmatu GIF bloki tüüp	GIFImage_sBadBlock
+Unknown extension type	Tundmatu laiend	GIFImage_sUnknownExtension
+Unknown seek origin	Tundmatu päritolu	DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	Mittetoetatav faili laiendi pikkus	GIFImage_sBadBlockSize
+Unsupported GIF version	Mittetoetatav GIF versioon	GIFImage_sBadVersion
+Unsupported PNG data	Mittetoetatav PNG andmed	PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	Mittetoetatav pikseli formaat	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	Mittetoetatav rastri formaat	LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	Mittetoetatav lõikepuhvri formaat	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	Mittetoetatav faili formaat	LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	Mittetoetatav	AnalyzerPlugins_rsUnsupportedPixelFormat	LinarBitmap_rsInvalidPixelFormat
+Up	Ülesse	Consts_SmkcUp
+Value expected	Väärtuse arvutus	ExpressionEval_rsValueExpected
+Value must be integer	Väärtus peab olema täisarv	ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	Väärtus pole lubatud piirides	ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported	Valitud meetodit ei toetata	SysConst_SDispatchError
+Variant or safe array index out of bounds	Variant või indeksid väljaspool piire	SysConst_SVarArrayBounds
+Variant or safe array is locked	Variant või indeksid lukustatud	SysConst_SVarArrayLocked
+Variant overflow	Variandi ületäitumine	SysConst_SVarOverflow
+Version	Versioon	TAboutBox: Version.Caption
+Vertical		LinkEditor_rsVertical
+Vertical scaling		TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	Joonda tekst vertik.	TPropertyEditorForm: Panel4.Caption
+Warning	Hoiatus	Consts_SMsgDlgWarning
+Wed	K	SysConst_SShortDayNameWed
+Wednesday	Kolmapäev	SysConst_SLongDayNameWed
+What can I do?	Mida mina saan teha?	TPleaseSupportForm: Label2.Caption
+White	Valge	ExtCtrls_clNameWhite
+Width	Laius	TPropertyEditorForm: Panel9.Caption
+Width:	Laius:	TPagePropertiesForm: Label1.Caption
+Window Background	Akna Taust	ExtCtrls_clNameWindow
+Window Frame	Akna Paneel	ExtCtrls_clNameWindowFrame
+Window Text	Akna Tekst	ExtCtrls_clNameWindowText
+Windows Enhanced metafile	Windowsi Laiendatud metafile	WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Windowsi bitmap	BMPLoader_rsWindowsBitmap
+Windows cursor	Windowsi kursor	ICOLoader_rsWindowsCursor
+Windows icon	Windowsi ikoon	ICOLoader_rsWindowsIcon
+Windows metafile	Windowsi metafile	WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	Kas taastame vaikimise graafiku eelistused?	Consts_SRestoreDefaultSchedule
+Write	Valge	SysConst_SWriteAccess
+X:	X:	TDesignerSetupForm: Label1.Caption
+Y:	Y:	TDesignerSetupForm: Label2.Caption
+Yellow	Kollane	ExtCtrls_clNameYellow
+Yes to &All	Jah & Kõigile	Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	Sul pole lubatud seda objekti kustutada	Consts_SDeleteNotAllowed
+Zoom	Suurenda/Vähenda	TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft Paintbrush	PCXLoader_rsPCXImageFile
+add %s	lisa %s	Main_rsAddS
+add point	lisa punkt	Main_rsAddPoint
+e-mail		TAboutBox: EMailLabel.Caption
+edit properties	redigeeri atribuudid	Main_rsEditProperties
+http://logicnet.dk/mail.php	http://logicnet.dk/mail.php	TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk	http://meesoft.logicnet.dk	TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	http://meesoft.logicnet.dk/DiagramDesigner/support.htm	TMainForm: SupportAction.Hint
+move	Teisalda	Main_rsMove
+rename	Nimeta ümber	Main_rsRename
+size		Main_rsSize
+· Develop plugins	· Arendada mooduleid	TPleaseSupportForm: Label7.Caption
+· Help improve the documentation		TPleaseSupportForm: Label5.Caption
+· The easiest is to make a donation	· Parim toetus on annetus	TPleaseSupportForm: Label3.Caption
+· Translate the program to your language	· Tõlkida programm sinu keelde	TPleaseSupportForm: Label6.Caption
+¼ points	1/4 paksus	Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption
+DefaultCharset	238

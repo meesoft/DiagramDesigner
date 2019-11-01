@@ -1,0 +1,830 @@
+ - Dock zone has no control	- Tutturma bölgesinin denetimi yok.		Consts_SDockZoneHasNoCtl
+ - Dock zone not found	- Tutturma bölgesi bulunamadý.		Consts_SDockZoneNotFound
+ Joint Photographic Experts Group	Birleþik Fotoðraf Uzmanlarý Grubu		JPEGLoader_rsJPEGImageFile
+%d files selected	%d dosya seçildi.		DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d geçersiz bir sayfa dizini deðeridir.  Sayfa dizini deðeri 0 ile %d arasýnda olmalýdýr. 	ComStrs_sPageIndexError
+%d link points defined	%d baðlantý noktasý tanýmlandý.		PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s (&s, satýr %d)		SysConst_SAssertError
+%s does not allow hiding	%s gizlemeye izin vermiyor.			Consts_SCannotHideActionBand
+%s expected	%s bekleniyordu.		ExpressionEval_rsSExpected
+%s not found	%s bulunamadý.		ExpressionEval_rsSNotFound
+%s not in a class registration group	%s sýnýf kayýt grubunda yer almýyor.		RTLConsts_SUnknownGroup
+%s on %s	%s üzerinde %s		Consts_SDeviceOnPort
+%s property out of range	%s deðeri aralýðýn dýþýnda yer alýyor.		Consts_SPropertyOutOfRange
+%s.Seek not implemented	%s.Bul iliþtirilmedi.		RTLConsts_SSeekNotImplemented
+&Abort	&Ýptal et		Consts_SMsgDlgAbort
+&Add or Remove Buttons	&Düðme ekle veya kaldýr		Consts_SAddRemoveButtons
+&All	&Tümü		Consts_SMsgDlgAll	Consts_SAllButton
+&Close	&Kapat		Consts_SCloseButton
+&Help	&Yardým		Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	Y&oksay		Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	&Hayýr		Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	Y&eniden dene		Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start	&Baþlat		SpellChecker_rsStart
+&Yes	E&vet		Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value	'%s' geçerli bir küsuratlý sayý deðeri deðil.		SysConst_SInvalidFloat
+'%s' is not a valid integer value	'%s' geçerli bir tam sayý deðeri deðil.		SysConst_SInvalidInteger
+''%s'' is not a valid component name	''%s'' geçerli bir bileþen adý deðil.		RTLConsts_SInvalidName
+(No Name)	(Ýsimsiz)		Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D		TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	3B Koyu Gölge		ExtCtrls_clName3DDkShadow
+3D Light	3B Açýk		ExtCtrls_clName3DLight
+<unknown>	<bilinmeyen>		SysConst_SUnknown
+= or ( expected	= veya ( bekleniyordu		ExpressionEval_rsOrExpected
+A call to an OS function failed	Bir ÝS iþlevi çaðýrýlýrken baþarýsýz olundu		SysConst_SUnkOSError
+A class named %s already exists	%s adýnda bir sýnýf zaten mevcut		RTLConsts_SDuplicateClass
+A component named %s already exists	%s adýnda bir bileþen zaten mevcut		RTLConsts_SDuplicateName
+A control cannot have itself as its parent	Bir denetim kendi kendisinin üst sýnýfý olamaz		Consts_SControlParentSetToSelf
+Abort	Ýptal et		Consts_SAbortButton
+About	Hakkýnda		TAboutBox: AboutBox.Caption
+About...	Hakkýnda...		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	Özet Hatasý		SysConst_SAbstractError
+Active Border	Etkin Kenar		ExtCtrls_clNameActiveBorder
+Active Caption	Etkin Baþlýk		ExtCtrls_clNameActiveCaption
+Add	Ekle		TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	Þablon ekle		TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	Þablon paletine ekle		TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation	Sayfa boyutlarýný ve yönlendirmesini ayarla		TMainForm: PagePropertiesAction.Hint
+Adler32 error	Adler32 hatasý	Adler32_rsAdler32Error
+Align	Hizala		TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group	Tek bir nesneyi sayfaya veya birden fazla nesneyi gruba hizala		TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	Grupta yer alan nesnelerin tümü basit hatlar halinde olmak zorundadýr		GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+	Alt+		Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	Dosyadan FixedFileInfo yapýsý okunurken bir hata meydana geldi.	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	Dosyadan dil/karakter seti tanýmý okunurken bir hata meydan geldi.		VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	'%s' için ata bulunamadý 		RTLConsts_SAncestorNotFound
+Anchors	Baðlantý noktalarý		TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group	Grubu yeniden boyutlandýrmada kullanýlan baðlantý noktalarý		TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing	Kenarlarý yumuþat		TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export	Slayt gösterisi ve bit eþlem dýþa aktarýmý için kenarlarý yumuþat		TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	Herhangi bir açý...		TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	Uygulama Hatasý		SysConst_SExceptTitle
+Application Workspace	Uygulama Çalýþma Alaný		ExtCtrls_clNameAppWorkSpace
+Apply to all pages	Tüm sayfalara uygula		TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	Nis		SysConst_SShortMonthNameApr
+April	Nisan		SysConst_SLongMonthNameApr
+Aqua	Su		ExtCtrls_clNameAqua
+Arrow 1	Ok 1		LineObject_rsArrow1
+Arrow 2	Ok 2		LineObject_rsArrow2
+Arrow 3	Ok 3		LineObject_rsArrow3
+Assertion failed	Ýddia baþarýsýz oldu		SysConst_SAssertionFailed
+Associate file formats with	Dosya formatý iliþkilendirme - 		TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	Programý seçili dosya formatlarýyla iliþkilendir		TFormatAssociateForm: AssociateButton.Hint
+Aug	Aðu		SysConst_SShortMonthNameAug
+August	Aðustos		SysConst_SLongMonthNameAug
+Auto connect to link points	Baðlantý noktalarýna otomatik olarak baðlama yap		TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break	Otomatik satýr atlama yap		TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes	Metin kutularýna yazý yazýlýrken otomatik olarak satýr atla		TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects	Nesneler gruplandýrýlýrken otomatik olarak baðlantý noktalarý oluþtur		TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled	Grubun boyutunun deðiþtirilebilmesi için nesneler gruplandýrýlýrken otomatik olarak baðlantý noktalarý oluþtur		TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging	Sürükleme yapýlýrken baðlayýcýlarý otomatik olarak baðlantý noktalarýna tuttur		TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	Arkaplan		ExtCtrls_clNameBackground
+Ball	Top		LineObject_rsBall
+Base 10 logarithm	10 tabanýnda logaritma		ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	2 tabanýnda logaritma		ExpressionEval_rsBase2Logarithm
+Base e logarithm	e tabanýnda logaritma		ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)	Ýki çizgili ara ekleme uzatmasý (saydamlýk tarafýndan desteklenmez)		TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	Bit eþlem		Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	Bit eþlem resmi geçerli deðil		Consts_SInvalidBitmap
+Bitmap scaling	Bit eþlem boyutlandýrma		TPropertyEditorForm: Panel16.Caption
+Bitmaps	Bit eþlemler		Consts_SVBitmaps
+Bits index out of range	Bit dizisi aralýk dýþýnda yer alýyor		RTLConsts_SBitsIndexError
+BkSp	BkSp	Consts_SmkcBkSp
+Black	Siyah		ExtCtrls_clNameBlack
+Blue	Mavi		ExtCtrls_clNameBlue
+Bold	Kalýn		TextEditor_rsBold
+Bottom	Alt		TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	Öne getir		TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	Düðme Yüzeyi		ExtCtrls_clNameBtnFace
+Button Highlight	Düðme Vurgusu		ExtCtrls_clNameBtnHighlight
+Button Shadow	Düðme Gölgesi		ExtCtrls_clNameBtnShadow
+Button Text	Düðme Metni		ExtCtrls_clNameBtnText
+CRC error	CRC hatasý		PNGLoader_rsCRCError
+Can't write to a read-only resource stream	Salt-okunur olan bir kaynak akýþýna yazma iþlemi yapýlamýyor		RTLConsts_SCantWriteResourceStreamError
+Cancel	Ýptal		TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	Bir %s þuna atanamýyor: %s		RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	Üst ögesi bir eylem çubuðuna atanmýþ olan bir alt öge bir eylem çubuðuna atanamaz		Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	Görünürlük özelliði OnShow veya OnHide'da deðiþtirilemiyor	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	Bir JPEG resminin ebatlarý deðiþtirilemiyor		JConsts_sChangeJPGSize
+Cannot change the size of an icon	Bir simgenin ebatlarý deðiþtirilemiyor			Consts_SChangeIconSize
+Cannot create file \"%s\". %s	Þu dosya oluþturulamýyor: \"%s\". %s		RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active	Form oluþturulamýyor. Herhangi bir MDI formu þu an etkin deðil.		Consts_SNoMDIForm
+Cannot drag a form	Bir form sürüklenemiyor.		Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	Devre dýþý býrakýlmýþ veya görünmez olan bir pencereye odaklanýlamaz.		Consts_SCannotFocus
+Cannot hide an MDI Child Form	Bir MDI Alt Formu gizlenemez.		Consts_SMDIChildNotVisible
+Cannot make a visible window modal	Görünür bir pencere kipi yapýlamýyor.		Consts_SCannotShowModal
+Cannot open clipboard	Pano açýlamýyor.		Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	\"%s\". %s açýlamýyor.		RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	Tuval çizime izin vermiyor.		Consts_SNoCanvasHandle
+Caption Text	Baþlýk Metni		ExtCtrls_clNameCaptionText
+Center	Merkez		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	Etkin katmandaki tüm nesnelerin rengini deðiþtir		TMainForm: SetLayerColorAction.Hint
+Change value	Deðeri deðiþtir		ExpressionHelp_rsChangeValue
+Check active layer only	Sadece etkin katmaný denetle		TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates	Güncelleþtirmeleri denetle		TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	CheckSynchronize ana iþlem olmadýðý halde $%x iþlemi tarafýndan çaðrýldý	CheckSynchronize called from thread $%x, which is NOT the main thread	RTLConsts_SCheckSynchronizeError
+Circle	Daire		LineObject_rsCircle
+Circular decoder table entry	Dairesel çözücü tablo giriþi		GIFImage_sDecodeCircular
+Circular references not allowed	Dairesel referanslara izin verilmiyor		Consts_SCirularReferencesNotAllowed
+Class %s not found	%s sýnýfý bulunamadý		RTLConsts_SClassNotFound
+Clear	Temizle		TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	Nasýl olduðunu görmek için týklayýn		TPleaseSupportForm: Label4.Caption
+Click to apply format to selection	Seçilene formatý uygulamak için týklayýn		TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	Pano simgeleri desteklemiyor		Consts_SIconToClipboard
+Clipboard metafile scale:	Pano meta dosyasý ölçeði:		TDesignerSetupForm: Label4.Caption
+Close	Kapat		TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: Button1.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator	Ýfade deðerlendiriciyi kapat		TExpressionEvalForm: ActionClose.Hint
+Color not in color table	Renk, renk tablosunda deðil		GIFImage_sInvalidColor
+Color table is empty	Renk tablosu boþ		GIFImage_sEmptyColorMap
+Color table overflow	Renk tablosu taþmasý		GIFImage_sTooManyColors
+Conditional value	Þarta baðlý deðer		ExpressionEval_rsConditionalValue
+Confirm	Onayla		Consts_SMsgDlgConfirm
+Connect links	Baðlantýlarý baðla		TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Connector label style	Baðlayýcý etiketi stili		TMainForm: ConnectorLabelStyleMenuAction.Caption
+Continue	TAMAM		TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	'%s' denetiminin hiç ana penceresi yok		Consts_SParentRequired
+Control-C hit Control-C basýþý		SysConst_SControlC
+Convert	Dönüþtür		TMainForm: Convert1.Caption
+Convert binary number	Ýki tabanýndaki sayýyý dönüþtür		ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon	Çokgene baðlanmýþ hatlardan oluþan grup nesnesini dönüþtür		TMainForm: MakePolygonAction.Hint
+Convert to metafile	Meta dosyasýna dönüþtür		TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	Çokgene dönüþtür		TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	Dönüþtürülüyor...		GIFImage_sProgressConverting
+Copy	Kopyala		TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all	Tümünü kopyala		TLinkEditorForm: CopyButton.Hint
+Copy templates to page	Þablonlarý sayfaya kopyala		TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	Kopyalanýyor...		GIFImage_sProgressCopying
+Corner radius	Köþe açýsý		Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	(%s) tipindeki deðiþken (%s) tipine dönüþtürülemedi		SysConst_SVarTypeCouldNotConvert
+Cream	Krem		ExtCtrls_clNameCream
+Create default anchors for groups	Gruplar için varsayýlan tutturuculardan oluþtur		TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images	Grup ve resim için varsayýlan baðlantý noktasýndan oluþtur		TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents	Sayfa içeriðine kýrp		DiagramExport_rsAutoCrop
+Ctrl+	Ctrl+		Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments	Eðri, Catmull-Rom yiviyle veya hat bölümleriyle kapatýlmalýdýr		LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type	Eðri tipi		TPropertyEditorForm: Panel23.Caption
+Cut	Kes		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Cut text through connector lines and curves	Baðlayýcý çizgiler ve eðriler ile metni kes 		TMainForm: CutConnectorLabelsAction.Hint
+Cut throgh	Kes		TMainForm: CutConnectorLabelsAction.Caption
+Dec	Ara		SysConst_SShortMonthNameDec
+December	Aralýk		SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	Çözücü bit tamponlama boþalmasý		GIFImage_sDecodeTooFewBits
+Default	Varsayýlan		ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	Varsayýlan yazý tipi...		TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del	Del		Consts_SmkcDel
+Delete	Sil		TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	Akýþ þemasý sayfasý silinsin mi?		RearrangePages_rsDeleteDiagramPage
+Delete symbol	Sembolü sil		TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	Þablon nesnesini sil		TMainForm: DeleteTemplateAction.Caption
+Description	Dosya tipini belirt		TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	Hiçbirini seçme		TFormatAssociateForm: NoneButton.Caption
+Diagram	Akýþ Þemasý		TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd	Akýþ Þemasý (*.ddd)|*.ddd		DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	Akýþ þemasýnda deðiþiklik yapýldý, kapatmadan önce kaydedilsin mi?		Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link	Akýþ þemasý veya internet baðlantýsý		TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	Akýþ þemasý þablon paleti (*.ddt)|*.ddt		DiagramBase_rsTemplatePaletteFilter
+Diamond	Elmas		LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	Sözlükler (*.dic)|*.dic		DesignerSetup_rsDictionariesDicDic
+Disable escape chars	Kaçýþ karakterlerini devre dýþý býrak		TextEditor_rsDisableEscapeChars
+Disable font antialiasing	Font yumuþatmayý kapat		DiagramExport_rsDisableFontAntialiasing
+Disk full	Disk dolu		SysConst_SDiskFull
+Distance from top left corner	Sol üst köþeye olan mesafe		TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute	Daðýt		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	Sýfýr ile bölme		SysConst_SDivByZero
+Docked control must have a name	Tutturulmuþ denetimin bir adý olmak zorundadýr		Consts_SDockedCtlNeedsName
+Done	Bitti		PropertyEditor_rsDone
+Double arrow	Çift ok		LineObject_rsDoubleArrow3
+Down	Aþaðý ok		Consts_SmkcDown
+Download	Ýndir		PropertyEditor_rsDownload
+Draw arrow	Ok çiz		TMainForm: DrawArrowAction.Caption
+Draw connector	Baðlayýcý çiz		TMainForm: DrawConnectorAction.Caption
+Draw curve	Eðri çiz		TMainForm: DrawCurveAction.Caption
+Draw ellipse	Oval çiz		TMainForm: DrawEllipseAction.Caption
+Draw line	Düz çizgi çiz		TMainForm: DrawLineAction.Caption
+Draw rectangle	Dikdörtgen çiz		TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects	Nesnelerin altýna gölge çiz		TMainForm: ObjectShadowsAction.Hint
+Edit	Düzenle		TFormatAssociateForm: EditActionButton.Caption	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults	Düzenle		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	Katmaný düzenle		TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point	Baðlantý noktasýný düzenle		LinkEditor_rsEditLinkPoint
+Edit text	Metni düzenle		TTextEditorForm: TextEditorForm.Caption
+Edit text...	Metni düzenle...		TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	Resim düzenleniyor...		PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	CreateFile'ýn çaðrýlabilmesi için okuma, yazma eriþimlerinden veya tam eriþimden en az biri belirtilmelidir	Streams_rs_NoFileAccessSpec
+End	End		Consts_SmkcEnd
+End point	Son nokta		TPropertyEditorForm: Panel28.Caption
+Enhanced Metafiles	Geliþmiþ meta dosyalarý		Consts_SVEnhMetafiles
+Enter	Enter		Consts_SmkcEnter
+Enter object text:	Nesnenin adýný girin:		TTextEditorForm: Label2.Caption
+Error	Hata		Consts_SMsgDlgError
+Error closing \"%s\" - %s	\"%s\" - %s kapatýlýrken hata meydana geldi		Streams_rs_CloseFileError
+Error creating variant or safe array	Deðiþken veya güvenli dizi oluþturulurken hata meydana geldi		SysConst_SVarArrayCreate
+Error creating window class	Pencere sýnýfý oluþturulurken hata meydana geldi		Consts_SWindowClass
+Error creating window device context	Pencere aygýtý baðlamý oluþturulurken hata meydana geldi		Consts_SWindowDCError
+Error deleting \"%s\" - %s \"%s\" - %s silinirken hata meydana geldi		Streams_rs_DeleteFileError
+Error in bitmap data Bit eþlem verisinde hata		AnalyzerPlugins_rsErrorInBitmapData	LinarBitmap_rsErrorInBitmapData
+Error in compressed data	Sýkýþtýrýlmýþ veride hata		Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	Önceden kaydedilmiþ olan þu ayar dosyasý yüklenirken hata meydana geldi: %s\rOnu silmek ister misiniz?		Consts_SErrorLoadingFile
+Error moving file pointer - %s	Þu dosya belirteci taþýnýrken hata meydana geldi: %s		Streams_rs_SeekFileError
+Error moving stream pointer	Akýþ belirtecini taþýrken hata meydana geldi			MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	\"%s" - %s açýlýrken hata meydana geldi		Streams_rs_CreateFileError
+Error reading %s%s%s: %s	%s%s%s: %s okunurken hata meydana geldi		RTLConsts_SPropertyException
+Error reading from stream - %s	Þu akýþtan okuma yapýlýrken hata meydana geldi: %s		Streams_rs_ReadError
+Error removing control from dock tree	Tutturma aðacýndan denetim kaldýrýlýrken hata meydana geldi		Consts_SDockTreeRemoveError
+Error running Image Analyzer	Resim Analizci çalýþtýrýlýrken hata meydana geldi		PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	%s.sayým ayarlanýrken hata meydana geldi		Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s	Þu dosya kesilirlen hata meydana geldi: \"%s\" - %s		Streams_rs_TruncateFileError
+Error while trying to send e-mail	E-posta göndermeye çalýþýlýrkenv		EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	Þu akýþa yazma yapýlýrken hata meydana geldi		Streams_rs_WriteError
+Esc	Esc		Consts_SmkcEsc
+Evaluate	Deðerlendir		TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	Deðerlendir (F5)		TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	%p.\r\n%s%s konumunda %s istisnasý (%s modülünde) meydana geldi\r\n		SysConst_SException
+Exception in safecall method	Güvenli çaðýrma metodunda istisna meydana geldi		SysConst_SSafecallException
+Expand	Geniþlet		Consts_SExpand
+Export	Dýþarý aktar		TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages	Tüm sayfalarý dýþarý aktar		DiagramExport_rsExportAllPages
+Export file DPI:	Þu DPI deðerinde dýþarý aktar:		DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	Sayfayý bit eþlem veya meta dosyasý olarak dýþarý aktar		TMainForm: ExportAction.Hint
+Export page...	Sayfayý dýþarý aktar...		TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator	Ýfade deðerlendirici		TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...	Ýfade deðerlendirici...		TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	Ýfade boþ		ExpressionEval_rsExpressionIsEmpty
+External exception %x	Harici istisna: %x		SysConst_SExternalException
+Extra = found	Fazladan = sembolü bulundu		ExpressionEval_rsExtraFound
+Failed to Load Stream	Akýþ yüklenemedi		ComStrs_sRichEditLoadFail
+Failed to Save Stream	Akýþ kaydedilemedi		ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	GIF DIB'e bellek ayrýlamadý		GIFImage_sOutOfMemDIB
+Failed to clear tab control	Sekme denetimi temizlenemedi		ComStrs_sTabFailClear
+Failed to delete tab at index %d	Þu indeksten sekme silinemedi: %d		ComStrs_sTabFailDelete
+Failed to get data for '%s'	'%s' için veri alýnamadý		RTLConsts_SRegGetDataFailed
+Failed to get object at index %d	Þu indeksten nesne alýnamadý: %d		ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	Akýþtan ImageList verisi okunamadý	Failed to read ImageList data from stream	Consts_SImageReadFail
+Failed to retrieve tab at index %d	Þu indeksten sekme alýnamadý: %d		ComStrs_sTabFailRetrieve
+Failed to set data for '%s'	'%s' için veri ayarlanamadý		RTLConsts_SRegSetDataFailed
+Failed to set object at index %d	Þu indekste nesne ayarlanamadý: %d		ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d	Þu indekste \"%s\" sekmesi ayarlanamadý: %d		ComStrs_sTabFailSet
+Failed to store GIF on clipboard	Panoda GIF depolanamadý		GIFImage_sFailedPaste
+Failed to write ImageList data to stream	Akýþa ImageList verisi yazýlamadý	Failed to write ImageList data to stream	Consts_SImageWriteFail
+Feb	Þub		SysConst_SShortMonthNameFeb
+February	Þubat		SysConst_SLongMonthNameFeb
+File	Dosya		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	Dosyaya eriþim reddedildi		SysConst_SAccessDenied
+File format associations	Dosya formatý iliþkilendirmeleri		TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	Daha yeni program sürümünden dosya		DiagramBase_rsFileFromLaterProgramVersion
+File not found	Dosya bulunamadý		SysConst_SFileNotFound
+Fill	Doldur		TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	Dolgu rengi		TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Fill rectangle behind text on connector lines and curves	Baðlayýcý çizgilerde ve eðrilerde bulunan metnin arkasýndaki dikdörtgeni doldur		TMainForm: SolidConnectorLabelsAction.Hint
+Find text...	Metin bul...		TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	Ýfadeyi küçülten x'i bul		ExpressionEval_rsFindXThatMinimizesExpression
+First	Ýlk		TSlideShowForm: FirstSlideItem.Caption
+Flip	Sayfa yönlendirmesini deðiþtir		TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	Sýfýrla küsurat noktasý bölme		SysConst_SZeroDivide
+Floating point overflow	Küsurat noktasý taþmasý		SysConst_SOverflow
+Floating point underflow	Küsurat noktasý yetersizliði		SysConst_SUnderflow
+Font	Font		TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	'%s' formatý geçersiz veya parametreyle uyumsuz		SysConst_SInvalidFormat
+Format string too long	Format metni çok uzun		SysConst_SFormatTooLong
+Fractional part of real number	Gerçek sayýnýn kesir kýsmý		ExpressionEval_rsFractionalPartOfRealNumber
+Fri	Cum		SysConst_SShortDayNameFri
+Friday	Cuma		SysConst_SLongDayNameFri
+Fuchsia	Küpe çiçeði		ExtCtrls_clNameFuchsia
+GIF Image	GIF Resmi		GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	Gauss rastgele sayýsý, StdSap=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	Genel		TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	Yazýcý ayarlarýný aç		TPagePropertiesForm: PrinterButton.Caption
+Global stencil	Evrensel þablon		TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	Etkin katmandaki bitiþik nesne baðlantý noktalarýna baðlayýcýlarý yapýþtýr		TMainForm: ConnectLinksAction.Hint
+Go to page	Sayfaya git		TSlideShowForm: GoToPageItem.Caption
+Gradient color	Gradyan rengi		TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format	Grafik Deðiþim Formatý		GIFLoader_rsGIFImageFile
+Gray	Gri		ExtCtrls_clNameGray
+Gray Text	Gri Metin		ExtCtrls_clNameGrayText
+Green	Yeþil		ExtCtrls_clNameGreen
+Grid (%s)	Izgara (%s)		DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	Grupla		TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines	Grup, baðlý çizgilerden oluþmalýdýr		GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	Seçilen ögeleri grupla		TMainForm: GroupAction.Hint
+Group selected objects in metafile object	Meta dosyasý nesnesi içinde grup seçili nesneler		TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	GroupIndex deðeri bir önceki menününkinden küçük olamaz	Consts_SGroupIndexTooLow
+Guess undefined	Fikir tanýmlanmadý		ExpressionEval_rsGuessUndefined
+HTML formatted color	HTML formatýnda renk		TextEditor_rsHTMLFormattedColor
+Halftone	Yarým ton		TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	Yükseklik		TPropertyEditorForm: Panel8.Caption
+Height:	Yükseklik:		TPagePropertiesForm: Label2.Caption
+Help	Yardým		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	Yardým Baþlýklarý		TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	HelpLabel	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	Arkaplaný Vurgula		ExtCtrls_clNameHighlight
+Highlight Text	Metni Vurgula		ExtCtrls_clNameHighlightText
+Highlight syntax	Sözdizimini vurgula		TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.	Sadece yatay veya dikey çizgiler çizmek için Ctrl'yi basýlý tutun. Izgarayý yoksaymak için Alt'a, baðlantýlarý yoksaymak için Shift'i basýlý tutun.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.	Yükseklik ile geniþliði birbiriyle ayný tutmak için Ctrl'yi, ýzgarayý yoksaymak için Alt'ý, Merkez etrafýnda ölçekleme yapmak için Shift'i basýlý tutun.		Main_rsEditShapeHint
+Home	Giriþ		Consts_SmkcHome
+Horizontal	Yatay		LinkEditor_rsHorizontal
+Horizontal scaling	Yatay ölçekleme		TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	Yatay metin hizalama		TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.	%s isimli kiþilere ve diðerlerine kütüphanelerinin kullanýlmasýna izin verdikleri için teþekkür ederim.		Main_rsIWouldLikeToThank
+I/O error %d	G/Ç hatasý: %d		SysConst_SInOutError
+IO-error: %s	G/Ç hatasý: %s		Streams_rs_IOError
+Icon image is not valid	Simge resmi geçersiz		Consts_SInvalidIcon
+Icons	Simgeler		Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	Eðer bu yazýlýmý beðendiyseniz lütfen çalýþmamý, bu programýn ve/veya kýlavuzun ve/veya web sitesinin geliþtirilmesine destek olun.#$0DDesteðiniz olmadan bu web sitesini açýk tutmak, benim için masraftan baþka bir þey deðildir. 		TPleaseSupportForm: Label1.Caption
+Ignore all Tümünü yoksay		TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	Resim Mantýksal Ekran boyutunu aþýyor		GIFImage_sScreenSizeExceeded
+Image has no DIB	Resim bir DIB'e sahip deðil		GIFImage_sNoDIB
+Image height too small for contained frames	Resmin yüksekliði barýndýrýlan çerçeveler için yeterli deðil		GIFImage_sBadHeight
+Image is empty	Resim boþ		GIFImage_sEmptyImage
+Image is too large for icon	Resim, simge için çok büyük		ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	Resmin geniþliði barýndýrýlan çerçeveler için yeterli deðil			GIFImage_sBadWidth
+Inactive Border	Etkin Olmayan Kenar		ExtCtrls_clNameInactiveBorder
+Inactive Caption	Etkin Olmayan Baþlýk		ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	Etkin Olmayan Baþlýk Metni		ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	Sadece "XYZ Dosyasý"ný eklemek yerine dosya görünümlerine format tanýmý ekle		TFormatAssociateForm: DescriptionBox.Hint
+Info Background	Bilgi Arkaplaný		ExtCtrls_clNameInfoBk
+Info Text	Bilgi Metni		ExtCtrls_clNameInfoText
+InfoLabel	InfoLabel	TAboutBox: InfoLabel.Caption
+Information	Bilgi		Consts_SMsgDlgInformation
+Inner bounds	Ýç sýnýrlar		TPropertyEditorForm: InnerBoundsBox.Caption
+Ins	Ins		Consts_SmkcIns
+Insert inherited layer...	Kalýtýlmýþ katman ekle...		TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	Dosyadan resim ekle		TMainForm: InsertPictureAction.Hint
+Insert picture...	Resim ekle...		TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text	Metin ekle		TMainForm: DrawTextAction.Caption
+Integer overflow	Tam sayý taþmasý		SysConst_SIntOverflow
+Interface not supported	Arayüz desteklenmiyor		SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label	Ýç hata: Uzantý Olayý, Uzantý Etiketi ile eþleþmiyor		GIFImage_sBadExtensionInstance
+Internet help page	Çevrimiçi yardým sayfasý		TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Internet:	Ýnternet:		TAboutBox: Label3.Caption
+Invalid GIF data	Geçersiz GIF verisi		GIFImage_sInvalidData
+Invalid GIF signature	Geçersiz GIF imzasý		GIFImage_sBadSignature
+Invalid Image trailer	Geçersiz Resim dizisi		GIFImage_sBadTrailer
+Invalid ImageList	Geçersiz ImageList	Consts_SInvalidImageList
+Invalid ImageList Index	Geçersiz ImageList Ýndeksi	Consts_SImageIndexError
+Invalid NULL variant operation	Geçersiz NULL deðiþkeni iþlemi		SysConst_SInvalidVarNullOp
+Invalid PNG data	Geçersiz PNG verisi		PNGLoader_rsInvalidPNGData
+Invalid PNG header	Geçersiz PNG baþlýðý		PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions	Geçersiz alfa kanalý formatý veya ölçüler		PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	Geçersiz parametre		SysConst_SVarInvalid
+Invalid binary number	Geçersiz iki tabanýnda sayý		ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	Geçersiz bit eþlem boyutu		LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	Geçersiz tampon boyutu		BufStream_rsInvalidBufferSize
+Invalid class typecast	Geçersiz sýnýf türü dönüþümü		SysConst_SInvalidCast
+Invalid clipboard format	Geçersiz pano formatý		Consts_SInvalidClipFmt
+Invalid color index	Geçersiz renk indeksi		GIFImage_sBadColorIndex
+Invalid data type for '%s'	'%s' için geçersiz veri türü		RTLConsts_SInvalidRegType
+Invalid diagram	Geçersiz akýþ þemasý		DiagramBase_rsInvalidDiagram
+Invalid extension introducer	Geçersiz uzantý tanýtýcý		GIFImage_sBadExtensionLabel
+Invalid filename	Geçersiz dosya adý		SysConst_SInvalidFilename
+Invalid floating point operation	Geçersiz küsuratlý nokta iþlemi		SysConst_SInvalidOp
+Invalid image dimensions	Geçersiz resim ölçüleri		GIFImage_sBadDimension
+Invalid image size	Geçersiz resim boyutu		Consts_SInvalidImageSize
+Invalid index	Geçersiz indeks		ComStrs_sInvalidIndex
+Invalid number format	Geçersiz sayý formatý		ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	Resim Tanýmlayýcý'da belirtilen renk adedi geçersiz		GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	Ekran Tanýmlayýcý'da belirtilen renk adedi geçersiz		GIFImage_sScreenBadColorSize
+Invalid numeric input	Geçersiz sayýsal giriþ		SysConst_SInvalidInput
+Invalid numeric value	Geçersiz sayýsal deðer		Consts_SInvalidNumber
+Invalid owner	Geçersiz sahip		ComStrs_sInvalidOwner
+Invalid pixel coordinates	Geçersiz piksel koordinatlarý		GIFImage_sBadPixelCoordinates
+Invalid pixel format	Geçersiz piksel formatý		Consts_SInvalidPixelFormat
+Invalid pointer operation	Geçersiz belirteç iþlemi		SysConst_SInvalidPointer
+Invalid property path	Geçersiz özellik konumu		RTLConsts_SInvalidPropertyPath
+Invalid property value	Geçersiz özellik deðeri		RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	Geçersiz indirgeme metodu		GIFImage_sInvalidReduction
+Invalid stream format	Geçersiz akýþ formatý		RTLConsts_SInvalidImage
+Invalid stream operation	Geçersiz akýþ iþlemi		GIFImage_sInvalidStream
+Invalid template palette	Geçersiz þablon paleti		TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	Geçersiz deðiþken iþlemi		SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	Geçersiz deðiþken iþlemi: (%s%.8x)\n%s		SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	Geçersiz deðiþken türü		SysConst_SVarBadType
+Invalid variant type conversion	Geçersiz deðiþken türü dönüþümü		SysConst_SInvalidVarCast
+Italic	Eðik		TextEditor_rsItalic
+Item %s has subitems, delete anyway?	%s ögesinin alt ögeleri mevcut, yine de silinsin mi?		Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	%s ögesinin taþýnmasýna izin verilmiyor		Consts_SMoveNotAllowed
+JPEG Image File	JPEG Resim Dosyasý		JConsts_sJPEGImageFile
+JPEG error #$23%d	JPEG hatasý: #$23%d		JConsts_sJPEGError
+Jan	Oca		SysConst_SShortMonthNameJan
+January	Ocak		SysConst_SLongMonthNameJan
+Jul	Tem		SysConst_SShortMonthNameJul
+July	Temmuz		SysConst_SLongMonthNameJul
+Jun	Haz		SysConst_SShortMonthNameJun
+June	Haziran		SysConst_SLongMonthNameJun
+Known image formats	Bilinen resim formatlarý		Main_rsKnownImageFormats
+LabelCode1	LabelCode1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	LabelCode2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption
+Language:	Dil:		TSpellCheckForm: Label5.Caption
+Last	Sonuncu		TSlideShowForm: LastSlideItem.Caption
+Layer	Katman		TMainForm: LayerTabSet.Hint
+Layer %d	Katman %d		Main_rsLayerD
+Layer &1	Katman &1		TMainForm: EditLayer1Action.Caption
+Layer &2	Katman &2		TMainForm: EditLayer2Action.Caption
+Layer &3	Katman &3		TMainForm: EditLayer3Action.Caption
+Layer number:	Katman numarasý:		Main_rsLayerNumber
+Layout	Düzen		TPropertyEditorForm: Panel18.Caption
+Left	Sol ok		Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set	Ayarlamak için sol týklayýn		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	Sol#$0DMerkez#$0DSað#$0DSol blok#$0DSað blok#$0D		TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point	Nokta eklemek için sol ve sað fare tuþlarýna birlikte basýn		Main_rsLeftRightClickToAddPoint
+Legacy	Eski		PropertyEditor_rsLegacy
+Lime	Ihlamur rengi		ExtCtrls_clNameLime
+Line color	Çizgi rengi		TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	Çizgi sonu		TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments	Çizgi bölümleri		PropertyEditor_rsLineSegments
+Line start	Çizgi baþlangýcý		TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	Çizgi stili		TPropertyEditorForm: Panel20.Caption
+Line width	Çizgi geniþliði		Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	Çizgi nokta editörü		TLinkEditorForm: LinkEditorForm.Caption
+Link positions	Çizgi konumlarý		TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	Liste kapasitesi sýnýrlarý aþýyor (%d)		RTLConsts_SListCapacityError
+List count out of bounds (%d)	Liste sayýsý sýnýrlarý aþýyor (%d)		RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	Liste kopyalara izin vermiyor ($0%x)		RTLConsts_SDuplicateItem
+List index out of bounds (%d)	Liste indeksi sýnýrlarý aþýyor (%d)		StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count	Sayýnýn ayarlanabilmesi için Listbox (%s) stili sanal olmak zorundadýr		Consts_SListBoxMustBeVirtual
+Load template palette	Þablon paleti yükle		TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library	Kütüphaneden þablon paleti yükle		TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	Þablon paleti yükle...		TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	Yükleniyor...		GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	Þunu ara:		TSpellCheckForm: LookUpLabel.Caption
+MainForm	MainForm	TMainForm: MainForm.Caption
+Make palette from active layer	Etkin katmandan palet oluþtur		TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many	Çok		LineObject_rsMany
+Mar	Mar		SysConst_SShortMonthNameMar
+March	Mart		SysConst_SLongMonthNameMar
+Maroon	Kestane rengi		ExtCtrls_clNameMaroon
+Max 16 bits in binary number	Ýki tabanýnda maksimum 16 bit		ExpressionEval_rsMax16BitsInBinaryNumber
+Max=	Maks=		TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	Geri almalarýn/yinelemelerin maksimum sayýsý		TDesignerSetupForm: UndoHistoryEdit.Hint
+May	May		SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	Orta Gri		ExtCtrls_clNameMedGray
+Menu	Menü		TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	'%s' menüsü zaten baþka bir formda kullanýldý		Consts_SDuplicateMenus
+Menu Background	Menü Arkaplaný		ExtCtrls_clNameMenu
+Menu Text	Menü Metni		ExtCtrls_clNameMenuText
+Menu index out of range	Menü indeksi sýnýrlarýn dýþýnda		Consts_SMenuIndexError
+Menu inserted twice	Menü iki defa eklendi		Consts_SMenuReinserted
+Menu search	Menü arama		TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	Meta dosyasý		TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	Meta dosyasý geçersiz		Consts_SInvalidMetafile
+Metafiles	Meta dosyalarý		Consts_SVMetafiles
+Michael Vinther		TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	Milimetre#$0DSantimetre#$0DÝnç#$0DNokta#$0D300 DPI nokta#$0D600 DPI nokta#$0D		TDesignerSetupForm: UnitsBox.Items.Strings
+Min=	Min=		TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	x ifadesindeki minimum deðer		ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	Yatay eksende simetrisini al		TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	Pts		SysConst_SShortDayNameMon
+Monday	Pazartesi		SysConst_SLongDayNameMon
+Money Green	Para Yeþili		ExtCtrls_clNameMoneyGreen
+More Buttons	Daha Fazla Düðme		Consts_SMoreButtons
+Move canvas	Kanvasý taþý		TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	TabPosition deðeri tpLeft veya tpRight iken MultiLine deðeri True olmak zorundadýr	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	Çok Resimli Að Grafikleri		PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	Bu özellik için çoklu seçim modu açýk olmalýdýr		Consts_SMultiSelectRequired
+N&o to All	Tümüne Hayýr		Consts_SMsgDlgNoToAll
+Name	Ýsim		TPropertyEditorForm: Panel1.Caption
+Name expected	Ýsim girmeniz bekleniyordu		ExpressionEval_rsNameExpected
+Navy	Donanma rengi		ExtCtrls_clNameNavy
+New diagram	Yeni akýþ þemasý		TMainForm: NewAction.Hint
+New line	Yeni satýr		TextEditor_rsNewLine
+New page	Yeni sayfa		TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	Yeni...		TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	Ýleri		TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	Hiç ActionBand stili birimi \"uses\" deyimi altýnda belirtilmedi.\rUygulamanýzýn \"uses\" bölümünde XPStyleActnCtrls veya StdStyleActnCtrls birimlerinden biri veya 3. parti bir ActionBand stili birimi olmak zorundadýr.		Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	Hiç OnGetItem olay iþleyicisi atanmadý	Consts_SNoGetItemEventHandler
+No argument for format '%s'	'%s' formatý için parametre belirtilmedi		SysConst_SArgumentMissing
+No context-sensitive help installed	Hiç baðlama hassas yardým yüklenmedi		HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	Hiç sözlük yüklenmedi veya sözlüðün konumu \"Seçenekler\" bölümünde belirtilmedi.		Main_rsNoDictionariesFound
+No files found	Hiç dosya bulunamadý		Main_rsNoFilesFound
+No global or local color table defined	Hiç global veya yerel renk tablosu tanýmlanmadý		GIFImage_sNoColorTable
+No help found for %s	%s için hiç yardým bulunamadý		HelpIntfs_hNothingFound
+No help keyword specified.	Hiç yardým anahtar kelimesi belirtilmedi.		WinHelpViewer_hNoKeyword
+No icons in file	Dosyada hiç simge yok		ICOLoader_rsNoIconsInFile
+No more points allowed	Daha fazla noktaya izin verilmiyor		LineObject_rsNoMorePointsAllowed
+No objects in active layer	Etkin katmanda hiç nesne yok		Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	Hiç çözüm bulunamadý, baþlangýç tahminini deðiþtirmeyi deneyin		ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	Hiç baþlýk temelli yardým sistemi yüklenmedi		HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	Talep edilen \"%s\" dosyasýyla ilgili hç sürüm bilgisi bulunamadý		VersionInfo_rs_noversioninfo
+None	Hiçbiri		ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	Yeterli düzeyde zamanlayýcý yok		Consts_SNoTimers
+Not in dictionary:	Þu öge sözlükte yok:		SpellChecker_rsNotInDictionary
+Note that closing tags are not required	Kapatma etiketlerinin kullanýlmasýna gerek olmadýðýný unutmayýn		TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.	Programýn kaldýrýlmasý halinde bu eylemin geri alýnamaycaðýný ve dosya formatý kayýtlarýnýn önceki ayara geri döndürülemeyeceðini unutmayýn.	TFormatAssociateForm: NoteLabel.Caption
+Note that writing of files with multiple icons is not supported.	Birden fazla simgesi olan dosyalarýn yazýlmasý özelliði desteklenmiyor		TIconSelectionForm: Label1.Caption
+Nov	Kas		SysConst_SShortMonthNameNov
+November	Kasým		SysConst_SLongMonthNameNov
+OK	TAMAM		TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	Nesne		TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	Nesne özellikleri		TMainForm: PropertiesAction.Hint
+Object type not supported for operation	Nesne türü iþlem için desteklenmiyor		GIFImage_sUnsupportedClass
+Object:	Nesne:		TSpellCheckForm: Label2.Caption
+Objects cast shadows	Nesneler gölge oluþtursun		TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages	Bu katmandaki nesneler tüm sayfalarda görülebilir		TMainForm: EditStencilAction.Hint
+Oct	Eki		SysConst_SShortMonthNameOct
+October	Ekim		SysConst_SLongMonthNameOct
+Odd rounded 1	Tek sayýya yuvarlandý 1		FlowchartObject_rsOddRounded1
+Odd rounded 2	Tek sayýya yuvarlandý 2		FlowchartObject_rsOddRounded2
+Olive	Zeytin rengi		ExtCtrls_clNameOlive
+Opacity	Opaklýk		TPropertyEditorForm: Panel24.Caption
+Open	Aç		TFormatAssociateForm: OpenActionButton.Caption	Main_rsOpen
+Open in new window...	Yeni pencerede aç...		TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	Aç...		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	Ýþlem iptal edildi		SysConst_SOperationAborted
+Operation not allowed on sorted list	Sýralý listede iþleme izin verilmiyor		RTLConsts_SSortedListError
+Operation not allowed on sorted string list	Sýralý metin listesinde iþleme izin verilmiyor		StringLists_rsSortedListError
+Operation not supported	Ýþlem desteklenmiyor		AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	Ýþlem seçilen yazýcý tarafýndan desteklenmiyor		Consts_SInvalidPrinterOp
+Operator expected	Opearatör girmeniz bekleniyordu		ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operatörler:\n&\tMantýksal VE\n|\tMantýksal VEYA\n=\tEþittir\n#$23\tEþit deðildir\n>\tBüyüktür\n<\tKüçüktür\n+\tTopla\n-\tÇýkar\n*\tÇarp\n/\tBöl\n%\tMod\n^\tÜs\n\nTanýmlayýcý semboller:\n:Ýsim = Deðer;\n:Fonk(x) = Ýfade;		ExpressionHelp_rsExpressionHelp
+Optimizing...	Eniyileniyor...		GIFImage_sProgressOptimizing
+Options	Seçenekler		TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	Bellek yetersiz		SysConst_SOutOfMemory
+Out of memory while expanding memory stream	Hafýza akýþý geniþletilirken bellek yetersizliði ile karþýlaþýldý		RTLConsts_SMemoryStreamError
+Out of system resources	Sistem kaynaklarý yetersiz		Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	(%s) türündeki deðiþken (%s) türüne dönüþtürülürken taþma meydana geldi		SysConst_SVarTypeConvertOverflow
+Overlay	Kapla		TMainForm: OverlayConnectorLabelsAction.Caption
+Overline	Harfin tepesine çizgi çek		TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	Etkin katmandaki nesnelerle þablon paletinin içeriðinin üstüne yazýlsýn mý?		Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page	Sayfa		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	Sayfa %d		DiagramBase_rsPageD
+Page count	Sayfa sayýsý		TextEditor_rsPageCount
+Page number	Sayfa numarasý			TextEditor_rsPageNumber
+Page number:	Sayfa numarasý:		SlideShow_rsPageNumber
+Page p%s layer %d	Sayfa p%s katman %d		PictureObject_rsPagePSLayerD
+Page properties	Sayfa özellikleri		TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	Sayfa özellikleri...		TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title	Sayfa baþlýðý		TextEditor_rsPageTitle
+Page title (empty for auto):	Sayfa baþlýðý (otomatik olarak baþlýk oluþturulmasý için boþ býrakýn):		RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	Verilen üst öge '%s' ögesinin üstü deðil		Consts_SParentGivenNotAParent
+Paste	Yapýþtýr		TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	Özel yapýþtýr		TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	PgDn	Consts_SmkcPgDn
+PgUp	PgUp	Consts_SmkcPgUp
+Please support %s	Lütfen %s'a destek olun		TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	x ifadesinin grafiðini çiz		ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	Þunun grafiði çiz:		TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	Çokgenin en az iki noktasý olmalýdýr		GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note	Açýlýr not		TextEditor_rsPopupNote
+Portable Network Graphics	Taþýnabilir Að Grafikleri		PNGLoader_rsPNGImageFile
+Premature end of data	Verinin erken sonu		GIFImage_sOutOfData
+Preview mode	Önizleme modu		TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available	Önizleme mevcut deðil		DialogsEx_rsPreviewNotAvailable
+Previous	Önceki		TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap	Bit eþlem olarak yazdýr		TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%	Baský ölçeði þuna ayarlandý: %d%%		PrintDiagram_rsPrintScalingSetToD
+Print scaling:	Baský ölçeði:		TDesignerSetupForm: Label7.Caption
+Print...	Yazdýr...		TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	Yazýcý þu an yazdýrmýyor		Consts_SNotPrinting
+Printer selected is not valid	Seçilen yazýcý geçersiz		Consts_SInvalidPrinter
+Printing in progress	Yazdýrma iþlemi sürüyor		Consts_SPrinting
+Privileged instruction	Ayrýcalýklý talimat		SysConst_SPrivilege
+Process failed: %d	Þu iþlem baþarýsýz oldu: %d		AnalyzerPlugins_rsProcessFailedD
+ProductName	ProductName	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.	Deðiþikliklerin etkili olmasý için program yeniden baþlatýlmalýdýr.		LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	Özellikler		TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	Özellikler...		TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	%s özelliði mevcut deðil		RTLConsts_SUnknownProperty
+Property is read-only	Özellik salt-okunur		RTLConsts_SReadOnlyProperty
+Purple	Mor		ExtCtrls_clNamePurple
+Radius of corner arc	Köþe açýsýnýn ölçüsü		TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	[0;x[ aralýðýndan rastgele sayý		ExpressionEval_rsRandomNumberIn0X
+Range check error	Aralýk denetim hatasý		SysConst_SRangeError
+Range:	Aralýk:		TExpressionPlotForm: Label1.Caption
+Read	Oku		SysConst_SReadAccess
+Read beyond end of file	Dosyanýn sonunun ötesini oku		SysConst_SEndOfFile
+Read less than expected	Beklenenden daha azýný oku		Streams_rs_ReadLessError
+Rearrange pages	Sayfalarý düzenle		TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	Sayfalarý düzenle...		TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	Özyinelemeli referans		ExpressionEval_rsRecursiveReference
+Red	Kýrmýzý		ExtCtrls_clNameRed
+Redo	Yinele		Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	Göreceli sayfa numarasý (-1 = önceki sayfa):		Main_rsRelativePageNumber1PreviousPage
+Reload	Yeniden yükle		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?	Deðiþiklikler silinip yeniden yüklensin mi?		Main_rsReloadAndLoseChanges
+Rename	Yeniden adlandýr		TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.	Tüm nesneleri birer bit olacak þekilde iþle ve bit eþlem olarak yazdýr. Bu özellik, bazý yazýcýlarýn saydamlýða ve gradyan dolgusuna uyum saðlayabilmesi için gerekebilir.		TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	Ýþleniyor...		GIFImage_sProgressRendering
+Reorder or delete pages	Sayfalarý sýrala veya sil		TMainForm: ReorderPagesAction.Hint
+Replace	Deðiþtir		TSpellCheckForm: ReplaceButton.Caption
+Reset	Sýfýrla		TPropertyEditorForm: ResetHeightButton.Hint	TPropertyEditorForm: ResetWidthButton.Hint
+Reset Toolbar	Araç Çubuðunu Sýfýrla		Consts_SResetActionToolBar
+Reset symbol table	Sembol tablosunu sýfýrla		TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	Þu kaynak bulunamadý: %s		RTLConsts_SResNotFound
+RichEdit line insertion error RichEdit satýr ekleme hatasý	RichEdit line insertion error	ComStrs_sRichEditInsertError
+Right	Sað ok		Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear	Temizlemek için sað týklayýn		Main_rsRightClickToClear
+Root of expression in x	x ifadesinin karekökünü al		ExpressionEval_rsRootOfExpressionInX
+Rotate	Döndür		Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180-	Saatin tersi yönünde 180 derece döndür		TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270-	Saatin tersi yönünde 270 derece döndür		TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90-	Saatin tersi yönünde 90 derece döndür		TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	Seçilen nesneleri saatin tersi yönünde döndür. Bazý nesnelerin bu eylemi desteklemediðini lütfen unutmayýn.		TMainForm: RotateAction.Hint
+Rotation angle	Döndürme açýsý		Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	En yakýn tam sayýya yuvarla		ExpressionEval_rsRoundToNearestInteger
+Rounded 1	Yuvarlandý 1		FlowchartObject_rsRounded1
+Rounded 2	Yuvarlandý 2		FlowchartObject_rsRounded2
+Rounded 3	Yuvarlandý 3		FlowchartObject_rsRounded3
+Rounds toward negative infinity	Negatif sonsuzluða yuvarla		ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	Pozitif sonsuzluða yuvarla		ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	Cts		SysConst_SShortDayNameSat
+Saturday	Cumartesi		SysConst_SLongDayNameSat
+Save	Kaydet		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	Farklý kaydet...		TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	Þablon paletini kaydet...		TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	Kaydediliyor...		GIFImage_sProgressSaving
+Scan line index out of range	Tarama hattý indeksi aralýk dýþýnda		Consts_SScanLine
+Scroll Bar	Kaydýrma Çubuðu		ExtCtrls_clNameScrollBar
+Scrollbar property out of range	Kaydrýma çubuðu özelliði aralýk dýþýnda		Consts_SScrollBarRange
+Seeking not supported	Arama desteklenmiyor		DelphiStream_rsSeekingNotSupported
+Select all	Tümünü seç		TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	Pano formatýný seç:		TPasteSpecialForm: Label1.Caption
+Select icon to import from file	Dosyadan içe aktarýlacak simgeyi seç		TIconSelectionForm: IconSelectionForm.Caption
+Select program language	Program dilini seç		TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report	Hata raporu gönder		StyleForm_rsSendBugReport
+Send to back	Arkaplana gönder		TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	Eyl		SysConst_SShortMonthNameSep
+Separator	Ayýrýcý		Consts_SSeparator
+Separator line	Ayýrýcý çizgi		TextEditor_rsSeparatorLine
+September	Eylül		SysConst_SLongMonthNameSep
+Set	Ayarla		TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	Akýþ þemasýnýn fontunu ayarla		TMainForm: DiagramFontAction.Hint
+Set dictionary path	Sözlük konumunu ayarla		TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name	Ad girerek font ayarla		TextEditor_rsSetFontByName
+Set layer color...	Katman rengini ayarla...		TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	Programýn dilini ayarla		TDesignerSetupForm: LanguageButton.Caption
+Shift+	Shift+		Consts_SmkcShift
+Show grid	Izgarayý göster		TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	Nesne aðacýný göster		TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins	Baský sýnýrlarýný göster		TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer	Baský sýnýrlarýný tasarýmcýda sayfa üzerinde göster		TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	Bu iletiyi açýlýþta göster		TPleaseSupportForm: CheckBox1.Caption
+Side bars	Yan çubuklar		FlowchartObject_rsSideBars
+Silver	Gümüþ rengi		ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	Panodan baþka bir uygulamaya yapýþtýrma yapýlýrkenki tasarýmýn boyutu		TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size	Tasarým boyutuna göre baský boyutu		TDesignerSetupForm: PrintScalingEdit.Hint
+Skip	Atla		FormatAssociation_rsSkip
+Skip symbols	Sembolleri atla		TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	Sayý ve/veya büyük harf içeren ve/veya tek harf halinde olan kelimeleri atla		TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	Gökyüzü Mavisi		ExtCtrls_clNameSkyBlue
+Slant left	Sola çarpýt		FlowchartObject_rsSlantLeft
+Slant right	Saða çarpýt		FlowchartObject_rsSlantRight
+Slide show	Slayt gösterisi		TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid	Katý		TMainForm: SolidConnectorLabelsAction.Caption
+Solid#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D	Katý#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D	TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	x denklemini çöz		ExpressionEval_rsSolveEquationInX
+Space	Boþluk tuþu		Consts_SmkcSpace
+Spell check	Ýmla denetimi		TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	Ýmla denetimi tamamlandý.		SpellChecker_rsSpellCheckComplete
+Spell checker...	Ýmla denetleyici...		TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	Karekök		ExpressionEval_rsSquareRoot
+Stack overflow	Yýðýn taþmasý		SysConst_SStackOverflow
+Standard function	Standart iþlev		ExpressionHelp_rsStandardFunction
+Start point	Baþlangýç noktasý		TPropertyEditorForm: Panel27.Caption
+Stop	Dur		LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	Yazma iþleminde kullanýlmak üzere akýþ açýlamadý		Deflate_rsWriteDenied
+Stream read error	Akýþ okuma hatasý		RTLConsts_SReadError
+Stream write error	Akýþ yazma hatasý		RTLConsts_SWriteError
+Strikeout	Üstü çizili		TextEditor_rsStrikeout
+String list does not allow duplicates	Metin listesi kopyalara izin vermiyor		StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	Stil		TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	Alt menü, menünün içinde deðil		Consts_SMenuNotFound
+Subscript	Alt simge		TextEditor_rsSubscript
+Suggestions:	Öneriler		TSpellCheckForm: Label4.Caption
+Sun	Paz		SysConst_SShortDayNameSun
+Sunday	Pazar		SysConst_SLongDayNameSun
+Superscript	Üst simge		TextEditor_rsSuperscript
+Support Diagram Designer...	Diagram Designer'ý destekle...		TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	Sembol	TExpressionEvalForm: ListView.Caption
+Symbol font	Sembol fontu		TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	Sistem Hatasý. Kod: %d.\r\n%s		SysConst_SOSError
+Tab	Tab		Consts_SmkcTab
+Tab index out of bounds	Sekme indeksi sýnýrlarýn dýþýnda		Consts_SInvalidTabIndex
+Tab position incompatible with current tab style	Sekme konumu þu anki sekme stiliyle uyumsuz		Consts_SInvalidTabPosition
+Tab style incompatible with current tab position	Sekme stili þu anki sekme konumuyla uyumsuz		Consts_SInvalidTabStyle
+Teal	Turkuaz rengi		ExtCtrls_clNameTeal
+Template palette	Þablon paleti		TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	Þablon paleti - nesneleri buradan akýþ þemasýna sürükleyip býrakýn		TMainForm: TemplateScrollBox.Hint
+Terminate application	Uygulamayý sonlandýr		StyleForm_rsTerminateApplication
+Text	Metin		Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation	Metin ve meta dosyasý döndürme		TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	Metin rengi		TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	Metin, not kapasitesini aþýyor		Consts_SInvalidMemoSize
+Text formatting codes:	Metin düzenleme kodlarý:		TTextEditorForm: Label1.Caption
+Text margin	Metin sýnýrý		TPropertyEditorForm: Panel21.Caption
+Text not found	Metin bulunamadý		Main_rsTextNotFound
+Text:	Metin		TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	Varsayýlan olarak hiç yazýcý seçili deðil		Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	Bu denetim, COMCTL32.DLL'nin en az 4.70 sürümünü gerektirmektedir		ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)	Ýþ Parçacýðý Hatasý: %s (%d)		RTLConsts_SThreadError
+Thread creation error: %s	Ýþ parçacýðý oluþturma hatasý: %s		RTLConsts_SThreadCreateError
+Three-digit font size	Üç haneli punto deðeri		TextEditor_rsThreeDigitFontSize
+Thu	Per		SysConst_SShortDayNameThu
+Thursday	Perþembe		SysConst_SLongDayNameThu
+Title	Baþlýk		TQuickMenuSearchForm: ListView.Caption
+Title:	Baþlýk:		TPagePropertiesForm: Label3.Caption
+Too few lines to create polygon	Nokta sayýsý çokgen oluþturmak için yetersiz		GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	Çok fazla açýk dosya var		SysConst_STooManyOpenFiles
+Top	Üst		TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	Üst#$0DMerkez#$0DAlt#$0D		TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color Þeffaf renk		TIconSelectionForm: TransparentButton.Caption
+Transparent color key	Þeffaf renk anahtarý		TPropertyEditorForm: Panel25.Caption
+Tue	Sal		SysConst_SShortDayNameTue
+Tuesday	Salý		SysConst_SLongDayNameTue
+Turn mouse wheel to change	Deðiþtirmek için fare tekerini çevirin		Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size	Boyutu deðiþtirmek için fare tekerini çevirin		Main_rsUseMouseWheelToChangeSize
+UML has a	UML þuna sahip:		LineObject_rsUMLHasA
+UML is a	UML þudur:		LineObject_rsUMLIsA
+Unable to Replace Image	Resim deðiþtirilemiyor		Consts_SReplaceImage
+Unable to close file	Dosya kapatýlamýyor		AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	Dizin oluþturulamýyor		SysConst_SCannotCreateDir
+Unable to evaluate guess:	Tahmin deðerlendirilemiyor		ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	\"Ýçindekiler\" bulunamýyor		HelpIntfs_hNoTableOfContents
+Unable to insert a line	Bir satýr eklenemiyor		Consts_SInsertLineError
+Unable to insert an item	Bir öge eklenemiyor		ComStrs_sInsertError
+Unable to open file	Dosya açýlamýyor		AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	Ayarlar kaydedilemiyor		Consts_SUnableToSaveSettings
+Undefined	Tanýmsýz		ExpressionEval_rsUndefined
+Undefined symbol:	Tanýmsýz sembol:		ExpressionEval_rsUndefinedSymbol
+Underline	Altýný çiz		TextEditor_rsUnderline
+Undo	Geri al		Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	Geri alma geçmiþinin boyutu:		TDesignerSetupForm: Label3.Caption
+Unexpected character:	Beklenmeyen karakter:		ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	Beklenmeyen deðiþken hatasý		SysConst_SVarUnexpected
+Ungroup	Grubu boz		TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	Etkin nesne grubunu boz		TMainForm: UngroupAction.Hint
+UnitLabel1	BirimEtiketi1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	BirimEtiketi2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	Birim:		TDesignerSetupForm: Label5.Caption
+Unknown GIF block type Bilinmeyen GIF bloðu tipi		GIFImage_sBadBlock
+Unknown extension type	Bilinmeyen uzantý tipi		GIFImage_sUnknownExtension
+Unknown seek origin	Bilinmeyen arama kökeni		DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	Desteklenmyen uygulama uzantýsý bloðu boyutu		GIFImage_sBadBlockSize
+Unsupported GIF version	Desteklenmyen GIF sürümü		GIFImage_sBadVersion
+Unsupported PNG data	Desteklenmyen PNG verisi		PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	Desteklenmyen PixelFormat'ý	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	Desteklenmyen bit eþlem formatý		LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	Desteklenmyen pano formatý		Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	Desteklenmyen dosya formatý		LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	Desteklenmyen piksel formatý		AnalyzerPlugins_rsUnsupportedPixelFormat	LinarBitmap_rsInvalidPixelFormat
+Up	Yukarý ok		Consts_SmkcUp
+Value expected Deðer bekleniyordu		ExpressionEval_rsValueExpected
+Value must be integer	Deðer tam sayý olmak zorundadýr		ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	Deðer [%s - %s] aralýðýnda olmak zorundadýr		ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported	Deðer metodu çaðýrma desteklenmiyor		SysConst_SDispatchError
+Variant or safe array index out of bounds	Deðer veya güvenli dizi indeksi sýnýrarýn dýþýnda		SysConst_SVarArrayBounds
+Variant or safe array is locked	Deðer veya güvenli dizi kilitli		SysConst_SVarArrayLocked
+Variant overflow	Deðer taþmasý		SysConst_SVarOverflow
+Version	Sürüm:		TAboutBox: Version.Caption
+Vertical	Dikey		LinkEditor_rsVertical
+Vertical scaling	Dikey ölçekleme		TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	Dikey metin hizalama		TPropertyEditorForm: Panel4.Caption
+Warning	Uyarý		Consts_SMsgDlgWarning
+Wed	Çar		SysConst_SShortDayNameWed
+Wednesday	Çarþamba		SysConst_SLongDayNameWed
+What can I do?	Ne yapabilirim?		TPleaseSupportForm: Label2.Caption
+White	Beyaz		ExtCtrls_clNameWhite
+Width	Geniþlik		TPropertyEditorForm: Panel9.Caption
+Width:	Geniþlik:		TPagePropertiesForm: Label1.Caption
+Window Background	Pencere Arkaplaný		ExtCtrls_clNameWindow
+Window Frame	Pencere Çerçevesi		ExtCtrls_clNameWindowFrame
+Window Text	Pencere Baþlýðý		ExtCtrls_clNameWindowText
+Windows Enhanced metafile	Windows Geliþmiþ Meta Dosyasý		WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Windows bit eþlem dosyasý		BMPLoader_rsWindowsBitmap
+Windows cursor	Windows imleç dosyasý		ICOLoader_rsWindowsCursor
+Windows icon	Windows simge dosyasý		ICOLoader_rsWindowsIcon
+Windows metafile	Windows meta dosyasý		WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	Öncelik Zamanlayýcý'yý sýfýrlamak ister misiniz?		Consts_SRestoreDefaultSchedule
+Write	Yaz		SysConst_SWriteAccess
+Write text on top of connector lines and curves	Baðlayýcý çizgilerin ve eðrilerin tepesine yazý yaz 		TMainForm: OverlayConnectorLabelsAction.Hint
+X:		TDesignerSetupForm: Label1.Caption
+Y:		TDesignerSetupForm: Label2.Caption
+Yellow	Sarý		ExtCtrls_clNameYellow
+Yes to &All	Tümüne Evet		Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	Bu ögeyi silmenize izin verilmiyor		Consts_SDeleteNotAllowed
+Zoom	Yakýnlaþtýrma		TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft Boya Fýrçasý		PCXLoader_rsPCXImageFile
+\"		DesignerSetup_rsInches
+add %s	%s ekle		Main_rsAddS
+add point	nokta ekle		Main_rsAddPoint
+cm		DesignerSetup_rsCm
+dots	nokta		DesignerSetup_rsDots
+e-mail	e-posta		TAboutBox: EMailLabel.Caption
+edit properties	özellikleri düzenle		Main_rsEditProperties
+http://logicnet.dk/mail.php		TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk		TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	http://meesoft.logicnet.dk/DiagramDesigner/support.htm	TMainForm: SupportAction.Hint
+mm		DesignerSetup_rsMm
+move	taþý		Main_rsMove
+points	nokta		DesignerSetup_rsPoints
+rename	yeniden adlandýr		Main_rsRename
+size	boyut		Main_rsSize
+· Develop plugins	· Eklenti geliþtirebilirsiniz		TPleaseSupportForm: Label7.Caption
+· Help improve the documentation	· Kýlavuzun geliþtirilmesine yardýmcý olabilirsiniz		TPleaseSupportForm: Label5.Caption
+· The easiest is to make a donation	· En basitinden bir baðýþ yapabilirsiniz		TPleaseSupportForm: Label3.Caption
+· Translate the program to your language	· Uygulamayý kendi dilinize tercüme edebilirsiniz		TPleaseSupportForm: Label6.Caption
+¼ points	¼ nokta		Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption
+DefaultCharset	162

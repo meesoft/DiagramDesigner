@@ -1,0 +1,819 @@
+ - Dock zone has no control	 - 该区域无可供停靠的窗体	Consts_SDockZoneHasNoCtl
+ - Dock zone not found	 - 无法停靠	Consts_SDockZoneNotFound
+%d files selected	已选择 %d 个文件	DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d 不是有效的页码值。页码值必须在 0 - %d 之间。	ComStrs_sPageIndexError
+%d link points defined	已定义 %d 个顶点	PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s (%s, line %d)	SysConst_SAssertError
+%s does not allow hiding	不允许隐藏 %s	Consts_SCannotHideActionBand
+%s expected	%s 预期	ExpressionEval_rsSExpected
+%s not found	%s 未找到	ExpressionEval_rsSNotFound
+%s not in a class registration group	%s 不在注册的类中	RTLConsts_SUnknownGroup
+%s on %s	%s on %s	Consts_SDeviceOnPort
+%s property out of range	%s 属性超出范围	Consts_SPropertyOutOfRange
+%s.Seek not implemented	%s.Seek查找未成功	RTLConsts_SSeekNotImplemented
+&Abort	中断(&A)	Consts_SMsgDlgAbort
+&Add or Remove Buttons	添加/移除按钮(&A)	Consts_SAddRemoveButtons
+&All	全部(&A)	Consts_SMsgDlgAll	Consts_SAllButton
+&Close	关闭(&C)	Consts_SCloseButton
+&Help	帮助(&H)	Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	忽略(&I)	Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	否(&N)	Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	重试(&R)	Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start	开始(&S)	SpellChecker_rsStart
+&Yes	是(&Y)	Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value	无效的浮点数值 '%s'	SysConst_SInvalidFloat
+'%s' is not a valid integer value	无效的整数值 '%s'	SysConst_SInvalidInteger
+''%s'' is not a valid component name	无效的组件名称 ''%s''	RTLConsts_SInvalidName
+(No Name)	(未命名)	Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	3D灰色阴影	ExtCtrls_clName3DDkShadow
+3D Light	3D高亮	ExtCtrls_clName3DLight
+<unknown>	<未知>	SysConst_SUnknown
+= or ( expected	未找到预期的 = 或 (	ExpressionEval_rsOrExpected
+A call to an OS function failed	呼叫系统服务失败	SysConst_SUnkOSError
+A class named %s already exists	类名 %s 重复	RTLConsts_SDuplicateClass
+A component named %s already exists	组件名 %s 重复	RTLConsts_SDuplicateName
+A control cannot have itself as its parent	组件不能以自身为父组件	Consts_SControlParentSetToSelf
+Abort	中断(&A)	Consts_SAbortButton
+About	关于	TAboutBox: AboutBox.Caption
+About...	关于(&A)...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	摘要错误	SysConst_SAbstractError
+Active Border	活动边框	ExtCtrls_clNameActiveBorder
+Active Caption	活动标题	ExtCtrls_clNameActiveCaption
+Add	添加(&A)	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	添加模板(&A)	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	添加到模板面板(&A)	TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation	调整页面尺寸和方向	TMainForm: PagePropertiesAction.Hint
+Adler32 error	Adler32错误	Adler32_rsAdler32Error
+Align	对齐(&L)	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group	对齐单个对象到当前页或多个对象到组合	TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	组合中所有对象须为简单的线条	GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+	Alt+	Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	从文件读取 FixedFileInfo 结构时发生错误。	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	从文件读取语言/字符集描述时发生错误。	VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	原型'%s'未找到	RTLConsts_SAncestorNotFound
+Anchors	锚	TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group	调整组时使用锚	TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing	抗锯齿	TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export	在幻灯片显示和图形导出时使用抗锯齿	TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	任意角度(&A)...	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	应用程序错误	SysConst_SExceptTitle
+Application Workspace	应用程序工作区	ExtCtrls_clNameAppWorkSpace
+Apply to all pages	应用到所有页面	TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	Apr	SysConst_SShortMonthNameApr
+April	四月	SysConst_SLongMonthNameApr
+Aqua	水色	ExtCtrls_clNameAqua
+Arrow 1	箭头1	LineObject_rsArrow1
+Arrow 2	箭头2	LineObject_rsArrow2
+Arrow 3	箭头3	LineObject_rsArrow3
+Assertion failed	声明失败	SysConst_SAssertionFailed
+Associate file formats with	将文件格式关联到	TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	关联选定的文件格式到程序	TFormatAssociateForm: AssociateButton.Hint
+Aug	Aug	SysConst_SShortMonthNameAug
+August	八月	SysConst_SLongMonthNameAug
+Auto connect to link points	自动连接到节点	TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break	自动断开连线	TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes	文字框中自动断开连线	TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects	对象编组时自动建立节点	TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled	对象编组时自动设置锚，组可以缩放	TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging	拖动时自动对齐并连接对象节点	TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	背景	ExtCtrls_clNameBackground
+Ball	球	LineObject_rsBall
+Base 10 logarithm	以10为底的对数	ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	以2为底的对数	ExpressionEval_rsBase2Logarithm
+Base e logarithm	以e为底的对数	ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)	双线性插值拉伸（不支持透明）	TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	位图	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	无效的位图	Consts_SInvalidBitmap
+Bitmap scaling	缩放比例	TPropertyEditorForm: Panel16.Caption
+Bitmaps	多个位图	Consts_SVBitmaps
+Bits index out of range	位索引超出范围	RTLConsts_SBitsIndexError
+BkSp	退格	Consts_SmkcBkSp
+Black	黑色	ExtCtrls_clNameBlack
+Blue	蓝色	ExtCtrls_clNameBlue
+Bold	粗体	TextEditor_rsBold
+Bottom	底部对齐(&B)	TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	提升显示优先级(&B)	TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	按钮表面	ExtCtrls_clNameBtnFace
+Button Highlight	按钮高亮	ExtCtrls_clNameBtnHighlight
+Button Shadow	按钮阴影	ExtCtrls_clNameBtnShadow
+Button Text	按钮文字	ExtCtrls_clNameBtnText
+CRC error	CRC错误	PNGLoader_rsCRCError
+Can't write to a read-only resource stream	不能写入一个只读的资源数据流	RTLConsts_SCantWriteResourceStreamError
+Cancel	取消(&C)	TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	不能分配一个 %s 到一个 %s	RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	当父项已指定给一个控制项时，无法指定子项到控制项	Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	OnShow或OnHide状态下不能改变Visible属性	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	不能改变一个JPEG图片的尺寸	JConsts_sChangeJPGSize
+Cannot change the size of an icon	不能改变一个icon图片的尺寸	Consts_SChangeIconSize
+Cannot create file \"%s\". %s	无法创建文件 \"%s\". %s	RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active	无法创建框架，当前没有活动的MDI窗体	Consts_SNoMDIForm
+Cannot drag a form	不能拖拽框架	Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	无法聚焦一个隐藏的窗口	Consts_SCannotFocus
+Cannot hide an MDI Child Form	不能隐藏MDI的子框架	Consts_SMDIChildNotVisible
+Cannot make a visible window modal	无法创建可视窗口模式	Consts_SCannotShowModal
+Cannot open clipboard	无法打开剪贴板	Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	无法打开文件 \"%s\". %s	RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	画布无法进行绘画操作	Consts_SNoCanvasHandle
+Caption Text	标题文字	ExtCtrls_clNameCaptionText
+Center	居中(&C)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	改变当前层中所有对象的颜色	TMainForm: SetLayerColorAction.Hint
+Change value	改变数值	ExpressionHelp_rsChangeValue
+Check active layer only	只检查当前层	TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates	检查更新	TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	CheckSynchronize called from thread $%x, which is NOT the main thread	RTLConsts_SCheckSynchronizeError
+Circle	圆形	LineObject_rsCircle
+Circular decoder table entry	循环编码表	GIFImage_sDecodeCircular
+Circular references not allowed	不允许循环引用	Consts_SCirularReferencesNotAllowed
+Class %s not found	类 %s 未找到	RTLConsts_SClassNotFound
+Clear	清除	TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	查看详情	TPleaseSupportForm: Label4.Caption
+Click to apply format to selection	使用选择的格式	TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	剪贴板不支持Icons图片	Consts_SIconToClipboard
+Clipboard metafile scale:	图元数据拷贝缩放比例:	TDesignerSetupForm: Label4.Caption
+Close	关闭(&C)	TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: Button1.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator	关闭表达式计算器	TExpressionEvalForm: ActionClose.Hint
+Color not in color table	颜色不在颜色表中	GIFImage_sInvalidColor
+Color table is empty	颜色表为空	GIFImage_sEmptyColorMap
+Color table overflow	颜色表溢出	GIFImage_sTooManyColors
+Conditional value	关系值	ExpressionEval_rsConditionalValue
+Confirm	确认	Consts_SMsgDlgConfirm
+Connect links	联结(&C)	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Continue	继续(&C)	TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	组件'%s' 没有父窗口	Consts_SParentRequired
+Control-C hit	请按Ctrl+C键	SysConst_SControlC
+Convert	转换(&C)	TMainForm: Convert1.Caption
+Convert binary number	转换二进制数	ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon	转换包含连接线的组合对象为多边形	TMainForm: MakePolygonAction.Hint
+Convert to metafile	转换为图元(&M)	TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	转换为多边形(&P)	TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	转换...	GIFImage_sProgressConverting
+Copy	复制(&C)	TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all	复制所有	TLinkEditorForm: CopyButton.Hint
+Copy templates to page	复制模板到当前页(&C)	TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	复制...	GIFImage_sProgressCopying
+Corner radius	圆角	Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	不能将(%s)类型变量转换为(%s)类型变量	SysConst_SVarTypeCouldNotConvert
+Cream	奶油色	ExtCtrls_clNameCream
+Create default anchors for groups	创建组的默认锚点	TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images	创建组和图像的默认连接点	TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents	按内容尺寸剪切	DiagramExport_rsAutoCrop
+Ctrl+	Ctrl+	Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments	必须关闭Catmull-Rom样条曲线或直线段	LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type	弯曲类型	TPropertyEditorForm: Panel23.Caption
+Cut	剪切(&T)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Dec	Dec	SysConst_SShortMonthNameDec
+December	十二月	SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	后台运行缓存编码	GIFImage_sDecodeTooFewBits
+Default	默认	ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	默认字体(&D)...	TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del	Del	Consts_SmkcDel
+Delete	删除(&D)	TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	删除选定页面？	RearrangePages_rsDeleteDiagramPage
+Delete symbol	删除符号	TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	删除模板对象	TMainForm: DeleteTemplateAction.Caption
+Description	描述	TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	全不选(&D)	TFormatAssociateForm: NoneButton.Caption
+Diagram	图表(&D)	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd	图表文件 (*.ddd)|*.ddd	DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	是否保存当前图表的变更？	Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link	图表/Internet 快捷方式	TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	图表模板文件 (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter
+Diamond	菱形	LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	词典文件 (*.dic)|*.dic	DesignerSetup_rsDictionariesDicDic
+Disable font antialiasing	禁用字体反锯齿	DiagramExport_rsDisableFontAntialiasing
+Disk full	磁盘空间已满	SysConst_SDiskFull
+Distance from top left corner	左上角间距	TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute	分配	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	除以零	SysConst_SDivByZero
+Docked control must have a name	停靠控件必须有一个名字	Consts_SDockedCtlNeedsName
+Done	完成	PropertyEditor_rsDone
+Double arrow	双箭头	LineObject_rsDoubleArrow3
+Down	向下	Consts_SmkcDown
+Download	下载	PropertyEditor_rsDownload
+Draw arrow	向下箭头	TMainForm: DrawArrowAction.Caption
+Draw connector	绘制连线	TMainForm: DrawConnectorAction.Caption
+Draw curve	绘制曲线	TMainForm: DrawCurveAction.Caption
+Draw ellipse	绘制椭圆	TMainForm: DrawEllipseAction.Caption
+Draw line	绘制直线	TMainForm: DrawLineAction.Caption
+Draw rectangle	绘制矩形	TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects	绘制对象阴影	TMainForm: ObjectShadowsAction.Hint
+Edit	编辑(&E)	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	编辑层(&E)	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point	编辑顶点	LinkEditor_rsEditLinkPoint
+Edit text	编辑文字	TTextEditorForm: TextEditorForm.Caption
+Edit text...	编辑文字(&E)...	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	编辑图象(&E)...	PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	读写或全权访问必须在CreateFile调用中定义	Streams_rs_NoFileAccessSpec
+End	结尾	Consts_SmkcEnd
+Enhanced Metafiles	增强型图元文件	Consts_SVEnhMetafiles
+Enter	回车	Consts_SmkcEnter
+Enter object text:	键入对象文本:	TTextEditorForm: Label2.Caption
+Error	错误	Consts_SMsgDlgError
+Error closing \"%s\" - %s	关闭 \"%s\" 时发生错误 - %s	Streams_rs_CloseFileError
+Error creating variant or safe array	创建 variant 或 safe array 时发生错误	SysConst_SVarArrayCreate
+Error creating window class	创建窗体类时发生错误	Consts_SWindowClass
+Error creating window device context	创建 DC 时发生错误	Consts_SWindowDCError
+Error deleting \"%s\" - %s	删除 \"%s\" 时发生错误 - %s	Streams_rs_DeleteFileError
+Error in bitmap data	不规范的位图格式	AnalyzerPlugins_rsErrorInBitmapData	LinarBitmap_rsErrorInBitmapData
+Error in compressed data	不规范的压缩数据	Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	读入设置文件时发生错误: %s\r是否删除此设置文件？	Consts_SErrorLoadingFile
+Error moving file pointer - %s	移动文件句柄时发生错误 - %s	Streams_rs_SeekFileError
+Error moving stream pointer	移动数据流句柄时发生错误	MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	打开 \"%s\"时发生错误 - %s	Streams_rs_CreateFileError
+Error reading %s%s%s: %s	读取 %s%s%s时发生错误 - %s	RTLConsts_SPropertyException
+Error reading from stream - %s	读取数据流时发生错误 - %s	Streams_rs_ReadError
+Error removing control from dock tree	从停靠控件中删除时发生错误	Consts_SDockTreeRemoveError
+Error running Image Analyzer	图形分析时发生错误	PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	设置%s.Count时发生错误	Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s	截取文件 \"%s\"时发生错误 - %s	Streams_rs_TruncateFileError
+Error while trying to send e-mail	发送e-Mail时发生错误	EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	写入数据流时发生错误 - %s	Streams_rs_WriteError
+Esc	Esc	Consts_SmkcEsc
+Evaluate	求值	TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	求值 (F5)	TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	发现异常 %s，位于 %s 的 %p.\r\n%s%s\r\n	SysConst_SException
+Exception in safecall method	安全回调方法中出现异常	SysConst_SSafecallException
+Expand	展开	Consts_SExpand
+Export	导出	TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages	导出所有页面	DiagramExport_rsExportAllPages
+Export file DPI:	DPI 设置:	DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	导出为位图或图元文件	TMainForm: ExportAction.Hint
+Export page...	导出当前页(&E)...	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator	表达式求值	TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...	表达式求值(&E)...	TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	表达式为空	ExpressionEval_rsExpressionIsEmpty
+External exception %x	外部异常 %x	SysConst_SExternalException
+Extra = found	发现多余的 "=" 符号	ExpressionEval_rsExtraFound
+Failed to Load Stream	读取数据流失败	ComStrs_sRichEditLoadFail
+Failed to Save Stream	数据流存储失败	ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	为GIF DIB分配内存失败	GIFImage_sOutOfMemDIB
+Failed to clear tab control	清除标签控制项失败	ComStrs_sTabFailClear
+Failed to delete tab at index %d	从索引 %d 中删除失败	ComStrs_sTabFailDelete
+Failed to get data for '%s'	为'%s'读取数据失败	RTLConsts_SRegGetDataFailed
+Failed to get object at index %d	从索引中 %d 读取对象失败	ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	从数据流中读取ImageList数据失败	Consts_SImageReadFail
+Failed to retrieve tab at index %d	从索引 %d 中检索失败	ComStrs_sTabFailRetrieve
+Failed to set data for '%s'	设置数据 '%s' 失败	RTLConsts_SRegSetDataFailed
+Failed to set object at index %d	设置对象到索引 %d 时失败	ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d	设置tab \"%s\" 到索引 %d 时失败	ComStrs_sTabFailSet
+Failed to store GIF on clipboard	GIF图片导入剪贴板失败	GIFImage_sFailedPaste
+Failed to write ImageList data to stream	数据流写入ImageList失败	Consts_SImageWriteFail
+Feb	Feb	SysConst_SShortMonthNameFeb
+February	二朋	SysConst_SLongMonthNameFeb
+File	文件(&F)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	拒绝访问文件	SysConst_SAccessDenied
+File format associations	关联文件格式	TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	该文件是由较高版本的程序创建的。要读取此文件，请更新本程序。	DiagramBase_rsFileFromLaterProgramVersion
+File not found	文件未找到	SysConst_SFileNotFound
+Fill	填充(&F)	TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	填充颜色	TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Find text...	查找文字...	TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	发现X最小的表达	ExpressionEval_rsFindXThatMinimizesExpression
+First	首页(&F)	TSlideShowForm: FirstSlideItem.Caption
+Flip	颠倒(&F)	TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	零浮点除法	SysConst_SZeroDivide
+Floating point overflow	浮点溢出	SysConst_SOverflow
+Floating point underflow	浮点下溢	SysConst_SUnderflow
+Font	字体	TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	格式'%s'无效或参数不兼容	SysConst_SInvalidFormat
+Format string too long	格式字符串太长	SysConst_SFormatTooLong
+Fractional part of real number	实数的小数部分	ExpressionEval_rsFractionalPartOfRealNumber
+Fri	Fri	SysConst_SShortDayNameFri
+Friday	星期五	SysConst_SLongDayNameFri
+Fuchsia	紫红色	ExtCtrls_clNameFuchsia
+GIF Image	GIF图像文件	GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	高斯随机数, StdDev=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	常规	TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	获取打印机页面设置	TPagePropertiesForm: PrinterButton.Caption
+Global stencil	背景层(&G)	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	联结当前层中相邻对象的顶点	TMainForm: ConnectLinksAction.Hint
+Go to page	转到页码	TSlideShowForm: GoToPageItem.Caption
+Gradient color	渐变色	TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format	图形交换格式	GIFLoader_rsGIFImageFile
+Gray	灰色	ExtCtrls_clNameGray
+Gray Text	灰色文字	ExtCtrls_clNameGrayText
+Green	绿色	ExtCtrls_clNameGreen
+Grid (%s)	栅格 (%s)	DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	组合(&G)	TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines	组合必须包含连接线	GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	组合选定的对象	TMainForm: GroupAction.Hint
+Group selected objects in metafile object	组合选定的对象为图元	TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	GroupIndex cannot be less than a previous menu item's GroupIndex	Consts_SGroupIndexTooLow
+Guess undefined	Guess undefined	ExpressionEval_rsGuessUndefined
+HTML formatted color	HTML 格式颜色值	TextEditor_rsHTMLFormattedColor
+Halftone	取中间色	TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	高度	TPropertyEditorForm: Panel8.Caption
+Height:	高度:	TPagePropertiesForm: Label2.Caption
+Help	帮助(&H)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	帮助主题(&C)	TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	帮助标签	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	高亮背景色	ExtCtrls_clNameHighlight
+Highlight Text	高亮前景色	ExtCtrls_clNameHighlightText
+Highlight syntax	高亮语法关键词	TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.	按住Ctrl键保持高与宽的比例，Alt键忽略网格，Shift键以中心缩放。	Main_rsEditShapeHint
+Home	首页	Consts_SmkcHome
+Horizontal	横向	LinkEditor_rsHorizontal
+Horizontal 横向缩放		TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	横向文本对齐方式	TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.	我谨此感谢 %s 和使他们的软件库持续运行的人们。	Main_rsIWouldLikeToThank
+I/O error %d	I/O错误 %d	SysConst_SInOutError
+IO-error: %s	IO错误: %s	Streams_rs_IOError
+Icon image is not valid	无效的图标	Consts_SInvalidIcon
+Icons	图标	Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	如果你喜欢这个软件，请支持我的工作和计划的未来发展，文档和网站。#$0D您的资助将保持网站运行和对您的持续支持。	TPleaseSupportForm: Label1.Caption
+Ignore all	全部忽略(&I)	TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	图像超越逻辑屏幕尺寸	GIFImage_sScreenSizeExceeded
+Image has no DIB	图片没有DIB（设备无关点位图）	GIFImage_sNoDIB
+Image height too small for contained frames	图片高度太小	GIFImage_sBadHeight
+Image is empty	图像为空	GIFImage_sEmptyImage
+Image is too large for icon	图片过大	ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	图片宽度太小	GIFImage_sBadWidth
+Inactive Border	无效的边框	ExtCtrls_clNameInactiveBorder
+Inactive Caption	无效的标题	ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	无效的标题文本	ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	在资源浏览器中显示文件的描述而不仅仅是简单的 "XXX File"	TFormatAssociateForm: DescriptionBox.Hint
+Info Background	背景信息	ExtCtrls_clNameInfoBk
+Info Text	信息文字	ExtCtrls_clNameInfoText
+InfoLabel	信息标签	TAboutBox: InfoLabel.Caption
+Information	信息	Consts_SMsgDlgInformation
+Inner bounds	向内限制	TPropertyEditorForm: InnerBoundsBox.Caption
+Ins	Ins	Consts_SmkcIns
+Insert inherited layer...	插入复本层(&N)...	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	从文件插入图象	TMainForm: InsertPictureAction.Hint
+Insert picture...	插入图象(&I)...	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text	插入文字	TMainForm: DrawTextAction.Caption
+Integer overflow	整型溢出	SysConst_SIntOverflow
+Interface not supported	不支持的接口	SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label	内部错误：扩展实例不匹配扩展标签	GIFImage_sBadExtensionInstance
+Internet help page	Internet 帮助页面	TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Internet:	Internet:	TAboutBox: Label3.Caption
+Invalid GIF data	无效的GIF文件数据	GIFImage_sInvalidData
+Invalid GIF signature	无效的GIF标识	GIFImage_sBadSignature
+Invalid Image trailer	无效的图片文件尾标	GIFImage_sBadTrailer
+Invalid ImageList	无效的图片列表	Consts_SInvalidImageList
+Invalid ImageList Index	无效的图片列表索引	Consts_SImageIndexError
+Invalid NULL variant operation	无效的NULL变量操作	SysConst_SInvalidVarNullOp
+Invalid PNG data	无效的PNG文件数据	PNGLoader_rsInvalidPNGData
+Invalid PNG header	无效的PNG文件头部	PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions	无效的alpha通道格式或类型	PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	无效的参数	SysConst_SVarInvalid
+Invalid binary number	无效的二进制数值	ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	无效的位图文件尺寸	LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	无效的缓存尺寸	BufStream_rsInvalidBufferSize
+Invalid class typecast	无效的类型模式	SysConst_SInvalidCast
+Invalid clipboard format	无效的剪贴板格式	Consts_SInvalidClipFmt
+Invalid color index	无效的颜色索引	GIFImage_sBadColorIndex
+Invalid data type for '%s'	无效的数据类型 '%s'	RTLConsts_SInvalidRegType
+Invalid diagram	无效的图表	DiagramBase_rsInvalidDiagram
+Invalid extension introducer	无效的扩展名说明	GIFImage_sBadExtensionLabel
+Invalid filename	无效的文件名	SysConst_SInvalidFilename
+Invalid floating point operation	无效的浮点运算	SysConst_SInvalidOp
+Invalid image dimensions	无效的图片尺寸	GIFImage_sBadDimension
+Invalid image size	无效的图片尺寸	Consts_SInvalidImageSize
+Invalid index	无效的索引	ComStrs_sInvalidIndex
+Invalid number format	无效的数字格式	ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	图像描述中定义了无效的颜色	GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	屏幕描述中定义了无效的颜色	GIFImage_sScreenBadColorSize
+Invalid numeric input	无效的数值输入	SysConst_SInvalidInput
+Invalid numeric value	无效的数值量	Consts_SInvalidNumber
+Invalid owner	无效的所有者	ComStrs_sInvalidOwner
+Invalid pixel coordinates	无效的点坐标	GIFImage_sBadPixelCoordinates
+Invalid pixel format	无效的像素格式	Consts_SInvalidPixelFormat
+Invalid pointer operation	无效的节点操作	SysConst_SInvalidPointer
+Invalid property path	无效的属性路径	RTLConsts_SInvalidPropertyPath
+Invalid property value	无效的属性值	RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	无效的压缩方式	GIFImage_sInvalidReduction
+Invalid stream format	无效的数据流格式	RTLConsts_SInvalidImage
+Invalid stream operation	无效的数据流操作	GIFImage_sInvalidStream
+Invalid template palette	无效的模板	TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	无效的变量操作	SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	无效的变量操作 (%s%.8x)\n%s	SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	无效的变量类型	SysConst_SVarBadType
+Invalid variant type conversion	无效的变量类型转换	SysConst_SInvalidVarCast
+Italic	斜体	TextEditor_rsItalic
+Item %s has subitems, delete anyway?	项目 %s 拥有子项，确定删除？	Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	项目 %s 不允许移动	Consts_SMoveNotAllowed
+JPEG Image File	JPEG图片文件	JConsts_sJPEGImageFile
+JPEG error #$23%d	JPEG错误 #$23%d	JConsts_sJPEGError
+Jan	Jan	SysConst_SShortMonthNameJan
+January	一月	SysConst_SLongMonthNameJan
+Joint Picture Expert Group	联合图像专家组	JPEGLoader_rsJPEGImageFile
+Jul	Jul	SysConst_SShortMonthNameJul
+July	七月	SysConst_SLongMonthNameJul
+Jun	Jun	SysConst_SShortMonthNameJun
+June	六月	SysConst_SLongMonthNameJun
+Known image formats	已知图象格式	Main_rsKnownImageFormats
+LabelCode1	代码标签1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	代码标签2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	说明标签1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	说明标签2	TTextEditorForm: LabelDescription2.Caption
+Language:	语言:	TSpellCheckForm: Label5.Caption
+Last	末页(&L)	TSlideShowForm: LastSlideItem.Caption
+Layer	层	TMainForm: LayerTabSet.Hint
+Layer %d	第 %d 层	Main_rsLayerD
+Layer &1	第 &1 层	TMainForm: EditLayer1Action.Caption
+Layer &2	第 &2 层	TMainForm: EditLayer2Action.Caption
+Layer &3	第 &3 层	TMainForm: EditLayer3Action.Caption
+Layer number:	层号:	Main_rsLayerNumber
+Layout	布局	TPropertyEditorForm: Panel18.Caption
+Left	左对齐(&L)	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	居左#$0D居中#$0D居右#$0D遮挡左边框#$0D遮挡右边框#$0D	TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point	点击鼠标左右键，增加点	Main_rsLeftRightClickToAddPoint
+Legacy	影响	PropertyEditor_rsLegacy
+Lime	黄绿色	ExtCtrls_clNameLime
+Line color	线条颜色	TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	线条终点	TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments	线段	PropertyEditor_rsLineSegments
+Line start	线条起点	TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	线条风格	TPropertyEditorForm: Panel20.Caption
+Line width	线条宽度	Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	顶点编辑	TLinkEditorForm: LinkEditorForm.Caption
+Link positions	顶点位置	TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	List容量超出范围(%d)	RTLConsts_SListCapacityError
+List count out of bounds (%d)	List计数超出范围(%d)	RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	List不能重复定义($0%x)	RTLConsts_SDuplicateItem
+List index out of bounds (%d)	List索引超出范围(%d)	StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count	为了计数，Listbox (%s)必需是可见的	Consts_SListBoxMustBeVirtual
+Load template palette	读入模板(&L)	TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library	从库中读入模板	TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	读入模板(&L)...	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	读取中...	GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	查看:	TSpellCheckForm: LookUpLabel.Caption
+MainForm	主窗口	TMainForm: MainForm.Caption
+Make palette from active layer	保存当前层为模板(&M)	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many	许多	LineObject_rsMany
+Mar	Mar	SysConst_SShortMonthNameMar
+March	三月	SysConst_SLongMonthNameMar
+Margin for non-centered text	针对非居中文本的边距	TPropertyEditorForm: Panel21.Hint
+Maroon	深褐色	ExtCtrls_clNameMaroon
+Max 16 bits in binary number	最大16位二进制数	ExpressionEval_rsMax16BitsInBinaryNumber
+Max=	Max=	TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	撤消/重复 最大次数	TDesignerSetupForm: UndoHistoryEdit.Hint
+May	可以	SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	Medium Gray	ExtCtrls_clNameMedGray
+Menu	目录	TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	目录'%s'已被其它窗口使用	Consts_SDuplicateMenus
+Menu Background	Menu Background	ExtCtrls_clNameMenu
+Menu Text	目录文字	ExtCtrls_clNameMenuText
+Menu index out of range	目录索引范围超出	Consts_SMenuIndexError
+Menu inserted twice	目录插入两次	Consts_SMenuReinserted
+Menu search		TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	元文件	TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	元文件无效	Consts_SInvalidMetafile
+Metafiles	元文件集	Consts_SVMetafiles
+Michael Vinther	迈克尔·文特纳	TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	毫米#$0D厘米#$0D英寸#$0D像素#$0D300 DPI#$0D600 DPI#$0D	TDesignerSetupForm: UnitsBox.Items.Strings
+Min=	Min=	TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	表达式中x的最小值	ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	镜象(&M)	TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	Mon	SysConst_SShortDayNameMon
+Monday	星期一	SysConst_SLongDayNameMon
+Money Green	美钞绿	ExtCtrls_clNameMoneyGreen
+More Buttons	更多按钮	Consts_SMoreButtons
+Move canvas	浏览	TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	当标签位置在最左或最右时，必须为多行模式	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	多媒体网络图形格式	PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	该特征必须为多选模式	Consts_SMultiSelectRequired
+N&o to All	全部选否(&N)	Consts_SMsgDlgNoToAll
+Name	名称	TPropertyEditorForm: Panel1.Caption
+Name expected	名称预设	ExpressionEval_rsNameExpected
+Navy	藏青色；海蓝色	ExtCtrls_clNameNavy
+New diagram	新建图表	TMainForm: NewAction.Hint
+New line	换行	TextEditor_rsNewLine
+New page	新建页面(&N)	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	新建(&N)...	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	下一个(&N)	TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	当前规则中没有ActionBand style unit.\r你的应用中如需使用规则，必须包含XPStyleActnCtrls, StdStyleActnCtrls或一个第三方ActionBand style unit。	Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	未分配OnGetItem事件句柄	Consts_SNoGetItemEventHandler
+No argument for format '%s'	没有参数的格式 '%s'	SysConst_SArgumentMissing
+No context-sensitive help installed	未安装相关的上下文	HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	未安装词典文件/未设置词典文件路径	Main_rsNoDictionariesFound
+No files found	未找到文件	Main_rsNoFilesFound
+No global or local color table defined	未定义公共或私有颜色索引表	GIFImage_sNoColorTable
+No help found for %s	没有找到关于 %s 的帮助内容。	HelpIntfs_hNothingFound
+No help keyword specified.	未指定查找关键词.	WinHelpViewer_hNoKeyword
+No icons in file	文件中无图标	ICOLoader_rsNoIconsInFile
+No more points allowed	已达到可定义顶点数目上限	LineObject_rsNoMorePointsAllowed
+No objects in active layer	当前层中无对象	Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	没有找到解决方案，试一下其它方式。	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	没有安装主题的系统帮助	HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	没有版本信息与被请求的文件关联 \"%s\"	VersionInfo_rs_noversioninfo
+None	空的	ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	没有足够的次数	Consts_SNoTimers
+Not in dictionary:	不在词典中:	SpellChecker_rsNotInDictionary
+Note that closing tags are not required	注意：关闭标签不是必需的	TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.	注意：该操作无法撤消，并且，在卸载本程序之后已注册的文件格式无法恢复。	TFormatAssociateForm: Label1.Caption
+Note that writing of files with multiple icons is not supported.	注意：不支持写入包含多个图标的文件。	TIconSelectionForm: Label1.Caption
+Nov	Nov	SysConst_SShortMonthNameNov
+November	十一月	SysConst_SLongMonthNameNov
+OK	确定(&O)	TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	对象(&O)	TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	对象属性	TMainForm: PropertiesAction.Hint
+Object type not supported for operation	对象类型不支持该操作	GIFImage_sUnsupportedClass
+Object:	对象:	TSpellCheckForm: Label2.Caption
+Objects cast shadows	对象加投影	TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages	本层所有对象在所有页中显示	TMainForm: EditStencilAction.Hint
+Oct	Oct	SysConst_SShortMonthNameOct
+October	十月	SysConst_SLongMonthNameOct
+Odd rounded 1	多边型1	FlowchartObject_rsOddRounded1
+Odd rounded 2	多边型2	FlowchartObject_rsOddRounded2
+Olive	橄榄绿	ExtCtrls_clNameOlive
+Opacity	透明度	TPropertyEditorForm: Panel24.Caption
+Open	打开	Main_rsOpen
+Open in new window...	在新窗口中打开(&I)...	TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	打开(&O)...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	操作已中断	SysConst_SOperationAborted
+Operation not allowed on sorted list	不允许在排序的列表操作	RTLConsts_SSortedListError
+Operation not allowed on sorted string list	不允许进行字符串排序列表操作	StringLists_rsSortedListError
+Operation not supported	操作不支持	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	选定打印机不支持该操作	Consts_SInvalidPrinterOp
+Operator expected	未发现操作符	ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	操作符:\n&\t逻辑与\n|\t逻辑或\n=\t等于\n#$23\t不等于\n>\t大于\n<\t小于\n+\t加\n-\t减\n*\t乘\n/\t除\n%\t取模\n^\tn次方\n\n定义符:\n:Name = Value;\n:Func(x) = Expression;	ExpressionHelp_rsExpressionHelp
+Optimizing...	优化...	GIFImage_sProgressOptimizing
+Options	选项	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	内存溢出	SysConst_SOutOfMemory
+Out of memory while expanding memory stream	导出内存数据流时内存溢出	RTLConsts_SMemoryStreamError
+Out of system resources	系统资源耗尽	Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	变量从(%s)型转换为(%s)型时溢出	SysConst_SVarTypeConvertOverflow
+Overline	上划线	TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	是否用当前层中的对象覆盖模板内容？	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	第 %d 页	DiagramBase_rsPageD
+Page count	页号	TextEditor_rsPageCount
+Page number	页码	TextEditor_rsPageNumber
+Page number:	页码:	SlideShow_rsPageNumber
+Page p%s layer %d	页码 p%s 层 %d 	PictureObject_rsPagePSLayerD
+Page properties	页面属性	TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	页面属性(&P)...	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title	页面标题	TextEditor_rsPageTitle
+Page title (empty for auto):	页面标题(置空自动命名):	RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	不能指定为'%s'的上一级	Consts_SParentGivenNotAParent
+Paste	粘贴(&P)	TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	选择性粘贴(&A)	TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	下一页	Consts_SmkcPgDn
+PgUp	上一页	Consts_SmkcPgUp
+Please support %s	请支持 %s	TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	表达式的图形表示	ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	表达	TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	必须为多边形定义至少两个顶点	GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note	弹出信息	TextEditor_rsPopupNote
+Portable Network Graphics	便携式网络图形	PNGLoader_rsPNGImageFile
+Premature end of data	数据提前结束	GIFImage_sOutOfData
+Preview mode	预览模式(&V)	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available	预览不可用	DialogsEx_rsPreviewNotAvailable
+Previous	前一个(&P)	TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap	按点阵打印	TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%	打印缩放至：%d%%	PrintDiagram_rsPrintScalingSetToD
+Print scaling:	打印缩放：	TDesignerSetupForm: Label7.Caption
+Print...	打印(&T)...	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	打印机处于空闲状态	Consts_SNotPrinting
+Printer selected is not valid	选定的打印机无效	Consts_SInvalidPrinter
+Printing in progress	正在打印	Consts_SPrinting
+Privileged instruction	特权指令	SysConst_SPrivilege
+Process failed: %d	处理失败: %d	AnalyzerPlugins_rsProcessFailedD
+ProductName	产品名称	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.	请重新启动程序以使设置生效。	LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	属性	TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	属性(&P)...	TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	属性值 %s 不存在	RTLConsts_SUnknownProperty
+Property is read-only	属性值为只读	RTLConsts_SReadOnlyProperty
+Purple	Purple	ExtCtrls_clNamePurple
+Radius of corner arc	角圆弧半径	TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	随机数[0;x[	ExpressionEval_rsRandomNumberIn0X
+Range check error	范围检查出错	SysConst_SRangeError
+Range:	范围:	TExpressionPlotForm: Label1.Caption
+Read	读取	SysConst_SReadAccess
+Read beyond end of file	读取超过文件结束	SysConst_SEndOfFile
+Read less than expected	读取少于预期	Streams_rs_ReadLessError
+Rearrange pages	重新排列页面	TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	重新排列页面(&R)...	TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	递归引用	ExpressionEval_rsRecursiveReference
+Red	Red	ExtCtrls_clNameRed
+Redo	重复(&R)	Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	相对页码(-1 = 前一页):	Main_rsRelativePageNumber1PreviousPage
+Reload	重新加载(&R)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?	重新加载将丢失所有变更，是否继续？	Main_rsReloadAndLoseChanges
+Rename	重命名(&R)	TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.	渲染所有对象到图像文件并打印。这对有些打印机正确处理透明度和渐变填充是必要的。	TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	渲染...	GIFImage_sProgressRendering
+Reorder or delete pages	重新排序/删除页面	TMainForm: ReorderPagesAction.Hint
+Replace	替换(&R)	TSpellCheckForm: ReplaceButton.Caption
+Reset Toolbar	重置工具栏	Consts_SResetActionToolBar
+Reset symbol table	重置符号表	TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	未找到资源 %s	RTLConsts_SResNotFound
+RichEdit line insertion error	编辑器插入行错	ComStrs_sRichEditInsertError
+Right	右对齐(&R)	Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear	右击鼠标清除	Main_rsRightClickToClear
+Root of expression in x	开平方根x	ExpressionEval_rsRootOfExpressionInX
+Rotate	旋转(&R)	Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180?旋转 180 度(&O)	TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270?旋转 270 度(&T)	TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90?旋转 90 度(&R)	TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	逆时针旋转选定的对象。所有类型对象都支持该操作。	TMainForm: RotateAction.Hint
+Rotation angle	旋转角度	Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	舍入为整数	ExpressionEval_rsRoundToNearestInteger
+Rounded 1	转角1	FlowchartObject_rsRounded1
+Rounded 2	转角2	FlowchartObject_rsRounded2
+Rounded 3	转角3	FlowchartObject_rsRounded3
+Rounds toward negative infinity	轮向负无穷大	ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	轮到正无穷大	ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	Sat	SysConst_SShortDayNameSat
+Saturday	星期六	SysConst_SLongDayNameSat
+Save	保存(&S)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	另存为(&A)...	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	保存模板(&S)...	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	保存...	GIFImage_sProgressSaving
+Scan line index out of range	扫描线走出范围	Consts_SScanLine
+Scroll Bar	滚动条	ExtCtrls_clNameScrollBar
+Scrollbar property out of range	滚动条超出范围	Consts_SScrollBarRange
+Seeking not supported	操作不支持	DelphiStream_rsSeekingNotSupported
+Select all	全选(&S)	TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	选择剪贴板格式:	TPasteSpecialForm: Label1.Caption
+Select icon to import from file	请选择要导入的图标	TIconSelectionForm: IconSelectionForm.Caption
+Select program language	选择语言	TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report	发送错误报告	StyleForm_rsSendBugReport
+Send to back	降低显示优先级(&S)	TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	Sep	SysConst_SShortMonthNameSep
+Separator	分隔	Consts_SSeparator
+Separator line	分隔线	TextEditor_rsSeparatorLine
+September	九月	SysConst_SLongMonthNameSep
+Set	设置	TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	设置图表字体	TMainForm: DiagramFontAction.Hint
+Set dictionary path	设置词典文件路径	TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name	设置字体名称	TextEditor_rsSetFontByName
+Set layer color...	设置图层颜色(&S)...	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	设置语言	TDesignerSetupForm: LanguageButton.Caption
+Shift+	Shift+	Consts_SmkcShift
+Show grid	显示网格线(&G)	TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	显示对象树(&H)	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins	显示打印边距	TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer	在设计页面中显示打印边距	TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	启动时显示该信息	TPleaseSupportForm: CheckBox1.Caption
+Side bars	侧边栏	FlowchartObject_rsSideBars
+Silver	银色	ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	从剪贴板拷贝到其他程序时的图表尺寸。	TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size		TDesignerSetupForm: PrintScalingEdit.Hint
+Skip	忽略	FormatAssociation_rsSkip
+Skip symbols	忽略符号	TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	忽略包含数字的词、单个字母和大写词语。	TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	天蓝色	ExtCtrls_clNameSkyBlue
+Slant left	向左倾斜	FlowchartObject_rsSlantLeft
+Slant right	向右倾斜	FlowchartObject_rsSlantRight
+Slide show	幻灯片(&L)	TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid#$0D贩贩贩贩贩贩贩贩?$0D?????????$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-????????#$0D--?-?-?-?-?-#$0D-- - -- - -- - --#$0D========#$0D	实线#$0D虚线1#$0D虚线2#$0D虚线3#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D省/州边界线#$0D国际日期变更线#$0D-- - -- - -- - --#$0D========#$0D	TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	解方程中的X	ExpressionEval_rsSolveEquationInX
+Space	空格	Consts_SmkcSpace
+Spell check	拼写检查	TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	拼写检查已完成。	SpellChecker_rsSpellCheckComplete
+Spell checker...	拼写检查(&L)...	TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	平方根	ExpressionEval_rsSquareRoot
+Stack overflow	规模溢出	SysConst_SStackOverflow
+Standard function	标准功能	ExpressionHelp_rsStandardFunction
+Stop	停止(&S)	LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	数据流写操作文件未打开	Deflate_rsWriteDenied
+Stream read error	数据流读取错误	RTLConsts_SReadError
+Stream write error	数据流写错误	RTLConsts_SWriteError
+Strikeout	失败	TextEditor_rsStrikeout
+String list does not allow duplicates	列表中不能重复定义字符串	StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	风格	TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	子菜单不在主菜单中	Consts_SMenuNotFound
+Subscript	下标	TextEditor_rsSubscript
+Suggestions:	建议:	TSpellCheckForm: Label4.Caption
+Sun	Sun	SysConst_SShortDayNameSun
+Sunday	星期日	SysConst_SLongDayNameSun
+Superscript	上标	TextEditor_rsSuperscript
+Support Diagram Designer...	支持 Diagram Designer ...	TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	符号	TExpressionEvalForm: ListView.Caption
+Symbol font	符号字体	TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	系统错误。错误代码: %d.\r\n%s	SysConst_SOSError
+Tab	Tab	Consts_SmkcTab
+Tab index out of bounds	Tab走出索引范围	Consts_SInvalidTabIndex
+Tab position incompatible with current tab style	此位置将无法使用此样式	Consts_SInvalidTabPosition
+Tab style incompatible with current tab position	指定样式无法用于此位置	Consts_SInvalidTabStyle
+Teal	Teal	ExtCtrls_clNameTeal
+Template palette	模板面板(&M)	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	模板面板 - 从此处拖放对象到图表	TMainForm: TemplateScrollBox.Hint
+Terminate application	终止应用程序	StyleForm_rsTerminateApplication
+Text	文本	Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation	文字和图元旋转	TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	文字颜色	TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	文本块大小超出范围	Consts_SInvalidMemoSize
+Text formatting codes:	文本格式化标识符:	TTextEditorForm: Label1.Caption
+Text margin	文字边距	TPropertyEditorForm: Panel21.Caption
+Text not found	无文字	Main_rsTextNotFound
+Text:	文字:	TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	没有选定默认的打印机	Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	该组件需要 COMCTL32.DLL 4.70 版本及以上方能正常工作。	ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)	线程错误: %s (%d)	RTLConsts_SThreadError
+Thread creation error: %s	线程创建错误: %s	RTLConsts_SThreadCreateError
+Three-digit font size	三位数字体大小	TextEditor_rsThreeDigitFontSize
+Thu	Thu	SysConst_SShortDayNameThu
+Thursday	星期四	SysConst_SLongDayNameThu
+Title	标题	TQuickMenuSearchForm: ListView.Caption
+Too few lines to create polygon	直线数目过少，不能创建多边形。	GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	打开文件数目过多	SysConst_STooManyOpenFiles
+Top	顶端对齐(&T)	TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	顶端对齐#$0D居中#$0D底部对齐#$0D	TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color	透明色	TIconSelectionForm: TransparentButton.Caption
+Transparent color key	透明色键	TPropertyEditorForm: Panel25.Caption
+Tue	Tue	SysConst_SShortDayNameTue
+Tuesday	星期二	SysConst_SLongDayNameTue
+Turn mouse wheel to change	滚动鼠标滚轮选择	Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size	滚动鼠标滚轮改变大小	Main_rsUseMouseWheelToChangeSize
+UML has a	UML已	LineObject_rsUMLHasA
+UML is a	UML是	LineObject_rsUMLIsA
+Unable to Replace Image	无法替换图片	Consts_SReplaceImage
+Unable to close file	无法关闭文件	AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	无法建立目录	SysConst_SCannotCreateDir
+Unable to evaluate guess:	不合逻辑:	ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	无法找到内容数据表	HelpIntfs_hNoTableOfContents
+Unable to insert a line	无法插入直线	Consts_SInsertLineError
+Unable to insert an item	无法插入项目	ComStrs_sInsertError
+Unable to open file	无法打开文件	AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	无法保存设置	Consts_SUnableToSaveSettings
+Undefined	未定义	ExpressionEval_rsUndefined
+Undefined symbol:	未定义的符号:	ExpressionEval_rsUndefinedSymbol
+Underline	下划线	TextEditor_rsUnderline
+Undo	撤消	Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	最大撤消次数:	TDesignerSetupForm: Label3.Caption
+Unexpected character:	意外字符:	ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	意外变量错误	SysConst_SVarUnexpected
+Ungroup	打散(&U)	TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	打散当前对象	TMainForm: UngroupAction.Hint
+UnitLabel1	单元标签1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	单元标签2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	单位:	TDesignerSetupForm: Label5.Caption
+Unknown GIF block type	未知的GIF区块类型	GIFImage_sBadBlock
+Unknown extension type	未知扩展类型	GIFImage_sUnknownExtension
+Unknown seek origin	未知来源	DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	不支持的扩展应用区块大小	GIFImage_sBadBlockSize
+Unsupported GIF version	不支持的GIF版本	GIFImage_sBadVersion
+Unsupported PNG data	不支持的PNG格式	PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	不支持的点阵格式	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	不支持的位图格式	LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	不支持的剪贴板格式	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	不支持的文件格式	LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	不支持的像素格式	AnalyzerPlugins_rsUnsupportedPixelFormat	LinarBitmap_rsInvalidPixelFormat
+Up	向上	Consts_SmkcUp
+Value expected	值已请求	ExpressionEval_rsValueExpected
+Value must be integer	输入值必须为整数	ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	输入值不在允许范围内: [%s - %s]	ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported	不支持的方法调用	SysConst_SDispatchError
+Variant or safe array index out of bounds	变量或数组超出索引范围	SysConst_SVarArrayBounds
+Variant or safe array is locked	变量或数组已锁定	SysConst_SVarArrayLocked
+Variant overflow	变量溢出	SysConst_SVarOverflow
+Version	版本	TAboutBox: Version.Caption
+Vertical	纵向	LinkEditor_rsVertical
+Vertical scaling	纵向缩放	TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	纵向对齐方式	TPropertyEditorForm: Panel4.Caption
+Warning	警告	Consts_SMsgDlgWarning
+Wed	周三	SysConst_SShortDayNameWed
+Wednesday	星期三	SysConst_SLongDayNameWed
+What can I do?	我能做什么？	TPleaseSupportForm: Label2.Caption
+White	白色	ExtCtrls_clNameWhite
+Width	宽度	TPropertyEditorForm: Panel9.Caption
+Width:	宽度:	TPagePropertiesForm: Label1.Caption
+Window Background	窗体背景色	ExtCtrls_clNameWindow
+Window Frame	窗体框架	ExtCtrls_clNameWindowFrame
+Window Text	窗体文字颜色	ExtCtrls_clNameWindowText
+Windows Enhanced metafile	Windows增强型图元文件	WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Windows位图	BMPLoader_rsWindowsBitmap
+Windows cursor	Windows光标	ICOLoader_rsWindowsCursor
+Windows icon	Windows图标	ICOLoader_rsWindowsIcon
+Windows metafile	Windows图元文件	WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	您是想重置为默认优先列表？	Consts_SRestoreDefaultSchedule
+Write	写	SysConst_SWriteAccess
+X:	X:	TDesignerSetupForm: Label1.Caption
+Y:	Y:	TDesignerSetupForm: Label2.Caption
+Yellow	黄色	ExtCtrls_clNameYellow
+Yes to &All	全部选是(&A)	Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	该项目不允许移除	Consts_SDeleteNotAllowed
+Zoom	缩放	TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft笔刷	PCXLoader_rsPCXImageFile
+add %s	添加 %s	Main_rsAddS
+add point	添加顶点	Main_rsAddPoint
+e-mail	e-mail	TAboutBox: EMailLabel.Caption
+edit properties	编辑属性	Main_rsEditProperties
+http://logicnet.dk/mail.php	http://logicnet.dk/mail.php	TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk	http://meesoft.logicnet.dk	TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	支持 Diagram Designer	TMainForm: SupportAction.Hint
+move	移动	Main_rsMove
+rename	重命名	Main_rsRename
+size	尺寸	Main_rsSize
+?Develop plugins	为本软件编写插件	TPleaseSupportForm: Label7.Caption
+?Help improve the documentation	帮助文档	TPleaseSupportForm: Label5.Caption
+?The easiest is to make a donation	最容易的方式是提供一笔捐助	TPleaseSupportForm: Label3.Caption
+?Translate the program to your language	将本软件翻译为你的母语	TPleaseSupportForm: Label6.Caption
+?points	点	Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption
+mm	毫米	DesignerSetup_rsMm
+cm	厘米	DesignerSetup_rsCm
+"	"	DesignerSetup_rsInches 
+points	点	DesignerSetup_rsPoints
+dots	点	DesignerSetup_rsDots
+DefaultCharset	134

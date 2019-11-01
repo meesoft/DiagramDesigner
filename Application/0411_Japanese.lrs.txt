@@ -1,0 +1,814 @@
+ - Dock zone has no control	 - Dock zone has no control	Consts_SDockZoneHasNoCtl
+ - Dock zone not found	 - Dock zone not found	Consts_SDockZoneNotFound
+%d files selected	%dŒÂ‚Ìƒtƒ@ƒCƒ‹‚ğ‘I‘ğ	DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	ComStrs_sPageIndexError
+%d link points defined	%dŒÂ‚ÌƒŠƒ“ƒNƒ|ƒCƒ“ƒg	PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s(%s %ds–Ú)	SysConst_SAssertError
+%s does not allow hiding	%s‚Í”ñ•\¦‚É‚Í‚Å‚«‚Ü‚¹‚ñ	Consts_SCannotHideActionBand
+%s expected	%s‚ª•K—v‚Å‚·	ExpressionEval_rsSExpected
+%s not found	%s‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	ExpressionEval_rsSNotFound
+%s not in a class registration group	%sƒNƒ‰ƒX“o˜^ƒOƒ‹[ƒv‚É‘¶İ‚µ‚Ü‚¹‚ñ	RTLConsts_SUnknownGroup
+%s on %s	%s(%s)	Consts_SDeviceOnPort
+%s property out of range	%s‚ª”ÍˆÍŠO‚Å‚·	Consts_SPropertyOutOfRange
+%s.Seek not implemented	%sSeek‚ªÀs‚Å‚«‚Ü‚¹‚ñB	RTLConsts_SSeekNotImplemented
+&Abort	’†~(&A)	Consts_SMsgDlgAbort
+&Add or Remove Buttons	’Ç‰Á/íœ(&A)	Consts_SAddRemoveButtons
+&All	‚·‚×‚Ä(&A)	Consts_SMsgDlgAll	Consts_SAllButton
+&Close	•Â‚¶‚é(&C)	Consts_SCloseButton
+&Help	ƒwƒ‹ƒv(&H)	Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	–³‹(&I)	Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	‚¢‚¢‚¦(&N)	Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	Äs(&R)	Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start	ŠJn(&S)	SpellChecker_rsStart
+&Yes	‚Í‚¢(&Y)	Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value		SysConst_SInvalidFloat
+'%s' is not a valid integer value	"%s"‚Í®”‚Å‚Í‚ ‚è‚Ü‚¹‚ñ	SysConst_SInvalidInteger
+''%s'' is not a valid component name	ƒRƒ“ƒ|[ƒlƒ“ƒg–¼‚É"%s"‚Íg‚¦‚Ü‚¹‚ñ	RTLConsts_SInvalidName
+(No Name)		Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	3ŸŒ³‚Ì”Z‚¢‰e	ExtCtrls_clName3DDkShadow
+3D Light	3ŸŒ³‚Ì”–‚¢‰e	ExtCtrls_clName3DLight
+<unknown>		SysConst_SUnknown
+= or ( expected	=‚©(‚Å‚ ‚é•K—v‚ª‚ ‚è‚Ü‚·	ExpressionEval_rsOrExpected
+A call to an OS function failed	API‚ÌŒÄ‚Ño‚µ‚É¸”s‚µ‚Ü‚µ‚½	SysConst_SUnkOSError
+A class named %s already exists	ƒNƒ‰ƒX–¼%s‚ÍŠù‚É‘¶İ‚µ‚Ü‚·	RTLConsts_SDuplicateClass
+A component named %s already exists	ƒRƒ“ƒ|[ƒlƒ“ƒg–¼%sŠù‚Ég‚í‚ê‚Ä‚¢‚Ü‚·	RTLConsts_SDuplicateName
+A control cannot have itself as its parent	ƒRƒ“ƒgƒ[ƒ‹‚Í©•ª©g‚ğe‚Æ‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ	Consts_SControlParentSetToSelf
+Abort	’†’f	Consts_SAbortButton
+About	DiagramDesigner‚É‚Â‚¢‚Ä	TAboutBox: AboutBox.Caption
+About...	DiagramDesigner‚É‚Â‚¢‚Ä(&A)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	Abstract Error	SysConst_SAbstractError
+Active Border	ƒAƒNƒeƒBƒuƒ{[ƒ_[	ExtCtrls_clNameActiveBorder
+Active Caption	ƒAƒNƒeƒBƒuƒLƒƒƒvƒVƒ‡ƒ“	ExtCtrls_clNameActiveCaption
+Add	’Ç‰Á(&A)	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	ƒeƒ“ƒvƒŒ[ƒg‚É’Ç‰Á(&T)	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	ƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg‚ÖƒIƒuƒWƒFƒNƒg‚ğ’Ç‰Á	TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation		TMainForm: PagePropertiesAction.Hint
+Adler32 error	Adler32 error	Adler32_rsAdler32Error
+Align	®—ñ(&A)	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group		TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	‚·‚×‚Ä‚ÌƒOƒ‹[ƒvã‚ÌƒIƒuƒWƒFƒNƒg‚Í’Pü‚Å‚È‚­‚Ä‚Í‚È‚è‚Ü‚¹‚ñ	GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+		Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	An error occurred while reading the FixedFileInfo structure from the file.	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	Œ¾Œê/•¶šƒZƒbƒg‚Ì“Ç‚İ‚İ’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½	VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	Œp³Œ³‚Ì%s ‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	RTLConsts_SAncestorNotFound
+Anchors	ƒAƒ“ƒJ[	TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group	ƒOƒ‹[ƒv‚ÌƒTƒCƒY•ÏX‚ÉƒAƒ“ƒJ[‚ªg‚í‚ê‚Ü‚·	TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing	ƒAƒ“ƒ`ƒGƒCƒŠƒAƒX	TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export	ƒXƒ‰ƒCƒhƒVƒ‡[Eƒrƒbƒgƒ}ƒbƒvo—Í‚ÉƒAƒ“ƒ`ƒGƒCƒŠƒAƒX‚ğs‚¤	TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	Šp“x“ü—Í(&I)	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	ƒAƒvƒŠƒP[ƒVƒ‡ƒ“ƒGƒ‰[	SysConst_SExceptTitle
+Application Workspace	ƒAƒvƒŠƒP[ƒVƒ‡ƒ“ƒ[ƒNƒXƒy[ƒX	ExtCtrls_clNameAppWorkSpace
+Apply to all pages	‚·‚×‚Ä‚Ìƒy[ƒW‚É“K—p	TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	4	SysConst_SShortMonthNameApr
+April	4Œ	SysConst_SLongMonthNameApr
+Aqua	…F	ExtCtrls_clNameAqua
+Arrow 1		LineObject_rsArrow1
+Arrow 2		LineObject_rsArrow2
+Arrow 3		LineObject_rsArrow3
+Assertion failed	ƒAƒT[ƒVƒ‡ƒ“¸”s	SysConst_SAssertionFailed
+Associate file formats with	ƒtƒ@ƒCƒ‹‚ğŠÖ˜A•t‚¯‚éF	TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	‘I‘ğ‚µ‚½ƒtƒ@ƒCƒ‹Œ`®‚ğƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A•t‚¯‚é	TFormatAssociateForm: AssociateButton.Hint
+Aug	8	SysConst_SShortMonthNameAug
+August	8Œ	SysConst_SLongMonthNameAug
+Auto connect to link points		TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break		TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes		TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects		TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled		TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging		TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	”wŒi	ExtCtrls_clNameBackground
+Ball		LineObject_rsBall
+Base 10 logarithm	í—p‘Î”	ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	2‚Ì‘Î”	ExpressionEval_rsBase2Logarithm
+Base e logarithm	©‘R‘Î”	ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)		TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	ƒrƒbƒgƒ}ƒbƒv	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	ƒrƒbƒgƒ}ƒbƒv‚ª—LŒø‚Å‚Í‚ ‚è‚Ü‚¹‚ñ	Consts_SInvalidBitmap
+Bitmap scaling	ƒrƒbƒgƒ}ƒbƒvƒXƒP[ƒŠƒ“ƒO	TPropertyEditorForm: Panel16.Caption
+Bitmaps	ƒrƒbƒgƒ}ƒbƒv	Consts_SVBitmaps
+Bits index out of range	ƒrƒbƒg”Ô†‚ª”ÍˆÍŠO‚Å‚·	RTLConsts_SBitsIndexError
+BkSp	BkSp	Consts_SmkcBkSp
+Black	•	ExtCtrls_clNameBlack
+Blue	Â	ExtCtrls_clNameBlue
+Bold	‘¾š	TextEditor_rsBold
+Bottom	‰º‘µ‚¦(&B)	TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	‘O–Ê‚Ö(&F)	TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	ƒ{ƒ^ƒ“–Ê	ExtCtrls_clNameBtnFace
+Button Highlight	ƒ{ƒ^ƒ“‚ğ‹­’²•\¦	ExtCtrls_clNameBtnHighlight
+Button Shadow	ƒ{ƒ^ƒ“‰e	ExtCtrls_clNameBtnShadow
+Button Text	ƒ{ƒ^ƒ“ƒeƒLƒXƒg	ExtCtrls_clNameBtnText
+CRC error	CRCƒGƒ‰[	PNGLoader_rsCRCError
+Can't write to a read-only resource stream	“Ç‚İ‚İê—pƒŠƒ\[ƒXƒXƒgƒŠ[ƒ€‚É‚Í‘‚«‚ß‚Ü‚¹‚ñ	RTLConsts_SCantWriteResourceStreamError
+Cancel	ƒLƒƒƒ“ƒZƒ‹	TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	%s‚ğ%‚“‚ÉŠ„‚è“–‚Ä‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ	RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	e‚ªŠù‚ÉƒAƒNƒVƒ‡ƒ“ƒo[‚É“o˜^‚³‚ê‚Ä‚¢‚é‚½‚ßA‚±‚ÌƒTƒuƒAƒCƒeƒ€‚ğƒAƒNƒVƒ‡ƒ“ƒo[‚É’Ç‰Á‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB	Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	Cannot change Visible in OnShow or OnHide	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	JPEG‚ÌƒTƒCƒY‚ª•ÏX‚Å‚«‚Ü‚¹‚ñ	JConsts_sChangeJPGSize
+Cannot change the size of an icon	ƒAƒCƒRƒ“‚ÌƒTƒCƒY‚ª•ÏX‚Å‚«‚Ü‚¹‚ñ	Consts_SChangeIconSize
+Cannot create file \"%s\". %s	ƒtƒ@ƒCƒ‹\"%s\"‚ğì¬‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B %s	RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active	ƒtƒH[ƒ€‚ªì¬‚Å‚«‚Ü‚¹‚ñB—LŒø‚ÈMDIƒtƒH[ƒ€‚ª‚ ‚è‚Ü‚¹‚ñ	Consts_SNoMDIForm
+Cannot drag a form	ƒtƒH[ƒ€‚ğƒhƒ‰ƒbƒO‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ	Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	–³Œø/”ñ•\¦ƒEƒBƒ“ƒhƒE‚É‚ÍƒtƒH[ƒJƒX‚ğİ’è‚Å‚«‚Ü‚¹‚ñ	Consts_SCannotFocus
+Cannot hide an MDI Child Form	qMDIƒtƒH[ƒ€‚ğ”ñ•\¦‚É‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ	Consts_SMDIChildNotVisible
+Cannot make a visible window modal	•\¦‚³‚ê‚Ä‚¢‚éƒEƒBƒ“ƒhƒE‚ğƒ‚[ƒ_ƒ‹‚É‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ	Consts_SCannotShowModal
+Cannot open clipboard	ƒNƒŠƒbƒvƒ{[ƒh‚ğŠJ‚­‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ	Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	ƒtƒ@ƒCƒ‹\"%s\"‚ÍŠJ‚¯‚Ü‚¹‚ñB %s	RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	Canvas‚É‘Î‚·‚é•`‰æ‚ª‚Å‚«‚Ü‚¹‚ñ	Consts_SNoCanvasHandle
+Caption Text	ƒLƒƒƒvƒVƒ‡ƒ“‚Ì•¶š	ExtCtrls_clNameCaptionText
+Center	’†‰›‘µ‚¦(&C)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	ƒAƒNƒeƒBƒuƒŒƒCƒ„[‚Ì‚·‚×‚Ä‚ÌF‚ğ•ÏX	TMainForm: SetLayerColorAction.Hint
+Change value	’l‚ğ•ÏX	ExpressionHelp_rsChangeValue
+Check active layer only	ƒAƒNƒeƒBƒuƒŒƒCƒ„[‚Ì‚İ	TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates	XV‚ğŠm”F(&U)	TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	CheckSynchronize called from thread $%x, which is NOT the main thread	RTLConsts_SCheckSynchronizeError
+Circle		LineObject_rsCircle
+Circular decoder table entry		GIFImage_sDecodeCircular
+Circular references not allowed	zŠÂQÆ‚Í‹–‚³‚ê‚Ü‚¹‚ñ	Consts_SCirularReferencesNotAllowed
+Class %s not found	ƒNƒ‰ƒX%s‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	RTLConsts_SClassNotFound
+Clear	ƒNƒŠƒA	TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚ÌH	TPleaseSupportForm: Label4.Caption
+Click to apply format to selection		TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	ƒNƒŠƒbƒvƒ{[ƒh‚ÍƒAƒCƒRƒ“‚É‚Í‘Î‰‚µ‚Ä‚¢‚Ü‚¹‚ñ	Consts_SIconToClipboard
+Clipboard metafile scale:	ƒNƒŠƒbƒvƒ{[ƒhƒƒ^ƒtƒ@ƒCƒ‹”{—¦:	TDesignerSetupForm: Label4.Caption
+Close	•Â‚¶‚é(&C)	TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: Button1.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator		TExpressionEvalForm: ActionClose.Hint
+Color not in color table	F‚ªƒJƒ‰[ƒe[ƒuƒ‹‚É‚ ‚è‚Ü‚¹‚ñ	GIFImage_sInvalidColor
+Color table is empty	ƒJƒ‰[ƒe[ƒuƒ‹‚ª‹ó‚Å‚·	GIFImage_sEmptyColorMap
+Color table overflow	ƒJƒ‰[ƒe[ƒuƒ‹‚ªƒI[ƒo[ƒtƒ[‚µ‚Ü‚µ‚½	GIFImage_sTooManyColors
+Conditional value		ExpressionEval_rsConditionalValue
+Confirm	Šm”F	Consts_SMsgDlgConfirm
+Connect links	ƒŠƒ“ƒN‚ğŒ‹‡(&L)	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Continue	‘±‚¯‚é(&C)	TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	ƒRƒ“ƒgƒ[ƒ‹"%s"‚ÍeƒEƒBƒ“ƒhƒE‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñ	Consts_SParentRequired
+Control-C hit	Ctrl+C‚ğƒNƒŠƒbƒN	SysConst_SControlC
+Convert	•ÏŠ·	TMainForm: Convert1.Caption
+Convert binary number	ƒoƒCƒiƒŠ‚ğ•ÏŠ·	ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon		TMainForm: MakePolygonAction.Hint
+Convert to metafile	ƒƒ^ƒtƒ@ƒCƒ‹‚É•ÏŠ·(&M)	TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	ƒ|ƒŠƒSƒ“‚É•ÏŠ·(&C)	TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	•ÏŠ·’†...	GIFImage_sProgressConverting
+Copy	ƒRƒs[(&C)	TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all		TLinkEditorForm: CopyButton.Hint
+Copy templates to page	ƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg‚ğ•ÒW(&E)	TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	ƒRƒs[’†...	GIFImage_sProgressCopying
+Corner radius	Šp”¼Œa	Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	%sŒ^‚©‚ç%sŒ^‚Ö‚ÌƒoƒŠƒAƒ“ƒgŒ^•ÏŠ·‚Í‚Å‚«‚Ü‚¹‚ñ	SysConst_SVarTypeCouldNotConvert
+Cream	ƒNƒŠ[ƒ€F	ExtCtrls_clNameCream
+Create default anchors for groups		TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images		TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents		DiagramExport_rsAutoCrop
+Ctrl+		Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments		LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type	‹Èüƒ^ƒCƒv	TPropertyEditorForm: Panel23.Caption
+Cut	Ø‚èæ‚è(&T)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Dec	12	SysConst_SShortMonthNameDec
+December	12Œ	SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	ƒfƒR[ƒ_ƒrƒbƒgƒoƒbƒtƒ@ƒAƒ“ƒ_[ƒ‰ƒ“	GIFImage_sDecodeTooFewBits
+Default		ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	•W€ƒtƒHƒ“ƒg(&D)	TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del		Consts_SmkcDel
+Delete	íœ(&D)	TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	ƒy[ƒW‚ğíœ‚µ‚Ü‚·‚©H	RearrangePages_rsDeleteDiagramPage
+Delete symbol	ƒVƒ“ƒ{ƒ‹‚ğíœ	TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	ƒeƒ“ƒvƒŒ[ƒg‚©‚çíœ(&D)	TMainForm: DeleteTemplateAction.Caption
+Description	ŠT—v	TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	‘I‘ğ‰ğœ	TFormatAssociateForm: NoneButton.Caption
+Diagram	}•\(&D)	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd		DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	ƒ_ƒCƒAƒOƒ‰ƒ€‚ÍXV‚³‚ê‚Ä‚¢‚Ü‚·B•Û‘¶‚µ‚Ü‚·‚©H	Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link	ƒ_ƒCƒAƒOƒ‰ƒ€EƒCƒ“ƒ^[ƒlƒbƒg‚Ö‚ÌƒŠƒ“ƒN	TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	Diagramƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg	DiagramBase_rsTemplatePaletteFilter
+Diamond		LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	«‘ƒtƒ@ƒCƒ‹	DesignerSetup_rsDictionariesDicDic
+Disable font antialiasing		DiagramExport_rsDisableFontAntialiasing
+Disk full	ƒfƒBƒXƒN‚ª‚¢‚Á‚Ï‚¢‚Å‚·	SysConst_SDiskFull
+Distance from top left corner	¶ã‚©‚ç‚Ì‹——£	TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	ƒ[ƒ‚É‚æ‚éœZ	SysConst_SDivByZero
+Docked control must have a name	ƒhƒbƒLƒ“ƒOƒRƒ“ƒgƒ[ƒ‹‚Í–¼‘O‚ğ‚Á‚Ä‚¢‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ	Consts_SDockedCtlNeedsName
+Done		PropertyEditor_rsDone
+Double arrow		LineObject_rsDoubleArrow3
+Down		Consts_SmkcDown
+Download	ƒ_ƒEƒ“ƒ[ƒh	PropertyEditor_rsDownload
+Draw arrow	–îˆó	TMainForm: DrawArrowAction.Caption
+Draw connector	Ú‘±ü	TMainForm: DrawConnectorAction.Caption
+Draw curve	‹Èü	TMainForm: DrawCurveAction.Caption
+Draw ellipse	‰~	TMainForm: DrawEllipseAction.Caption
+Draw line	ü	TMainForm: DrawLineAction.Caption
+Draw rectangle	’·•ûŒ`	TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects		TMainForm: ObjectShadowsAction.Hint
+Edit	•ÒW(&E)	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	•ÒWƒŒƒCƒ„[(&E)	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point	ƒŠƒ“ƒNƒ|ƒCƒ“ƒg‚ğ•ÒW	LinkEditor_rsEditLinkPoint
+Edit text	ƒeƒLƒXƒg•ÒW	TTextEditorForm: TextEditorForm.Caption
+Edit text...	ƒeƒLƒXƒg•ÒW(&E)	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	‰æ‘œ‚ğ•ÒW’†...	PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	Either read, write or full access must be specified in call to CreateFile	Streams_rs_NoFileAccessSpec
+End		Consts_SmkcEnd
+Enhanced Metafiles	Šg’£ƒƒ^ƒtƒ@ƒCƒ‹	Consts_SVEnhMetafiles
+Enter		Consts_SmkcEnter
+Enter object text:	ƒeƒLƒXƒg‚ğ“ü—Í:	TTextEditorForm: Label2.Caption
+Error	ƒGƒ‰[	Consts_SMsgDlgError
+Error closing \"%s\" - %s	\"%s\"ƒNƒ[ƒYƒGƒ‰[ - %s	Streams_rs_CloseFileError
+Error creating variant or safe array	ƒoƒŠƒAƒ“ƒg”z—ñ‚ğì¬‚Å‚«‚Ü‚¹‚ñ	SysConst_SVarArrayCreate
+Error creating window class	ƒEƒBƒ“ƒhƒEƒNƒ‰ƒX‚Ìì¬‚ÅƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½	Consts_SWindowClass
+Error creating window device context	ƒfƒoƒCƒXƒRƒ“ƒeƒLƒXƒg‚Ìì¬‚É¸”s‚µ‚Ü‚µ‚½	Consts_SWindowDCError
+Error deleting \"%s\" - %s	\"%s\"íœƒGƒ‰[ - %s	Streams_rs_DeleteFileError
+Error in bitmap data	ƒrƒbƒgƒ}ƒbƒvƒf[ƒ^ƒGƒ‰[	AnalyzerPlugins_rsErrorInBitmapData	LinarBitmap_rsErrorInBitmapData
+Error in compressed data	ˆ³kƒf[ƒ^ƒGƒ‰[	Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	İ’èƒtƒ@ƒCƒ‹“Ç‚İ‚İƒGƒ‰[: %s\rƒtƒ@ƒCƒ‹‚ğíœ‚µ‚Ü‚·‚©H	Consts_SErrorLoadingFile
+Error moving file pointer - %s	ƒtƒ@ƒCƒ‹ƒ|ƒCƒ“ƒ^ˆÚ“®ƒGƒ‰[ - %s	Streams_rs_SeekFileError
+Error moving stream pointer	ƒXƒgƒŠ[ƒ€ƒ|ƒCƒ“ƒ^ˆÚ“®ƒGƒ‰[	MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	\"%s\"ƒI[ƒvƒ“ƒGƒ‰[ - %s	Streams_rs_CreateFileError
+Error reading %s%s%s: %s	%s%s%s“Ç‚İ‚İƒGƒ‰[: %s	RTLConsts_SPropertyException
+Error reading from stream - %s	ƒXƒgƒŠ[ƒ€“Ç‚İ‚İƒGƒ‰[ - %s	Streams_rs_ReadError
+Error removing control from dock tree	ƒhƒbƒLƒ“ƒOƒcƒŠ[‚©‚çƒRƒ“ƒgƒ[ƒ‹‚ğíœ‚·‚éÛ‚ÌƒGƒ‰[	Consts_SDockTreeRemoveError
+Error running Image Analyzer	Image Analyzer‚ÌÀsƒGƒ‰[	PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	%s.Count‚Ì’l‚ğİ’è‚µ‚æ‚¤‚Æ‚µ‚ÄƒGƒ‰[‚ª‹N‚«‚Ü‚µ‚½	Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s		Streams_rs_TruncateFileError
+Error while trying to send e-mail	ƒ[ƒ‹‘—MƒGƒ‰[	EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	ƒXƒgƒŠ[ƒ€‘‚«‚İƒGƒ‰[ - %s	Streams_rs_WriteError
+Esc		Consts_SmkcEsc
+Evaluate	•]‰¿	TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	•]‰¿iF5)	TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	%s‚ªƒ‚ƒWƒ…[ƒ‹%s‚Ì%p‚Å”­¶‚µ‚Ü‚µ‚½B\r\n%s%s\r\n	SysConst_SException
+Exception in safecall method	safecallƒƒ\ƒbƒh“à‚Å—áŠO‚ª”­¶‚µ‚Ü‚µ‚½B"	SysConst_SSafecallException
+Expand	“WŠJ	Consts_SExpand
+Export	ƒGƒNƒXƒ|[ƒg	TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages		DiagramExport_rsExportAllPages
+Export file DPI:	ƒGƒNƒXƒ|[ƒgDPI:	DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	ƒy[ƒW‚ğƒrƒbƒgƒ}ƒbƒvEƒƒ^ƒtƒ@ƒCƒ‹‚É•ÏŠ·	TMainForm: ExportAction.Hint
+Export page...	ƒGƒNƒXƒ|[ƒg(&E)	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator		TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...		TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	®‚ª‘‚©‚ê‚Ä‚¢‚Ü‚¹‚ñ	ExpressionEval_rsExpressionIsEmpty
+External exception %x	ŠO•”—áŠO%x	SysConst_SExternalException
+Extra = found	—]•ª‚È=‚ªŒ©‚Â‚©‚è‚Ü‚µ‚½	ExpressionEval_rsExtraFound
+Failed to Load Stream	ƒXƒgƒŠ[ƒ€‚©‚ç‚Ì“Ç‚İ‚İ‚É¸”s‚µ‚Ü‚µ‚½	ComStrs_sRichEditLoadFail
+Failed to Save Stream	ƒXƒgƒŠ[ƒ€‚Ö‚Ì‘‚«‚İ‚É¸”s‚µ‚Ü‚µ‚½	ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	GIF DIB‚Ö‚Ìƒƒ‚ƒŠ‚ÌŠ„‚è“–‚Ä‚É¸”s‚µ‚Ü‚µ‚½	GIFImage_sOutOfMemDIB
+Failed to clear tab control	ƒ^ƒu‚Ì‘Síœ‚É¸”s‚µ‚Ü‚µ‚½	ComStrs_sTabFailClear
+Failed to delete tab at index %d	%d”Ô–Ú‚Ìƒ^ƒu‚Ìíœ‚É¸”s‚µ‚Ü‚µ‚½	ComStrs_sTabFailDelete
+Failed to get data for '%s'	"%s"‚Ìæ“¾‚É¸”s‚µ‚Ü‚µ‚½	RTLConsts_SRegGetDataFailed
+Failed to get object at index %d	%d”Ô–Ú‚Ìƒ^ƒu‚ÌƒIƒuƒWƒFƒNƒg‚ÌQÆ‚É¸”s‚µ‚Ü‚µ‚½B"	ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	Failed to read ImageList data from stream	Consts_SImageReadFail
+Failed to retrieve tab at index %d	%d”Ô–Ú‚Ìƒ^ƒu‚ÌQÆ‚É¸”s‚µ‚Ü‚µ‚½B"	ComStrs_sTabFailRetrieve
+Failed to set data for '%s'	"%s"‚Ìİ’è‚É¸”s‚µ‚Ü‚µ‚½	RTLConsts_SRegSetDataFailed
+Failed to set object at index %d	%d”Ô–Ú‚Ìƒ^ƒu‚ÉƒIƒuƒWƒFƒNƒg‚ğİ’è‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½	ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d	%s"‚ğ%d”Ô–Ú‚Ìƒ^ƒu‚Éİ’è‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚	ComStrs_sTabFailSet
+Failed to store GIF on clipboard	ƒNƒŠƒbƒvƒ{[ƒhã‚ÌGIF‹L‰¯¸”s	GIFImage_sFailedPaste
+Failed to write ImageList data to stream	Failed to write ImageList data to stream	Consts_SImageWriteFail
+Feb	2	SysConst_SShortMonthNameFeb
+February	2Œ	SysConst_SLongMonthNameFeb
+File	ƒtƒ@ƒCƒ‹(&F)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	ƒtƒ@ƒCƒ‹‚Ö‚ÌƒAƒNƒZƒX‚ª‹‘”Û‚³‚ê‚Ü‚µ‚½	SysConst_SAccessDenied
+File format associations	ŠÖ˜A•t‚¯İ’è	TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	V‚µ‚¢ƒo[ƒWƒ‡ƒ“‚Åì¬‚³‚ê‚½ƒtƒ@ƒCƒ‹‚Å‚·	DiagramBase_rsFileFromLaterProgramVersion
+File not found	ƒtƒ@ƒCƒ‹‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	SysConst_SFileNotFound
+Fill	Œ‹‡(&F)	TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	”wŒiF	TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Find text...	ƒeƒLƒXƒgŒŸõ(&F)	TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	x‚ÌÅ¬’l‚ğ‹‚ß‚é	ExpressionEval_rsFindXThatMinimizesExpression
+First	Å‰(&F)	TSlideShowForm: FirstSlideItem.Caption
+Flip	‚’¼”½“](&Y)	TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	0‚É‚æ‚é•‚“®¬”“_œZ	SysConst_SZeroDivide
+Floating point overflow	•‚“®¬”“_‚ÌƒI[ƒo[ƒtƒ[	SysConst_SOverflow
+Floating point underflow	•‚“®¬”“_‚ÌƒAƒ“ƒ_[ƒtƒ[	SysConst_SUnderflow
+Font	ƒtƒHƒ“ƒg	TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	‘®•¶š—ñ"%s" ‚Í³‚µ‚­‚È‚¢‚©ˆø”‚ÌŒ^‚Æˆê’v‚µ‚Ü‚¹‚ñ	SysConst_SInvalidFormat
+Format string too long	‘®•¶š—ñ‚ª’·‚·‚¬‚Ü‚·	SysConst_SFormatTooLong
+Fractional part of real number	¬”•”	ExpressionEval_rsFractionalPartOfRealNumber
+Fri	–Ø	SysConst_SShortDayNameFri
+Friday	–Ø—j“ú	SysConst_SLongDayNameFri
+Fuchsia	Ô‡	ExtCtrls_clNameFuchsia
+GIF Image	GIFƒCƒ[ƒW	GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	Gaussian random number, StdDev=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	ˆê”Ê	TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	ƒy[ƒWİ’è‚ğæ“¾(&G)	TPagePropertiesForm: PrinterButton.Caption
+Global stencil	”wŒiƒŒƒCƒ„[(&G)	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	ƒAƒNƒeƒBƒuƒŒƒCƒ„[‚ÌÚ‘±ü‚ğ—×Ú‚µ‚½ƒIƒuƒWƒFƒNƒg‚ÌƒŠƒ“ƒNƒ|ƒCƒ“ƒg‚ÆŒ‹‡‚µ‚Ü‚·	TMainForm: ConnectLinksAction.Hint
+Go to page	ƒy[ƒW‚ÖƒWƒƒƒ“ƒv(&G)	TSlideShowForm: GoToPageItem.Caption
+Gradient color	ƒOƒ‰ƒf[ƒVƒ‡ƒ“	TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format		GIFLoader_rsGIFImageFile
+Gray	ŠDF	ExtCtrls_clNameGray
+Gray Text	ƒOƒŒ[ƒeƒLƒXƒg	ExtCtrls_clNameGrayText
+Green	—Î	ExtCtrls_clNameGreen
+Grid (%s)	ƒOƒŠƒbƒh (%s)	DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	ƒOƒ‹[ƒv‰»(&G)	TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines		GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	‘I‘ğ’†‚ÌƒIƒuƒWƒFƒNƒg‚ğƒOƒ‹[ƒv‰»	TMainForm: GroupAction.Hint
+Group selected objects in metafile object		TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	GroupIndex cannot be less than a previous menu item's GroupIndex	Consts_SGroupIndexTooLow
+Guess undefined		ExpressionEval_rsGuessUndefined
+HTML formatted color	HTMLŒ`®ƒJƒ‰[ƒR[ƒh	TextEditor_rsHTMLFormattedColor
+Halftone	ƒn[ƒtƒg[ƒ“	TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	‚‚³	TPropertyEditorForm: Panel8.Caption
+Height:	‚‚³:	TPagePropertiesForm: Label2.Caption
+Help	ƒwƒ‹ƒv(&H)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	–ÚŸ(&C)	TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	HelpLabel	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	”wŒi‚Ì‹­’²•\¦	ExtCtrls_clNameHighlight
+Highlight Text	ƒeƒLƒXƒg‚Ì‹­’²•\¦	ExtCtrls_clNameHighlightText
+Highlight syntax		TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.		Main_rsEditShapeHint
+Home		Consts_SmkcHome
+Horizontal	…•½	LinkEditor_rsHorizontal
+Horizontal scaling	…•½	TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	…•½ˆÊ’u	TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.		Main_rsIWouldLikeToThank
+I/O error %d	I/O ƒGƒ‰[ %d	SysConst_SInOutError
+IO-error: %s	IO-ƒGƒ‰[: %s	Streams_rs_IOError
+Icon image is not valid	ƒAƒCƒRƒ“ƒCƒ[ƒW‚ª•s³‚Å‚·	Consts_SInvalidIcon
+Icons	ƒAƒCƒRƒ“	Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	‚à‚µ‚ ‚È‚½‚ª‚±‚Ìƒ\ƒtƒg‚ğ‹C‚É“ü‚Á‚Ä‚¢‚½‚¾‚¯‚½‚Ì‚È‚ç‚ÎA‚º‚Ğ„‚ÌŠˆ“®E«—ˆ‚ÌƒvƒƒOƒ‰ƒ€ŠJ”­E•¶Í‰»Eƒz[ƒ€ƒy[ƒW‚ğè“`‚Á‚Ä‚­‚¾‚³‚¢B#$0D‚ ‚È‚½‚Ìè•‚¯‚ª„‚ÌƒTƒCƒg‰^‰c‚Ì•‰’S‚ğŒyŒ¸‚³‚¹‚Ü‚·B	TPleaseSupportForm: Label1.Caption
+Ignore all	‚·‚×‚Ä–³‹(&G)	TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	ƒCƒ[ƒW‚ª˜_—‰æ–ÊƒTƒCƒY‚ğ’´‚¦‚Ä‚¢‚Ü‚·	GIFImage_sScreenSizeExceeded
+Image has no DIB	ƒCƒ[ƒW‚ÉDIB‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚¹‚ñ	GIFImage_sNoDIB
+Image height too small for contained frames	ƒtƒŒ[ƒ€‚É‘Î‚µ‰æ‘œ‚‚³‚ª¬‚³‚·‚¬‚Ü‚·	GIFImage_sBadHeight
+Image is empty	‰æ‘œ‚ª‹ó‚Å‚·	GIFImage_sEmptyImage
+Image is too large for icon	‰æ‘œ‚ªƒAƒCƒRƒ“‚É‚Í‘å‚«‚·‚¬‚Ü‚·	ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	ƒtƒŒ[ƒ€‚É‘Î‚µ‰æ‘œ•‚ª¬‚³‚·‚¬‚Ü‚·	GIFImage_sBadWidth
+Inactive Border	”ñƒAƒNƒeƒBƒuƒ{[ƒ_[	ExtCtrls_clNameInactiveBorder
+Inactive Caption	”ñƒAƒNƒeƒBƒuƒLƒƒƒvƒVƒ‡ƒ“	ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	”ñƒAƒNƒeƒBƒuƒLƒƒƒvƒVƒ‡ƒ“ƒeƒLƒXƒg	ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	ƒtƒ@ƒCƒ‹ƒrƒ…[’†‚Ì‘®‚Ì‹Lq‚Í’P‚É"XYZƒtƒ@ƒCƒ‹"ˆÈŠO‚Å‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ	TFormatAssociateForm: DescriptionBox.Hint
+Info Background	î•ñ‚Ì”wŒi	ExtCtrls_clNameInfoBk
+Info Text	î•ñƒeƒLƒXƒg	ExtCtrls_clNameInfoText
+InfoLabel	InfoLabel	TAboutBox: InfoLabel.Caption
+Information	î•ñ	Consts_SMsgDlgInformation
+Inner bounds	“à‹«ŠE	TPropertyEditorForm: InnerBoundsBox.Caption
+Ins		Consts_SmkcIns
+Insert inherited layer...	Œp³ƒŒƒCƒ„[‚ğ‘}“ü	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	ƒtƒ@ƒCƒ‹‚©‚ç‰æ‘œ‚ğ‘}“ü	TMainForm: InsertPictureAction.Hint
+Insert picture...	‰æ‘œ‚ğ‘}“ü(&I)	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text	ƒeƒLƒXƒg	TMainForm: DrawTextAction.Caption
+Integer overflow	®”‚ÌƒI[ƒo[ƒtƒ[	SysConst_SIntOverflow
+Interface not supported	Interface‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label	“à•”ƒGƒ‰[: Šg’£ƒCƒ“ƒXƒ^ƒ“ƒX‚ÍŠg’£ƒ‰ƒxƒ‹‚Æˆê’v‚µ‚Ü‚¹‚ñ	GIFImage_sBadExtensionInstance
+Internet help page	ƒz[ƒ€ƒy[ƒW‚Ö(&H)	TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Internet:	ƒCƒ“ƒ^[ƒlƒbƒg:	TAboutBox: Label3.Caption
+Invalid GIF data	–³Œø‚ÈGIFƒf[ƒ^	GIFImage_sInvalidData
+Invalid GIF signature	–³Œø‚ÈGIF–¼	GIFImage_sBadSignature
+Invalid Image trailer	–³Œø‚ÈƒCƒ[ƒWƒgƒŒ[ƒ‰[	GIFImage_sBadTrailer
+Invalid ImageList	Invalid ImageList	Consts_SInvalidImageList
+Invalid ImageList Index	Invalid ImageList Index	Consts_SImageIndexError
+Invalid NULL variant operation	–³Œø‚ÈNULLƒoƒŠƒAƒ“ƒg‘€ì	SysConst_SInvalidVarNullOp
+Invalid PNG data	–³Œø‚ÈPNGƒf[ƒ^	PNGLoader_rsInvalidPNGData
+Invalid PNG header	–³Œø‚ÈPNGƒwƒbƒ_	PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions	–³Œø‚ÈƒAƒ‹ƒtƒ@ƒ`ƒƒƒ“ƒlƒ‹Œ`®E¡–@	PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	•s³‚Èˆø”‚ª“n‚³‚ê‚Ü‚µ‚½	SysConst_SVarInvalid
+Invalid binary number	–³Œø‚ÈƒoƒCƒiƒŠ”	ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	–³Œø‚Èƒrƒbƒgƒ}ƒbƒvƒTƒCƒY	LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	–³Œø‚Èƒoƒbƒtƒ@ƒTƒCƒY	BufStream_rsInvalidBufferSize
+Invalid class typecast	–³Œø‚ÈƒNƒ‰ƒXŒ^ƒLƒƒƒXƒg	SysConst_SInvalidCast
+Invalid clipboard format	–³Œø‚ÈƒNƒŠƒbƒvƒ{[ƒhƒtƒH[ƒ}ƒbƒg‚Å‚·	Consts_SInvalidClipFmt
+Invalid color index	–³Œø‚ÈƒJƒ‰[ƒCƒ“ƒfƒbƒNƒX	GIFImage_sBadColorIndex
+Invalid data type for '%s'	"%s"‚Ìƒf[ƒ^Œ^‚ª•s³‚Å‚·	RTLConsts_SInvalidRegType
+Invalid diagram	–³Œø‚È}•\	DiagramBase_rsInvalidDiagram
+Invalid extension introducer	–³Œø‚ÈŠg’£ƒuƒƒbƒN	GIFImage_sBadExtensionLabel
+Invalid filename	ƒtƒ@ƒCƒ‹–¼‚Ìw’è‚ªŠÔˆá‚Á‚Ä‚¢‚Ü‚·	SysConst_SInvalidFilename
+Invalid floating point operation	•s³‚È•‚“®¬”“_”‰‰Z–½—ß	SysConst_SInvalidOp
+Invalid image dimensions	–³Œø‚ÈƒCƒ[ƒW¡–@	GIFImage_sBadDimension
+Invalid image size	ƒCƒ[ƒWƒTƒCƒY‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñ	Consts_SInvalidImageSize
+Invalid index	•s³‚ÈƒCƒ“ƒfƒbƒNƒX	ComStrs_sInvalidIndex
+Invalid number format	–³Œø‚È”šŒ`®	ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	–³Œø‚ÈImage Descriptorã‚ÌF”	GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	–³Œø‚ÈScreen Descriptorã‚ÌF”	GIFImage_sScreenBadColorSize
+Invalid numeric input	“ü—Í’l‚ª”’l‚Å‚Í‚ ‚è‚Ü‚¹‚ñ	SysConst_SInvalidInput
+Invalid numeric value	•s³‚È”’l	Consts_SInvalidNumber
+Invalid owner	ownerƒvƒƒpƒeƒB‚ª•s³	ComStrs_sInvalidOwner
+Invalid pixel coordinates	–³Œø‚ÈƒsƒNƒZƒ‹À•W	GIFImage_sBadPixelCoordinates
+Invalid pixel format	‰æ‘œƒtƒH[ƒ}ƒbƒg‚ª•s³‚Å‚·	Consts_SInvalidPixelFormat
+Invalid pointer operation	–³Œø‚Èƒ|ƒCƒ“ƒ^‘€ì	SysConst_SInvalidPointer
+Invalid property path	•s³‚ÈƒvƒƒpƒeƒB‚ÌƒpƒX‚Å‚·	RTLConsts_SInvalidPropertyPath
+Invalid property value	•s³‚ÈƒvƒƒpƒeƒB‚Ì’l‚Å‚·	RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	–³Œø‚ÈŠ·Z•û–@	GIFImage_sInvalidReduction
+Invalid stream format	•s³‚ÈƒCƒ[ƒW ƒŠƒXƒg	RTLConsts_SInvalidImage
+Invalid stream operation	•s³‚ÈƒXƒgƒŠ[ƒ€ƒIƒyƒŒ[ƒVƒ‡ƒ“	GIFImage_sInvalidStream
+Invalid template palette	–³Œø‚Èƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg	TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	–³Œø‚ÈƒoƒŠƒAƒ“ƒg‘€ì	SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	–³Œø‚ÈƒoƒŠƒAƒ“ƒg‘€ì(%s%.8x)\n%s	SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	ƒoƒŠƒAƒ“ƒgƒ^ƒCƒv‚ª•s³‚Å‚·	SysConst_SVarBadType
+Invalid variant type conversion	ƒoƒŠƒAƒ“ƒg‚ÌŒ^•ÏŠ·‚ª³‚µ‚­‚ ‚è‚Ü‚¹‚ñ	SysConst_SInvalidVarCast
+Italic	Î‘Ì	TextEditor_rsItalic
+Item %s has subitems, delete anyway?	ƒAƒCƒeƒ€%s‚ÍƒTƒuƒAƒCƒeƒ€‚ğ‚Á‚Ä‚¢‚Ü‚·Bíœ‚µ‚Ä‚à‚æ‚¢‚Å‚·‚©H	Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	ƒAƒCƒeƒ€%s‚ÍˆÚ“®‚Å‚«‚Ü‚¹‚ñ	Consts_SMoveNotAllowed
+JPEG Image File	JPEG‰æ‘œƒtƒ@ƒCƒ‹	JConsts_sJPEGImageFile
+JPEG error #$23%d	JPEG ƒGƒ‰[ #$23%d	JConsts_sJPEGError
+Jan	1	SysConst_SShortMonthNameJan
+January	1Œ	SysConst_SLongMonthNameJan
+Joint Picture Expert Group	Joint Picture Expert Group	JPEGLoader_rsJPEGImageFile
+Jul	7	SysConst_SShortMonthNameJul
+July	7Œ	SysConst_SLongMonthNameJul
+Jun	6	SysConst_SShortMonthNameJun
+June	6Œ	SysConst_SLongMonthNameJun
+Known image formats	Šù’m‚ÌƒCƒ[ƒWŒ`®	Main_rsKnownImageFormats
+LabelCode1	LabelCode1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	LabelCode2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption
+Language:	Œ¾Œê:	TSpellCheckForm: Label5.Caption
+Last	ÅŒã(&L)	TSlideShowForm: LastSlideItem.Caption
+Layer		TMainForm: LayerTabSet.Hint
+Layer %d	ƒŒƒCƒ„[%d	Main_rsLayerD
+Layer &1	ƒŒƒCƒ„[&1	TMainForm: EditLayer1Action.Caption
+Layer &2	ƒŒƒCƒ„[&2	TMainForm: EditLayer2Action.Caption
+Layer &3	ƒŒƒCƒ„[&3	TMainForm: EditLayer3Action.Caption
+Layer number:	ƒŒƒCƒ„[”Ô†:	Main_rsLayerNumber
+Layout	ƒŒƒCƒAƒEƒg	TPropertyEditorForm: Panel18.Caption
+Left	¶‘µ‚¦(&L)	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	¶‘µ‚¦#$0D’†‰›‘µ‚¦#$0D‰E‘µ‚¦#$0DƒuƒƒbƒN¶‘µ‚¦#$0DƒuƒƒbƒN‰E‘µ‚¦#$0D	TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point		Main_rsLeftRightClickToAddPoint
+Legacy	‹Œ®	PropertyEditor_rsLegacy
+Lime	ƒ‰ƒCƒ€	ExtCtrls_clNameLime
+Line color	üF	TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	üI’[	TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments	ü•ª	PropertyEditor_rsLineSegments
+Line start	üŠJn	TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	üí	TPropertyEditorForm: Panel20.Caption
+Line width	ü‚Ì•	Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	ƒŠƒ“ƒNƒ|ƒCƒ“ƒgƒGƒfƒBƒ^	TLinkEditorForm: LinkEditorForm.Caption
+Link positions	ƒŠƒ“ƒNƒ|ƒCƒ“ƒg	TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	ƒŠƒXƒg‚Ì—e—Ê‚ª’´‚¦‚Ü‚µ‚½(%d)	RTLConsts_SListCapacityError
+List count out of bounds (%d)	ƒŠƒXƒg‚ÌŒÂ”‚ğ’´‚¦‚Ü‚µ‚½(%d)	RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	ƒŠƒXƒg‚Íd•¡‚ğ‹–‚µ‚Ü‚¹‚ñ($0%x)	RTLConsts_SDuplicateItem
+List index out of bounds (%d)	ƒŠƒXƒg‚ÌƒCƒ“ƒfƒbƒNƒX‚ª”ÍˆÍ‚ğ’´‚¦‚Ä‚¢‚Ü‚·(%d)	StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count	ƒŠƒXƒgƒ{ƒbƒNƒX"%s"‚ÌCount‚ğİ’è‚·‚é‚É‚ÍVirtualƒXƒ^ƒCƒ‹‚Å‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ	Consts_SListBoxMustBeVirtual
+Load template palette	ƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg“Ç‚İ‚İ(&L)	TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library	ƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg‚ğƒ‰ƒCƒuƒ‰ƒŠ‚©‚ç“Ç‚İ‚İ	TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	ƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg“Ç‚İ‚İ	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	“Ç‚İ‚İ’†...	GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	ŒŸõ:	TSpellCheckForm: LookUpLabel.Caption
+MainForm	MainForm	TMainForm: MainForm.Caption
+Make palette from active layer	ƒAƒNƒeƒBƒuƒŒƒCƒ„[‚ğƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg‚É(&M)	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many		LineObject_rsMany
+Mar	3	SysConst_SShortMonthNameMar
+March	3Œ	SysConst_SLongMonthNameMar
+Margin for non-centered text	’†‰›‘µ‚¦‚Å‚È‚¢ƒeƒLƒXƒg‚Ìƒ}[ƒWƒ“	TPropertyEditorForm: Panel21.Hint
+Maroon	’ƒF	ExtCtrls_clNameMaroon
+Max 16 bits in binary number	”’l‚ÌÅ‘å‚Í16ƒrƒbƒg‚Ü‚Å‚Å‚·	ExpressionEval_rsMax16BitsInBinaryNumber
+Max=		TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	Œ³‚É–ß‚·/‚â‚è’¼‚·‚ÌÅ‘å”	TDesignerSetupForm: UndoHistoryEdit.Hint
+May	5	SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	5Œ	ExtCtrls_clNameMedGray
+Menu	ƒƒjƒ…[	TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	ƒƒjƒ…["%s"‚ÍŠù‚É‘¼‚ÌƒtƒH[ƒ€‚Åg‚í‚ê‚Ä‚¢‚Ü‚·	Consts_SDuplicateMenus
+Menu Background	ƒƒjƒ…[‚Ì”wŒi	ExtCtrls_clNameMenu
+Menu Text	ƒƒjƒ…[ƒeƒLƒXƒg	ExtCtrls_clNameMenuText
+Menu index out of range	ƒƒjƒ…[ƒCƒ“ƒfƒbƒNƒX‚ª”ÍˆÍ‚ğ‰z‚¦‚Ü‚µ‚½	Consts_SMenuIndexError
+Menu inserted twice	ƒƒjƒ…[‚ğ“ñ“x’Ç‰Á‚µ‚Ü‚µ‚½	Consts_SMenuReinserted
+Menu search	ƒƒjƒ…[ƒT[ƒ`	TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	ƒƒ^ƒtƒ@ƒCƒ‹	TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	ƒƒ^ƒtƒ@ƒCƒ‹‚ª•s³‚Å‚·	Consts_SInvalidMetafile
+Metafiles	ƒƒ^ƒtƒ@ƒCƒ‹	Consts_SVMetafiles
+Michael Vinther	Michael Vinther	TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	mm#$0Dcm#$0Dinch#$0Dpoint#$0D300 DPI dots#$0D600 DPI dots#$0D	TDesignerSetupForm: UnitsBox.Items.Strings
+Min=		TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	x‚ÉŠÖ‚·‚éŠÖ”‚ÌÅ¬’l‚ğ‹‚ß‚é	ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	…•½”½“](&X)	TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	Œ	SysConst_SShortDayNameMon
+Monday	Œ—j“ú	SysConst_SLongDayNameMon
+Money Green	—Î	ExtCtrls_clNameMoneyGreen
+More Buttons	•¡”‚Ìƒ{ƒ^ƒ“	Consts_SMoreButtons
+Move canvas	è‚Ì‚Ğ‚çƒc[ƒ‹	TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	MultiLine must be True when TabPosition is tpLeft or tpRight	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	Multiple-image Network Graphics	PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	‚±‚Ì‹@”\‚ğg‚¤‚É‚ÍMultiselectƒ‚[ƒh‚ª•K—v‚Å‚·	Consts_SMultiSelectRequired
+N&o to All		Consts_SMsgDlgNoToAll
+Name	–¼‘O	TPropertyEditorForm: Panel1.Caption
+Name expected	–¼‘O‚Å‚È‚­‚Ä‚Í‚È‚è‚Ü‚¹‚ñ	ExpressionEval_rsNameExpected
+Navy	®	ExtCtrls_clNameNavy
+New diagram	V‹Kì¬	TMainForm: NewAction.Hint
+New line	‰üs	TextEditor_rsNewLine
+New page	V‹Kƒy[ƒW(&N)	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	V‹Kì¬(&N)	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	Ÿ(&N)	TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.		Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	No OnGetItem event handler assigned	Consts_SNoGetItemEventHandler
+No argument for format '%s'	‘®•¶š—ñ"%s"‚Ìˆø”‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	SysConst_SArgumentMissing
+No context-sensitive help installed	ó‹µˆË‘¶ƒwƒ‹ƒv‚ªƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	«‘ƒtƒ@ƒCƒ‹‚ªƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚È‚¢‚©AƒpƒX‚ªƒIƒvƒVƒ‡ƒ“‚Åİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	Main_rsNoDictionariesFound
+No files found	ƒtƒ@ƒCƒ‹‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	Main_rsNoFilesFound
+No global or local color table defined	’è‹`‚³‚ê‚Ä‚¢‚È‚¢globalElocal color table	GIFImage_sNoColorTable
+No help found for %s	%s‚ÉŠÖ‚·‚éƒwƒ‹ƒv‚ğŒ©‚Â‚¯‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½	HelpIntfs_hNothingFound
+No help keyword specified.	ƒwƒ‹ƒvƒL[ƒ[ƒh‚ªw’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	WinHelpViewer_hNoKeyword
+No icons in file	ƒAƒCƒRƒ“ƒtƒ@ƒCƒ‹‚ª‘¶İ‚µ‚Ü‚¹‚ñ	ICOLoader_rsNoIconsInFile
+No more points allowed	“_‚ğ‘‚â‚·‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ	LineObject_rsNoMorePointsAllowed
+No objects in active layer	ƒAƒNƒeƒBƒuƒŒƒCƒ„[‚ÉƒIƒuƒWƒFƒNƒg‚ª‘¶İ‚µ‚Ü‚¹‚ñ	Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	‰ğ–@‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñA”®‚ğ•Ï‚¦‚Ä‚­‚¾‚³‚¢	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	ƒL[ƒ[ƒhƒwƒ‹ƒv‚ªƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	ƒo[ƒWƒ‡ƒ“î•ñ‚ª—v‹‚³‚ê‚½ƒtƒ@ƒCƒ‹\"%s\"‚ÉŠÖ˜A•t‚¯‚ç‚ê‚Ä‚¢‚Ü‚¹‚ñ	VersionInfo_rs_noversioninfo
+None		ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	ƒ^ƒCƒ}[‚ª‘«‚è‚Ü‚¹‚ñ	Consts_SNoTimers
+Not in dictionary:	«‘‚É‚ ‚è‚Ü‚¹‚ñ:	SpellChecker_rsNotInDictionary
+Note that closing tags are not required		TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.		TFormatAssociateForm: Label1.Caption
+Note that writing of files with multiple icons is not supported.		TIconSelectionForm: Label1.Caption
+Nov	11	SysConst_SShortMonthNameNov
+November	11Œ	SysConst_SLongMonthNameNov
+OK		TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	ƒIƒuƒWƒFƒNƒg(&O)	TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	ƒIƒuƒWƒFƒNƒg‚Ìİ’è	TMainForm: PropertiesAction.Hint
+Object type not supported for operation	‘€ì‚Í‚±‚ÌƒIƒuƒWƒFƒNƒg‚É‘Î‚µƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	GIFImage_sUnsupportedClass
+Object:	ƒIƒuƒWƒFƒNƒg(&O):	TSpellCheckForm: Label2.Caption
+Objects cast shadows	ƒIƒuƒWƒFƒNƒg‚É‰e‚ğ‚Â‚¯‚é(&O)	TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages		TMainForm: EditStencilAction.Hint
+Oct	10	SysConst_SShortMonthNameOct
+October	10Œ	SysConst_SLongMonthNameOct
+Odd rounded 1		FlowchartObject_rsOddRounded1
+Odd rounded 2		FlowchartObject_rsOddRounded2
+Olive	ƒIƒŠ[ƒu	ExtCtrls_clNameOlive
+Opacity	”{—¦	TPropertyEditorForm: Panel24.Caption
+Open	ŠJ‚­	Main_rsOpen
+Open in new window...	V‚µ‚¢ƒEƒCƒ“ƒhƒE‚ÅŠJ‚­(&I)	TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	ŠJ‚­(&O)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	‘€ì‚ª’†’f‚³‚ê‚Ü‚µ‚½	SysConst_SOperationAborted
+Operation not allowed on sorted list	ƒ\[ƒg‚³‚ê‚é•¶š—ñƒŠƒXƒg‚É‘Î‚µ‚Ä‚Í‹–‚³‚ê‚È‚¢“®ì‚Å‚·	RTLConsts_SSortedListError
+Operation not allowed on sorted string list	ƒ\[ƒg‚³‚ê‚½•¶š—ñƒŠƒXƒg‚É‚Íg‚¦‚È‚¢‘€ì‚Å‚·	StringLists_rsSortedListError
+Operation not supported	w’è‚Ì“®ì‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	‘I‘ğ‚³‚ê‚½ƒvƒŠƒ“ƒ^‚Å‚ÍƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢‹@”\‚Å‚·	Consts_SInvalidPrinterOp
+Operator expected	ƒIƒyƒŒ[ƒ^‚Å‚È‚­‚Ä‚Í‚È‚è‚Ü‚¹‚ñ	ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	ExpressionHelp_rsExpressionHelp
+Optimizing...	Å“K‰»...	GIFImage_sProgressOptimizing
+Options	ƒIƒvƒVƒ‡ƒ“(&U)	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	ƒƒ‚ƒŠ‚ª‘«‚è‚Ü‚¹‚ñ	SysConst_SOutOfMemory
+Out of memory while expanding memory stream	ƒƒ‚ƒŠƒXƒgƒŠ[ƒ€‚ÌŠg‘å’†‚Éƒƒ‚ƒŠ‚ª‘«‚è‚È‚­‚È‚è‚Ü‚µ‚½	RTLConsts_SMemoryStreamError
+Out of system resources	ƒVƒXƒeƒ€ƒŠƒ\[ƒX‚ª‘«‚è‚Ü‚¹‚ñ	Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	%sŒ^‚©‚ç%sŒ^‚Ö‚ÌƒoƒŠƒAƒ“ƒgŒ^•ÏŠ·‚Å‚ÌƒI[ƒo[ƒtƒ[ƒGƒ‰[	SysConst_SVarTypeConvertOverflow
+Overline	ãü	TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	Œ»İ‚ÌƒŒƒCƒ„[‚Åƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg‚ğã‘‚«‚µ‚Ü‚·‚©H	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	ƒy[ƒW%d”Ô	DiagramBase_rsPageD
+Page count	‘Sƒy[ƒW”	TextEditor_rsPageCount
+Page number	ƒy[ƒW”Ô†	TextEditor_rsPageNumber
+Page number:	ƒy[ƒW”Ô†:	SlideShow_rsPageNumber
+Page p%s layer %d	ƒy[ƒW%s ƒŒƒCƒ„[%d	PictureObject_rsPagePSLayerD
+Page properties	ƒy[ƒWİ’è	TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	ƒy[ƒWİ’è(&P)	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title	ƒy[ƒWƒ^ƒCƒgƒ‹	TextEditor_rsPageTitle
+Page title (empty for auto):	ƒy[ƒWƒ^ƒCƒgƒ‹(‹ó”’‚Å©“®İ’è)	RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	—^‚¦‚ç‚ê‚½ƒyƒAƒŒƒ“ƒg‚Í"%s"‚ÌƒyƒAƒŒƒ“ƒg‚É‚Í‚Å‚«‚Ü‚¹‚ñ	Consts_SParentGivenNotAParent
+Paste	“\‚è•t‚¯(&P)	TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	Œ`®‚ğ‘I‘ğ‚µ‚Ä“\‚è•t‚¯(&S)	TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	PgDn	Consts_SmkcPgDn
+PgUp	PgUp	Consts_SmkcPgUp
+Please support %s	%s‚É‹¦—Í‚µ‚Ä‚­‚¾‚³‚¢I	TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	x‚ÉŠÖ‚·‚éŠÖ”‚ğƒOƒ‰ƒt‚É•\¦	ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	ƒOƒ‰ƒtF	TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	‘½ŠpŒ`‚Í­‚È‚­‚Æ‚à2‚ÂˆÈã‚Ì“_‚ª•K—v‚Å‚·	GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note	ƒ|ƒbƒvƒAƒbƒvƒm[ƒg	TextEditor_rsPopupNote
+Portable Network Graphics	Portable Network Graphics	PNGLoader_rsPNGImageFile
+Premature end of data	—\Šú‚µ‚È‚¢EOF	GIFImage_sOutOfData
+Preview mode	ˆóüƒvƒŒƒrƒ…[(&V)	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available	ƒvƒŒƒrƒ…[‚ğ—˜—p‚Å‚«‚Ü‚¹‚ñ	DialogsEx_rsPreviewNotAvailable
+Previous	‘O(&P)	TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap		TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%	ˆóü”{—¦‚ğ%d%%‚Éİ’è	PrintDiagram_rsPrintScalingSetToD
+Print scaling:	ˆóü”{—¦:	TDesignerSetupForm: Label7.Caption
+Print...	ˆóü(&P)	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	ƒvƒŠƒ“ƒ^‚Éˆóü‚Å‚«‚éó‘Ô‚Å‚Í‚ ‚è‚Ü‚¹‚ñ	Consts_SNotPrinting
+Printer selected is not valid	‘I‘ğ‚µ‚½ƒvƒŠƒ“ƒ^‚Í—LŒø‚Å‚Í‚ ‚è‚Ü‚¹‚ñ	Consts_SInvalidPrinter
+Printing in progress	Œ»İˆóü’†‚Å‚·	Consts_SPrinting
+Privileged instruction	“ÁŒ –½—ßˆá”½	SysConst_SPrivilege
+Process failed: %d	ˆ—¸”s:%s	AnalyzerPlugins_rsProcessFailedD
+ProductName	ProductName	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.	“K—p‚³‚¹‚é‚½‚ß‚É‚ÍƒvƒƒOƒ‰ƒ€‚ğÄ‹N“®‚³‚¹‚é•K—v‚ª‚ ‚è‚Ü‚·B	LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	İ’è	TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	İ’è(&P)	TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	ƒvƒƒpƒeƒB%s‚Í‘¶İ‚µ‚Ü‚¹‚ñ	RTLConsts_SUnknownProperty
+Property is read-only	ƒvƒƒpƒeƒB‚Í‘‚«‚İ‹Ö~‚Å‚·	RTLConsts_SReadOnlyProperty
+Purple	‡	ExtCtrls_clNamePurple
+Radius of corner arc	ƒR[ƒi[‚Ì”¼Œa	TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	0`x‚Ì’†‚Ì—”	ExpressionEval_rsRandomNumberIn0X
+Range check error	”ÍˆÍƒ`ƒFƒbƒNƒGƒ‰[	SysConst_SRangeError
+Range:	”ÍˆÍ:	TExpressionPlotForm: Label1.Caption
+Read	“Ç‚İ‚İ	SysConst_SReadAccess
+Read beyond end of file	ƒtƒ@ƒCƒ‹‚Ì––”öˆÈ~‚ğ“Ç‚İ‚İ‚Ü‚µ‚½	SysConst_SEndOfFile
+Read less than expected	“Ç‚İ‚İ‚ª—\Šú’l‚æ‚è‚à­‚È‚¢	Streams_rs_ReadLessError
+Rearrange pages	ƒy[ƒW‘I‘ğ	TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	ƒy[ƒW‘I‘ğ(&R)	TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	zŠÂQÆ	ExpressionEval_rsRecursiveReference
+Red	Ô	ExtCtrls_clNameRed
+Redo	‚â‚è’¼‚·(&R)	Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	‘Š‘Îƒy[ƒW”Ô†(-1F‘Oƒy[ƒW):	Main_rsRelativePageNumber1PreviousPage
+Reload	Ä“Ç‚İ‚İ(&R)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?	•ÏX‚ğ”jŠü‚µ‚Ä‚à‚æ‚¢‚Å‚·‚©H	Main_rsReloadAndLoseChanges
+Rename	–¼‘O‚Ì•ÏX(&R)	TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.		TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	•`‰æ’†...	GIFImage_sProgressRendering
+Reorder or delete pages	ƒy[ƒW‚Ì‘I‘ğEíœ	TMainForm: ReorderPagesAction.Hint
+Replace	’u‚«Š·‚¦(&R)	TSpellCheckForm: ReplaceButton.Caption
+Reset Toolbar	ƒc[ƒ‹ƒo[‚ÌƒŠƒZƒbƒg	Consts_SResetActionToolBar
+Reset symbol table	ƒVƒ“ƒ{ƒ‹ƒe[ƒuƒ‹‚ğƒŠƒZƒbƒg	TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	%sƒŠƒ\[ƒX‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	RTLConsts_SResNotFound
+RichEdit line insertion error	RichEdit line insertion error	ComStrs_sRichEditInsertError
+Right	‰E‘µ‚¦(&R)	Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear		Main_rsRightClickToClear
+Root of expression in x	x‚ğƒ‹[ƒg‚Ì®‚Å•\¦	ExpressionEval_rsRootOfExpressionInX
+Rotate	‰ñ“](&R)	Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180°	180“x(&1)	TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270°	270“x(&2)	TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90°	90“x(&9)	TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	”½Œv‰ñ‚è‚É‰ñ“] ¦‚·‚×‚Ä‚ÌƒIƒuƒWƒFƒNƒg‚ª‚±‚Ì‘€ì‚ğƒTƒ|[ƒg‚µ‚Ä‚¢‚é‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	TMainForm: RotateAction.Hint
+Rotation angle	Šp“x‚ğ“ü—Í	Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	®”‚ÉlÌŒÜ“ü	ExpressionEval_rsRoundToNearestInteger
+Rounded 1		FlowchartObject_rsRounded1
+Rounded 2		FlowchartObject_rsRounded2
+Rounded 3		FlowchartObject_rsRounded3
+Rounds toward negative infinity	Ø‚èÌ‚Ä	ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	Ø‚èã‚°	ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	“y	SysConst_SShortDayNameSat
+Saturday	“y—j“ú	SysConst_SLongDayNameSat
+Save	ã‘‚«•Û‘¶(&S)	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	–¼‘O‚ğ‚Â‚¯‚Ä•Û‘¶(&A)	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	ƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg•Û‘¶(&S)	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	•Û‘¶’†...	GIFImage_sProgressSaving
+Scan line index out of range	ƒXƒLƒƒƒ“ƒ‰ƒCƒ“ ‚ÌƒCƒ“ƒfƒbƒNƒX‚ª”ÍˆÍ‚ğ‰z‚¦‚Ü‚µ‚½	Consts_SScanLine
+Scroll Bar	ƒXƒNƒ[ƒ‹ƒo[	ExtCtrls_clNameScrollBar
+Scrollbar property out of range	ƒXƒNƒ[ƒ‹ƒo[ƒvƒƒpƒeƒB‚ª”ÍˆÍ‚ğ‰z‚¦‚Ü‚µ‚½	Consts_SScrollBarRange
+Seeking not supported	ƒXƒgƒŠ[ƒ€‚ÌˆÚ“®‚ªƒTƒ|[ƒg‚³‚ê‚Ä‚Ü‚¹‚ñ	DelphiStream_rsSeekingNotSupported
+Select all	‚·‚×‚Ä‘I‘ğ(&A)	TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	Œ`®‚ğ‘I‘ğ:	TPasteSpecialForm: Label1.Caption
+Select icon to import from file	ƒtƒ@ƒCƒ‹‚©‚çƒCƒ“ƒ|[ƒg‚·‚é‚½‚ß‚ÌƒAƒCƒRƒ“‚ğ‘I‘ğ	TIconSelectionForm: IconSelectionForm.Caption
+Select program language	Œ¾Œê‘I‘ğ	TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report	ƒŒƒ|[ƒg‚ğ‘—M	StyleForm_rsSendBugReport
+Send to back	”w–Ê‚Ö(&B)	TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	9	SysConst_SShortMonthNameSep
+Separator	ƒZƒpƒŒ[ƒ^[	Consts_SSeparator
+Separator line	sŠÔü	TextEditor_rsSeparatorLine
+September	9Œ	SysConst_SLongMonthNameSep
+Set	İ’è	TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	ƒ_ƒCƒAƒOƒ‰ƒ€‚ÌƒtƒHƒ“ƒg‚ğİ’è	TMainForm: DiagramFontAction.Hint
+Set dictionary path	«‘ƒtƒ@ƒCƒ‹‚ÌêŠ	TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name	ƒtƒHƒ“ƒg–¼‚ğw’è	TextEditor_rsSetFontByName
+Set layer color...	ƒŒƒCƒ„[‚ÉƒJƒ‰[‚ğ•t‚¯‚é(&C)	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	Œ¾Œê‘I‘ğ	TDesignerSetupForm: LanguageButton.Caption
+Shift+		Consts_SmkcShift
+Show grid	ƒOƒŠƒbƒh‚ğ•\¦	TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	ƒIƒuƒWƒFƒNƒgƒcƒŠ[‚ğ•\¦(&S)	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins		TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer		TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	‹N“®‚É‚±‚ÌƒƒbƒZ[ƒW‚ğ•\¦	TPleaseSupportForm: CheckBox1.Caption
+Side bars		FlowchartObject_rsSideBars
+Silver	‹âF	ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	‘¼‚ÌƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÉƒNƒŠƒbƒvƒ{[ƒh‚©‚ç“\‚è•t‚¯‚éÛ‚Ì”ä—¦	TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size	ˆóüƒTƒCƒY‚ÆƒfƒUƒCƒ“ƒTƒCƒY‚Ì”ä—¦	TDesignerSetupForm: PrintScalingEdit.Hint
+Skip	ƒXƒLƒbƒv	FormatAssociation_rsSkip
+Skip symbols	ƒMƒŠƒVƒƒ•¶š‚ğ”ò‚Î‚·	TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	”šA’Pˆê•¶š‚Æ‘å•¶š‚Ì’PŒê‚ğƒXƒLƒbƒv	TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	‹óF	ExtCtrls_clNameSkyBlue
+Slant left		FlowchartObject_rsSlantLeft
+Slant right		FlowchartObject_rsSlantRight
+Slide show	ƒXƒ‰ƒCƒhƒVƒ‡[(&D)	TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D	Solid#$0D¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥#$0D¥@¥@¥@¥@¥@¥@¥@¥@¥#$0D|||||||||||||||||#$0D|@|@|@|@|@|@|@|@|#$0D||@||@||@||@||@||#$0D||@@||@@||@@||@@|#$0D|¥|¥|¥|¥|¥|¥|¥|¥|#$0D||¥||¥||¥||¥||¥||#$0D||@|@||@|@||@|@||#$0D========#$0D	TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	x‚É‚Â‚¢‚Ä‰ğ‚­	ExpressionEval_rsSolveEquationInX
+Space	ƒXƒy[ƒX	Consts_SmkcSpace
+Spell check	ƒXƒyƒ‹ƒ`ƒFƒbƒN	TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	ƒ`ƒFƒbƒN‚ªI—¹‚µ‚Ü‚µ‚½B	SpellChecker_rsSpellCheckComplete
+Spell checker...	ƒXƒyƒ‹ƒ`ƒFƒbƒJ[(&S)	TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	•½•ûª	ExpressionEval_rsSquareRoot
+Stack overflow	Stack overflow	SysConst_SStackOverflow
+Standard function	OŠpŠÖ”	ExpressionHelp_rsStandardFunction
+Stop		LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	ƒXƒgƒŠ[ƒ€‚ğ‘‚«‚İ‰Â”\‚ÉŠJ‚¯‚Ü‚¹‚ñ	Deflate_rsWriteDenied
+Stream read error	ƒXƒgƒŠ[ƒ€‚©‚ç‚Ì“Ç‚İ‚İƒGƒ‰[	RTLConsts_SReadError
+Stream write error	ƒXƒgƒŠ[ƒ€‚Ö‚Ì‘‚«‚İƒGƒ‰[	RTLConsts_SWriteError
+Strikeout		TextEditor_rsStrikeout
+String list does not allow duplicates	•¶š—ñƒŠƒXƒg‚Íd•¡‚µ‚½ƒf[ƒ^‚ğ‚Â‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ	StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	ƒXƒ^ƒCƒ‹	TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	ƒTƒuƒƒjƒ…[‚ªƒƒjƒ…[‚É‚ ‚è‚Ü‚¹‚ñ	Consts_SMenuNotFound
+Subscript	‰º•t‚«•¶š	TextEditor_rsSubscript
+Suggestions:	Œó•â:	TSpellCheckForm: Label4.Caption
+Sun	“ú	SysConst_SShortDayNameSun
+Sunday	“ú—j“ú	SysConst_SLongDayNameSun
+Superscript	ã•t‚«•¶š	TextEditor_rsSuperscript
+Support Diagram Designer...	ƒTƒ|[ƒgƒy[ƒW‚Ö(&S)	TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	ŠÖ”E’è”	TExpressionEvalForm: ListView.Caption
+Symbol font	ƒMƒŠƒVƒƒ•¶š	TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	ƒVƒXƒeƒ€ƒGƒ‰[ ƒR[ƒh:%d.\r\n%s	SysConst_SOSError
+Tab		Consts_SmkcTab
+Tab index out of bounds		Consts_SInvalidTabIndex
+Tab position incompatible with current tab style	TabPosition‚Åw’è‚³‚ê‚½’l‚ÍŒ»İ‚ÌTabStyle‚Ìó‘Ô‚Å‚Íw’è‚Å‚«‚Ü‚¹‚ñ	Consts_SInvalidTabPosition
+Tab style incompatible with current tab position	TabStyle‚Åw’è‚³‚ê‚½’l‚ÍŒ»İ‚ÌTabPosition‚Ìó‘Ô‚Å‚Íw’è‚Å‚«‚Ü‚¹‚ñ	Consts_SInvalidTabStyle
+Teal	Â—Î	ExtCtrls_clNameTeal
+Template palette	ƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg(&T)	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	ƒeƒ“ƒvƒŒ[ƒgƒpƒŒƒbƒg - ƒhƒ‰ƒbƒNƒhƒƒbƒv‚Åƒy[ƒW‚Ö’Ç‰Á	TMainForm: TemplateScrollBox.Hint
+Terminate application	ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ğI—¹	StyleForm_rsTerminateApplication
+Text	ƒeƒLƒXƒg	Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation		TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	•¶šF	TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	•¶š—ñ‚Ì‘å‚«‚³‚ªƒƒ‚‚Ì§ŒÀ‚ğ‰z‚¦‚Ü‚µ‚½	Consts_SInvalidMemoSize
+Text formatting codes:	ƒeƒLƒXƒgCüƒR[ƒh	TTextEditorForm: Label1.Caption
+Text margin	ƒeƒLƒXƒgƒ}[ƒWƒ“	TPropertyEditorForm: Panel21.Caption
+Text not found	ƒeƒLƒXƒg‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	Main_rsTextNotFound
+Text:	ƒeƒLƒXƒg:	TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	’Êíg‚¤ƒvƒŠƒ“ƒ^‚ª‘I‘ğ‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ	Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	‚±‚ÌƒRƒ“ƒgƒ[ƒ‹‚Íƒo[ƒWƒ‡ƒ“‚ª 4.70 ˆÈ~‚Ì COMCTL32.DLL ‚ğ•K—v‚Æ‚µ‚Ü‚·	ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)	ƒXƒŒƒbƒhƒGƒ‰[: %s (%d)	RTLConsts_SThreadError
+Thread creation error: %s	ƒXƒŒƒbƒhì¬ƒGƒ‰[:%s	RTLConsts_SThreadCreateError
+Three-digit font size	ƒtƒHƒ“ƒgƒTƒCƒY(3Œ…)	TextEditor_rsThreeDigitFontSize
+Thu	–Ø	SysConst_SShortDayNameThu
+Thursday	–Ø—j“ú	SysConst_SLongDayNameThu
+Title	ƒ^ƒCƒgƒ‹	TQuickMenuSearchForm: ListView.Caption
+Too few lines to create polygon	‘½ŠpŒ`‚ğì‚éü‚ª‘«‚è‚Ü‚¹‚ñ	GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	ŠJ‚©‚ê‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚ª‘½‚·‚¬‚Ü‚·	SysConst_STooManyOpenFiles
+Top	ã‘µ‚¦(&T)	TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	ã‘µ‚¦#$0D’†‰›‘µ‚¦#$0D‰º‘µ‚¦#$0D	TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color	“§‰ßF	TIconSelectionForm: TransparentButton.Caption
+Transparent color key	“§‰ßF	TPropertyEditorForm: Panel25.Caption
+Tue	–Ø	SysConst_SShortDayNameTue
+Tuesday	–Ø—j“ú	SysConst_SLongDayNameTue
+Turn mouse wheel to change		Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size		Main_rsUseMouseWheelToChangeSize
+UML has a		LineObject_rsUMLHasA
+UML is a		LineObject_rsUMLIsA
+Unable to Replace Image	ƒCƒ[ƒW‚Ì’u‚«Š·‚¦‚ª‚Å‚«‚Ü‚¹‚ñ	Consts_SReplaceImage
+Unable to close file	ƒtƒ@ƒCƒ‹‚ğ•Â‚¶‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ	AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	ƒfƒBƒŒƒNƒgƒŠ‚ğì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ	SysConst_SCannotCreateDir
+Unable to evaluate guess:		ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	–ÚŸiTOCj‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ	HelpIntfs_hNoTableOfContents
+Unable to insert a line	ü‚ğ’Ç‰Á‚Å‚«‚Ü‚¹‚ñ	Consts_SInsertLineError
+Unable to insert an item	ƒAƒCƒeƒ€‚Ì‘}“ü‚ª‚Å‚«‚Ü‚¹‚ñ	ComStrs_sInsertError
+Unable to open file	ƒtƒ@ƒCƒ‹‚ªŠJ‚¯‚Ü‚¹‚ñ	AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	İ’è‚ğ•Û‘¶‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½	Consts_SUnableToSaveSettings
+Undefined	’è‹`‚³‚ê‚Ä‚¢‚È‚¢	ExpressionEval_rsUndefined
+Undefined symbol:	’è‹`‚³‚ê‚Ä‚¢‚È‚¢ƒVƒ“ƒ{ƒ‹:	ExpressionEval_rsUndefinedSymbol
+Underline	‰ºü	TextEditor_rsUnderline
+Undo	Œ³‚É–ß‚·(&U)	Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	Œ³‚É–ß‚·‰ñ”:	TDesignerSetupForm: Label3.Caption
+Unexpected character:	—\Šú‚µ‚È‚¢•¶š:	ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	—\Šú‚µ‚È‚¢variantƒGƒ‰[	SysConst_SVarUnexpected
+Ungroup	ƒOƒ‹[ƒv‰ğœ(&U)	TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	‘I‘ğ’†‚ÌƒIƒuƒWƒFƒNƒg‚ÌƒOƒ‹[ƒv‰ğœ	TMainForm: UngroupAction.Hint
+UnitLabel1	UnitLabel1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	UnitLabel2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	’PˆÊ:	TDesignerSetupForm: Label5.Caption
+Unknown GIF block type	–¢’m‚ÌGIFƒuƒƒbƒNƒ^ƒCƒv	GIFImage_sBadBlock
+Unknown extension type	–¢’m‚ÌŠg’£ƒ^ƒCƒv	GIFImage_sUnknownExtension
+Unknown seek origin	–¢’m‚ÌˆÚ“®Šî“_	DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢	GIFImage_sBadBlockSize
+Unsupported GIF version	ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢GIFƒo[ƒWƒ‡ƒ“	GIFImage_sBadVersion
+Unsupported PNG data	ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢PNGƒf[ƒ^	PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	Unsupported PixelFormat	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢ƒrƒbƒgƒ}ƒbƒvŒ`®	LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢ƒNƒŠƒbƒvƒ{[ƒhŒ`®	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢ƒtƒ@ƒCƒ‹Œ`®	LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	ƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚È‚¢ƒsƒNƒZƒ‹Œ`®	AnalyzerPlugins_rsUnsupportedPixelFormat	LinarBitmap_rsInvalidPixelFormat
+Up		Consts_SmkcUp
+Value expected	’l‚Å‚È‚­‚Ä‚Í‚È‚è‚Ü‚¹‚ñ	ExpressionEval_rsValueExpected
+Value must be integer	’l‚Í”’l‚Å‚È‚­‚Ä‚Í‚È‚è‚Ü‚¹‚ñ	ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	’l‚ª”ÍˆÍŠO‚Å‚·:[%s - %s]	ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported	ƒoƒŠƒAƒ“ƒg‚Ìƒƒ\ƒbƒhŒÄ‚Ño‚µ‚Íg‚¦‚Ü‚¹‚ñ	SysConst_SDispatchError
+Variant or safe array index out of bounds	ƒoƒŠƒAƒ“ƒg”z—ñ‚Ì”ÍˆÍ‚ğ’´‚¦‚Ä‚¢‚Ü‚·	SysConst_SVarArrayBounds
+Variant or safe array is locked	ƒoƒŠƒAƒ“ƒg”z—ñ‚ªƒƒbƒN‚³‚ê‚Ä‚¢‚Ü‚·	SysConst_SVarArrayLocked
+Variant overflow	ƒoƒŠƒAƒ“ƒgƒI[ƒo[ƒtƒ[	SysConst_SVarOverflow
+Version	ƒo[ƒWƒ‡ƒ“	TAboutBox: Version.Caption
+Vertical	‚’¼	LinkEditor_rsVertical
+Vertical scaling	‚’¼ƒTƒCƒY	TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	‚’¼ˆÊ’u	TPropertyEditorForm: Panel4.Caption
+Warning	Œx	Consts_SMsgDlgWarning
+Wed	…	SysConst_SShortDayNameWed
+Wednesday	…—j“ú	SysConst_SLongDayNameWed
+What can I do?	‚ ‚È‚½‚É‚Å‚«‚é‚±‚Æ	TPleaseSupportForm: Label2.Caption
+White	”’	ExtCtrls_clNameWhite
+Width	•	TPropertyEditorForm: Panel9.Caption
+Width:	•:	TPagePropertiesForm: Label1.Caption
+Window Background	”wŒi	ExtCtrls_clNameWindow
+Window Frame	˜g	ExtCtrls_clNameWindowFrame
+Window Text	ƒeƒLƒXƒg	ExtCtrls_clNameWindowText
+Windows Enhanced metafile	WindowsŠg’£ƒƒ^ƒtƒ@ƒCƒ‹	WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Windowsƒrƒbƒgƒ}ƒbƒv	BMPLoader_rsWindowsBitmap
+Windows cursor	WindowsƒJ[ƒ\ƒ‹	ICOLoader_rsWindowsCursor
+Windows icon	WindowsƒAƒCƒRƒ“	ICOLoader_rsWindowsIcon
+Windows metafile	Windowsƒƒ^ƒtƒ@ƒCƒ‹	WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	—Dæ“x‚ğ‰Šú’l‚É–ß‚µ‚Ä‚æ‚ë‚µ‚¢‚Å‚·‚©H	Consts_SRestoreDefaultSchedule
+Write	‘‚«‚İ	SysConst_SWriteAccess
+X:	X:	TDesignerSetupForm: Label1.Caption
+Y:	Y:	TDesignerSetupForm: Label2.Caption
+Yellow	‰©F	ExtCtrls_clNameYellow
+Yes to &All		Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	‚±‚ÌƒAƒCƒeƒ€‚Ííœ‚Å‚«‚Ü‚¹‚ñ	Consts_SDeleteNotAllowed
+Zoom	ƒY[ƒ€	TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft Paintbrush	PCXLoader_rsPCXImageFile
+add %s	%s’Ç‰Á	Main_rsAddS
+add point	“_’Ç‰Á	Main_rsAddPoint
+e-mail		TAboutBox: EMailLabel.Caption
+edit properties	ƒvƒƒpƒeƒB•ÏX	Main_rsEditProperties
+http://logicnet.dk/mail.php	http://logicnet.dk/mail.php	TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk	http://meesoft.logicnet.dk	TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	http://meesoft.logicnet.dk/DiagramDesigner/support.htm	TMainForm: SupportAction.Hint
+move	ˆÚ“®	Main_rsMove
+rename	–¼Ì•ÏX	Main_rsRename
+size	ƒTƒCƒY	Main_rsSize
+· Develop plugins	Eƒvƒ‰ƒOƒCƒ“ŠJ”­	TPleaseSupportForm: Label7.Caption
+· Help improve the documentation		TPleaseSupportForm: Label5.Caption
+· The easiest is to make a donation	E„‚ÌŠˆ“®‚Ö‚ÌŠñ•t	TPleaseSupportForm: Label3.Caption
+· Translate the program to your language	E‘¼‚ÌŒ¾Œê‚Ö–|–ó	TPleaseSupportForm: Label6.Caption
+¼ points	/4point	Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption
+DefaultCharset	128

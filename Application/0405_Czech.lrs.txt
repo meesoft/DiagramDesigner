@@ -1,0 +1,814 @@
+ - Dock zone has no control	- Úložištì bez kontroly	Consts_SDockZoneHasNoCtl
+ - Dock zone not found	- Nenalezeno úložištì	Consts_SDockZoneNotFound
+%d files selected		DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d není platná hodnota pro PageIndex. Page Index musí být mezi 0 a %d	ComStrs_sPageIndexError
+%d link points defined	%d body zástupce definovány	PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s (%s, øádek %d)	SysConst_SAssertError
+%s does not allow hiding	%s nedovoluje skrývání	Consts_SCannotHideActionBand
+%s expected	oèekáváno %s	ExpressionEval_rsSExpected
+%s not found	%s nenalezen	ExpressionEval_rsSNotFound
+%s not in a class registration group	%s není registraèní skupinou tøídy	RTLConsts_SUnknownGroup
+%s on %s	%s na %s	Consts_SDeviceOnPort
+%s property out of range	%s vlastnost mimo rozsah	Consts_SPropertyOutOfRange
+%s.Seek not implemented	%s.Seek není implementován	RTLConsts_SSeekNotImplemented
+&Abort	&Pøerušit	Consts_SMsgDlgAbort
+&Add or Remove Buttons		Consts_SAddRemoveButtons
+&All	&Vše	Consts_SMsgDlgAll	Consts_SAllButton
+&Close	&Zavøít	Consts_SCloseButton
+&Help	&Nápovìda	Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	&Ignorovat	Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	&Ne	Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	&Znovu	Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start	&Spustit	SpellChecker_rsStart
+&Yes	&Ano	Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value		SysConst_SInvalidFloat
+'%s' is not a valid integer value	'%s' není platná hodnota celého èísla	SysConst_SInvalidInteger
+''%s'' is not a valid component name	''%s'' není platné jméno komponenty	RTLConsts_SInvalidName
+(No Name)	(Beze jména)	Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	3D Tmavý Stín	ExtCtrls_clName3DDkShadow
+3D Light	3D Svìtlý	ExtCtrls_clName3DLight
+<unknown>	<neznámý>	SysConst_SUnknown
+= or ( expected	oèekáváno = nebo (	ExpressionEval_rsOrExpected
+A call to an OS function failed	Volání funkce OS selhalo	SysConst_SUnkOSError
+A class named %s already exists	Tøída se jménem %s již existuje	RTLConsts_SDuplicateClass
+A component named %s already exists	Komponenta se jménem %s již existuje	RTLConsts_SDuplicateName
+A control cannot have itself as its parent	Kontrola nemùže být sama sobì rodièem	Consts_SControlParentSetToSelf
+Abort	Pøerušit	Consts_SAbortButton
+About	O programu	TAboutBox: AboutBox.Caption
+About...	O aplikaci...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	Abstraktní chyba	SysConst_SAbstractError
+Active Border	Aktivní Okraj	ExtCtrls_clNameActiveBorder
+Active Caption	Aktivní Uchycení	ExtCtrls_clNameActiveCaption
+Add	Pøidat	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	Pøidat šablonu	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	Pøidat do šablony	TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation		TMainForm: PagePropertiesAction.Hint
+Adler32 error	Adler32 chyba	Adler32_rsAdler32Error
+Align	Zarovnat	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group	Zarovnat jednotlivý objekt na stránku nebo více objektù do skupiny	TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	Všechny objekty ve skupinì musí být jednoduchými èarami	GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+	Alt+	Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	Chyba pøi ètení FixedFileInfo struktury ze souboru.	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	Chyba pøi ètení popisky jazyka/znakové sady v souboru.	VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	Pøedek pro '%s' nenalezen	RTLConsts_SAncestorNotFound
+Anchors		TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group		TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing		TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export		TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	Volitelný úhel...	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	Chyba aplikace	SysConst_SExceptTitle
+Application Workspace	Pracovní plocha aplikace	ExtCtrls_clNameAppWorkSpace
+Apply to all pages	Aplikuj na všechny stránky	TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	Dub	SysConst_SShortMonthNameApr
+April	Duben	SysConst_SLongMonthNameApr
+Aqua	Moøská modø	ExtCtrls_clNameAqua
+Arrow 1	Šipka 1	LineObject_rsArrow1
+Arrow 2	Šipka 2	LineObject_rsArrow2
+Arrow 3	Šipka 3	LineObject_rsArrow3
+Assertion failed	Tvrzení selhalo	SysConst_SAssertionFailed
+Associate file formats with	Asociovat typy souborù s	TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	Asociovat program s vybranými typy souborù	TFormatAssociateForm: AssociateButton.Hint
+Aug	Srp	SysConst_SShortMonthNameAug
+August	Srpen	SysConst_SLongMonthNameAug
+Auto connect to link points		TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break		TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes		TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects		TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled		TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging		TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	Pozadí	ExtCtrls_clNameBackground
+Ball	Koule	LineObject_rsBall
+Base 10 logarithm	Base 10 logaritmus	ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	Base 2 logaritmus	ExpressionEval_rsBase2Logarithm
+Base e logarithm	Base e logaritmus	ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)		TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	Bitmapa	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	Bitmapový soubor není platný	Consts_SInvalidBitmap
+Bitmap scaling	Mìøítko bitmapy	TPropertyEditorForm: Panel16.Caption
+Bitmaps	Bitmapy	Consts_SVBitmaps
+Bits index out of range	Index Bits mimo rozsah	RTLConsts_SBitsIndexError
+BkSp	BkSp	Consts_SmkcBkSp
+Black	Èerná	ExtCtrls_clNameBlack
+Blue	Modrá	ExtCtrls_clNameBlue
+Bold		TextEditor_rsBold
+Bottom	Dolù	TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	Pøenést dopøedu	TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	Vzhled tlaèítka	ExtCtrls_clNameBtnFace
+Button Highlight	Zvýraznìní tlaèítka	ExtCtrls_clNameBtnHighlight
+Button Shadow	Stín tlaèítka	ExtCtrls_clNameBtnShadow
+Button Text	Text tlaèítka	ExtCtrls_clNameBtnText
+CRC error	CRC chyba	PNGLoader_rsCRCError
+Can't write to a read-only resource stream	Nemohu zapsat na stream urèený jen ke ètení	RTLConsts_SCantWriteResourceStreamError
+Cancel	Zrušit	TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	Nemohu pøiøadit %s k %s	RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	Nemohu pøiøadit podpoložku na actionbar pokud je mu již pøiøazen nìkterý z jeho rodièù.	Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	Nemohu zmìnit Viditelnost v OnShow or OnHide	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	Nemohu zmìnit velikost JPEG obrázku	JConsts_sChangeJPGSize
+Cannot change the size of an icon	Nemohu zmìnit velikost ikony	Consts_SChangeIconSize
+Cannot create file \"%s\". %s	Nemohu vytvoøit soubor \"%s\". %s	RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active	Nemohu vytvoøit formuláø. Nyní nejsou aktivní žádné MDI formuláøe	Consts_SNoMDIForm
+Cannot drag a form	Nemohu pøetáhnout formuláø	Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	Nemohu smìrovat na zakázané nebo neviditelné okno	Consts_SCannotFocus
+Cannot hide an MDI Child Form	Nemohu skrýt MDI Child Formuláø	Consts_SMDIChildNotVisible
+Cannot make a visible window modal	Nemohu vytvoøit viditelné modální okno	Consts_SCannotShowModal
+Cannot open clipboard	Nemohu otevøít schránku	Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	Nemohu otevøít soubor \"%s\". %s	RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	Pozadí nedovoluje kreslení	Consts_SNoCanvasHandle
+Caption Text	Zachycený Text	ExtCtrls_clNameCaptionText
+Center	Na støed	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	Zmìnit barvu všech objektù aktivní vrsty	TMainForm: SetLayerColorAction.Hint
+Change value	Zmìnit hodnotu	ExpressionHelp_rsChangeValue
+Check active layer only	Ovìøit pouze aktivní vrstu	TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates	Zkontrolovat aktualizace	TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	OtestovatSynchronizaci volanou z vlákna$%x, které NENÍ hlavním vláknem	RTLConsts_SCheckSynchronizeError
+Circle	Kruh	LineObject_rsCircle
+Circular decoder table entry	Opakovaný záznam v tabulce dekodéru	GIFImage_sDecodeCircular
+Circular references not allowed	Nejsou povolené opakované reference	Consts_SCirularReferencesNotAllowed
+Class %s not found	Nenalezena tøída %s	RTLConsts_SClassNotFound
+Clear	Vyèistit	TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	Pro ukázku jak kliknìte zde	TPleaseSupportForm: Label4.Caption
+Click to apply format to selection		TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	Schránka nepodporuje Ikony	Consts_SIconToClipboard
+Clipboard metafile scale:	Schránka mìøítka metasouboru	TDesignerSetupForm: Label4.Caption
+Close	Zavøít	TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: Button1.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator	Zavøít Výrazový tester	TExpressionEvalForm: ActionClose.Hint
+Color not in color table	Barva není v tabulce barev	GIFImage_sInvalidColor
+Color table is empty	Tabulka barev je prázdná	GIFImage_sEmptyColorMap
+Color table overflow	Pøeteèení barevné tabulky	GIFImage_sTooManyColors
+Conditional value		ExpressionEval_rsConditionalValue
+Confirm	Potvrïte	Consts_SMsgDlgConfirm
+Connect links	Pøipojit zástupce	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Continue	Pokraèovat	TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	Kontrola '%s' nemá žádné rodièovské okno	Consts_SParentRequired
+Control-C hit	Stiskni Control-C	SysConst_SControlC
+Convert	Konvertuj	TMainForm: Convert1.Caption
+Convert binary number	Konvertuj binární èíslo	ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon	Konvertuj object skupiny sestávající z propojených èar na polygon	TMainForm: MakePolygonAction.Hint
+Convert to metafile	Konvertuj na metasoubor	TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	Konvertuj na polygon	TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	Konvertuji...	GIFImage_sProgressConverting
+Copy	Kopírovat	TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all		TLinkEditorForm: CopyButton.Hint
+Copy templates to page	Kopíruj šablony na stránku	TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	Kopíruji...	GIFImage_sProgressCopying
+Corner radius		Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	Nemohu konvertovat variantu typu (%s) na typ (%s)	SysConst_SVarTypeCouldNotConvert
+Cream	Krémový	ExtCtrls_clNameCream
+Create default anchors for groups		TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images		TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents		DiagramExport_rsAutoCrop
+Ctrl+	Ctrl+	Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments		LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type		TPropertyEditorForm: Panel23.Caption
+Cut	Vyjmout	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Dec	Pro	SysConst_SShortMonthNameDec
+December	Prosinec	SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	Podteèení bufferu v bitu dekodéru	GIFImage_sDecodeTooFewBits
+Default	Výchozí	ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	Výchozí písmo...	TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del	Del	Consts_SmkcDel
+Delete	Smazat úplnì	TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	Smazat stránku diagramu?	RearrangePages_rsDeleteDiagramPage
+Delete symbol	Smazat symbol	TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	Smazat objekt šablony	TMainForm: DeleteTemplateAction.Caption
+Description	Popis	TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	Odznaèit vše	TFormatAssociateForm: NoneButton.Caption
+Diagram	Diagram	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd	Diagram (*.ddd)|*.ddd	DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	Diagram byl zmìnìn, uložit pøed uzavøením?	Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link		TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	Paleta šablony diagramu (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter
+Diamond		LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	Slovníky (*.dic)|*.dic	DesignerSetup_rsDictionariesDicDic
+Disable font antialiasing		DiagramExport_rsDisableFontAntialiasing
+Disk full	Disk je plný	SysConst_SDiskFull
+Distance from top left corner		TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	Dìlení nulou	SysConst_SDivByZero
+Docked control must have a name	Uložená kontrola musí mít jméno	Consts_SDockedCtlNeedsName
+Done	Hotovo	PropertyEditor_rsDone
+Double arrow	Dvojitá šipka	LineObject_rsDoubleArrow3
+Down	Dolù	Consts_SmkcDown
+Download	Stahovat	PropertyEditor_rsDownload
+Draw arrow	Nakresli šipku	TMainForm: DrawArrowAction.Caption
+Draw connector	Nakresli lomenou šipku	TMainForm: DrawConnectorAction.Caption
+Draw curve	Nakresli køivku	TMainForm: DrawCurveAction.Caption
+Draw ellipse	Nakresli elipsu	TMainForm: DrawEllipseAction.Caption
+Draw line	Nakresli pøímku	TMainForm: DrawLineAction.Caption
+Draw rectangle	Nakresli obdélník	TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects		TMainForm: ObjectShadowsAction.Hint
+Edit	Upravit	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	Editovat vrstvu	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point		LinkEditor_rsEditLinkPoint
+Edit text	Editovat text	TTextEditorForm: TextEditorForm.Caption
+Edit text...	Editovat text...	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	Edituji obrázek...	PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	Pro volání funkce VytvoøitSoubor musí být vymezeno právo na ètení a zápis nebo plný pøístup	Streams_rs_NoFileAccessSpec
+End	Konec	Consts_SmkcEnd
+Enhanced Metafiles	Rozšírené Metasoubory	Consts_SVEnhMetafiles
+Enter	Enter	Consts_SmkcEnter
+Enter object text:	Zadejte txt objektu:	TTextEditorForm: Label2.Caption
+Error	Chyba	Consts_SMsgDlgError
+Error closing \"%s\" - %s	Chyba pøi uzavírání \"%s\" - %s	Streams_rs_CloseFileError
+Error creating variant or safe array	Chyba vytváøení varianty bezpeèného pole	SysConst_SVarArrayCreate
+Error creating window class	Chyba pøi vytváøení tøídy okna	Consts_SWindowClass
+Error creating window device context	Chyba pøi vytváøení obsahu systému okna	Consts_SWindowDCError
+Error deleting \"%s\" - %s	Chyba pøi ostraòování \"%s\" - %s	Streams_rs_DeleteFileError
+Error in bitmap data	Chyba v bitmapových datech	AnalyzerPlugins_rsErrorInBitmapData	LinarBitmap_rsErrorInBitmapData
+Error in compressed data	Chyba v komprimovaných datech	Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	Chyba pøi naèítání døíve uložených dat ze souboru nastavení: %s\rChcete ho smazat?	Consts_SErrorLoadingFile
+Error moving file pointer - %s	Chyba pøi pøesouvání ukazatele souboru - %s	Streams_rs_SeekFileError
+Error moving stream pointer	Chyba pøi pøesouvání ukazatele streamu	MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	Chyba pøi otevírání \"%s\" - %s	Streams_rs_CreateFileError
+Error reading %s%s%s: %s	Chyba pøi ètení %s%s%s: %s	RTLConsts_SPropertyException
+Error reading from stream - %s	Chyba pøi ètení ze streamu - %s	Streams_rs_ReadError
+Error removing control from dock tree	Chyba pøi odstraòování kontroly ze stromu úložištì	Consts_SDockTreeRemoveError
+Error running Image Analyzer	Chyba pøi spouštìní Image Analyzeru	PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	Chyba nastavení %s.Count	Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s	Chyba pøi oøízávání souboru \"%s\" - %s	Streams_rs_TruncateFileError
+Error while trying to send e-mail	Chyba pøi posílání e-mailu	EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	Chyba pøi zápisu do streamu - %s	Streams_rs_WriteError
+Esc	Esc	Consts_SmkcEsc
+Evaluate	Vyhodnotit	TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	Vyhodnotit (F5)	TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	Výjímka %s v modulu %s na %p.\r\n%s%s\r\n	SysConst_SException
+Exception in safecall method	Výjímka ve volání safecall metody	SysConst_SSafecallException
+Expand	Dekomprimovat	Consts_SExpand
+Export	Exportovat	TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages		DiagramExport_rsExportAllPages
+Export file DPI:	Exportovat soubor DPI:	DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	Exportovat stránku do bitmapy nebo metasouboru	TMainForm: ExportAction.Hint
+Export page...	Exportovat stránku...	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator	Výrazový tester	TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...	Výrazový tester...	TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	Výraz není prázdný	ExpressionEval_rsExpressionIsEmpty
+External exception %x	Externí výjimka %x	SysConst_SExternalException
+Extra = found	Extra = nalezeno	ExpressionEval_rsExtraFound
+Failed to Load Stream	Chyba pøi Naèítání Streamu	ComStrs_sRichEditLoadFail
+Failed to Save Stream	Chyba pøi Ukládání Streamu	ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	Chyba pøi alokování pamìti pro GIF DIB	GIFImage_sOutOfMemDIB
+Failed to clear tab control	Chyba pøi mazání ovládání tabulátoru	ComStrs_sTabFailClear
+Failed to delete tab at index %d	Chyba pøi odstraòování tabulátoru v indexu %d	ComStrs_sTabFailDelete
+Failed to get data for '%s'	Chyba pøi získávání dat pro '%s'	RTLConsts_SRegGetDataFailed
+Failed to get object at index %d	Chyba pøi získávání objektu v indexu %d	ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	Chyba pøi ètení ImageList dat ze streamu	Consts_SImageReadFail
+Failed to retrieve tab at index %d	Chyba pøi získávání tabulátoru v indexu %d	ComStrs_sTabFailRetrieve
+Failed to set data for '%s'	Chyba pøi nastavování dat pro '%s'	RTLConsts_SRegSetDataFailed
+Failed to set object at index %d	Chyba pøi nastavování objektu v indexu %d	ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d	Chyba pøi nastavování tabulátoru \"%s\" v indexu %d	ComStrs_sTabFailSet
+Failed to store GIF on clipboard	Chyba pøi ukládání GIF do schránky	GIFImage_sFailedPaste
+Failed to write ImageList data to stream	Chyba pøi zápisu ImageList dat do streamu	Consts_SImageWriteFail
+Feb	úno	SysConst_SShortMonthNameFeb
+February	únor	SysConst_SLongMonthNameFeb
+File	Soubor	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	Odmítnut pøístup k souboru	SysConst_SAccessDenied
+File format associations	Asociace souborových formátù	TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	Soubor je vytvoøen pozdìjší verzí programu	DiagramBase_rsFileFromLaterProgramVersion
+File not found	Soubor nenalezen	SysConst_SFileNotFound
+Fill	Vyplnit	TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	Vyplnit barvou	TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Find text...	Najít text...	TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	Nalézt x minimalizující výraz	ExpressionEval_rsFindXThatMinimizesExpression
+First	První	TSlideShowForm: FirstSlideItem.Caption
+Flip	Pøeklopit	TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	Pohyblivý bod dìlení nulou	SysConst_SZeroDivide
+Floating point overflow	Pohyblivý bod pøeteèení	SysConst_SOverflow
+Floating point underflow	Pohyblivé bod podteèení	SysConst_SUnderflow
+Font		TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	Formát '%s' je neplatný nebo nekompaktibilní s argumentem	SysConst_SInvalidFormat
+Format string too long	Øetìzec je pøíliš dlouhý	SysConst_SFormatTooLong
+Fractional part of real number	Zlomková èást reálného èísla	ExpressionEval_rsFractionalPartOfRealNumber
+Fri	Pát	SysConst_SShortDayNameFri
+Friday	Pátek	SysConst_SLongDayNameFri
+Fuchsia	Fuchsie	ExtCtrls_clNameFuchsia
+GIF Image	GIF Obrázek	GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	Gaussovo náhodné èíslo, StdDev=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	Hlavní	TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	Formát stránky tiskárny	TPagePropertiesForm: PrinterButton.Caption
+Global stencil	Globální šablona	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	Nalepený konektor na pøilehlý objekt ukazuje na aktuální vrstvu	TMainForm: ConnectLinksAction.Hint
+Go to page	Jdi na stránku	TSlideShowForm: GoToPageItem.Caption
+Gradient color		TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format	Graphics Interchange Format	GIFLoader_rsGIFImageFile
+Gray	Šedá	ExtCtrls_clNameGray
+Gray Text	Šedý Text	ExtCtrls_clNameGrayText
+Green	Zelená	ExtCtrls_clNameGreen
+Grid (%s)	Rastr (%s)	DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	Seskupit	TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines	Skupina musí sestávat z propojených èar	GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	Seskupit vybrané objekty	TMainForm: GroupAction.Hint
+Group selected objects in metafile object	Seskupit vybrané objekty do metasouboru	TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	GroupIndex nemùže být ménì než GroupIndex pøedchozího menu	Consts_SGroupIndexTooLow
+Guess undefined	Domnìnka není definována	ExpressionEval_rsGuessUndefined
+HTML formatted color		TextEditor_rsHTMLFormattedColor
+Halftone	Polovièní tón	TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	Výška	TPropertyEditorForm: Panel8.Caption
+Height:	Výška:	TPagePropertiesForm: Label2.Caption
+Help	Nápovìda	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	Obsah Nápovìda	TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	HelpLabel	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	Zvýraznìní Pozadí	ExtCtrls_clNameHighlight
+Highlight Text	Zvíraznìní Textu	ExtCtrls_clNameHighlightText
+Highlight syntax		TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.		Main_rsEditShapeHint
+Home	Domù	Consts_SmkcHome
+Horizontal		LinkEditor_rsHorizontal
+Horizontal scaling		TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	Text vodorovnì	TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.	Chtìl bych podìkovat %s a dalším, kteøí vytvoøili a volnì k dispozici poskytli programové knihovny.	Main_rsIWouldLikeToThank
+I/O error %d	I/O chyba %d	SysConst_SInOutError
+IO-error: %s	IO-chyba: %s	Streams_rs_IOError
+Icon image is not valid	Soubor ikon není platný	Consts_SInvalidIcon
+Icons	Ikony	Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	Pokud máte rádi tento druh software, podpoøte prosím moji práci a další vývoj tohoto programu vèetnì dokumentace a webových stránek.#$0DUdržování webových stránek se bez Vaší podpory pro mì stává pouze výdajem.	TPleaseSupportForm: Label1.Caption
+Ignore all	Ignoruj vše	TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	Obrázek pøesahuje Logickou velikost Obrazovky	GIFImage_sScreenSizeExceeded
+Image has no DIB	Obrázek nemá žádnou DIB	GIFImage_sNoDIB
+Image height too small for contained frames	Výška obrázku je pøíliš malá pro obsazené rámce	GIFImage_sBadHeight
+Image is empty	Obrázek je prázdný	GIFImage_sEmptyImage
+Image is too large for icon	Obrázek je pro ikonu pøíliš velký	ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	Délka obrázku je pøíliš malá pro obsazené rámce	GIFImage_sBadWidth
+Inactive Border	Neaktivní Okraj	ExtCtrls_clNameInactiveBorder
+Inactive Caption	Neaktivní Výbìr	ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	Neaktivní Vybraný Text	ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	Vèetnì popisu formátu v náhledech souborù namísto "XYZ Soubor"	TFormatAssociateForm: DescriptionBox.Hint
+Info Background	Informaèní Pozadí	ExtCtrls_clNameInfoBk
+Info Text	Informaèní Text	ExtCtrls_clNameInfoText
+InfoLabel	InfoLabel	TAboutBox: InfoLabel.Caption
+Information	Informace	Consts_SMsgDlgInformation
+Inner bounds	Skryté meze	TPropertyEditorForm: InnerBoundsBox.Caption
+Ins	Ins	Consts_SmkcIns
+Insert inherited layer...	Vložit nedìditelnou vrstvu	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	Vložit obrázek ze souboru	TMainForm: InsertPictureAction.Hint
+Insert picture...	Vložit obrázek...	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text		TMainForm: DrawTextAction.Caption
+Integer overflow	Pøeteèení Integeru	SysConst_SIntOverflow
+Interface not supported	Rozhraní není podporováno	SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label	Vnitøní chyba: Instance Pøípony neodpovídá Popisce Pøípony	GIFImage_sBadExtensionInstance
+Internet help page	Nápovìda na internetu	TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Internet:	Na Internetu:	TAboutBox: Label3.Caption
+Invalid GIF data	Neplatná GIF data	GIFImage_sInvalidData
+Invalid GIF signature	Neplatný GIF podpis	GIFImage_sBadSignature
+Invalid Image trailer	Neplatný Obrázkový trailer	GIFImage_sBadTrailer
+Invalid ImageList	Neplatný ImageList	Consts_SInvalidImageList
+Invalid ImageList Index	Neplatný Index ImageListu	Consts_SImageIndexError
+Invalid NULL variant operation	Neplatná varianta NULL operace	SysConst_SInvalidVarNullOp
+Invalid PNG data	Neplatná PNG data	PNGLoader_rsInvalidPNGData
+Invalid PNG header	Neplatná PNG hlavièka	PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions	Neplatní formát alpha kanálu nebo rozmìry	PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	Neplatný argument	SysConst_SVarInvalid
+Invalid binary number	Neplatné binární èíslo	ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	Neplatná velikost bitmapy	LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	Neplatná velikost bufferu	BufStream_rsInvalidBufferSize
+Invalid class typecast	Neplatná tøídící/typecast tøída	SysConst_SInvalidCast
+Invalid clipboard format	Neplatný formát schránky	Consts_SInvalidClipFmt
+Invalid color index	Neplatný index barev	GIFImage_sBadColorIndex
+Invalid data type for '%s'	Neplatná data pro '%s'	RTLConsts_SInvalidRegType
+Invalid diagram	Neplatný diagram	DiagramBase_rsInvalidDiagram
+Invalid extension introducer	Neplatné rozšírení zavadìèe	GIFImage_sBadExtensionLabel
+Invalid filename	Neplatné jméno souboru	SysConst_SInvalidFilename
+Invalid floating point operation	Neplatná operace plovoucího bodu	SysConst_SInvalidOp
+Invalid image dimensions	Neplatná rozmìry obrázku	GIFImage_sBadDimension
+Invalid image size	Neplatná velikost obrázku	Consts_SInvalidImageSize
+Invalid index	Neplatný index	ComStrs_sInvalidIndex
+Invalid number format	Neplatný formát èísla	ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	Neplatné poèet barev specifikovaný v Image Descriptoru	GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	Neplatné poèet barev specifikovaný ve Screen Descriptoru	GIFImage_sScreenBadColorSize
+Invalid numeric input	Neplatný numerický vstup	SysConst_SInvalidInput
+Invalid numeric value	Neplatná numerická hodnota	Consts_SInvalidNumber
+Invalid owner	Neplatný vlastník	ComStrs_sInvalidOwner
+Invalid pixel coordinates	Neplatné koordináty pixelu	GIFImage_sBadPixelCoordinates
+Invalid pixel format	Neplatný formát pixelu	Consts_SInvalidPixelFormat
+Invalid pointer operation	Neplatná operace pointeru	SysConst_SInvalidPointer
+Invalid property path	Neplatná vlastnost cesty	RTLConsts_SInvalidPropertyPath
+Invalid property value	Neplatná hodnota vlastnosti	RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	Neplatná redukèní metoda	GIFImage_sInvalidReduction
+Invalid stream format	Neplatný formát streamu	RTLConsts_SInvalidImage
+Invalid stream operation	Neplatná operace streamu	GIFImage_sInvalidStream
+Invalid template palette	Neplatný paleta šablony	TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	Neplatná varianta operace	SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	Neplatná varianta operace (%s%.8x)\n%s	SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	Neplatná varianta typu	SysConst_SVarBadType
+Invalid variant type conversion	Neplatná varianta typu konverze	SysConst_SInvalidVarCast
+Italic		TextEditor_rsItalic
+Item %s has subitems, delete anyway?	Položka %s má podpoložky, opravdu smazat?	Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	Položku %s není dovoleno pøesunout	Consts_SMoveNotAllowed
+JPEG Image File	JPEG Obrázek	JConsts_sJPEGImageFile
+JPEG error #$23%d	JPEG chyba #$23%d	JConsts_sJPEGError
+Jan	Led	SysConst_SShortMonthNameJan
+January	Leden	SysConst_SLongMonthNameJan
+Joint Picture Expert Group	Joint Picture Expert Group	JPEGLoader_rsJPEGImageFile
+Jul	Èen	SysConst_SShortMonthNameJul
+July	Èervenec	SysConst_SLongMonthNameJul
+Jun	Èer	SysConst_SShortMonthNameJun
+June	Èerven	SysConst_SLongMonthNameJun
+Known image formats	Známé formáty obrázkù	Main_rsKnownImageFormats
+LabelCode1	LabelCode1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	LabelCode2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption
+Language:	Jazyk:	TSpellCheckForm: Label5.Caption
+Last	Poslední	TSlideShowForm: LastSlideItem.Caption
+Layer		TMainForm: LayerTabSet.Hint
+Layer %d		Main_rsLayerD
+Layer &1	Vrstva &1	TMainForm: EditLayer1Action.Caption
+Layer &2	Vrstva &2	TMainForm: EditLayer2Action.Caption
+Layer &3	Vrstva &3	TMainForm: EditLayer3Action.Caption
+Layer number:	Èíslo vrstvy:	Main_rsLayerNumber
+Layout	Nákres	TPropertyEditorForm: Panel18.Caption
+Left	Levý	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	Vlevo#$0DNa støed#$0DVpravo#$0DBlok vlevo#$0DBlok vpravo#$0D	TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point		Main_rsLeftRightClickToAddPoint
+Legacy		PropertyEditor_rsLegacy
+Lime	Lime	ExtCtrls_clNameLime
+Line color	Barva èáry	TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	Konec èáry	TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments		PropertyEditor_rsLineSegments
+Line start	Zaèátek èáry	TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	Styl èáry	TPropertyEditorForm: Panel20.Caption
+Line width	Tlouška èáry	Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	Editor spojného bodu	TLinkEditorForm: LinkEditorForm.Caption
+Link positions	Pozice spoje	TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	Pøehled kapacity mimo meze (%d)	RTLConsts_SListCapacityError
+List count out of bounds (%d)	Pøehled souètu mimo meze (%d)	RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	Pøehled nedovoluje duplikáty ($0%x)	RTLConsts_SDuplicateItem
+List index out of bounds (%d)	Pøehled index mimo meze (%d)	StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count	Listbox (%s) styl musí být virtuální vùèi nastavení Souètu	Consts_SListBoxMustBeVirtual
+Load template palette	Naèíst šablonu palet	TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library		TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	Naèíst šablonu palet...	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	Naèítám...	GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	Vyhledávat:	TSpellCheckForm: LookUpLabel.Caption
+MainForm	MainForm	TMainForm: MainForm.Caption
+Make palette from active layer	Vytvoøit paletu z aktivní vrstvy	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many		LineObject_rsMany
+Mar	Bøe	SysConst_SShortMonthNameMar
+March	Bøezen	SysConst_SLongMonthNameMar
+Margin for non-centered text		TPropertyEditorForm: Panel21.Hint
+Maroon	Kaštanová	ExtCtrls_clNameMaroon
+Max 16 bits in binary number	Max 16 bitù v binárním èísle	ExpressionEval_rsMax16BitsInBinaryNumber
+Max=	Max=	TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	Maximální poèet Zpìt/Znovu operací	TDesignerSetupForm: UndoHistoryEdit.Hint
+May	Kvìten	SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	Støednì šedá	ExtCtrls_clNameMedGray
+Menu	Menu	TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	Menu '%s' je již používáno jiným formuláøem menu	Consts_SDuplicateMenus
+Menu Background	Menu Pozadí	ExtCtrls_clNameMenu
+Menu Text	Menu Text	ExtCtrls_clNameMenuText
+Menu index out of range	Menu index je mimo rozsah	Consts_SMenuIndexError
+Menu inserted twice	Menu vloženo dvakrát	Consts_SMenuReinserted
+Menu search	Menu hledat	TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	Metasoubor	TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	Metasoubor není platný	Consts_SInvalidMetafile
+Metafiles	Metasoubory	Consts_SVMetafiles
+Michael Vinther	Michael Vinther	TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	Milimetry#$0DCentimetry#$0DPalce#$0Dbody#$0D300 DPI bodù#$0D600 DPI bodù#$0D	TDesignerSetupForm: UnitsBox.Items.Strings
+Min=	Min=	TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	Minimální hodnota pro výraz v x	ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	Zrcadlovì	TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	Pon	SysConst_SShortDayNameMon
+Monday	Pondìlí	SysConst_SLongDayNameMon
+Money Green	Zelené Peníze	ExtCtrls_clNameMoneyGreen
+More Buttons	Více tlaèítek	Consts_SMoreButtons
+Move canvas	Pøesunout pozadí	TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	Více èar musí být Pravdou pokud je Pozice Tabulátoru tpLeft nebo tpRight	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	Multiple-image Network Graphics	PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	Pro tuto vlastnost musí být zvolen vícenásobný výbìr	Consts_SMultiSelectRequired
+N&o to All	N&e pro vše	Consts_SMsgDlgNoToAll
+Name	Název	TPropertyEditorForm: Panel1.Caption
+Name expected	Oèekáván název	ExpressionEval_rsNameExpected
+Navy	Námoønická modø	ExtCtrls_clNameNavy
+New diagram	Nový diagram	TMainForm: NewAction.Hint
+New line		TextEditor_rsNewLine
+New page	Nová stránka	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	Nový...	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	Další	TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	V použité podmínce/doložce není pøítomna ActionBand stylová jednotka.\rVaše aplikace musí obsahovat buï XPStyleActnCtrls, StdStyleActnCtrls nebo ActionBand stylový druh jednotky tøetí strany v její použité podmínce.	Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	Není pøiøazen OnGetItem správce událostí	Consts_SNoGetItemEventHandler
+No argument for format '%s'	Pro formát '%s' není argument 	SysConst_SArgumentMissing
+No context-sensitive help installed	Není instalována context-sensitive nápovìda	HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	Nejsou instalovány nebo není nastavena cesta ke slovníkùm v menu Nastavení.	Main_rsNoDictionariesFound
+No files found		Main_rsNoFilesFound
+No global or local color table defined	Není definována globální nebo lokální tabulka barev	GIFImage_sNoColorTable
+No help found for %s	Nenalezena nápovìda pro %s	HelpIntfs_hNothingFound
+No help keyword specified.	Není specifikováno klíèové slovo nápovìdy	WinHelpViewer_hNoKeyword
+No icons in file	V souboru nejsou ikony	ICOLoader_rsNoIconsInFile
+No more points allowed	Není povoleno více bodù	LineObject_rsNoMorePointsAllowed
+No objects in active layer	Neexistují žádné emaily v aktuální vrstvì	Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	Není nalezeno øešení, zkuste zmìnit pùvodní zadání	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	Není nainstalována topic-based nápovìda	HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	Version-info nebylo asociováno s požadovaným souborem \"%s\"	VersionInfo_rs_noversioninfo
+None	Žádný	ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	Není dostatek dostupných èasovaèù	Consts_SNoTimers
+Not in dictionary:	Není ve slovníku:	SpellChecker_rsNotInDictionary
+Note that closing tags are not required		TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.	Nezapomeòte, že tuto akci není možné zrušit a že asociace typù souborù NEMOHOU být uvedeny do pùvodního nastavení, pokud je program odinstalován.	TFormatAssociateForm: Label1.Caption
+Note that writing of files with multiple icons is not supported.	Pamatujte, že psaní souborù s více ikonami není podporováno.	TIconSelectionForm: Label1.Caption
+Nov	Lis	SysConst_SShortMonthNameNov
+November	Listopad	SysConst_SLongMonthNameNov
+OK	Budiž	TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	Objekt	TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	Vlastnosti objektu	TMainForm: PropertiesAction.Hint
+Object type not supported for operation	Typ objektu není podporován pro operaci	GIFImage_sUnsupportedClass
+Object:	Objekt:	TSpellCheckForm: Label2.Caption
+Objects cast shadows		TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages		TMainForm: EditStencilAction.Hint
+Oct	Øíj	SysConst_SShortMonthNameOct
+October	Øíjen	SysConst_SLongMonthNameOct
+Odd rounded 1	Cosi s oblými hranami 1	FlowchartObject_rsOddRounded1
+Odd rounded 2	Cosi s oblými hranami 2	FlowchartObject_rsOddRounded2
+Olive	Olivová	ExtCtrls_clNameOlive
+Opacity		TPropertyEditorForm: Panel24.Caption
+Open	Otevøít	Main_rsOpen
+Open in new window...	Otevøít v novém oknì...	TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	Otevøít...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	Operace zrušena	SysConst_SOperationAborted
+Operation not allowed on sorted list	Operace není povolena na seøazeném listu	RTLConsts_SSortedListError
+Operation not allowed on sorted string list	Operace není povolena na seøazeném listu øetìzcù	StringLists_rsSortedListError
+Operation not supported	Operace není podporována	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	Operace není podporována na vybrané tiskárnì	Consts_SInvalidPrinterOp
+Operator expected	Oèekáván Operátor	ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operátory:\n&\tLogický AND\n|\tLogický OR\n=\tRovnost\n#$23\tNerovnost\n>\tVìtší\n<\tMenší\n+\tSèítání\n-\tOdèítání\n*\tNásobení\n/\tDìlení\n%\tProcenta\n^\tMocnina\n\nDefinièní symboly:\n:Jméno = Hodnota;\n:Func(x) = Výraz;	ExpressionHelp_rsExpressionHelp
+Optimizing...	Optimalizuji...	GIFImage_sProgressOptimizing
+Options	Volby	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	Nedostatek pamìti	SysConst_SOutOfMemory
+Out of memory while expanding memory stream	Nedostatek pamìti v prùbìhu expanze pamìového streamu	RTLConsts_SMemoryStreamError
+Out of system resources	Nedostatek systémových zdrojù	Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	Pøeteèení v prùbìhu konvertování varianty typu (%s) na typ (%s)	SysConst_SVarTypeConvertOverflow
+Overline		TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	Pøepsat obsah šablony palety objektem z aktivní vrstvy?	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	Stránka %d	DiagramBase_rsPageD
+Page count		TextEditor_rsPageCount
+Page number	Èíslo stránky	TextEditor_rsPageNumber
+Page number:	Èíslo stránky:	SlideShow_rsPageNumber
+Page p%s layer %d	Stránka p%s vrstva %d	PictureObject_rsPagePSLayerD
+Page properties	Vlastnosti stránky	TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	Vlastnosti stránky...	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title		TextEditor_rsPageTitle
+Page title (empty for auto):	Titul stránky (prázný pro automatický):	RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	Daný rodiè není rodièem '%s'	Consts_SParentGivenNotAParent
+Paste	Vložit	TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	Vložit jinak	TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	PgDn	Consts_SmkcPgDn
+PgUp	PgUp	Consts_SmkcPgUp
+Please support %s	Podpoøte prosím %s	TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	Hodnoty grafu z výrazu v x	ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	Hodnota z	TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	Mnohoúhelník musí mít alespoò 2 body	GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note		TextEditor_rsPopupNote
+Portable Network Graphics	Portable Network Graphics	PNGLoader_rsPNGImageFile
+Premature end of data	Pøedèasný konec dat	GIFImage_sOutOfData
+Preview mode	Náhled tisku	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available		DialogsEx_rsPreviewNotAvailable
+Previous	Pøedchozí	TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap		TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%		PrintDiagram_rsPrintScalingSetToD
+Print scaling:		TDesignerSetupForm: Label7.Caption
+Print...	Vytisknout...	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	Tiskárna nyní netiskne	Consts_SNotPrinting
+Printer selected is not valid	Vybraná tiskárna není platná	Consts_SInvalidPrinter
+Printing in progress	Probíhá tisk	Consts_SPrinting
+Privileged instruction	Privilegovaná instrukce	SysConst_SPrivilege
+Process failed: %d	Chyba procesu: %d	AnalyzerPlugins_rsProcessFailedD
+ProductName	ProductName	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.	Pro aplikaci zmìn je tøeba program restartovat	LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	Vlastnosti	TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	Vlastnosti...	TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	Vlastnost %s neexistuje	RTLConsts_SUnknownProperty
+Property is read-only	Vlastnost je jen ke ètení	RTLConsts_SReadOnlyProperty
+Purple	Rùžová	ExtCtrls_clNamePurple
+Radius of corner arc		TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	Náhodné èíslo v [0;x[	ExpressionEval_rsRandomNumberIn0X
+Range check error	Chyba ovìøení rozsahu	SysConst_SRangeError
+Range:	Rozsah:	TExpressionPlotForm: Label1.Caption
+Read	Ètení	SysConst_SReadAccess
+Read beyond end of file	Ètení za koncem souboru	SysConst_SEndOfFile
+Read less than expected	Èteno ménì než oèekáváno	Streams_rs_ReadLessError
+Rearrange pages	Pøeuspoøádat stránky	TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	Pøeuspoøádat stránky...	TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	Rekurzivní reference	ExpressionEval_rsRecursiveReference
+Red	Èervená	ExtCtrls_clNameRed
+Redo	Znovu	Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	Relativní èíslo stránky (-1 = pøedchozí strana):	Main_rsRelativePageNumber1PreviousPage
+Reload	Znovu naèíst	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?		Main_rsReloadAndLoseChanges
+Rename	Pøejmenovat	TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.		TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	Renderuji...	GIFImage_sProgressRendering
+Reorder or delete pages	Pøeuspoøádat nebo smazat stránky	TMainForm: ReorderPagesAction.Hint
+Replace	Nahradit	TSpellCheckForm: ReplaceButton.Caption
+Reset Toolbar	Resetovat toolbar/lištu nástrojù	Consts_SResetActionToolBar
+Reset symbol table	Resetovat tabulku symbolù	TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	Zdroj %s nenalezen	RTLConsts_SResNotFound
+RichEdit line insertion error	Chyba vložení RichEdit øádku	ComStrs_sRichEditInsertError
+Right	Pravý	Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear		Main_rsRightClickToClear
+Root of expression in x	Koøen výrazu v x	ExpressionEval_rsRootOfExpressionInX
+Rotate	Otoèit	Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180°	Otoèit o 180°	TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270°	Otoèit o 270°	TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90°	Otoèit o 90°	TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	Otoèit vybrané objekty ve smìru hodinových ruèièek. Pamatujte, že ne všechny typy objektù podporují tuto operaci.	TMainForm: RotateAction.Hint
+Rotation angle	Úhel natoèení	Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	Zaokrouhlit k nejbližšímu integeru	ExpressionEval_rsRoundToNearestInteger
+Rounded 1	Obdélník s oblými hranami 1	FlowchartObject_rsRounded1
+Rounded 2	Obdélník s oblými hranami 2	FlowchartObject_rsRounded2
+Rounded 3	Obdélník s oblými hranami 3	FlowchartObject_rsRounded3
+Rounds toward negative infinity	Zaokrouhlit k zápornému nekoneènu	ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	Zaokrouhlit ke kladnému nekoneènu	ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	Sob	SysConst_SShortDayNameSat
+Saturday	Sobota	SysConst_SLongDayNameSat
+Save	Uložit	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	Uložit jako...	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	Uložit paletu šablony jako...	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	Ukládám...	GIFImage_sProgressSaving
+Scan line index out of range	Naèítání indexu øádku mimo rozsah	Consts_SScanLine
+Scroll Bar	Rolovací lišta	ExtCtrls_clNameScrollBar
+Scrollbar property out of range	Vlastnictví posuvníku je mimo rozsah	Consts_SScrollBarRange
+Seeking not supported	Vyhledávání není podporováno	DelphiStream_rsSeekingNotSupported
+Select all	Vybrat vše	TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	Vybrat formát schránky:	TPasteSpecialForm: Label1.Caption
+Select icon to import from file	Vybrat ikonu pro importování ze souboru	TIconSelectionForm: IconSelectionForm.Caption
+Select program language	Vyberte jazyk programu	TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report	Zaslat hlášení chyby	StyleForm_rsSendBugReport
+Send to back	Pøenést vzad	TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	Záø	SysConst_SShortMonthNameSep
+Separator	Oddìlovaè	Consts_SSeparator
+Separator line		TextEditor_rsSeparatorLine
+September	Záøí	SysConst_SLongMonthNameSep
+Set		TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	Vybrat písmo diagramu	TMainForm: DiagramFontAction.Hint
+Set dictionary path	Vybrat umístìní slovníkù	TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name		TextEditor_rsSetFontByName
+Set layer color...	Vybrat barvu vrstvy...	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	Vybrat jazyk programu	TDesignerSetupForm: LanguageButton.Caption
+Shift+	Shift+	Consts_SmkcShift
+Show grid	Zobrazit rastr	TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	Zobrazit strom objektu	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins		TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer		TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	Pøi startu zobrazit tuto zprávu	TPleaseSupportForm: CheckBox1.Caption
+Side bars	Postraní lišty	FlowchartObject_rsSideBars
+Silver	Støíbrná	ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	Velikost designu pokud ho vkládáte ze schránky do jiné aplikace	TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size		TDesignerSetupForm: PrintScalingEdit.Hint
+Skip	Pøeskoèit	FormatAssociation_rsSkip
+Skip symbols	Pøeskoèit symboly	TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	Pøeskoèit slova s èísly, jednotlivá písmena a slova KAPITÁLKAMI	TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	Nebeská Modrá	ExtCtrls_clNameSkyBlue
+Slant left	Sklopený vlevo	FlowchartObject_rsSlantLeft
+Slant right	Sklopený vpravo	FlowchartObject_rsSlantRight
+Slide show	Automatické promítání	TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D		TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	Vyøešení rovnice v x	ExpressionEval_rsSolveEquationInX
+Space	Místo	Consts_SmkcSpace
+Spell check	Kontrola pravopisu	TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	Kontrola pravopisu hotova.	SpellChecker_rsSpellCheckComplete
+Spell checker...	Kontrola pravopisu...	TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	Druhá odmocnina	ExpressionEval_rsSquareRoot
+Stack overflow	Pøeteèení zásobníku	SysConst_SStackOverflow
+Standard function	Standartní funkce	ExpressionHelp_rsStandardFunction
+Stop	Pøerušit	LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	Stream není otevøen pro zápis	Deflate_rsWriteDenied
+Stream read error	Chyba ètení streamu	RTLConsts_SReadError
+Stream write error	Chyba zápisu streamu	RTLConsts_SWriteError
+Strikeout		TextEditor_rsStrikeout
+String list does not allow duplicates	Seznam øetìzcù nedovoluje duplikáty	StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	Styl	TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	Podmenu není v menu	Consts_SMenuNotFound
+Subscript		TextEditor_rsSubscript
+Suggestions:	Návrhy:	TSpellCheckForm: Label4.Caption
+Sun	Ned	SysConst_SShortDayNameSun
+Sunday	Nedìle	SysConst_SLongDayNameSun
+Superscript		TextEditor_rsSuperscript
+Support Diagram Designer...	Podpoøte Diagram Designer...	TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	Symbol	TExpressionEvalForm: ListView.Caption
+Symbol font		TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	Systémová Chyba.  Kód: %d.\r\n%s	SysConst_SOSError
+Tab	Tab	Consts_SmkcTab
+Tab index out of bounds		Consts_SInvalidTabIndex
+Tab position incompatible with current tab style	Pozice tabulátoru není kompaktibilní se souèasným stylem tabulátoru	Consts_SInvalidTabPosition
+Tab style incompatible with current tab position	Styl tabulátoru není kompaktibilní se souèasnou pozicí tabulátoru	Consts_SInvalidTabStyle
+Teal	Modrozelený	ExtCtrls_clNameTeal
+Template palette	Šablona palety	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	Šablona palety - pøetáhnìte objekt odsud do diagramu	TMainForm: TemplateScrollBox.Hint
+Terminate application	Ukonèit aplikaci	StyleForm_rsTerminateApplication
+Text	Text	Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation		TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	Barva textu	TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	Text pøekroèil kapacitu pamìti	Consts_SInvalidMemoSize
+Text formatting codes:		TTextEditorForm: Label1.Caption
+Text margin		TPropertyEditorForm: Panel21.Caption
+Text not found	Text nenalezen	Main_rsTextNotFound
+Text:	Text:	TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	Není vybrána výchozí tiskárna	Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	Tato kontrola vyžaduje verzi knihovny COMCTL32.DLL minimálnì 4.70 nebo vyšší	ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)	Chyba Vlákna: %s (%d)	RTLConsts_SThreadError
+Thread creation error: %s	Chyba vytváøení vlákna: %s	RTLConsts_SThreadCreateError
+Three-digit font size		TextEditor_rsThreeDigitFontSize
+Thu	Ètv	SysConst_SShortDayNameThu
+Thursday	Ètvrtek	SysConst_SLongDayNameThu
+Title	Titul	TQuickMenuSearchForm: ListView.Caption
+Too few lines to create polygon	Pouze nìkolik èar pro vytvoøení mnohoúhelníku	GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	Pøíliš mnoho otevøených souborù	SysConst_STooManyOpenFiles
+Top	Nahoru	TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	Nahoru#$0DCentruj#$0DDolù#$0D	TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color	Prùhledná barva	TIconSelectionForm: TransparentButton.Caption
+Transparent color key	Prùhledný barevný klíè	TPropertyEditorForm: Panel25.Caption
+Tue	Úte	SysConst_SShortDayNameTue
+Tuesday	Úterý	SysConst_SLongDayNameTue
+Turn mouse wheel to change		Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size		Main_rsUseMouseWheelToChangeSize
+UML has a		LineObject_rsUMLHasA
+UML is a		LineObject_rsUMLIsA
+Unable to Replace Image	Není možné Nahradit obrázek	Consts_SReplaceImage
+Unable to close file	Není možné uzavøít soubor	AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	Není možné vytvoøit složku	SysConst_SCannotCreateDir
+Unable to evaluate guess:	Není možné vyhodnotit dotaz:	ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	Není možné nalézt Tabulku Obsahu	HelpIntfs_hNoTableOfContents
+Unable to insert a line	Není možné vložit èáru	Consts_SInsertLineError
+Unable to insert an item	Není možné vložit pøedmìt	ComStrs_sInsertError
+Unable to open file	Není možné otevøít soubor	AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	Není možné uložit nastavení	Consts_SUnableToSaveSettings
+Undefined	Nedefinováno	ExpressionEval_rsUndefined
+Undefined symbol:	Nedefinovaný symbol:	ExpressionEval_rsUndefinedSymbol
+Underline		TextEditor_rsUnderline
+Undo	Zpìt	Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	Velikost historie funkce Zpìt:	TDesignerSetupForm: Label3.Caption
+Unexpected character:	Neoèekávaný znak:	ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	Neoèekávaná chybová varianta	SysConst_SVarUnexpected
+Ungroup	Zrušit skupinu	TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	Zrušit aktivní objekt	TMainForm: UngroupAction.Hint
+UnitLabel1	UnitLabel1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	UnitLabel2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	Jednotky:	TDesignerSetupForm: Label5.Caption
+Unknown GIF block type	Neznámý GIF blok typ	GIFImage_sBadBlock
+Unknown extension type	Neznámý typ pøípony	GIFImage_sUnknownExtension
+Unknown seek origin	Neznámý zaèátek požadavku	DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	Nepodporovaná velikost bloku u Aplikaèního Rozšírení	GIFImage_sBadBlockSize
+Unsupported GIF version	Nepodporovaná verze GIF	GIFImage_sBadVersion
+Unsupported PNG data	Nepodporovaná PNG data	PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	Nepodporovaný PixelFormat	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	Nepodporovaný formát bitmapový	LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	Nepodporovaný formát schránky	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	Nepodporovaný formát souboru	LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	Nepodporovaný formát pixelu	AnalyzerPlugins_rsUnsupportedPixelFormat	LinarBitmap_rsInvalidPixelFormat
+Up	Nahoru	Consts_SmkcUp
+Value expected	Oèekávána hodnota:	ExpressionEval_rsValueExpected
+Value must be integer	Hodnota musí být integer	ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	Hodnota není povoleného rozsahu: [%s - %s]	ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported	Varianta volání metody není podporována SysConst_SDispatchError	SysConst_SDispatchError
+Variant or safe array index out of bounds	Varianta nebo index bezpeèného pole mimo hranice/meze	SysConst_SVarArrayBounds
+Variant or safe array is locked	Varianta nebo index bezpeèného pole je uzamèen	SysConst_SVarArrayLocked
+Variant overflow	Pøeteèení Varianty	SysConst_SVarOverflow
+Version	Verze	TAboutBox: Version.Caption
+Vertical		LinkEditor_rsVertical
+Vertical scaling		TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	Text vertikální	TPropertyEditorForm: Panel4.Caption
+Warning	Upozornìní	Consts_SMsgDlgWarning
+Wed	Stø	SysConst_SShortDayNameWed
+Wednesday	Støeda	SysConst_SLongDayNameWed
+What can I do?	Co mohu udìlat?	TPleaseSupportForm: Label2.Caption
+White	Bílá	ExtCtrls_clNameWhite
+Width	Šíøka	TPropertyEditorForm: Panel9.Caption
+Width:	Šíøka:	TPagePropertiesForm: Label1.Caption
+Window Background	Pozadí Okna	ExtCtrls_clNameWindow
+Window Frame	Rám Okna	ExtCtrls_clNameWindowFrame
+Window Text	Text Okna	ExtCtrls_clNameWindowText
+Windows Enhanced metafile	Rozšíøený metasoubor Windows	WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Bitmapa Windows	BMPLoader_rsWindowsBitmap
+Windows cursor	Kurzor Windows	ICOLoader_rsWindowsCursor
+Windows icon	Ikona Windows	ICOLoader_rsWindowsIcon
+Windows metafile	metasoubor Windows	WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	Chcete resetovat na výchozí Schedule Priority?	Consts_SRestoreDefaultSchedule
+Write	Zapsat	SysConst_SWriteAccess
+X:	X:	TDesignerSetupForm: Label1.Caption
+Y:	Y:	TDesignerSetupForm: Label2.Caption
+Yellow	Žlutá	ExtCtrls_clNameYellow
+Yes to &All	Ano &Všem	Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	Nemáte povoleno vymazat tento objekt	Consts_SDeleteNotAllowed
+Zoom	Lupa	TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft Paintbrush	PCXLoader_rsPCXImageFile
+add %s	pøidat %s	Main_rsAddS
+add point	pøidat bod	Main_rsAddPoint
+e-mail	e-mail	TAboutBox: EMailLabel.Caption
+edit properties	upravit vlastnosti	Main_rsEditProperties
+http://logicnet.dk/mail.php	http://logicnet.dk/mail.php	TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk	http://meesoft.logicnet.dk	TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	http://meesoft.logicnet.dk/DiagramDesigner/support.htm	TMainForm: SupportAction.Hint
+move	pøesunout	Main_rsMove
+rename	pøejmenovat	Main_rsRename
+size		Main_rsSize
+· Develop plugins	· Vývoj pluginù	TPleaseSupportForm: Label7.Caption
+· Help improve the documentation		TPleaseSupportForm: Label5.Caption
+· The easiest is to make a donation	· Nejjednodušší cestou je podpora darem	TPleaseSupportForm: Label3.Caption
+· Translate the program to your language	· Lokalizace programu programu do Vašeho jazyka	TPleaseSupportForm: Label6.Caption
+¼ points	1/4 body	Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption
+DefaultCharset	238

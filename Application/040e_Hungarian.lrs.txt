@@ -1,0 +1,814 @@
+ - Dock zone has no control	 - Dokkoló zonának nincs vezérlése	Consts_SDockZoneHasNoCtl
+ - Dock zone not found	 - Dokkoló pozíciót nem találom	Consts_SDockZoneNotFound
+%d files selected	%d fájlok kiválasztva	DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	ComStrs_sPageIndexError
+%d link points defined	%d link pontok definiálva	PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s (%s, %d sor)	SysConst_SAssertError
+%s does not allow hiding	%s nem lehet elrejteni	Consts_SCannotHideActionBand
+%s expected	%s szükséges	ExpressionEval_rsSExpected
+%s not found	%s nem található	ExpressionEval_rsSNotFound
+%s not in a class registration group	%s nincs az osztály csoportjába regisztrálva	RTLConsts_SUnknownGroup
+%s on %s	%s %s porton	Consts_SDeviceOnPort
+%s property out of range	%s tulajdonság értékhatáron kívül van	Consts_SPropertyOutOfRange
+%s.Seek not implemented	%s.Keresés nincs megvalósítva	RTLConsts_SSeekNotImplemented
+&Abort	&Megszakít	Consts_SMsgDlgAbort
+&Add or Remove Buttons	&Hozzáad vagy elvesz gombokat	Consts_SAddRemoveButtons
+&All	&Mind	Consts_SMsgDlgAll	Consts_SAllButton
+&Close	&Bezár	Consts_SCloseButton
+&Help	&Segítség	Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	&Figyelmen kívül hagy	Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	&Nem	Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	&Újra	Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start		SpellChecker_rsStart
+&Yes	&Igen	Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value		SysConst_SInvalidFloat
+'%s' is not a valid integer value	%s' nem egész érték	SysConst_SInvalidInteger
+''%s'' is not a valid component name	'%s'' nem érvényes komponensnév	RTLConsts_SInvalidName
+(No Name)	(Név nélküli)	Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	3D Sötét árnyalás	ExtCtrls_clName3DDkShadow
+3D Light	3D Fény	ExtCtrls_clName3DLight
+<unknown>	<ismeretlen>	SysConst_SUnknown
+= or ( expected	"= vagy ( hiányzik"	ExpressionEval_rsOrExpected
+A call to an OS function failed	Sikertelen rendszerhívás	SysConst_SUnkOSError
+A class named %s already exists	%s néven már létezik osztály	RTLConsts_SDuplicateClass
+A component named %s already exists	%s néven már létezik komponens	RTLConsts_SDuplicateName
+A control cannot have itself as its parent	A vezérlô nem képes magát szülôjeként használni	Consts_SControlParentSetToSelf
+Abort	Megszakít	Consts_SAbortButton
+About	Névjegy	TAboutBox: AboutBox.Caption
+About...	Névjegy...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	Abstract Error	SysConst_SAbstractError
+Active Border	Aktív Keret	ExtCtrls_clNameActiveBorder
+Active Caption	Aktív Cimke	ExtCtrls_clNameActiveCaption
+Add	Hozzáad...	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	Minta hozzáadás	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	Minta palettához hozzáad	TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation		TMainForm: PagePropertiesAction.Hint
+Adler32 error	Adler32 hiba	Adler32_rsAdler32Error
+Align	Igazít	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group	Egy objektum igazítása laphoz vagy többszörös objektum csoporthoz	TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	A csoport minden eleme sima vonal lehet csak	GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+	Alt+	Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	Hiba történt a fájlban lévõ FixedFileInfo struktúra beolvasásakor	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	Hiba történt a fájlban lévõ nyelv/karakterkészlet-leíró beolvasásakor	VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	%s' szülõobjektuma nem található	RTLConsts_SAncestorNotFound
+Anchors	Horgony	TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group	Horgonyok használata csoportok átméretezéskor	TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing		TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export	Áttûnés diavetítéskor és bitmap exportnál	TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	Bármilyen irány...	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	Alkalmazáshiba	SysConst_SExceptTitle
+Application Workspace	Alkalmazás munkaasztal	ExtCtrls_clNameAppWorkSpace
+Apply to all pages	Minden lapra érvényes	TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	Ápr	SysConst_SShortMonthNameApr
+April	Április	SysConst_SLongMonthNameApr
+Aqua	Vízkék	ExtCtrls_clNameAqua
+Arrow 1	Nyíl 1	LineObject_rsArrow1
+Arrow 2	Nyíl 2	LineObject_rsArrow2
+Arrow 3	Nyíl 3	LineObject_rsArrow3
+Assertion failed		SysConst_SAssertionFailed
+Associate file formats with	A Commander hozzárendelése fájltípusokhoz	TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	A Commander hozzárendelése a kijelölt fájltípusokhoz	TFormatAssociateForm: AssociateButton.Hint
+Aug	Aug	SysConst_SShortMonthNameAug
+August	Augusztus	SysConst_SLongMonthNameAug
+Auto connect to link points		TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break		TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes		TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects		TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled		TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging		TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	Háttér	ExtCtrls_clNameBackground
+Ball	Labda	LineObject_rsBall
+Base 10 logarithm	Tízes alapú logaritmus	ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	Kettes alapú logaritmus	ExpressionEval_rsBase2Logarithm
+Base e logarithm	e alapú (természetes) logaritmus	ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)		TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	Bitkép	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	Hibás BMP kép	Consts_SInvalidBitmap
+Bitmap scaling	Bitkép méretezés	TPropertyEditorForm: Panel16.Caption
+Bitmaps	Bitképek	Consts_SVBitmaps
+Bits index out of range	Bitek indexje értékhatáron kívül esik	RTLConsts_SBitsIndexError
+BkSp	Backspace	Consts_SmkcBkSp
+Black	Fekete	ExtCtrls_clNameBlack
+Blue	Kék	ExtCtrls_clNameBlue
+Bold	Félkövér	TextEditor_rsBold
+Bottom	Aljához	TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	Elôtérbe hoz	TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	Gomb felülete	ExtCtrls_clNameBtnFace
+Button Highlight	Gomb kiemelés	ExtCtrls_clNameBtnHighlight
+Button Shadow	Gomb árnyékolás	ExtCtrls_clNameBtnShadow
+Button Text	Gomb felirat	ExtCtrls_clNameBtnText
+CRC error	CRC hiba	PNGLoader_rsCRCError
+Can't write to a read-only resource stream	Csak olvasható streambe nem lehet írni.	RTLConsts_SCantWriteResourceStreamError
+Cancel	Mégsem	TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	Nem lehet %s-t %s-hez hozzárendelni	RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar		Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	Cannot change Visible in OnShow or OnHide	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	JPEG kép nem méretezhetõ át	JConsts_sChangeJPGSize
+Cannot change the size of an icon	Ikon nem méretezhetõ át	Consts_SChangeIconSize
+Cannot create file \"%s\". %s	\"%s\" fájl létrehozása nem sikerült. %s	RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active		Consts_SNoMDIForm
+Cannot drag a form	A form nem vonszolható	Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	Nem hozható fókuszba tiltott vagy láthatatlan ablak	Consts_SCannotFocus
+Cannot hide an MDI Child Form		Consts_SMDIChildNotVisible
+Cannot make a visible window modal		Consts_SCannotShowModal
+Cannot open clipboard	A Vágólap megnyitása nem sikerült	Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	\"%s\" fájl megnyitása nem sikerült. %s	RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	Rajzolás nem lehetséges (képernyõprobléma)	Consts_SNoCanvasHandle
+Caption Text	Felirat	ExtCtrls_clNameCaptionText
+Center	Középre	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	Minden opbjektum színének megváltoztatása az aktív layeren	TMainForm: SetLayerColorAction.Hint
+Change value	Érték változatás	ExpressionHelp_rsChangeValue
+Check active layer only	Csak az aktív layer ellenôrzése	TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates	Frissítés keresése	TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	CheckSynchronize called from thread $%x, which is NOT the main thread	RTLConsts_SCheckSynchronizeError
+Circle	Kôr	LineObject_rsCircle
+Circular decoder table entry	Kôr dekóder tábla bejegyzés	GIFImage_sDecodeCircular
+Circular references not allowed	Kôr referencia nem elfogadható	Consts_SCirularReferencesNotAllowed
+Class %s not found	%s osztály nem található	RTLConsts_SClassNotFound
+Clear	Tisztít	TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	Kattintson ide a részletekért	TPleaseSupportForm: Label4.Caption
+Click to apply format to selection		TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	A Vágólap nem támogatja az ikonokat	Consts_SIconToClipboard
+Clipboard metafile scale:	Vágólap metafájl méretezése	TDesignerSetupForm: Label4.Caption
+Close	Bezár	TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: Button1.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator	Számológép bezárása	TExpressionEvalForm: ActionClose.Hint
+Color not in color table	A szín nem szerepel a színtáblázatban	GIFImage_sInvalidColor
+Color table is empty	Üres színtáblázat	GIFImage_sEmptyColorMap
+Color table overflow	Színtáblázat túlcsordulás	GIFImage_sTooManyColors
+Conditional value		ExpressionEval_rsConditionalValue
+Confirm	Megerõsítés	Consts_SMsgDlgConfirm
+Connect links	Csatlakozó linkek	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Continue	Tovább	TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	Vezérlô '%s' -nek nincs szülôablaka	Consts_SParentRequired
+Control-C hit	Ctrl-C meg lett nyomva	SysConst_SControlC
+Convert	Konvertálás...	TMainForm: Convert1.Caption
+Convert binary number	Bináris szám konvertálása	ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon	Összekötött vonalak konvertálása sokszöggé	TMainForm: MakePolygonAction.Hint
+Convert to metafile	Konvertálás metafájllá	TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	Konvertálás sokszöggé	TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	Konvertálás...	GIFImage_sProgressConverting
+Copy	Másolás	TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all		TLinkEditorForm: CopyButton.Hint
+Copy templates to page	Minta másolása lappá	TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	Másolás folyamatban...	GIFImage_sProgressCopying
+Corner radius	Sarok rádiusza	Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	Nem konvertálható a változó típusa(%s) ezzé (%s)	SysConst_SVarTypeCouldNotConvert
+Cream	Krém	ExtCtrls_clNameCream
+Create default anchors for groups		TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images		TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents		DiagramExport_rsAutoCrop
+Ctrl+	Ctrl+	Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments	Görbe csak zárt Catmull-Rom sokszög vagy vonal részlet lehet	LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type	Görbe típus	TPropertyEditorForm: Panel23.Caption
+Cut	Kivágás	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Dec	Dec	SysConst_SShortMonthNameDec
+December	December	SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	Adatkimaradás a dekóder bit pufferben	GIFImage_sDecodeTooFewBits
+Default	Alapértelmezés	ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	Alapértelmezett font...	TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del	Del	Consts_SmkcDel
+Delete	Törlés	TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	Diagram lap törlése?	RearrangePages_rsDeleteDiagramPage
+Delete symbol	Szimbólum törlése	TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	Minta objektum törlése	TMainForm: DeleteTemplateAction.Caption
+Description	Leírás	TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	Kijelölés megszüntetése	TFormatAssociateForm: NoneButton.Caption
+Diagram		TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd		DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	Diagram megváltozott, mentsük bezárás elôtt?	Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link	Diagram vagy internet link	TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	Diagram minta paletta (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter
+Diamond	Gyémánt	LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	Szótárak (*.dic)|*.dic	DesignerSetup_rsDictionariesDicDic
+Disable font antialiasing		DiagramExport_rsDisableFontAntialiasing
+Disk full	Megtelt a lemez	SysConst_SDiskFull
+Distance from top left corner	Távolság a bal-felsô saroktól	TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	Nullával való osztás	SysConst_SDivByZero
+Docked control must have a name	Dokkolt vezérlônek neve kell hogy legyen	Consts_SDockedCtlNeedsName
+Done	Rendben	PropertyEditor_rsDone
+Double arrow	Dupla nyíl	LineObject_rsDoubleArrow3
+Down	Le	Consts_SmkcDown
+Download	Letöltés	PropertyEditor_rsDownload
+Draw arrow	Nyíl rajzolás	TMainForm: DrawArrowAction.Caption
+Draw connector	Csatlakozó rajzolás	TMainForm: DrawConnectorAction.Caption
+Draw curve	Görbe rajzolás	TMainForm: DrawCurveAction.Caption
+Draw ellipse	Ellipszis rajzolás	TMainForm: DrawEllipseAction.Caption
+Draw line	Vonal rajzolás	TMainForm: DrawLineAction.Caption
+Draw rectangle	Negyszög rajzolás	TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects		TMainForm: ObjectShadowsAction.Hint
+Edit	Szerkesztés	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	Layer szerkesztése	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point	Link pont szerkesztése	LinkEditor_rsEditLinkPoint
+Edit text	Szöveg szerkesztése	TTextEditorForm: TextEditorForm.Caption
+Edit text...	Szöveg szerkesztése...	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	Kép szerkesztése...	PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	Either read, write or full access must be specified in call to CreateFile	Streams_rs_NoFileAccessSpec
+End	Vége	Consts_SmkcEnd
+Enhanced Metafiles	Enhanced Metafájlok	Consts_SVEnhMetafiles
+Enter	Bevitel	Consts_SmkcEnter
+Enter object text:	Objektum szöveg bevitele	TTextEditorForm: Label2.Caption
+Error	Hiba	Consts_SMsgDlgError
+Error closing \"%s\" - %s	Hiba \"%s\" - %s bezárásakor	Streams_rs_CloseFileError
+Error creating variant or safe array		SysConst_SVarArrayCreate
+Error creating window class		Consts_SWindowClass
+Error creating window device context		Consts_SWindowDCError
+Error deleting \"%s\" - %s	Hiba \"%s\" - %s törlésekor	Streams_rs_DeleteFileError
+Error in bitmap data		AnalyzerPlugins_rsErrorInBitmapData	LinarBitmap_rsErrorInBitmapData
+Error in compressed data	Hiba a tömörített adatban	Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	Hiba történt az elôzôleg mentett beállítások fájl betöltéskor: %s\rLetörölhetem?	Consts_SErrorLoadingFile
+Error moving file pointer - %s	Hiba a fájlpointer mozgatásakor - %s	Streams_rs_SeekFileError
+Error moving stream pointer	Hiba a folyam (stream) pointer mozgatásakor	MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	Hiba \"%s\" - %s megnyitásakor	Streams_rs_CreateFileError
+Error reading %s%s%s: %s	Hiba %s%s%s: %s beolvasásakor	RTLConsts_SPropertyException
+Error reading from stream - %s		Streams_rs_ReadError
+Error removing control from dock tree	Hiba a vezérlô dokk-fastruktúrából történô eltávolításakor	Consts_SDockTreeRemoveError
+Error running Image Analyzer	Hiba a Képelemzõ futtatása közben	PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	Hiba beállításkor %s.Count	Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s	Hiba a fájl csonkításakor \"%s\" - %s	Streams_rs_TruncateFileError
+Error while trying to send e-mail	Hiba az é-mail küldése közben	EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	Nem tudom írni a folyamot - %s	Streams_rs_WriteError
+Esc	Esc	Consts_SmkcEsc
+Evaluate	Kiértékel	TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	Kiértékel (F5)	TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	%s kivétel %s modulban %p címen.\r\n%s%s\r\n	SysConst_SException
+Exception in safecall method		SysConst_SSafecallException
+Expand	Kiterjeszt	Consts_SExpand
+Export		TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages		DiagramExport_rsExportAllPages
+Export file DPI:	Export fájl DPI:	DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	Exportálás (látvány) bitmap vagy metafájllá	TMainForm: ExportAction.Hint
+Export page...	Exportálás (látvány) lapot...	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator	Egyenlet megoldó	TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...	Egyenlet megoldó...	TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	Üres kifejezés	ExpressionEval_rsExpressionIsEmpty
+External exception %x	Külsõ kivétel %x	SysConst_SExternalException
+Extra = found	Felesleges = jel	ExpressionEval_rsExtraFound
+Failed to Load Stream	Sikertelen adat-folyam betöltés	ComStrs_sRichEditLoadFail
+Failed to Save Stream	Sikertelen adat-folyamba mentés	ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	Nem sikerült a GIF DIB számára memóriát foglalni	GIFImage_sOutOfMemDIB
+Failed to clear tab control		ComStrs_sTabFailClear
+Failed to delete tab at index %d		ComStrs_sTabFailDelete
+Failed to get data for '%s'		RTLConsts_SRegGetDataFailed
+Failed to get object at index %d		ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	Failed to read ImageList data from stream	Consts_SImageReadFail
+Failed to retrieve tab at index %d		ComStrs_sTabFailRetrieve
+Failed to set data for '%s'		RTLConsts_SRegSetDataFailed
+Failed to set object at index %d		ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d		ComStrs_sTabFailSet
+Failed to store GIF on clipboard	Nem sikerült a GIF képet Vágólapra helyezni	GIFImage_sFailedPaste
+Failed to write ImageList data to stream	Failed to write ImageList data to stream	Consts_SImageWriteFail
+Feb	Feb	SysConst_SShortMonthNameFeb
+February	Február	SysConst_SLongMonthNameFeb
+File	File	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	Fájlhoz való hozzáférés megtagadva	SysConst_SAccessDenied
+File format associations	Társítás	TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	Késôbbi program verziójú fájl	DiagramBase_rsFileFromLaterProgramVersion
+File not found	A fájl nem található	SysConst_SFileNotFound
+Fill	Kitöltés	TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	Kitöltési szín	TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Find text...		TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	Megadott f(x) kifejezést minimalizáló x kiszámítása	ExpressionEval_rsFindXThatMinimizesExpression
+First	Elsô	TSlideShowForm: FirstSlideItem.Caption
+Flip	Felcserél	TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	Osztás nullával lebegõpontos mûvelet során	SysConst_SZeroDivide
+Floating point overflow	Túlcsordulás lebegõpontos mûvelet során	SysConst_SOverflow
+Floating point underflow	Alulcsordulás lebegõpontos mûvelet során	SysConst_SUnderflow
+Font	Betûkészlet	TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	%s' formátum érvénytelen vagy nem kompatíbilis az argumentummal	SysConst_SInvalidFormat
+Format string too long	Formázó szöveg (string) túl hosszú	SysConst_SFormatTooLong
+Fractional part of real number	Valós szám tört része	ExpressionEval_rsFractionalPartOfRealNumber
+Fri	P	SysConst_SShortDayNameFri
+Friday	Péntek	SysConst_SLongDayNameFri
+Fuchsia	Magenta	ExtCtrls_clNameFuchsia
+GIF Image	GIF kép	GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	Gauss-féle véletlenszám, StdDev=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	Általános	TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	Méret vétele nyomtató lapról	TPagePropertiesForm: PrinterButton.Caption
+Global stencil	Globális stencil	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	Ragadós csatlakozás hozzáadás objektu, linkhez az aktív layeren	TMainForm: ConnectLinksAction.Hint
+Go to page	Ugrás az oldalra	TSlideShowForm: GoToPageItem.Caption
+Gradient color		TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format	Graphics Interchange Format	GIFLoader_rsGIFImageFile
+Gray	Szürke	ExtCtrls_clNameGray
+Gray Text	Szürke szöveg	ExtCtrls_clNameGrayText
+Green	Zöld	ExtCtrls_clNameGreen
+Grid (%s)	Raszter (%s)	DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	Csoport	TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines	Csoport csak összekötött vonalakból állhat	GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	Csoportosan kijelölt objektumok	TMainForm: GroupAction.Hint
+Group selected objects in metafile object	Csoportosan kijelölt objektumok a metafájl objektumban	TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	GroupIndex cannot be less than a previous menu item's GroupIndex	Consts_SGroupIndexTooLow
+Guess undefined	Vezetô nincs definiálva	ExpressionEval_rsGuessUndefined
+HTML formatted color	HTML formázott színek	TextEditor_rsHTMLFormattedColor
+Halftone	Szürkeárnyalatos	TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	Magasság	TPropertyEditorForm: Panel8.Caption
+Height:	Magasság:	TPagePropertiesForm: Label2.Caption
+Help	Segítség	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	Segítség - Tartalomjegyzék	TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	HelpLabel	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	Kiemelt háttér	ExtCtrls_clNameHighlight
+Highlight Text	Kiemelt szöveg	ExtCtrls_clNameHighlightText
+Highlight syntax		TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.		Main_rsEditShapeHint
+Home	Haza	Consts_SmkcHome
+Horizontal	Vízszintes	LinkEditor_rsHorizontal
+Horizontal scaling	Vízszintes méretezés	TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	Vízszintes szöveg igazítás	TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.	Köszönet a következõknek szoftverkönyvtáraik rendelkezésre bocsátásáért: %s és mások	Main_rsIWouldLikeToThank
+I/O error %d	%d sz. I/O hiba	SysConst_SInOutError
+IO-error: %s	IO-hiba: %s	Streams_rs_IOError
+Icon image is not valid	Érvénytelen ikonképfájl	Consts_SInvalidIcon
+Icons	Ikonok	Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	Ha Önnek tetszik ez a program, kérem támogassa munkámat, weboldalam fenntartását, a program fejlesztését és dokumentálását.#$0DA felhasználók támogatása nélkül a weboldal nem tudna mûködni	TPleaseSupportForm: Label1.Caption
+Ignore all	Mind kihagyása	TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	A kép nagyobb mint a logikai képméret	GIFImage_sScreenSizeExceeded
+Image has no DIB	Képnek nincs DIB-je	GIFImage_sNoDIB
+Image height too small for contained frames	Kép mahassága túl kicsi belsô frame-okhoz	GIFImage_sBadHeight
+Image is empty	Üres kép	GIFImage_sEmptyImage
+Image is too large for icon	A kép túl nagy ikonnak	ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	Kép szélessége túl kicsi belsô frame-okhoz	GIFImage_sBadWidth
+Inactive Border	Inaktív keret	ExtCtrls_clNameInactiveBorder
+Inactive Caption	Inaktív Cimke	ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	Inaktív Cimke szöveg	ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	Rövid leírás megjelenítése az adott formátumról; egyébként csak "XYZ fájl" megjelölés lesz látható	TFormatAssociateForm: DescriptionBox.Hint
+Info Background	Infó háttér	ExtCtrls_clNameInfoBk
+Info Text	Infó szöveg	ExtCtrls_clNameInfoText
+InfoLabel	Infó felirat	TAboutBox: InfoLabel.Caption
+Information	Információ	Consts_SMsgDlgInformation
+Inner bounds	Belsô keret	TPropertyEditorForm: InnerBoundsBox.Caption
+Ins	Ins	Consts_SmkcIns
+Insert inherited layer...	Öröklött layer beszúrása...	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	Kép beszúrása fájlból	TMainForm: InsertPictureAction.Hint
+Insert picture...	Kép beszúrása...	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text	Szöveg beszúrása	TMainForm: DrawTextAction.Caption
+Integer overflow	Egész érték túlcsordulás	SysConst_SIntOverflow
+Interface not supported	Nem támogatott interface	SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label		GIFImage_sBadExtensionInstance
+Internet help page	Internet Súgó lap	TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Internet:	Internet:	TAboutBox: Label3.Caption
+Invalid GIF data	Érvénytelen GIF adat	GIFImage_sInvalidData
+Invalid GIF signature	Érvénytelen GIF aláírás	GIFImage_sBadSignature
+Invalid Image trailer	Érvénytelen kép hordozó	GIFImage_sBadTrailer
+Invalid ImageList	Invalid ImageList	Consts_SInvalidImageList
+Invalid ImageList Index	Invalid ImageList Index	Consts_SImageIndexError
+Invalid NULL variant operation		SysConst_SInvalidVarNullOp
+Invalid PNG data	Érvénytelen PNG adat	PNGLoader_rsInvalidPNGData
+Invalid PNG header	Érvénytelen PNG fejléc	PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions	Érvénytelen alfa csatorna formátum vagy méret	PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	Érvénytelen argumentum	SysConst_SVarInvalid
+Invalid binary number	Érvénytelen bináris szám	ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	Érvénytelen BMP méret	LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	Érvénytelen pufferméret	BufStream_rsInvalidBufferSize
+Invalid class typecast		SysConst_SInvalidCast
+Invalid clipboard format	A Vágólapon ismeretlen formátumú adat van.	Consts_SInvalidClipFmt
+Invalid color index	Érvénytelen szín index	GIFImage_sBadColorIndex
+Invalid data type for '%s'	Érvénytelen adat típus ehhez: '%s'	RTLConsts_SInvalidRegType
+Invalid diagram	Érvénytelen diagram	DiagramBase_rsInvalidDiagram
+Invalid extension introducer	Érvénytelen kiterjesztés	GIFImage_sBadExtensionLabel
+Invalid filename	Érvénytelen fájlnév	SysConst_SInvalidFilename
+Invalid floating point operation	Érvénytelen lebegõpontos mûvelet	SysConst_SInvalidOp
+Invalid image dimensions	Érvénytelen képméretek	GIFImage_sBadDimension
+Invalid image size	Érvénytelen képméret	Consts_SInvalidImageSize
+Invalid index	Érvénytelen index	ComStrs_sInvalidIndex
+Invalid number format	Érvénytelen számformátum	ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	Érvénytelen számú szín a kép leírójában	GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	Érvénytelen számú szín a képernyô leírójában	GIFImage_sScreenBadColorSize
+Invalid numeric input	Érvénytelen numerikus adat	SysConst_SInvalidInput
+Invalid numeric value	Érvénytelen numerikus érték	Consts_SInvalidNumber
+Invalid owner	Érvénytelen szülô	ComStrs_sInvalidOwner
+Invalid pixel coordinates	Érvénytelen pixelkoordináták	GIFImage_sBadPixelCoordinates
+Invalid pixel format	Érvénytelen pixelformátum	Consts_SInvalidPixelFormat
+Invalid pointer operation	Érvénytelen pointermûvelet	SysConst_SInvalidPointer
+Invalid property path	Érvénytelen tulajdonság útvonal	RTLConsts_SInvalidPropertyPath
+Invalid property value	Érvénytelen tulajdonság érték	RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	Érvénytelen átméretezô eljárás	GIFImage_sInvalidReduction
+Invalid stream format	Érvénytelen adatfolyam formátum	RTLConsts_SInvalidImage
+Invalid stream operation	Érvénytelen adatfolyam eljárás	GIFImage_sInvalidStream
+Invalid template palette	Érvénytelen minta paletta	TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	Érvénytelen változó m?velet	SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	Érvénytelen változó m?velet (%s%.8x)\n%s	SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	Érvénytelen változó típus	SysConst_SVarBadType
+Invalid variant type conversion	Érvénytelen változó típus konverzió	SysConst_SInvalidVarCast
+Italic	Dôlt	TextEditor_rsItalic
+Item %s has subitems, delete anyway?	Elem %s egy al-elem, biztos töröljük?	Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	Ezt az elemet %s nem lehet mozgatni	Consts_SMoveNotAllowed
+JPEG Image File	JPEG kép	JConsts_sJPEGImageFile
+JPEG error #$23%d	#$23%d sz. JPEG hiba	JConsts_sJPEGError
+Jan	Jan	SysConst_SShortMonthNameJan
+January	Január	SysConst_SLongMonthNameJan
+Joint Picture Expert Group	Joint Picture Expert Group	JPEGLoader_rsJPEGImageFile
+Jul	Júl	SysConst_SShortMonthNameJul
+July	Július	SysConst_SLongMonthNameJul
+Jun	Jún	SysConst_SShortMonthNameJun
+June	Június	SysConst_SLongMonthNameJun
+Known image formats	Ismert kép formátumok	Main_rsKnownImageFormats
+LabelCode1	LabelCode1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	LabelCode2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption
+Language:	Nyelvezet:	TSpellCheckForm: Label5.Caption
+Last	Utolsó	TSlideShowForm: LastSlideItem.Caption
+Layer		TMainForm: LayerTabSet.Hint
+Layer %d		Main_rsLayerD
+Layer &1		TMainForm: EditLayer1Action.Caption
+Layer &2		TMainForm: EditLayer2Action.Caption
+Layer &3		TMainForm: EditLayer3Action.Caption
+Layer number:	Layer sorszám:	Main_rsLayerNumber
+Layout		TPropertyEditorForm: Panel18.Caption
+Left	Balra	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	Balra#$0Dközépre#$0DJobbra#$0DBlokk balra#$0Dblokk jobra#$0D	TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point		Main_rsLeftRightClickToAddPoint
+Legacy		PropertyEditor_rsLegacy
+Lime	Vonal	ExtCtrls_clNameLime
+Line color	Vonal szín	TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	Vonal vég	TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments	Vonal töredék	PropertyEditor_rsLineSegments
+Line start	Vonal kezdet	TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	Vonal stílus	TPropertyEditorForm: Panel20.Caption
+Line width	Vonal vastagság	Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	Link pont szerkesztô	TLinkEditorForm: LinkEditorForm.Caption
+Link positions	Link pozíció	TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	Lista kapacitása kívül esett a megadhatón (%d)	RTLConsts_SListCapacityError
+List count out of bounds (%d)	Lista száma kívül esett a megadhatón (%d)	RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	Lista nem többszörözhetô ($0%x)	RTLConsts_SDuplicateItem
+List index out of bounds (%d)	Lista index kívül esett a megadhatón (%d)	StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count		Consts_SListBoxMustBeVirtual
+Load template palette	Minta paletta betöltése	TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library	Minta paletta betöltése könyvtárból	TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	Minta paletta betöltése...	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	Betöltés folyamatban...	GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	Kinézet:	TSpellCheckForm: LookUpLabel.Caption
+MainForm	MainForm	TMainForm: MainForm.Caption
+Make palette from active layer	Paletta készítése aktív layerbôl	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many		LineObject_rsMany
+Mar	Márc	SysConst_SShortMonthNameMar
+March	Március	SysConst_SLongMonthNameMar
+Margin for non-centered text	Margó nem középre igazított szöveghez	TPropertyEditorForm: Panel21.Hint
+Maroon	Bordó	ExtCtrls_clNameMaroon
+Max 16 bits in binary number	Bináris szám max. 16 bites lehet	ExpressionEval_rsMax16BitsInBinaryNumber
+Max=	Max=	TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	Maximális visszavonások száma	TDesignerSetupForm: UndoHistoryEdit.Hint
+May	Május	SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	Középszürke	ExtCtrls_clNameMedGray
+Menu	Menü	TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	%s' menüt egy másik form már használja	Consts_SDuplicateMenus
+Menu Background	Menüháttér	ExtCtrls_clNameMenu
+Menu Text	Menüszöveg	ExtCtrls_clNameMenuText
+Menu index out of range	Menü index értékhatáron kívül	Consts_SMenuIndexError
+Menu inserted twice	A menüpont kétszer szerepel	Consts_SMenuReinserted
+Menu search	Menü keresés	TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	Metafájl	TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	Érvénytelen metafájl	Consts_SInvalidMetafile
+Metafiles	Metafájlok	Consts_SVMetafiles
+Michael Vinther	Michael Vinther	TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D		TDesignerSetupForm: UnitsBox.Items.Strings
+Min=	Min=	TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	Kiszámítja a megadott f(x) kifejezés minimumértékét	ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	Tükrözés	TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	H	SysConst_SShortDayNameMon
+Monday	Hétfõ	SysConst_SLongDayNameMon
+Money Green	Dollár zöld	ExtCtrls_clNameMoneyGreen
+More Buttons	További gombok	Consts_SMoreButtons
+Move canvas	Vászon mozgatása	TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	MultiLine csak Igaz  (True) lehet ha TabPosition tpLeft vagy tpRight	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	Multiple-image Network Graphics	PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	többszörös kijelölés a jövôben lesz	Consts_SMultiSelectRequired
+N&o to All	Nem, mindegyikre	Consts_SMsgDlgNoToAll
+Name	Név	TPropertyEditorForm: Panel1.Caption
+Name expected	Nevet kell megadni	ExpressionEval_rsNameExpected
+Navy	Sötétkék	ExtCtrls_clNameNavy
+New diagram	Új diagram	TMainForm: NewAction.Hint
+New line	Új vonal	TextEditor_rsNewLine
+New page	Új lap	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	Új...	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	Következô	TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.		Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	No OnGetItem event handler assigned	Consts_SNoGetItemEventHandler
+No argument for format '%s'		SysConst_SArgumentMissing
+No context-sensitive help installed	Nincs helyzetérzékeny súgó telepítve	HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	Nincs szótár telepítve, vagy nincs beállítva az Ociók között	Main_rsNoDictionariesFound
+No files found	Nincs ilyen fájl	Main_rsNoFilesFound
+No global or local color table defined	Nincs globális vagy helyi színtáblázat definiálva	GIFImage_sNoColorTable
+No help found for %s	%s-hez nem található Súgótémakör	HelpIntfs_hNothingFound
+No help keyword specified.	Hiányzó Súgó kulcsszó	WinHelpViewer_hNoKeyword
+No icons in file	A fájl nem tartalmaz ikont	ICOLoader_rsNoIconsInFile
+No more points allowed	Több pontot nem fogadok el	LineObject_rsNoMorePointsAllowed
+No objects in active layer	Nincs objektum az aktív layeren	Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	Nem sikerült a kifejezésre megoldást találni, próbálja meg megváltoztatni a kifejezést	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	Nincs tematikus súgó telepítve	HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	A kért fájlhoz nem tartozik verzió-információ	VersionInfo_rs_noversioninfo
+None	Semmi	ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	Nincs több elérhetô idôzítô	Consts_SNoTimers
+Not in dictionary:	Nincs a szótárban	SpellChecker_rsNotInDictionary
+Note that closing tags are not required		TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.	Figyelem: ezt a mûveletet nem lehet visszavonni és a korábbi fájltársítások uninstallálással sem állíthatók vissza!	TFormatAssociateForm: Label1.Caption
+Note that writing of files with multiple icons is not supported.	Figyelem: A kiírt fájlokban a többszörös ikonok nem támogatottak	TIconSelectionForm: Label1.Caption
+Nov	Nov	SysConst_SShortMonthNameNov
+November	November	SysConst_SLongMonthNameNov
+OK	OK	TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	Objektum	TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	Objektum tulajdonságok	TMainForm: PropertiesAction.Hint
+Object type not supported for operation	Objektum típusok nem támogatottak ebben a funkcióban	GIFImage_sUnsupportedClass
+Object:	Objektum:	TSpellCheckForm: Label2.Caption
+Objects cast shadows		TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages		TMainForm: EditStencilAction.Hint
+Oct	Okt	SysConst_SShortMonthNameOct
+October	Október	SysConst_SLongMonthNameOct
+Odd rounded 1	Páros kerekítés 1	FlowchartObject_rsOddRounded1
+Odd rounded 2	Páros kerekítés 2	FlowchartObject_rsOddRounded2
+Olive	Olivazöld	ExtCtrls_clNameOlive
+Opacity	Átlátszóság	TPropertyEditorForm: Panel24.Caption
+Open	Megnyitás	Main_rsOpen
+Open in new window...	Megnyitás új ablakban	TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	Megnyitás...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	Mûvelet megszakítva	SysConst_SOperationAborted
+Operation not allowed on sorted list	Ez a mûvelet rendezett listán nem hajtható végre	RTLConsts_SSortedListError
+Operation not allowed on sorted string list	Ez a mûvelet rendezett karakterlánc listán nem hajtható végre	StringLists_rsSortedListError
+Operation not supported	Nem támogatott mûvelet	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	Nem támogatott mûvelet a kiválasztott nyomtatón	Consts_SInvalidPrinterOp
+Operator expected	Operátort kell megadni	ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operátorok:\n&\tLogikai ÉS\n|\tLogikai VAGY\n=\tEgyenlõ\n#$23\tNem egyenlõ\n>\tNagyobb\n<\tKisebb\n+\tÖsszeadás\n-\tKivonás\n*\tSzorzás\n/\tOsztás\n%\tModulus\n^\tHatványozás\n\nDefiníciós jelek:\n:Name = Érték;\n:Func(x) = Kifejezés;	ExpressionHelp_rsExpressionHelp
+Optimizing...	Optimalizálás...	GIFImage_sProgressOptimizing
+Options	Beállítások	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	Kevés memória	SysConst_SOutOfMemory
+Out of memory while expanding memory stream	Elfogyott a memória miközben meg akartam növelni a bufferméretemet	RTLConsts_SMemoryStreamError
+Out of system resources	Kevés rendszererõforrás	Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	Túlcsordulási hiba miközben konvertáltam type (%s) ebbe type (%s)	SysConst_SVarTypeConvertOverflow
+Overline	Áthúzott	TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	Feülírjuk a minta paletta tartalmát az aktív layer objektumaival?	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	Lap %d	DiagramBase_rsPageD
+Page count	Lap számláló	TextEditor_rsPageCount
+Page number	Lap szám	TextEditor_rsPageNumber
+Page number:	Lap szám:	SlideShow_rsPageNumber
+Page p%s layer %d	Lap p%s layer %d	PictureObject_rsPagePSLayerD
+Page properties	Lap tulajdonságok	TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	Lap tulajdonságok...	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title	Lap cím	TextEditor_rsPageTitle
+Page title (empty for auto):	Lap cím (üres = auto)	RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	Ez a szülô nem szülôje '%s'	Consts_SParentGivenNotAParent
+Paste	Beillesztés	TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	Speciális beillesztés	TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	PgDn	Consts_SmkcPgDn
+PgUp	PgUp	Consts_SmkcPgUp
+Please support %s	Kérem támogasson %s	TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	Megadott kifejezés ábrázolása derékszögû koordinátarendszerben	ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	Függvényábrázolás:	TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	Polygon minimum két pontot tartalmazzon	GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note	Felugró figyelmeztetés	TextEditor_rsPopupNote
+Portable Network Graphics	Portable Network Graphics	PNGLoader_rsPNGImageFile
+Premature end of data	Elfogyott az adat	GIFImage_sOutOfData
+Preview mode	Elônézeti mód	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available	Elônézet nem elérhetô	DialogsEx_rsPreviewNotAvailable
+Previous	Elôzô	TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap		TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%		PrintDiagram_rsPrintScalingSetToD
+Print scaling:		TDesignerSetupForm: Label7.Caption
+Print...	Nyomtatás	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	A nyomtató jelenleg nem nyomtat	Consts_SNotPrinting
+Printer selected is not valid	Érvénytelen nyomtatót választott ki	Consts_SInvalidPrinter
+Printing in progress	Nyomtatás folyamatban	Consts_SPrinting
+Privileged instruction	Tiltott függvényhívás	SysConst_SPrivilege
+Process failed: %d	Process sikertelen: %d	AnalyzerPlugins_rsProcessFailedD
+ProductName	ProductName	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.	Program újraindítás után fog a beállítas érvényesülni	LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	Tulajdonságok	TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	Tulajdonságok...	TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	%s tulajdonság nem létezik	RTLConsts_SUnknownProperty
+Property is read-only	Csak olvasható	RTLConsts_SReadOnlyProperty
+Purple	Lila	ExtCtrls_clNamePurple
+Radius of corner arc	Rádiusz a sarkokban	TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	Véletlenszám generálása a [0; x[ intervallumban	ExpressionEval_rsRandomNumberIn0X
+Range check error	Tartományellenõrzési hiba	SysConst_SRangeError
+Range:	Tartomány:	TExpressionPlotForm: Label1.Caption
+Read	Olvasás	SysConst_SReadAccess
+Read beyond end of file	Olvasási kísérlet a fájl végén túl	SysConst_SEndOfFile
+Read less than expected	Kevés adatot sikerült beolvasni	Streams_rs_ReadLessError
+Rearrange pages	Lapok újrarendezése	TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	Lapok újrarendezése...	TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	Körkörös hivatkozás	ExpressionEval_rsRecursiveReference
+Red	Élénkpiros	ExtCtrls_clNameRed
+Redo	Újra	Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	Relaíiv lap szám (-1 = elôzô lap):	Main_rsRelativePageNumber1PreviousPage
+Reload	Újratölt	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?	Újratöltsük és elvesszenek a változtatások?	Main_rsReloadAndLoseChanges
+Rename	Átnevezés	TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.		TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	Kirajzolás...	GIFImage_sProgressRendering
+Reorder or delete pages	Lapok átrendezése vagy törlése	TMainForm: ReorderPagesAction.Hint
+Replace	Csere	TSpellCheckForm: ReplaceButton.Caption
+Reset Toolbar		Consts_SResetActionToolBar
+Reset symbol table		TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	%s erõforrás nem található	RTLConsts_SResNotFound
+RichEdit line insertion error	RichEdit line insertion error	ComStrs_sRichEditInsertError
+Right	Jobbra	Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear		Main_rsRightClickToClear
+Root of expression in x	x gyöke	ExpressionEval_rsRootOfExpressionInX
+Rotate	Forgatás	Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180°	Forgatás 180°	TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270°	Forgatás 270°	TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90°	Forgatás 90°	TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	Kiválasztott objektumok forgatása óramutató járásával megegyezôen. Figyelem: nem minden objektum forgatható.	TMainForm: RotateAction.Hint
+Rotation angle	Forgatás szöge	Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	Kerekítés a legközelebbi egészre	ExpressionEval_rsRoundToNearestInteger
+Rounded 1	Kerekítés 1	FlowchartObject_rsRounded1
+Rounded 2	Kerekítés 2	FlowchartObject_rsRounded2
+Rounded 3	Kerekítés 3	FlowchartObject_rsRounded3
+Rounds toward negative infinity	Kerekítés lefelé	ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	Kerekítés felfelé	ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	Szo	SysConst_SShortDayNameSat
+Saturday	Szombat	SysConst_SLongDayNameSat
+Save	Mentés	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	Mentés másként	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	Minta paletta mentése	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	Mentés...	GIFImage_sProgressSaving
+Scan line index out of range		Consts_SScanLine
+Scroll Bar	Görgetõsáv	ExtCtrls_clNameScrollBar
+Scrollbar property out of range	Görgetõsáv tulajdonság értékhatáron kívül	Consts_SScrollBarRange
+Seeking not supported	Keresés nem támogatott	DelphiStream_rsSeekingNotSupported
+Select all	Mindet kijelöli	TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	Válasszon vágólap formátumot	TPasteSpecialForm: Label1.Caption
+Select icon to import from file	Válasszon ikont az importhoz fájlból	TIconSelectionForm: IconSelectionForm.Caption
+Select program language	Programnyelv kiválasztása:	TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report	Hibareport küldése	StyleForm_rsSendBugReport
+Send to back	Háttérbe küld	TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	Szept	SysConst_SShortMonthNameSep
+Separator	Elválasztó	Consts_SSeparator
+Separator line		TextEditor_rsSeparatorLine
+September	Szeptember	SysConst_SLongMonthNameSep
+Set	Beállítás	TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	Diagram font beállítás	TMainForm: DiagramFontAction.Hint
+Set dictionary path	Szótár útvonal beállítás	TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name	Font választása név alapján	TextEditor_rsSetFontByName
+Set layer color...	Layer szín beállítás	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	Program nyelv választás	TDesignerSetupForm: LanguageButton.Caption
+Shift+	Shift+	Consts_SmkcShift
+Show grid	Rács mutatása	TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	Objektum fa mutatása	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins		TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer		TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	Ez az üzenet jelenjen meg indításkor	TPleaseSupportForm: CheckBox1.Caption
+Side bars	Oldalsó választók	FlowchartObject_rsSideBars
+Silver	Ezüst	ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	Terv mérete amikor másik alkalmazás vágólapról behúzza	TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size		TDesignerSetupForm: PrintScalingEdit.Hint
+Skip	Kihagyás	FormatAssociation_rsSkip
+Skip symbols	Szimbólum kihagyás	TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	Szavak kihagyása számokkal, sima bet?kkel és nagybet?s szavakkal	TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	Égkék	ExtCtrls_clNameSkyBlue
+Slant left	Balra döntés	FlowchartObject_rsSlantLeft
+Slant right	Jobbra döntés	FlowchartObject_rsSlantRight
+Slide show	Diabemutató	TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D		TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	Egyenlet megoldása x-re	ExpressionEval_rsSolveEquationInX
+Space	Szóköz	Consts_SmkcSpace
+Spell check	Nyelvi ellenôrzés	TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	Nyelvi ellenôrzés kész	SpellChecker_rsSpellCheckComplete
+Spell checker...	Nyelvi ellenôrzô	TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	Négyzetgyök	ExpressionEval_rsSquareRoot
+Stack overflow	Stack overflow	SysConst_SStackOverflow
+Standard function	Elemi függvény	ExpressionHelp_rsStandardFunction
+Stop		LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	A stream nincs írásra megnyitva	Deflate_rsWriteDenied
+Stream read error	Stream olvasási hiba	RTLConsts_SReadError
+Stream write error	Stream írási hiba	RTLConsts_SWriteError
+Strikeout		TextEditor_rsStrikeout
+String list does not allow duplicates	Szöveg listákat nem lehet sokszorozni	StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	Stílus	TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	Ilyen almenü nem található a menüben	Consts_SMenuNotFound
+Subscript	Alsó index	TextEditor_rsSubscript
+Suggestions:	Megjegyzések:	TSpellCheckForm: Label4.Caption
+Sun	V	SysConst_SShortDayNameSun
+Sunday	Vasárnap	SysConst_SLongDayNameSun
+Superscript	Felsô index	TextEditor_rsSuperscript
+Support Diagram Designer...	Támogassa a Diagram Designer-t...	TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	Mûvelet	TExpressionEvalForm: ListView.Caption
+Symbol font	Szimbólum font	TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	Rendszerhiba. Kód: %d.\r\n%s	SysConst_SOSError
+Tab	Tab	Consts_SmkcTab
+Tab index out of bounds		Consts_SInvalidTabIndex
+Tab position incompatible with current tab style		Consts_SInvalidTabPosition
+Tab style incompatible with current tab position		Consts_SInvalidTabStyle
+Teal	Kékeszöld	ExtCtrls_clNameTeal
+Template palette	Minta paletta	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	Minta paletta - vonszold az objektumokat innen a diagrammra	TMainForm: TemplateScrollBox.Hint
+Terminate application	Alkalmazás megállítása	StyleForm_rsTerminateApplication
+Text	Szöveg	Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation		TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	Szöveg szín	TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	A szöveg nagyobb, mint a rendelkezésre álló memória	Consts_SInvalidMemoSize
+Text formatting codes:	Szöveg formázó kódok	TTextEditorForm: Label1.Caption
+Text margin	szöveg margó	TPropertyEditorForm: Panel21.Caption
+Text not found		Main_rsTextNotFound
+Text:	Szöveg:	TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	Jelenleg nincs kiválasztva alapértelmezett nyomtató	Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	Ehhez a funkcióhoz 4.70 vagy magasabb verziószámú COMCTL32.DLL szükséges	ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)		RTLConsts_SThreadError
+Thread creation error: %s		RTLConsts_SThreadCreateError
+Three-digit font size	Font mérete 3 számmal	TextEditor_rsThreeDigitFontSize
+Thu	Cs	SysConst_SShortDayNameThu
+Thursday	Csütörtök	SysConst_SLongDayNameThu
+Title	Felirat	TQuickMenuSearchForm: ListView.Caption
+Too few lines to create polygon	Túl sok vonal a sokszöghöz	GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	Túl sok nyitott fájl	SysConst_STooManyOpenFiles
+Top	Felülre	TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	Fentre#$0DKözépre#$0DAlulra#$0D	TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color	Átlátszó szín	TIconSelectionForm: TransparentButton.Caption
+Transparent color key	Átlátszó szín kód	TPropertyEditorForm: Panel25.Caption
+Tue	K	SysConst_SShortDayNameTue
+Tuesday	Kedd	SysConst_SLongDayNameTue
+Turn mouse wheel to change		Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size		Main_rsUseMouseWheelToChangeSize
+UML has a		LineObject_rsUMLHasA
+UML is a		LineObject_rsUMLIsA
+Unable to Replace Image	Nem sikerült lecserélni a képet	Consts_SReplaceImage
+Unable to close file	Nem sikerült a fájlt bezárni	AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	Nem sikerült a mappát létrehozni	SysConst_SCannotCreateDir
+Unable to evaluate guess:	A kifejezést nem sikerült megoldani	ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	Tartalomjegyzék nem található	HelpIntfs_hNoTableOfContents
+Unable to insert a line	Nem sikerült sort beszúrni	Consts_SInsertLineError
+Unable to insert an item	Nem sikerült beszúrni az elemet	ComStrs_sInsertError
+Unable to open file	Nem sikerült a fájlt megnyitni	AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	Nem sikerült elmenteni a beállításokat	Consts_SUnableToSaveSettings
+Undefined	Nem definiált	ExpressionEval_rsUndefined
+Undefined symbol:	Nem definiált szimbólum	ExpressionEval_rsUndefinedSymbol
+Underline	Aláhúzott	TextEditor_rsUnderline
+Undo	Visszavon	Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	Viszzavonások mérete:	TDesignerSetupForm: Label3.Caption
+Unexpected character:	Nem értelmezhetõ vagy felesleges karakter	ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	Ismeretlen változó hiba	SysConst_SVarUnexpected
+Ungroup	Csoport feloldása	TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	Csoport feloldása aktív objektumnál	TMainForm: UngroupAction.Hint
+UnitLabel1	UnitLabel1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	UnitLabel2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	Mértékegységek:	TDesignerSetupForm: Label5.Caption
+Unknown GIF block type	Ismeretlen GIF blokktípus	GIFImage_sBadBlock
+Unknown extension type	Ismeretlen kiterjesztés	GIFImage_sUnknownExtension
+Unknown seek origin	Nem találtam meg az origint	DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	Nem támogatott GIF blokk méret	GIFImage_sBadBlockSize
+Unsupported GIF version	Nem támogatott GIF verzió	GIFImage_sBadVersion
+Unsupported PNG data	Nem támogatott PNG adat	PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	Nem támogatott PixelFormat	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	Nem támogatott BMP formátum	LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	A Vágólapon ismeretlen formátumú adat van, nem lehet beszúrni.	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	Nem támogatott fájlformátum	LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	Nem támogatott képpontformátum	AnalyzerPlugins_rsUnsupportedPixelFormat	LinarBitmap_rsInvalidPixelFormat
+Up	Fel	Consts_SmkcUp
+Value expected	Értéket kell megadni	ExpressionEval_rsValueExpected
+Value must be integer	Egész értéket kell megadni	ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	Az érték nincs a megengedett tartományban: [%s - %s]	ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported		SysConst_SDispatchError
+Variant or safe array index out of bounds		SysConst_SVarArrayBounds
+Variant or safe array is locked		SysConst_SVarArrayLocked
+Variant overflow	Változó túlcsordult	SysConst_SVarOverflow
+Version	Verzió	TAboutBox: Version.Caption
+Vertical	Függôleges	LinkEditor_rsVertical
+Vertical scaling	Függôleges méretezés	TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	Függôleges szöveg igazítás	TPropertyEditorForm: Panel4.Caption
+Warning	Figyelmeztetés	Consts_SMsgDlgWarning
+Wed	Sze	SysConst_SShortDayNameWed
+Wednesday	Szerda	SysConst_SLongDayNameWed
+What can I do?	Támogatási lehetõségek, közremûködés	TPleaseSupportForm: Label2.Caption
+White	Fehér	ExtCtrls_clNameWhite
+Width	Szélesség	TPropertyEditorForm: Panel9.Caption
+Width:	Szélesség:	TPagePropertiesForm: Label1.Caption
+Window Background	Ablakháttér	ExtCtrls_clNameWindow
+Window Frame	Ablakkeret	ExtCtrls_clNameWindowFrame
+Window Text	Ablak szöveg	ExtCtrls_clNameWindowText
+Windows Enhanced metafile	Windows Enhanced metafile	WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Windows BMP	BMPLoader_rsWindowsBitmap
+Windows cursor	Windows kurzor	ICOLoader_rsWindowsCursor
+Windows icon	Windows ikon	ICOLoader_rsWindowsIcon
+Windows metafile	Windows metafile	WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	Biztosan alapértelmezett értékekre visszaállítsuk a Priority Schedule-t?	Consts_SRestoreDefaultSchedule
+Write	Írás	SysConst_SWriteAccess
+X:	X:	TDesignerSetupForm: Label1.Caption
+Y:	Y:	TDesignerSetupForm: Label2.Caption
+Yellow	Sárga	ExtCtrls_clNameYellow
+Yes to &All	Igen, &mindegyikre	Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	Nem törölheted ezt az elemet	Consts_SDeleteNotAllowed
+Zoom	Nagyítás	TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft Paintbrush	PCXLoader_rsPCXImageFile
+add %s	hozzáad %s	Main_rsAddS
+add point	pont hozzáadása	Main_rsAddPoint
+e-mail	e-mail	TAboutBox: EMailLabel.Caption
+edit properties	tulajdonság szerkesztése	Main_rsEditProperties
+http://logicnet.dk/mail.php	http://logicnet.dk/mail.php	TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk	http://meesoft.logicnet.dk	TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	http://meesoft.logicnet.dk/DiagramDesigner/support.htm	TMainForm: SupportAction.Hint
+move	mozgatás	Main_rsMove
+rename	átnevezés	Main_rsRename
+size		Main_rsSize
+· Develop plugins	 Pluginek fejlesztése	TPleaseSupportForm: Label7.Caption
+· Help improve the documentation		TPleaseSupportForm: Label5.Caption
+· The easiest is to make a donation	 Pénzbeni támogatás	TPleaseSupportForm: Label3.Caption
+· Translate the program to your language	 A program lefordítása	TPleaseSupportForm: Label6.Caption
+¼ points	L' pontok	Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption
+DefaultCharset	238

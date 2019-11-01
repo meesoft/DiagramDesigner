@@ -1,0 +1,813 @@
+ - Dock zone has no control	 - No tenemos control en la zona Dock	Consts_SDockZoneHasNoCtl
+ - Dock zone not found	 - No se encuentra la zona Dock	Consts_SDockZoneNotFound
+%d files selected	%d ficheros seleccionados	DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	El valor %d no es válido como Indice de Página. El Índice de Página debe estar comprendido entre 0 y %d	ComStrs_sPageIndexError
+%d link points defined	Se han definido %d puntos de enlace.	PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s (%s, línea %d)	SysConst_SAssertError
+%s does not allow hiding	El valor %s no se puede ocultar	Consts_SCannotHideActionBand
+%s expected	Se esperaba el valor %s	ExpressionEval_rsSExpected
+%s not found	No se encuentra %s	ExpressionEval_rsSNotFound
+%s not in a class registration group	% no es un grupo de registro de clase	RTLConsts_SUnknownGroup
+%s on %s	%s sobre %s	Consts_SDeviceOnPort
+%s property out of range	%s propiedad fuera de rango	Consts_SPropertyOutOfRange
+%s.Seek not implemented	%s. Busqueda no implementada	RTLConsts_SSeekNotImplemented
+&Abort	&Interrumpir	Consts_SMsgDlgAbort
+&Add or Remove Buttons	&Agregar o quitar botones	Consts_SAddRemoveButtons
+&All	&Todo	Consts_SMsgDlgAll	Consts_SAllButton
+&Close	&Salir	Consts_SCloseButton
+&Help	&?	Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	&Ignorar	Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	&No	Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	&Reintentar	Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start	&Comienzo	SpellChecker_rsStart
+&Yes	&Sí	Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value		SysConst_SInvalidFloat
+'%s' is not a valid integer value	'%s' no es un valor entero valido	SysConst_SInvalidInteger
+''%s'' is not a valid component name	%s' no es un nombre válido de componente	RTLConsts_SInvalidName
+(No Name)	(Sin nombre)	Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	Sombra 3D	ExtCtrls_clName3DDkShadow
+3D Light	Iluminacion 3D	ExtCtrls_clName3DLight
+<unknown>	<desconocido>	SysConst_SUnknown
+= or ( expected	Se esperaba = o	ExpressionEval_rsOrExpected
+A call to an OS function failed	Se produjo en fallo en la llamada a una función del SO	SysConst_SUnkOSError
+A class named %s already exists	Ya existe una clase con el nombre %s	RTLConsts_SDuplicateClass
+A component named %s already exists	Ya existe un componente llamado %s	RTLConsts_SDuplicateName
+A control cannot have itself as its parent	Un control no puede ser su propio padre	Consts_SControlParentSetToSelf
+Abort	Interrumpir	Consts_SAbortButton
+About	Acerca de	TAboutBox: AboutBox.Caption
+About...	Acerca de...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	Error no determinado	SysConst_SAbstractError
+Active Border	Borde activo	ExtCtrls_clNameActiveBorder
+Active Caption	Captura activa	ExtCtrls_clNameActiveCaption
+Add	Añadir	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	Añadir plantilla	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	Añadir a la paleta de plantillas	TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation		TMainForm: PagePropertiesAction.Hint
+Adler32 error	Error Adler32	Adler32_rsAdler32Error
+Align	Alinear	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group	Alinear un objeto a la página, o varios objeto al grupo	TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	Todos los objetos deben ser líneas	GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+	Alt+	Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	Se ha producido un error mientras se leia la estructura Información Fija de Archivo del archivo	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	Se ha producido un error mientras se leia la descripción del idioma/conjunto de caracteres del archivo	VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	No se encuentra el antecedente de '%s'	RTLConsts_SAncestorNotFound
+Anchors	Anclaje	TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group	Los anclajes modifican el comportamiento al escalar componentes dentro de contenedores	TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing	Antisolapamiento	TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export	Antisolapamiento en exportación de diapositivas y bitmaps	TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	Cualquier ángulo ...	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	Error de la aplicación	SysConst_SExceptTitle
+Application Workspace	Espacio de trabajo de la aplicación	ExtCtrls_clNameAppWorkSpace
+Apply to all pages	Aplicar a todas las páginas.	TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	Abr	SysConst_SShortMonthNameApr
+April	Abril	SysConst_SLongMonthNameApr
+Aqua	Agua	ExtCtrls_clNameAqua
+Arrow 1	Flecha 1	LineObject_rsArrow1
+Arrow 2	Flecha 2	LineObject_rsArrow2
+Arrow 3	Flecha 3	LineObject_rsArrow3
+Assertion failed	La afirmación es errónea	SysConst_SAssertionFailed
+Associate file formats with	Asociar los formatos de fichero con	TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	Asociar el programa con los formatos de fichero seleccionados	TFormatAssociateForm: AssociateButton.Hint
+Aug	Ago	SysConst_SShortMonthNameAug
+August	Agosto	SysConst_SLongMonthNameAug
+Auto connect to link points		TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break		TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes		TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects		TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled		TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging		TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	Fondo	ExtCtrls_clNameBackground
+Ball	Bola	LineObject_rsBall
+Base 10 logarithm	Logaritmo en base 10	ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	Logaritmo en base 2	ExpressionEval_rsBase2Logarithm
+Base e logarithm	Logaritmo neperiano	ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)		TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	Mapa de bits	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	Imagen de mapa de bits no válida	Consts_SInvalidBitmap
+Bitmap scaling	Ajuste a escala del mapa de bits	TPropertyEditorForm: Panel16.Caption
+Bitmaps	Mapas de bits	Consts_SVBitmaps
+Bits index out of range	Indice de bits fuera de rango	RTLConsts_SBitsIndexError
+BkSp	Volver atrás un carácter.	Consts_SmkcBkSp
+Black	Negro	ExtCtrls_clNameBlack
+Blue	Azul	ExtCtrls_clNameBlue
+Bold	Negrita	TextEditor_rsBold
+Bottom	Inferior	TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	Traer al frente	TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	Cara del botón	ExtCtrls_clNameBtnFace
+Button Highlight	Resalte del botón	ExtCtrls_clNameBtnHighlight
+Button Shadow	Sombra del botón	ExtCtrls_clNameBtnShadow
+Button Text	Texto del botón	ExtCtrls_clNameBtnText
+CRC error	Error del CRC	PNGLoader_rsCRCError
+Can't write to a read-only resource stream	No se puede escribir en un recurso de solo lectura	RTLConsts_SCantWriteResourceStreamError
+Cancel	Cancelar	TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	Imposible asignar un %s a un %s	RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	No se puede asignar un subconjunto a una barra de acción cuando uno de los conjuntos que lo contiene ya están asignados a una barra de acción	Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	Imposible cambiar de "Visible" a "En exposición" o "Oculto"	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	Imposible cambiar el tamaño de una imagen JPEG	JConsts_sChangeJPGSize
+Cannot change the size of an icon	Imposible cambiar el tamaño de un icono	Consts_SChangeIconSize
+Cannot create file \"%s\". %s	Imposible crear el archivo \"%s\". %s	RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active	Imposible crear formulario. No hay formularios MDI activos	Consts_SNoMDIForm
+Cannot drag a form	Imposible arrastrar un formulario	Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	No se puede enfocar una ventana desactivada o invisible	Consts_SCannotFocus
+Cannot hide an MDI Child Form	No se puede ocultar un formulario hijo MDI	Consts_SMDIChildNotVisible
+Cannot make a visible window modal	Imposible hacer visible una ventana modal	Consts_SCannotShowModal
+Cannot open clipboard	Imposible abrir portapapeles	Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	Imposible abrir archivo \"%s\". %s	RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	No se permite dibujar en el lienzo	Consts_SNoCanvasHandle
+Caption Text	Texto capturado	ExtCtrls_clNameCaptionText
+Center	Centrar	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	Cambiar el color de todos los objetos de la capa activa	TMainForm: SetLayerColorAction.Hint
+Change value	Modificar valor	ExpressionHelp_rsChangeValue
+Check active layer only	Comprobar solo la capa activa	TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates	Compruebe para actualizaciones	TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	CheckSynchronize llamado desde el thread $%x, el cual no es el thread principal	RTLConsts_SCheckSynchronizeError
+Circle	Círculo	LineObject_rsCircle
+Circular decoder table entry	Entrada de la tabla del decodificador circular	GIFImage_sDecodeCircular
+Circular references not allowed	No se permiten referencias circulares	Consts_SCirularReferencesNotAllowed
+Class %s not found	Clase %s no hallada	RTLConsts_SClassNotFound
+Clear	En claro	TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	Pulse aquí para ver como	TPleaseSupportForm: Label4.Caption
+Click to apply format to selection		TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	El portapapeles no soporta iconos	Consts_SIconToClipboard
+Clipboard metafile scale:	Escala del meta archivo del portapapeles:	TDesignerSetupForm: Label4.Caption
+Close	Salir	TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: Button1.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator	Cierra el evaluador de expresión	TExpressionEvalForm: ActionClose.Hint
+Color not in color table	Color no presente en la tabla de color	GIFImage_sInvalidColor
+Color table is empty	La tabla de color vacia	GIFImage_sEmptyColorMap
+Color table overflow	Desbordamiento de la tabla de color	GIFImage_sTooManyColors
+Conditional value		ExpressionEval_rsConditionalValue
+Confirm	Confirmar	Consts_SMsgDlgConfirm
+Connect links	Conectar los enlaces	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Continue	Continuar	TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	El control '%s' no tiene una ventana padre	Consts_SParentRequired
+Control-C hit	Pulsar Control-C	SysConst_SControlC
+Convert	Convertir	TMainForm: Convert1.Caption
+Convert binary number	Convertir número binario	ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon	Convertir un objeto "grupo" consistente en líneas conectadas que forman un polígono	TMainForm: MakePolygonAction.Hint
+Convert to metafile	Convertir a meta archivo	TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	Convertir en polígono	TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	Convirtiendo...	GIFImage_sProgressConverting
+Copy	Copiar	TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all		TLinkEditorForm: CopyButton.Hint
+Copy templates to page	Copiar las plantillas en la página	TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	Copiando...	GIFImage_sProgressCopying
+Corner radius	Radio del arco de las esquinas	Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	No se pudo convertir la variante del tipo (%s) al tipo (%s)	SysConst_SVarTypeCouldNotConvert
+Cream	Crema	ExtCtrls_clNameCream
+Create default anchors for groups	Crear anclas por defecto para los grupos	TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images		TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents		DiagramExport_rsAutoCrop
+Ctrl+	Ctrl+	Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments	La curva debe ser un spline cerrado de tipo Catmull-Rom o segmentos de línea	LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type	Tipo de curva	TPropertyEditorForm: Panel23.Caption
+Cut	Cortar	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Dec	Dic	SysConst_SShortMonthNameDec
+December	Diciembre	SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	Se ha agotado el buffer de bits del decodificador	GIFImage_sDecodeTooFewBits
+Default	Por defecto	ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	Fuente por defecto	TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del	Del	Consts_SmkcDel
+Delete	Borrar	TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	¿Borrar la página de diagrama?	RearrangePages_rsDeleteDiagramPage
+Delete symbol	Borrar el símbolo	TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	Borrar el objeto "plantilla"	TMainForm: DeleteTemplateAction.Caption
+Description	Descripción	TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	Deseleccionar todo	TFormatAssociateForm: NoneButton.Caption
+Diagram	&Diagrama	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd	Diagrama (*.ddd)|*.ddd	DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	Se ha modificado el diagrama ¿quiere guardar los cambios antes de cerrar?	Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link	Diagrama o enlace	TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	Paleta de plantillas de diagramas (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter
+Diamond	Diamante	LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	Diccionarios (*.dic)|*.dic	DesignerSetup_rsDictionariesDicDic
+Disable font antialiasing		DiagramExport_rsDisableFontAntialiasing
+Disk full	Disco lleno	SysConst_SDiskFull
+Distance from top left corner	Distancia desde esquina superior izquierda	TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	División por cero	SysConst_SDivByZero
+Docked control must have a name	El control acoplado debe tener un nombre	Consts_SDockedCtlNeedsName
+Done	Listo	PropertyEditor_rsDone
+Double arrow	Flecha doble	LineObject_rsDoubleArrow3
+Down	Abajo	Consts_SmkcDown
+Download	Descarga	PropertyEditor_rsDownload
+Draw arrow	Dibujar una flecha	TMainForm: DrawArrowAction.Caption
+Draw connector	Dibujar un conector	TMainForm: DrawConnectorAction.Caption
+Draw curve	Dibujar una curva	TMainForm: DrawCurveAction.Caption
+Draw ellipse	Dibujar una elipse	TMainForm: DrawEllipseAction.Caption
+Draw line	Dibujar una línea	TMainForm: DrawLineAction.Caption
+Draw rectangle	Dibujar un rectángulo	TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects		TMainForm: ObjectShadowsAction.Hint
+Edit	&Edición	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	Editar la capa	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point	Editar punto de enlace	LinkEditor_rsEditLinkPoint
+Edit text	Editar texto	TTextEditorForm: TextEditorForm.Caption
+Edit text...	Editar el texto	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	Editando la imagen ...	PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	Se debe especificar si es una lectura, escritura o acceso total en la llamada a CreateFile	Streams_rs_NoFileAccessSpec
+End	Fin	Consts_SmkcEnd
+Enhanced Metafiles	Metaarchivos mejorados	Consts_SVEnhMetafiles
+Enter	Introducir	Consts_SmkcEnter
+Enter object text:	Introducir texto del objeto:	TTextEditorForm: Label2.Caption
+Error	Error	Consts_SMsgDlgError
+Error closing \"%s\" - %s	Se ha producido un error al cerrar \"%s\" - %s	Streams_rs_CloseFileError
+Error creating variant or safe array	Se ha producido un error al crear una matriz variable o segura	SysConst_SVarArrayCreate
+Error creating window class	Se ha producido un error al crear clase de la ventana	Consts_SWindowClass
+Error creating window device context	Se ha producido un error creando contexto de ventana de dipositivo 	Consts_SWindowDCError
+Error deleting \"%s\" - %s	Se ha producido un error al borrar \"%s\" - %s	Streams_rs_DeleteFileError
+Error in bitmap data	Se ha producido un error en los datos del mapa de bits	AnalyzerPlugins_rsErrorInBitmapData	LinarBitmap_rsErrorInBitmapData
+Error in compressed data	Se ha producido un error en datos comprimidos	Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	Se ha producido un error en la carga del archivo de configuraciones previamente grabado: ¿Preferiría borrarlo, %s\r?	Consts_SErrorLoadingFile
+Error moving file pointer - %s	Se ha producido un error al mover puntero de archivo - %s	Streams_rs_SeekFileError
+Error moving stream pointer	Se ha producido un error al mover el indicador de flujo de datos	MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	Se ha producido un error al abrir \"%s\" - %s	Streams_rs_CreateFileError
+Error reading %s%s%s: %s	Se ha producido un error al leer \"%s\" - %s	RTLConsts_SPropertyException
+Error reading from stream - %s	Se ha producido un error al leer desde flujo - %s	Streams_rs_ReadError
+Error removing control from dock tree	Se ha producido un error borrando el control del arbol acoplado	Consts_SDockTreeRemoveError
+Error running Image Analyzer	Se ha producido un errir mientras se ejecutaba el Analizador de Imagen	PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	Se ha producido un error al configurar la Cuenta %s.	Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s	Se ha producido un error al truncar archivo \"%s\" - %s	Streams_rs_TruncateFileError
+Error while trying to send e-mail	Error tratando de enviar el correo electrónico 	EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	Se ha producido un error al escribir al flujo - %s	Streams_rs_WriteError
+Esc	Esc	Consts_SmkcEsc
+Evaluate	Evaluar	TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	Evaluar (F5)	TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	Excepción %s en módulo %s con %p.\r\n%s%s\r\n	SysConst_SException
+Exception in safecall method	Excepción en el metodo de llamada segura	SysConst_SSafecallException
+Expand	Expandir	Consts_SExpand
+Export	Exportar	TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages		DiagramExport_rsExportAllPages
+Export file DPI:	Exprortar archivo DPI:	DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	Exportar página como mapa de bits o meta archivo	TMainForm: ExportAction.Hint
+Export page...	Exportar página ...	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator	Evaluador de expresión	TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...	Evaluador de expresión...	TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	Expresion vacia	ExpressionEval_rsExpressionIsEmpty
+External exception %x	Excepción externa %x	SysConst_SExternalException
+Extra = found	Extra = localizado	ExpressionEval_rsExtraFound
+Failed to Load Stream	Falló al cargar flujo	ComStrs_sRichEditLoadFail
+Failed to Save Stream	Falló al cargar flujo	ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	Se ha producido un falló en la asignación de memoria para GIB DIB	GIFImage_sOutOfMemDIB
+Failed to clear tab control	Se ha producido un fallo al poner a cero el control de etiquetas	ComStrs_sTabFailClear
+Failed to delete tab at index %d	Se ha producido un fallo al borrar la etiqueta del índice %d	ComStrs_sTabFailDelete
+Failed to get data for '%s'	Se ha producido un error al obtener los datos para '%s'	RTLConsts_SRegGetDataFailed
+Failed to get object at index %d	Se ha producido un error al obtener un objeto en el índice %d	ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	Se ha producido un error al leer datos de la secuencia de la Lista de Imágenes	Consts_SImageReadFail
+Failed to retrieve tab at index %d	Se ha producido un error al recuperar la etiqueta del índice %d	ComStrs_sTabFailRetrieve
+Failed to set data for '%s'	Se ha producido un error al preparar los datos para '%s'	RTLConsts_SRegSetDataFailed
+Failed to set object at index %d	Se ha producido un error al preparar los datos para el índice %d	ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d	Se ha producido un error al preparar la etiqueta \"%s\" en el índice %d	ComStrs_sTabFailSet
+Failed to store GIF on clipboard	Se ha producido un error al almacenar el archivo GIF en el portapapeles	GIFImage_sFailedPaste
+Failed to write ImageList data to stream	Se ha producido un error al escribir datos Lista de Imageners en la secuencia	Consts_SImageWriteFail
+Feb	Feb	SysConst_SShortMonthNameFeb
+February	Febrero	SysConst_SLongMonthNameFeb
+File	&Archivo	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	Acceso al fichero denegado	SysConst_SAccessDenied
+File format associations	Asociaciones de formato fichero	TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	Archivo de la última versión de programa	DiagramBase_rsFileFromLaterProgramVersion
+File not found	Archivo no encontrado	SysConst_SFileNotFound
+Fill	Rellenar	TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	Rellenar de color	TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Find text...	Buscar...	TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	Encontrar el valor x que minimice la expresión	ExpressionEval_rsFindXThatMinimizesExpression
+First	Primero	TSlideShowForm: FirstSlideItem.Caption
+Flip	Expulsar	TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	División por cero en coma flotante	SysConst_SZeroDivide
+Floating point overflow	Desbordamiento en coma flotante	SysConst_SOverflow
+Floating point underflow	Entrada de datos en coma flotante insuficiente	SysConst_SUnderflow
+Font	Fuente	TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	Formato '%s' invalido o incompatible con el argumento	SysConst_SInvalidFormat
+Format string too long	Cadena de formato demasiado larga	SysConst_SFormatTooLong
+Fractional part of real number	Parte fraccionaria de un número real	ExpressionEval_rsFractionalPartOfRealNumber
+Fri	Vie	SysConst_SShortDayNameFri
+Friday	Viernes	SysConst_SLongDayNameFri
+Fuchsia	Fucsia	ExtCtrls_clNameFuchsia
+GIF Image	Imagen GIF	GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	Número Gausiano al azar, StdDev=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	General	TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	Obtener el formato de página de impresión	TPagePropertiesForm: PrinterButton.Caption
+Global stencil	Plantilla global	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	Conectores para unir puntos de enlace de objetos contiguos de la capa activa	TMainForm: ConnectLinksAction.Hint
+Go to page	Ir a la página	TSlideShowForm: GoToPageItem.Caption
+Gradient color		TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format	Formato de Intercambio de Gráficos	GIFLoader_rsGIFImageFile
+Gray	Gris	ExtCtrls_clNameGray
+Gray Text	Texto gris	ExtCtrls_clNameGrayText
+Green	Verde	ExtCtrls_clNameGreen
+Grid (%s)	Rejilla (%s)	DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	Grupo	TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines	El grupo debe estar formado por líneas conectadas	GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	Objetos seleccionados del grupo	TMainForm: GroupAction.Hint
+Group selected objects in metafile object	Objetos seleccionados del grupo en un objeto meta archivo	TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	El índice de grupo no puede ser de inferior tamaño que un índice de grupo del conjunto menú	Consts_SGroupIndexTooLow
+Guess undefined	Indefinido	ExpressionEval_rsGuessUndefined
+HTML formatted color	Color en formato HTML	TextEditor_rsHTMLFormattedColor
+Halftone	Semitono	TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	Alto	TPropertyEditorForm: Panel8.Caption
+Height:	Alto:	TPagePropertiesForm: Label2.Caption
+Help	&?	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	Contenido de la ayuda	TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	Etiqueta de la ayuda	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	Resaltar el fondo	ExtCtrls_clNameHighlight
+Highlight Text	Resaltar el texto	ExtCtrls_clNameHighlightText
+Highlight syntax		TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.		Main_rsEditShapeHint
+Home	Inicio	Consts_SmkcHome
+Horizontal	Horizontal	LinkEditor_rsHorizontal
+Horizontal scaling	Escalado horizontal	TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	Alineación horizontal	TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.	Quisiera agradecer a %s y otras personas que pongan sus librerias a mi disposición.	Main_rsIWouldLikeToThank
+I/O error %d	Error de E/S %d	SysConst_SInOutError
+IO-error: %s	Error-E/S: %s	Streams_rs_IOError
+Icon image is not valid	Imagen no válida para un icono	Consts_SInvalidIcon
+Icons	Iconos	Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	Si te gusta este software, por favor ayúdame en mi trabajo y el futuro desarrollo del programa, la documentacion y el sitio web.#$0DSin su apoyo mantener el sitio web funcionando es solo un gasto para mi.	TPleaseSupportForm: Label1.Caption
+Ignore all	Ignorar todo	TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	La imagen excede al tamaño de la Pantalla Logica	GIFImage_sScreenSizeExceeded
+Image has no DIB	La imagen no tiene DIB	GIFImage_sNoDIB
+Image height too small for contained frames	Alto de imagen demasido pequeño para los cuadros contenidos	GIFImage_sBadHeight
+Image is empty	La imagen esta vacia	GIFImage_sEmptyImage
+Image is too large for icon	La imagen es demasiado grande para servir como icono	ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	El ancho de imagen es demasiado pequeño para los cuadros contenidos	GIFImage_sBadWidth
+Inactive Border	Borde inactivo	ExtCtrls_clNameInactiveBorder
+Inactive Caption	Captura inactiva	ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	Texto de captura inactivo	ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	Incluir la descripcion del formato en vistas de archivo en vez de solo "Archivo XYZ"	TFormatAssociateForm: DescriptionBox.Hint
+Info Background	Informacion de fondo	ExtCtrls_clNameInfoBk
+Info Text	Texto informativo	ExtCtrls_clNameInfoText
+InfoLabel	Etiqueta informativa	TAboutBox: InfoLabel.Caption
+Information	Informacion	Consts_SMsgDlgInformation
+Inner bounds	Límites interiores	TPropertyEditorForm: InnerBoundsBox.Caption
+Ins	Ins	Consts_SmkcIns
+Insert inherited layer...	Insertar una capa heredada ...	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	Insertar una imagen desde el archivo	TMainForm: InsertPictureAction.Hint
+Insert picture...	Insertar imagen ...	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text	Insertar texto	TMainForm: DrawTextAction.Caption
+Integer overflow	Desbordamiento de número entero	SysConst_SIntOverflow
+Interface not supported	Interfaz no implementada	SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label	Error interno: Instancia de extensión no concuerda con denominación de extensión	GIFImage_sBadExtensionInstance
+Internet help page	Página de ayuda en internet	TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Internet:	Internet:	TAboutBox: Label3.Caption
+Invalid GIF data	Datos GIF no validos	GIFImage_sInvalidData
+Invalid GIF signature	Firma GIF no valida	GIFImage_sBadSignature
+Invalid Image trailer	Trailer de imagen no valido	GIFImage_sBadTrailer
+Invalid ImageList	Lista de Imágenes no válida 	Consts_SInvalidImageList
+Invalid ImageList Index	Indice de la Lista de Imágenes no válido	Consts_SImageIndexError
+Invalid NULL variant operation	Operación con variable NULL no válida	SysConst_SInvalidVarNullOp
+Invalid PNG data	Datos PNG invalidos	PNGLoader_rsInvalidPNGData
+Invalid PNG header	Cabezera PNG invalida	PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions	La alfa inválida canaliza el formato o dimensiones.	PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	Argumento invalido	SysConst_SVarInvalid
+Invalid binary number	Numero binario no valido	ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	Tamaño bitmap no valido	LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	Tamaño de buffer no valido	BufStream_rsInvalidBufferSize
+Invalid class typecast	Encasillado de clase no válido	SysConst_SInvalidCast
+Invalid clipboard format	Formato de portapapeles no valido	Consts_SInvalidClipFmt
+Invalid color index	Indice de color no valido	GIFImage_sBadColorIndex
+Invalid data type for '%s'	Tipo de dato no valido para '%s'	RTLConsts_SInvalidRegType
+Invalid diagram	Diagrama no válido	DiagramBase_rsInvalidDiagram
+Invalid extension introducer	Denominación de extensión inválida	GIFImage_sBadExtensionLabel
+Invalid filename	Nombre de fichero no valido	SysConst_SInvalidFilename
+Invalid floating point operation	Operación no válida en coma flotante	SysConst_SInvalidOp
+Invalid image dimensions	Dimensiones de imagen no valida	GIFImage_sBadDimension
+Invalid image size	Tamaño de imagen no valido	Consts_SInvalidImageSize
+Invalid index	Índice inválido	ComStrs_sInvalidIndex
+Invalid number format	Formato numerico no valido	ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	Número de colores especificado en Descriptor de Imagen no valido	GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	Número de colores especificado en Descriptor de Pantalla no valido	GIFImage_sScreenBadColorSize
+Invalid numeric input	Entrada numerica no valida	SysConst_SInvalidInput
+Invalid numeric value	Valor numérico no válido	Consts_SInvalidNumber
+Invalid owner	Propietario inválido	ComStrs_sInvalidOwner
+Invalid pixel coordinates	Coordenadas de pixel no validas	GIFImage_sBadPixelCoordinates
+Invalid pixel format	Formato de pixel no valido	Consts_SInvalidPixelFormat
+Invalid pointer operation	Operación de puntero no valida	SysConst_SInvalidPointer
+Invalid property path	Ruta de propiedades no válida	RTLConsts_SInvalidPropertyPath
+Invalid property value	Valor de propiedad no valido	RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	Metodo de reduccion no valido	GIFImage_sInvalidReduction
+Invalid stream format	Formato de cadena no valido	RTLConsts_SInvalidImage
+Invalid stream operation	Operación con cadena no válida	GIFImage_sInvalidStream
+Invalid template palette	Paleta de plantilla no válida	TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	Operacion de variable no valida	SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	Operacion de variable (%s%.8x)\n%s no valida	SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	Tipo de variable no válido	SysConst_SVarBadType
+Invalid variant type conversion	Conversion de tipo de variable no valido	SysConst_SInvalidVarCast
+Italic	Cursiva	TextEditor_rsItalic
+Item %s has subitems, delete anyway?	El conjunto %s tiene subconjuntos ¿Desea borrarlo de todas formas?	Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	No está permitido mover el conjunto %s	Consts_SMoveNotAllowed
+JPEG Image File	Fichero de imagen JPEG	JConsts_sJPEGImageFile
+JPEG error #$23%d	Error JPEG #$23%d	JConsts_sJPEGError
+Jan	Ene	SysConst_SShortMonthNameJan
+January	Enero	SysConst_SLongMonthNameJan
+Joint Picture Expert Group	Joint Picture Expert Group	JPEGLoader_rsJPEGImageFile
+Jul	Jul	SysConst_SShortMonthNameJul
+July	Julio	SysConst_SLongMonthNameJul
+Jun	Jun	SysConst_SShortMonthNameJun
+June	Junio	SysConst_SLongMonthNameJun
+Known image formats	Formato de imagen conocido	Main_rsKnownImageFormats
+LabelCode1	LabelCode1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	LabelCode2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption
+Language:	Idioma:	TSpellCheckForm: Label5.Caption
+Last	Último	TSlideShowForm: LastSlideItem.Caption
+Layer		TMainForm: LayerTabSet.Hint
+Layer %d	Capa %d	Main_rsLayerD
+Layer &1	Capa 1	TMainForm: EditLayer1Action.Caption
+Layer &2	Capa 2	TMainForm: EditLayer2Action.Caption
+Layer &3	Capa 3	TMainForm: EditLayer3Action.Caption
+Layer number:	Capa número:	Main_rsLayerNumber
+Layout	Composición	TPropertyEditorForm: Panel18.Caption
+Left	Izquierda	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	Izquierda#$0DCentro#$0DDerecha#$0DBloque izquierdo#$0DBloque derecho#$0D	TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point		Main_rsLeftRightClickToAddPoint
+Legacy	Heredado	PropertyEditor_rsLegacy
+Lime	Verde lima	ExtCtrls_clNameLime
+Line color	Color de línea	TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	Fin de línea	TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments	Segmentos de línea	PropertyEditor_rsLineSegments
+Line start	Inicio de línea	TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	Estilo de línea	TPropertyEditorForm: Panel20.Caption
+Line width	Ancho de línea	Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	Editor del punto de enlace	TLinkEditorForm: LinkEditorForm.Caption
+Link positions	Posiciones de los enlaces	TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	Capacidad de la lista fuera de límites (%d)	RTLConsts_SListCapacityError
+List count out of bounds (%d)	Cuenta de lista fuera de límites	RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	La lista no admite duplicados ($0%x)	RTLConsts_SDuplicateItem
+List index out of bounds (%d)	Indice de lista fuera de límites	StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count	El estilo de la caja de lista (%s) debe ser virtual para establecer la Cuenta	Consts_SListBoxMustBeVirtual
+Load template palette	Cargar la paleta de plantillas	TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library	Cargar la paleta de plantillas desde librería	TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	Cargar la paleta de plantillas...	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	Cargando...	GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	Observar:	TSpellCheckForm: LookUpLabel.Caption
+MainForm	Formulario principal	TMainForm: MainForm.Caption
+Make palette from active layer	Hacer la paleta a partir de la plantilla activa	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many		LineObject_rsMany
+Mar	Mar	SysConst_SShortMonthNameMar
+March	Marzo	SysConst_SLongMonthNameMar
+Margin for non-centered text	Márgenes para texto no centrado	TPropertyEditorForm: Panel21.Hint
+Maroon	Marron	ExtCtrls_clNameMaroon
+Max 16 bits in binary number	Maximo 16 bits en binario	ExpressionEval_rsMax16BitsInBinaryNumber
+Max=	Máx..=	TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	Número máximo de acciones para deshacer/rehacer	TDesignerSetupForm: UndoHistoryEdit.Hint
+May	Mayo	SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	Gris claro	ExtCtrls_clNameMedGray
+Menu	Menú	TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	El menú '%s' ya esta siendo usado por otro formulario	Consts_SDuplicateMenus
+Menu Background	Fondo del menú	ExtCtrls_clNameMenu
+Menu Text	Texto del menú	ExtCtrls_clNameMenuText
+Menu index out of range	Indice del menú fuera de rango	Consts_SMenuIndexError
+Menu inserted twice	Menú insertado dos veces	Consts_SMenuReinserted
+Menu search	Menu búsqueda	TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	Meta archivo	TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	Metaarchivo no valido	Consts_SInvalidMetafile
+Metafiles	Metaarchivos	Consts_SVMetafiles
+Michael Vinther	Michael Vinther	TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	Milímetros#$0DCentímetros#$0DPulgadas#$0Dpunto#$0D300 PPP#$0D600 PPP#$0D	TDesignerSetupForm: UnitsBox.Items.Strings
+Min=	Min.=	TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	Valor minimo para la expresion en x	ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	Espejo	TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	Lun	SysConst_SShortDayNameMon
+Monday	Lunes	SysConst_SLongDayNameMon
+Money Green	Verde dinero	ExtCtrls_clNameMoneyGreen
+More Buttons	Más botones	Consts_SMoreButtons
+Move canvas	Mover el lienzo	TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	Línea Múltiple debe ser VERDADERO cuando Posición de la Etiqueta sea tpIzquiedo o tpDerecho	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	Gráfico de Red de imagen múltiple	PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	El modo de multiselección debe estar activo para esta opción	Consts_SMultiSelectRequired
+N&o to All	N&o a todos	Consts_SMsgDlgNoToAll
+Name	Nombre	TPropertyEditorForm: Panel1.Caption
+Name expected	Se espera un nombre	ExpressionEval_rsNameExpected
+Navy	Azul marino	ExtCtrls_clNameNavy
+New diagram	Nuevo diagrama	TMainForm: NewAction.Hint
+New line	Línea nueva	TextEditor_rsNewLine
+New page	Página nueva	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	Nuevo ...	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	Siguiente	TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	No se asigno un manejador OnGetItem.	Consts_SNoGetItemEventHandler
+No argument for format '%s'	Ningun argumento para formatear '%s'	SysConst_SArgumentMissing
+No context-sensitive help installed	Ayuda intuitiva no instalada	HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	No hay instalados diccionarios, o no se ha establecido la ruta al diccionario en el cuadro de diálogo Opciones	Main_rsNoDictionariesFound
+No files found	Ningun archivo encontrado	Main_rsNoFilesFound
+No global or local color table defined	Ninguna tabla de color global o local definida	GIFImage_sNoColorTable
+No help found for %s	Ninguna ayuda hallada para %s	HelpIntfs_hNothingFound
+No help keyword specified.	Palabra para ayuda no especificada.	WinHelpViewer_hNoKeyword
+No icons in file	No hay iconos en el archivo	ICOLoader_rsNoIconsInFile
+No more points allowed	No se permite añadir más puntos	LineObject_rsNoMorePointsAllowed
+No objects in active layer	No hay objetos en la capa activa	Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	Solucion no encontrada, pruebe cambiando y conjeturando	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	Sistema de ayuda basado en topicos no instalado	HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	Información de version no asociada con el archivo pedido \"%s\"	VersionInfo_rs_noversioninfo
+None	Ninguno	ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	No hay suficientes timers disponibles	Consts_SNoTimers
+Not in dictionary:	No aparece en el diccionario:	SpellChecker_rsNotInDictionary
+Note that closing tags are not required		TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.	Observe que esta acción no se puede deshacer, y que los registros de formato de archivo NO recuperarán sus valores anteriores si se desinstala el programa.	TFormatAssociateForm: Label1.Caption
+Note that writing of files with multiple icons is not supported.	Observe que no está implementada la escritura de archivos con varios iconos	TIconSelectionForm: Label1.Caption
+Nov	Nov	SysConst_SShortMonthNameNov
+November	Noviembre	SysConst_SLongMonthNameNov
+OK	Aceptar	TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	&Objeto	TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	Propiedades del objeto	TMainForm: PropertiesAction.Hint
+Object type not supported for operation	Tipo de objeto no soportado por la operación	GIFImage_sUnsupportedClass
+Object:	Objeto:	TSpellCheckForm: Label2.Caption
+Objects cast shadows	Efecto 3D	TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages		TMainForm: EditStencilAction.Hint
+Oct	Oct	SysConst_SShortMonthNameOct
+October	Octubre	SysConst_SLongMonthNameOct
+Odd rounded 1	Número impar redondeado 1	FlowchartObject_rsOddRounded1
+Odd rounded 2	Número impar redondeado 2	FlowchartObject_rsOddRounded2
+Olive	Verde aceituna	ExtCtrls_clNameOlive
+Opacity	Opacidad	TPropertyEditorForm: Panel24.Caption
+Open	Abrir	Main_rsOpen
+Open in new window...	Abrir en una ventana nueva	TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	Abrir...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	Operación interrumpida	SysConst_SOperationAborted
+Operation not allowed on sorted list	Operación no permitida en lista ordenada	RTLConsts_SSortedListError
+Operation not allowed on sorted string list	Operación no permitida en lista de cadenas ordenada	StringLists_rsSortedListError
+Operation not supported	Operacion no soportada	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	Operación no implementada en la impersora instalada	Consts_SInvalidPrinterOp
+Operator expected	Se espera un operador	ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operadores:\n&\tlógico Y\n|\tlógico O\n=\tIgual\n#$23\tDiferente\n>\tMayor\n<\tMenor\n+\tSumar\n-\tSubtraer\n*\tMultiplicar\n/\tDividir\n%\tMódulo\n^\tPotencia\n\nDefinir símbolos:\n:Nombre = Valor;\n:Función(x) = Expresión;	ExpressionHelp_rsExpressionHelp
+Optimizing...	Optimizando...	GIFImage_sProgressOptimizing
+Options	Opciones	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	Sin memoria	SysConst_SOutOfMemory
+Out of memory while expanding memory stream	Sin memoria mientras se expandía stream	RTLConsts_SMemoryStreamError
+Out of system resources	Sin recursos de sistema	Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	Desbordamiento al convertir del tipo (%s) al tipo (%s)	SysConst_SVarTypeConvertOverflow
+Overline	Tachado	TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	¿Desea sobreescribir el contenido de la paleta de plantillas con los objetos de la capa activa?	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	Página %d	DiagramBase_rsPageD
+Page count	Número de páginas	TextEditor_rsPageCount
+Page number	Número de página	TextEditor_rsPageNumber
+Page number:	Número de página:	SlideShow_rsPageNumber
+Page p%s layer %d	Página p%s capa %d	PictureObject_rsPagePSLayerD
+Page properties	Propiedades de la página	TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	Propiedades de la página ...	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title	Título de Página	TextEditor_rsPageTitle
+Page title (empty for auto):	Título de la página (vacío por defecto):	RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	El precedente no es un precedente de '%s'	Consts_SParentGivenNotAParent
+Paste	Pegar	TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	Pegado especial	TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	Av Pág	Consts_SmkcPgDn
+PgUp	Re Pág	Consts_SmkcPgUp
+Please support %s	Necesito ayuda %s	TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	Traza el gráfico de la expresión en x	ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	Gráfico de	TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	El polígono debe tener al menos dos puntos	GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note	Nota contextual	TextEditor_rsPopupNote
+Portable Network Graphics	Portable Network Graphics	PNGLoader_rsPNGImageFile
+Premature end of data	Fin anticipado de datos	GIFImage_sOutOfData
+Preview mode	Vista previa	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available	Previsualización no disponible	DialogsEx_rsPreviewNotAvailable
+Previous	Previo	TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap		TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%	Escalado de impresión fijado a %d%%	PrintDiagram_rsPrintScalingSetToD
+Print scaling:	Escalado de impresión:	TDesignerSetupForm: Label7.Caption
+Print...	Imprimir...	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	La impresora actualmente no esta imprimiendo	Consts_SNotPrinting
+Printer selected is not valid	La impresora seleccionada no es valida	Consts_SInvalidPrinter
+Printing in progress	Impresión en progreso	Consts_SPrinting
+Privileged instruction	Instrucción privilegiada	SysConst_SPrivilege
+Process failed: %d	Fallo del proceso: %d	AnalyzerPlugins_rsProcessFailedD
+ProductName	Nombre del producto	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.	Se debe arrancar el programa para que los cambios surtan efecto	LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	Propiedades	TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	Propiedades...	TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	La propiedad %s no existe	RTLConsts_SUnknownProperty
+Property is read-only	De solo lectura	RTLConsts_SReadOnlyProperty
+Purple	Purpura	ExtCtrls_clNamePurple
+Radius of corner arc	Radio del arco de las esquinas	TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	Numero aleatorio entre [0;x[	ExpressionEval_rsRandomNumberIn0X
+Range check error	Error en la comprobacion del rango	SysConst_SRangeError
+Range:	Área:	TExpressionPlotForm: Label1.Caption
+Read	Leer	SysConst_SReadAccess
+Read beyond end of file	Lectura mas allá del final del fichero	SysConst_SEndOfFile
+Read less than expected	Se ha leido menos de lo esperado	Streams_rs_ReadLessError
+Rearrange pages	Redistribuir las páginas	TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	Redistribuir las páginas:	TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	Referencia recursiva	ExpressionEval_rsRecursiveReference
+Red	Rojo	ExtCtrls_clNameRed
+Redo	Rehacer	Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	Número de página relativo (-1 significa página anterior)	Main_rsRelativePageNumber1PreviousPage
+Reload	Recargar	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?	¿Recargar y perder cambios?	Main_rsReloadAndLoseChanges
+Rename	Renombrar	TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.		TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	Procesando...	GIFImage_sProgressRendering
+Reorder or delete pages	Reordenar o borrar páginas	TMainForm: ReorderPagesAction.Hint
+Replace	Sustituir	TSpellCheckForm: ReplaceButton.Caption
+Reset Toolbar	Reestablecer la barra de herramientas	Consts_SResetActionToolBar
+Reset symbol table	Reestablecer la tabla de símbolos	TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	Recurso %s no encontrado.	RTLConsts_SResNotFound
+RichEdit line insertion error	Error insertando linea RichEdit	ComStrs_sRichEditInsertError
+Right	Derecha	Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear		Main_rsRightClickToClear
+Root of expression in x	Raíz de expresión en x	ExpressionEval_rsRootOfExpressionInX
+Rotate	Girar	Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180°	Girar 180º	TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270°	Girar 270º	TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90°	Girar 90º	TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	Girar los objetos seleccionados en sentido antihorario. Tenga en cuenta no todos los tipos de objetos pueden ser sometidos a esta operación	TMainForm: RotateAction.Hint
+Rotation angle	Ángulo de rotación	Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	Redondear a entero mas cercano	ExpressionEval_rsRoundToNearestInteger
+Rounded 1	Redondeo 1	FlowchartObject_rsRounded1
+Rounded 2	Redondeo 2	FlowchartObject_rsRounded2
+Rounded 3	Redondeo 3	FlowchartObject_rsRounded3
+Rounds toward negative infinity	Redondear hacia menos infinito	ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	Redondear hacia más positivo	ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	Sab	SysConst_SShortDayNameSat
+Saturday	Sabado	SysConst_SLongDayNameSat
+Save	Guardar	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	Guardar como...	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	Guardar la paleta de plantillas ...	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	Guardando...	GIFImage_sProgressSaving
+Scan line index out of range	Índice de lineas de escaneo fuera de rango	Consts_SScanLine
+Scroll Bar	Barra de desplazamiento	ExtCtrls_clNameScrollBar
+Scrollbar property out of range	Propiedades de la barra de desplazamiento fuera de margen	Consts_SScrollBarRange
+Seeking not supported	Busqueda no implementada	DelphiStream_rsSeekingNotSupported
+Select all	Seleccionar todo	TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	Seleccionar el formato del portapapeles:	TPasteSpecialForm: Label1.Caption
+Select icon to import from file	Seleccionar el icono que se importará del archivo	TIconSelectionForm: IconSelectionForm.Caption
+Select program language	Seleccion de idioma del programa	TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report	Envíe el informe de bicho. 	StyleForm_rsSendBugReport
+Send to back	Mandar atrás	TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	Sep	SysConst_SShortMonthNameSep
+Separator	Separador	Consts_SSeparator
+Separator line	Línea separador	TextEditor_rsSeparatorLine
+September	Septiembre	SysConst_SLongMonthNameSep
+Set	Fijar	TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	Establecer la fuente del diagrama	TMainForm: DiagramFontAction.Hint
+Set dictionary path	Establecer la ruta del diccionario	TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name	Establecer fuente	TextEditor_rsSetFontByName
+Set layer color...	Establecer el color de la capa ...	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	Elegir el idioma del programa	TDesignerSetupForm: LanguageButton.Caption
+Shift+	Desplazamiento+	Consts_SmkcShift
+Show grid	Mostar la rejilla	TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	Mostrar el árbol del objeto	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins	Mostar márgenes de impresión	TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer		TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	Mostrar este mensaje en el inicio	TPleaseSupportForm: CheckBox1.Caption
+Side bars	Barras laterales	FlowchartObject_rsSideBars
+Silver	Plata	ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	Tamaño del diseño cuando se pega del portapapeles a otra aplicación	TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size	Tamaño de impresión relativa a tamaño del diseño	TDesignerSetupForm: PrintScalingEdit.Hint
+Skip	Escape	FormatAssociation_rsSkip
+Skip symbols	Saltar los símbolos	TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	Saltar los números con palabras, las letras solas y las palabras mayúsculas	TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	Azul cielo	ExtCtrls_clNameSkyBlue
+Slant left	Inclinar hacia la izquierda	FlowchartObject_rsSlantLeft
+Slant right	Inclinar hacia la derecha	FlowchartObject_rsSlantRight
+Slide show	Pase de pantallas	TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D		TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	Resolver ecuación en x	ExpressionEval_rsSolveEquationInX
+Space	Espacio	Consts_SmkcSpace
+Spell check	Comprobación de ortografía	TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	Comprobación de ortografía terminado	SpellChecker_rsSpellCheckComplete
+Spell checker...	Ortografía ...	TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	Raiz cuadrada	ExpressionEval_rsSquareRoot
+Stack overflow	Rebose de pila	SysConst_SStackOverflow
+Standard function	Función estándar	ExpressionHelp_rsStandardFunction
+Stop	Detener	LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	Flujo no abierto para escritura	Deflate_rsWriteDenied
+Stream read error	Error de lectura en el flujo	RTLConsts_SReadError
+Stream write error	Error de escritura en el flujo	RTLConsts_SWriteError
+Strikeout		TextEditor_rsStrikeout
+String list does not allow duplicates	La lista de cadenas no permite duplicados	StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	Estilo	TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	El submenú no esta en el menú	Consts_SMenuNotFound
+Subscript	Subíndice	TextEditor_rsSubscript
+Suggestions:	Sugerencias:	TSpellCheckForm: Label4.Caption
+Sun	Dom	SysConst_SShortDayNameSun
+Sunday	Domingo	SysConst_SLongDayNameSun
+Superscript	Superíndice	TextEditor_rsSuperscript
+Support Diagram Designer...	Diseñador del diagrama de apoyo ...	TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	Símbolo	TExpressionEvalForm: ListView.Caption
+Symbol font	Fuente Symbol	TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	Error de sistema. Codigo: %d.\r\n%s	SysConst_SOSError
+Tab	Tab	Consts_SmkcTab
+Tab index out of bounds		Consts_SInvalidTabIndex
+Tab position incompatible with current tab style	La posición de la etiqueta es incompatible con su estilo	Consts_SInvalidTabPosition
+Tab style incompatible with current tab position	El estilo de la etiqueta es incompatible con su posición	Consts_SInvalidTabStyle
+Teal	Verde	ExtCtrls_clNameTeal
+Template palette	Paleta de plantilla	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	Paleta de plantilla - arrastrar los objetos desde aquí hasta el diagrama	TMainForm: TemplateScrollBox.Hint
+Terminate application	Termine el uso.	StyleForm_rsTerminateApplication
+Text	Texto	Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation		TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	Color del texto	TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	El texto excede la capacidad del campo memo	Consts_SInvalidMemoSize
+Text formatting codes:	Formateo del texto:	TTextEditorForm: Label1.Caption
+Text margin	Márgenes	TPropertyEditorForm: Panel21.Caption
+Text not found	Texto no encontrado	Main_rsTextNotFound
+Text:	Texto:	TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	Actualmente no hay ninguna impresora seleccionada por defecto	Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	Este control necesita la vesión 4.70 o superior de COMCTL32.DLL	ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)	Error en el hilo: %s (%d)	RTLConsts_SThreadError
+Thread creation error: %s	Error en creacion de hilo: %s	RTLConsts_SThreadCreateError
+Three-digit font size	Tamaño de fuente de tres dígitos	TextEditor_rsThreeDigitFontSize
+Thu	Jue	SysConst_SShortDayNameThu
+Thursday	Jueves	SysConst_SLongDayNameThu
+Title	Título. 	TQuickMenuSearchForm: ListView.Caption
+Too few lines to create polygon	Demasiado pocas líneas como para crear un polígono	GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	Demasiados ficheros abiertos	SysConst_STooManyOpenFiles
+Top	Arriba	TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	Superior#$0DCentro#$0DInferior#$0D	TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color	Color transparente	TIconSelectionForm: TransparentButton.Caption
+Transparent color key	Llave transparente en color.	TPropertyEditorForm: Panel25.Caption
+Tue	Mar	SysConst_SShortDayNameTue
+Tuesday	Martes	SysConst_SLongDayNameTue
+Turn mouse wheel to change		Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size		Main_rsUseMouseWheelToChangeSize
+UML has a	UML tiene un	LineObject_rsUMLHasA
+UML is a	UML es un	LineObject_rsUMLIsA
+Unable to Replace Image	Es imposible sustituir la imagen	Consts_SReplaceImage
+Unable to close file	No se puede cerrar el archivo	AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	No se puede crear el directorio	SysConst_SCannotCreateDir
+Unable to evaluate guess:	Imposible evaluar una estimación aproximada:	ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	No se puede encontrar una Tabla de Contenidos	HelpIntfs_hNoTableOfContents
+Unable to insert a line	No se puede insertar una linea	Consts_SInsertLineError
+Unable to insert an item	No se puede insertar un conjunto	ComStrs_sInsertError
+Unable to open file	No se puede abrir el archivo	AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	No se puede grabar la configuración	Consts_SUnableToSaveSettings
+Undefined	No definido	ExpressionEval_rsUndefined
+Undefined symbol:	Simbolo no definido:	ExpressionEval_rsUndefinedSymbol
+Underline	Subrayado	TextEditor_rsUnderline
+Undo	Deshacer	Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	Tamaño del historial de acciones deshechas	TDesignerSetupForm: Label3.Caption
+Unexpected character:	Caracter no esperado:	ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	Error de variable no esperado	SysConst_SVarUnexpected
+Ungroup	Desagrupar	TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	Desagrupar el objeto activo	TMainForm: UngroupAction.Hint
+UnitLabel1	UnitLabel1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	UnitLabel2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	Unidades:	TDesignerSetupForm: Label5.Caption
+Unknown GIF block type	Tipo de bloque GIF desconocido	GIFImage_sBadBlock
+Unknown extension type	Tipo de extension desconocido	GIFImage_sUnknownExtension
+Unknown seek origin	Origen de busqueda desconocido	DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	Tamaño de bloque de aplicación no soportado	GIFImage_sBadBlockSize
+Unsupported GIF version	Version GIF no soportada	GIFImage_sBadVersion
+Unsupported PNG data	Version PNG no soportada	PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	PixelFormat no soportado	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	Formato bitmap no soportado	LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	Formato portapapeles no soportado	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	Formato de fichero no soportado	LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	Formato de pixel no soportado	AnalyzerPlugins_rsUnsupportedPixelFormat	LinarBitmap_rsInvalidPixelFormat
+Up	Arriba	Consts_SmkcUp
+Value expected	Se espera un valor	ExpressionEval_rsValueExpected
+Value must be integer	El valor debe ser un número entero	ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	El valor no se encuentra dentro del margen válido: [%s - %s]	ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported	No está implementado este método de llamada a variable	SysConst_SDispatchError
+Variant or safe array index out of bounds	Variable o matriz de seguridad fuera de límites	SysConst_SVarArrayBounds
+Variant or safe array is locked	La variable o la matriz de seguridad están aseguradas	SysConst_SVarArrayLocked
+Variant overflow	El valor de la variable es excesivo	SysConst_SVarOverflow
+Version	Versión	TAboutBox: Version.Caption
+Vertical	Vertical	LinkEditor_rsVertical
+Vertical scaling	Escalado vertical	TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	Alineación vertical	TPropertyEditorForm: Panel4.Caption
+Warning	Aviso	Consts_SMsgDlgWarning
+Wed	Mie	SysConst_SShortDayNameWed
+Wednesday	Miércoles	SysConst_SLongDayNameWed
+What can I do?	¿Qué puedo hacer? 	TPleaseSupportForm: Label2.Caption
+White	Blanco	ExtCtrls_clNameWhite
+Width	Ancho	TPropertyEditorForm: Panel9.Caption
+Width:	Ancho:	TPagePropertiesForm: Label1.Caption
+Window Background	Fondo de la ventana	ExtCtrls_clNameWindow
+Window Frame	Marco de la ventana	ExtCtrls_clNameWindowFrame
+Window Text	Ventana de texto	ExtCtrls_clNameWindowText
+Windows Enhanced metafile	Metaarchivo mejorado de Windows	WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Mapa de bits	BMPLoader_rsWindowsBitmap
+Windows cursor	Cursor de Windows	ICOLoader_rsWindowsCursor
+Windows icon	Icono de Windows	ICOLoader_rsWindowsIcon
+Windows metafile	Metaarchivo de Windows	WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	¿Desea poner en su estado inicial el Esquema de Prioridades por defecto?	Consts_SRestoreDefaultSchedule
+Write	Escribir	SysConst_SWriteAccess
+X:	X:	TDesignerSetupForm: Label1.Caption
+Y:	Y:	TDesignerSetupForm: Label2.Caption
+Yellow	Amarillo	ExtCtrls_clNameYellow
+Yes to &All	Si a todo	Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	No tiene permiso para borar este objeto	Consts_SDeleteNotAllowed
+Zoom	Zoom	TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft Paintbrush	PCXLoader_rsPCXImageFile
+add %s	Añadir %s	Main_rsAddS
+add point	Añadir un punto	Main_rsAddPoint
+e-mail	Dirección de correo electrónico	TAboutBox: EMailLabel.Caption
+edit properties	Editar propiedades	Main_rsEditProperties
+http://logicnet.dk/mail.php	http://logicnet.dk/mail.php	TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk	http://meesoft.logicnet.dk	TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	http://meesoft.logicnet.dk/DiagramDesigner/support.htm	TMainForm: SupportAction.Hint
+move	Mover	Main_rsMove
+rename	Renombrar	Main_rsRename
+size	tamaño	Main_rsSize
+· Develop plugins	· Desarrollar plugins	TPleaseSupportForm: Label7.Caption
+· Help improve the documentation		TPleaseSupportForm: Label5.Caption
+· The easiest is to make a donation	· Lo mas sencillo es hacer un donativo	TPleaseSupportForm: Label3.Caption
+· Translate the program to your language	· Traducir el programa a tu idioma	TPleaseSupportForm: Label6.Caption
+¼ points	¼ puntos	Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption

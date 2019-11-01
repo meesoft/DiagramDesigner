@@ -1,0 +1,828 @@
+ - Dock zone has no control	 - Dokzonen har ingen kontrol	Consts_SDockZoneHasNoCtl
+ - Dock zone not found	 - Dokzone blev ikke fundet	Consts_SDockZoneNotFound
+%d files selected	%d filer valgt	DialogsEx_rsDFilesSelected
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%s er en ugyldig PageIndex værdi. PageIndex skal være mellem 0 og %d	ComStrs_sPageIndexError
+%d link points defined	%d knudepunkter defineret	PropertyEditor_rsDLinkPointsDefined
+%s (%s, line %d)	%s (%s, linie %d)	SysConst_SAssertError
+%s does not allow hiding	%s kan ikke skjules	Consts_SCannotHideActionBand
+%s expected	%s forventet	ExpressionEval_rsSExpected
+%s not found	%s ikke fundet	ExpressionEval_rsSNotFound
+%s not in a class registration group	%s er ikke i en klasseregistreringsgruppe	RTLConsts_SUnknownGroup
+%s on %s	%s på %s	Consts_SDeviceOnPort
+%s property out of range	%s egenskab er uden for gyldigt interval	Consts_SPropertyOutOfRange
+%s.Seek not implemented	%s.Seek er ikke implementeret	RTLConsts_SSeekNotImplemented
+&Abort	&Afbryd	Consts_SMsgDlgAbort
+&Add or Remove Buttons	&Tilføj eller fjern knapper	Consts_SAddRemoveButtons
+&All	&Alle	Consts_SMsgDlgAll	Consts_SAllButton
+&Close	&Luk	Consts_SCloseButton
+&Help	&Hjælp	Consts_SMsgDlgHelp	Consts_SHelpButton
+&Ignore	&Ignorer	Consts_SMsgDlgIgnore	Consts_SIgnoreButton
+&No	&Nej	Consts_SMsgDlgNo	Consts_SNoButton
+&Retry	&Prøv igen	Consts_SMsgDlgRetry	Consts_SRetryButton
+&Start	&Start	SpellChecker_rsStart
+&Yes	&Ja	Consts_SMsgDlgYes	Consts_SYesButton
+'%s' is not a valid floating point value		SysConst_SInvalidFloat
+'%s' is not a valid integer value	'%s' er ikke en gyldig heltalsværdi	SysConst_SInvalidInteger
+''%s'' is not a valid component name	''%s'' er ikke et gyldigt komponentnavn	RTLConsts_SInvalidName
+(No Name)	(Intet navn)	Consts_SNoName
+25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	25%#$0D50%#$0D75%#$0D100%#$0D150%#$0D200%#$0D400%#$0D800%#$0D	TMainForm: ZoomBox.Items.Strings
+3D Dark Shadow	3D mørk skygge	ExtCtrls_clName3DDkShadow
+3D Light	3D lys	ExtCtrls_clName3DLight
+<unknown>	<ukendt>	SysConst_SUnknown
+= or ( expected	= eller ( forventet	ExpressionEval_rsOrExpected
+A call to an OS function failed	Et kald til en operativsystemsfunktion fejlede	SysConst_SUnkOSError
+A class named %s already exists	En klasse ved navn %s findes allerede	RTLConsts_SDuplicateClass
+A component named %s already exists	En komponent ved navn %s findes allerede	RTLConsts_SDuplicateName
+A control cannot have itself as its parent	En kontrol kan ikke være sin egen forælder	Consts_SControlParentSetToSelf
+Abort	Afbryd	Consts_SAbortButton
+About	Om	TAboutBox: AboutBox.Caption
+About...	Om...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AboutAction.Caption
+Abstract Error	Abstract Error	SysConst_SAbstractError
+Active Border	Aktiv kant	ExtCtrls_clNameActiveBorder
+Active Caption	Aktiv titel	ExtCtrls_clNameActiveCaption
+Add	Tilføj	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption
+Add template	Tilføj skabelon	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption
+Add to template palette	Tilføj til skabelonpalette	TMainForm: AddTemplateAction.Hint
+Adjust page dimensions and orientation		TMainForm: PagePropertiesAction.Hint
+Adler32 error	Adler32 fejl	Adler32_rsAdler32Error
+Align	Juster	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption
+Align single object to page or multiple objects to group	Tilpas enkelt objekt til side eller flere objekter til hinanden	TMainForm: AlignCenterHAction.Hint
+All objects in group must be simple lines	Alle objekter i gruppen skal være simple linier	GroupObject_rsAllObjectsInGroupMustBeSimpleLines
+Alt+	Alt+	Consts_SmkcAlt
+An error occurred while reading the FixedFileInfo structure from the file.	En fejl opstod under læsning af FixedFileInfo strukturen fra filen	VersionInfo_rs_readfixedfileinfo
+An error occurred while reading the language/charset description in the file.	En fejl opstod under læsning af sprog/karaktersæt beskrivelsen i filen	VersionInfo_rs_readlanginfo
+Ancestor for '%s' not found	Forfaderen for '%s' blev ikke fundet	RTLConsts_SAncestorNotFound
+Anchors	Ankre	TPropertyEditorForm: PanelAnchors.Caption
+Anchors used when resizing group	Ankre bruges ved skalering af gruppe	TPropertyEditorForm: PanelAnchors.Hint
+Antialiasing	Antialiasing	TDesignerSetupForm: AntialiasingBox.Caption
+Antialiasing for slide show and bitmap export		TDesignerSetupForm: AntialiasingBox.Hint
+Any angle...	Vilkårlig vinkel...	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption
+Application Error	Programfejl	SysConst_SExceptTitle
+Application Workspace	Programarbejdsområde	ExtCtrls_clNameAppWorkSpace
+Apply to all pages	Anvend på alle sider	TPagePropertiesForm: ApplyToAllBox.Caption
+Apr	Apr	SysConst_SShortMonthNameApr
+April	April	SysConst_SLongMonthNameApr
+Aqua	Vand	ExtCtrls_clNameAqua
+Arrow 1	Pil 1	LineObject_rsArrow1
+Arrow 2	Pil 2	LineObject_rsArrow2
+Arrow 3	Pil 3	LineObject_rsArrow3
+Assertion failed	Antagelse fejlede	SysConst_SAssertionFailed
+Associate file formats with	Associer filformater med	TFormatAssociateForm: FormatAssociateForm.Caption
+Associate program with selected file formats	Associer program med valgte filformater	TFormatAssociateForm: AssociateButton.Hint
+Aug	Aug	SysConst_SShortMonthNameAug
+August	August	SysConst_SLongMonthNameAug
+Auto connect to link points		TDesignerSetupForm: AutoConnectToLinksBox.Caption
+Auto line break		TMainForm: AutoLineBreakAction.Caption
+Automatically break lines in text boxes		TMainForm: AutoLineBreakAction.Hint
+Automatically create link points when grouping objects		TDesignerSetupForm: DefaultGroupLinksBox.Hint
+Automatically set anchors when grouping objects so that the group can be scaled		TDesignerSetupForm: DefaultGroupAnchorsBox.Hint
+Automatically snap connectors to object link points when dragging		TDesignerSetupForm: AutoConnectToLinksBox.Hint
+Background	Baggrund	ExtCtrls_clNameBackground
+Ball	Kugle	LineObject_rsBall
+Base 10 logarithm	Base 10 logaritme	ExpressionEval_rsBase10Logarithm
+Base 2 logarithm	Base 2 logaritme	ExpressionEval_rsBase2Logarithm
+Base e logarithm	Base e logaritme	ExpressionEval_rsBaseELogarithm
+Bilinear interpolation stretch (not supported with transparency)		TPropertyEditorForm: HalftoneCheckBox.Hint
+Bitmap	Bitmap	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption
+Bitmap image is not valid	Ugyldigt bitmap	Consts_SInvalidBitmap
+Bitmap scaling	Bitmapskalering	TPropertyEditorForm: Panel16.Caption
+Bitmaps	Bitmaps	Consts_SVBitmaps
+Bits index out of range	Bitindeks ude for gyldigt talområde	RTLConsts_SBitsIndexError
+BkSp	BkSp	Consts_SmkcBkSp
+Black	Sort	ExtCtrls_clNameBlack
+Blue	Blå	ExtCtrls_clNameBlue
+Bold	Fed	TextEditor_rsBold
+Bottom	Bund	TMainForm: ActionManager.Caption	TMainForm: AlignBottomAction.Caption	TPropertyEditorForm: BottomAnchorBox.Hint
+Bring to front	Placer forrest	TMainForm: ActionManager.Caption	TMainForm: BringToFrontAction.Caption
+Button Face	Knapflade	ExtCtrls_clNameBtnFace
+Button Highlight	Knapoplysning	ExtCtrls_clNameBtnHighlight
+Button Shadow	Knapskygge	ExtCtrls_clNameBtnShadow
+Button Text	Knaptekst	ExtCtrls_clNameBtnText
+CRC error	CRC fejl	PNGLoader_rsCRCError
+Can't write to a read-only resource stream	Kan ikke skrive til en skrivebeskyttet resource strøm	RTLConsts_SCantWriteResourceStreamError
+Cancel	Annuller	TFormatAssociateForm: CancelButton.Caption	TLanguageSelectorForm: CancelButton.Caption	TIconSelectionForm: CancelButton.Caption	TDesignerSetupForm: Button1.Caption	PropertyEditor_rsCancel	Consts_SMsgDlgCancel	Consts_SCancelButton	TLinkEditorForm: Button1.Caption	TPagePropertiesForm: CancelBtn.Caption	TPasteSpecialForm: CancelBtn.Caption	TPropertyEditorForm: CancelButton.Caption	TTextEditorForm: CancelButton.Caption
+Cannot assign a %s to a %s	Kan ikke tildele en %s til en %s	RTLConsts_SAssignError
+Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar	Consts_SAssignSubItemError
+Cannot change Visible in OnShow or OnHide	Kan ikke ændre Visible i OnShow eller OnHide	Consts_SVisibleChanged
+Cannot change the size of a JPEG image	Kan ikke ændre størrelsen på et JPEG billede	JConsts_sChangeJPGSize
+Cannot change the size of an icon	Kan ikke ændre størrelsen på et ikon	Consts_SChangeIconSize
+Cannot create file \"%s\". %s	Kan ikke oprette fil \"%s\". %s	RTLConsts_SFCreateErrorEx
+Cannot create form. No MDI forms are currently active	Kan ikke oprette formular. Ingen MDI formularer er aktive lige nu	Consts_SNoMDIForm
+Cannot drag a form	Kan ikke trække en form	Consts_SCannotDragForm
+Cannot focus a disabled or invisible window	Kan ikke fokusere et vindue, der er slået fra eller usynligt	Consts_SCannotFocus
+Cannot hide an MDI Child Form	Kan ikke skjule en MDI Child Form	Consts_SMDIChildNotVisible
+Cannot make a visible window modal	Kan ikke gøre synligt vindue modal	Consts_SCannotShowModal
+Cannot open clipboard	Kan ikke tilgå udklipsholderen	Consts_SCannotOpenClipboard
+Cannot open file \"%s\". %s	Kan ikke åben filen \"%s\". %s	RTLConsts_SFOpenErrorEx
+Canvas does not allow drawing	Lærredet tillader ikke tegning	Consts_SNoCanvasHandle
+Caption Text	Titel tekst	ExtCtrls_clNameCaptionText
+Center	Centrer	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption
+Change color of all objects in active layer	Skift farve på alle objekter i aktivt lag	TMainForm: SetLayerColorAction.Hint
+Change value	Ændre værdi	ExpressionHelp_rsChangeValue
+Check active layer only	Check kun aktivt lag	TSpellCheckForm: ActiveLayerOnlyBox.Caption
+Check for updates	Søg efter opdateringer...	TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption
+CheckSynchronize called from thread $%x, which is NOT the main thread	CheckSynchronize blev kaldet fra tråden $%x, som IKKE er hovedtråden	RTLConsts_SCheckSynchronizeError
+Circle	Cirkel	LineObject_rsCircle
+Circular decoder table entry	Circular decoder tabel indgang	GIFImage_sDecodeCircular
+Circular references not allowed	Cirkulære referencer er ikke tilladt	Consts_SCirularReferencesNotAllowed
+Class %s not found	Klassen %s blev ikke fundet	RTLConsts_SClassNotFound
+Clear	Slet	TPropertyEditorForm: ClearLinksButton.Caption	TPropertyEditorForm: Button1.Caption	TPropertyEditorForm: Button2.Caption	TPropertyEditorForm: ClearColorKeyButton.Caption	TPropertyEditorForm: Button3.Caption
+Click here to see how	Klik her for at se hvordan	TPleaseSupportForm: Label4.Caption
+Click to apply format to selection		TTextEditorForm: LabelCode1.Hint	TTextEditorForm: LabelCode2.Hint
+Clipboard does not support Icons	Udklipsholderen kan ikke håndtere ikoner	Consts_SIconToClipboard
+Clipboard metafile scale:	Metafil skala i udklip:	TDesignerSetupForm: Label4.Caption
+Close	Luk	TExpressionEvalForm: ActionClose.Caption	TExpressionPlotForm: CloseButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ExitAction.Caption	TSlideShowForm: CloseItem.Caption	TSpellCheckForm: CloseButton.Caption
+Close Expression evaluator	Luk formelregner	TExpressionEvalForm: ActionClose.Hint
+Color not in color table	Farven ikke i farvetabellen	GIFImage_sInvalidColor
+Color table is empty	Farvetabellen er tom	GIFImage_sEmptyColorMap
+Color table overflow	Farvetabel overflow	GIFImage_sTooManyColors
+Conditional value		ExpressionEval_rsConditionalValue
+Confirm	Bekræft	Consts_SMsgDlgConfirm
+Connect links	Forbind knuder	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
+Connector label style		TMainForm: ConnectorLabelStyleMenuAction.Caption
+Continue	Fortsæt	TPleaseSupportForm: CloseButton.Caption
+Control '%s' has no parent window	Kontrollen '%s' har intet forældervindue	Consts_SParentRequired
+Control-C hit	Control-C trykket	SysConst_SControlC
+Convert	Konverter	TMainForm: Convert1.Caption
+Convert binary number	Omregn fra binær	ExpressionEval_rsConvertBinaryNumber
+Convert group object consisting of connected lines to polygon	Konverter gruppe bestående af forbundne linier til polygon	TMainForm: MakePolygonAction.Hint
+Convert to metafile	Konverter til metafil	TMainForm: ActionManager.Caption	TMainForm: MakeMetafileAction.Caption
+Convert to polygon	Konverter til polygon	TMainForm: ActionManager.Caption	TMainForm: MakePolygonAction.Caption
+Converting...	Konverterer...	GIFImage_sProgressConverting
+Copy	Kopier	TExpressionPlotForm: CopyButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CopyAction.Caption
+Copy all		TLinkEditorForm: CopyButton.Hint
+Copy templates to page	Kopier skabeloner til side	TMainForm: ActionManager.Caption	TMainForm: TemplateToPageAction.Caption
+Copying...	Kopierer...	GIFImage_sProgressCopying
+Corner radius	Hjørneradius	Main_rsCornerRadius	TMainForm: CornerRadiusAction.Hint	TPropertyEditorForm: Panel22.Caption
+Could not convert variant of type (%s) into type (%s)	Kunne ikke konvertere variant af type (%s) til type (%s)	SysConst_SVarTypeCouldNotConvert
+Cream	Flødefarvet	ExtCtrls_clNameCream
+Create default anchors for groups		TDesignerSetupForm: DefaultGroupAnchorsBox.Caption
+Create default link points for groups and images		TDesignerSetupForm: DefaultGroupLinksBox.Caption
+Crop to page contents		DiagramExport_rsAutoCrop
+Ctrl+	Ctrl+	Consts_SmkcCtrl
+Curve must be closed Catmull-Rom spline or line segments		LineObject_rsCurveMustBeClosedCatmullRomSpline
+Curve type	Kurvetype	TPropertyEditorForm: Panel23.Caption
+Cut	Klip	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
+Cut text through connector lines and curves 		TMainForm: CutConnectorLabelsAction.Hint
+Cut throgh		TMainForm: CutConnectorLabelsAction.Caption
+Dec	Dec	SysConst_SShortMonthNameDec
+December	December	SysConst_SLongMonthNameDec
+Decoder bit buffer under-run	Decoder bit buffer under-run	GIFImage_sDecodeTooFewBits
+Default	Standard	ExtCtrls_clNameDefault	TMainForm: DefaultPaletteItem.Caption
+Default font...	Standardskrifttype...	TMainForm: ActionManager.Caption	TMainForm: DiagramFontAction.Caption
+Del	Del	Consts_SmkcDel
+Delete	Slet	TLinkEditorForm: DeleteButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: DeleteAction.Caption	TRearrangePagesForm: DeleteButton.Caption
+Delete diagram page?	Slet diagramside?	RearrangePages_rsDeleteDiagramPage
+Delete symbol	Slet symbol	TExpressionEvalForm: DeleteSymbolItem.Caption
+Delete template object	Slet skabelonobjekt	TMainForm: DeleteTemplateAction.Caption
+Description	Beskrivelse	TFormatAssociateForm: DescriptionBox.Caption	TExpressionEvalForm: ListView.Caption
+Deselect all	Vælg ingen	TFormatAssociateForm: NoneButton.Caption
+Diagram	Diagram	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption
+Diagram (*.ddd)|*.ddd	Diagram (*.ddd)|*.ddd	DiagramBase_rsDiagramFileFilter
+Diagram modified, save before closing?	Diagrammet er ændret, gem nu?	Main_rsDiagramModifiedSaveBeforeClosing
+Diagram or Internet link	Link til diagram eller webside	TextEditor_rsDiagramOrInternetLink
+Diagram template palette (*.ddt)|*.ddt	Diagram skabelonpalette (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter
+Diamond	Diamant	LineObject_rsDiamond
+Dictionaries (*.dic)|*.dic	Ordbøger (*.dic)|*.dic	DesignerSetup_rsDictionariesDicDic
+Disable escape chars		TextEditor_rsDisableEscapeChars
+Disable font antialiasing		DiagramExport_rsDisableFontAntialiasing
+Disk full	Disk fuld	SysConst_SDiskFull
+Distance from top left corner	Afstand fra øverste venstre hjørne	TPropertyEditorForm: Panel10.Hint	TPropertyEditorForm: Panel11.Hint
+Distribute		TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignDistributeVAction.Caption	TMainForm: AlignDistributeHAction.Caption
+Division by zero	Division med nul	SysConst_SDivByZero
+Docked control must have a name	Dokket kontrol skal have et navn	Consts_SDockedCtlNeedsName
+Done	Færdig	PropertyEditor_rsDone
+Double arrow	Dobbeltpil	LineObject_rsDoubleArrow3
+Down	Ned	Consts_SmkcDown
+Download	Download	PropertyEditor_rsDownload
+Draw arrow	Tegn pil	TMainForm: DrawArrowAction.Caption
+Draw connector	Tegn forbindelse	TMainForm: DrawConnectorAction.Caption
+Draw curve	Tegn kurve	TMainForm: DrawCurveAction.Caption
+Draw ellipse	Tegn elipse	TMainForm: DrawEllipseAction.Caption
+Draw line	Tegn linie	TMainForm: DrawLineAction.Caption
+Draw rectangle	Tegn rektangel	TMainForm: DrawRectangleAction.Caption
+Draw shadows below objects		TMainForm: ObjectShadowsAction.Hint
+Edit	Rediger	TFormatAssociateForm: EditActionButton.Caption	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption
+Edit defaults		TDesignerSetupForm: EditDefaultLinksButton.Caption
+Edit layer	Rediger lag	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption
+Edit link point	Rediger knudepunkt	LinkEditor_rsEditLinkPoint
+Edit text	Rediger tekst	TTextEditorForm: TextEditorForm.Caption
+Edit text...	Rediger tekst...	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption
+Editing image...	Redigerer billede...	PropertyEditor_rsEditingImage
+Either read, write or full access must be specified in call to CreateFile	Enten læse, skrive eller fuld adgang skal være specificeret i kaldet til CreateFile	Streams_rs_NoFileAccessSpec
+End	End	Consts_SmkcEnd
+End point		TPropertyEditorForm: Panel28.Caption
+Enhanced Metafiles	Enhanced Metafiles	Consts_SVEnhMetafiles
+Enter	Enter	Consts_SmkcEnter
+Enter object text:	Indtast tekst:	TTextEditorForm: Label2.Caption
+Error	Fejl	Consts_SMsgDlgError
+Error closing \"%s\" - %s	Fejl under lukning af \"%s\" - %s	Streams_rs_CloseFileError
+Error creating variant or safe array	Fejl ved oprettelse af variant eller sikkert array	SysConst_SVarArrayCreate
+Error creating window class	Fejl ved oprettelse af vindueklasse	Consts_SWindowClass
+Error creating window device context	Fejl ved oprettelse af vindue Device Context	Consts_SWindowDCError
+Error deleting \"%s\" - %s	Fejl under sletning af \"%s\" - %s	Streams_rs_DeleteFileError
+Error in bitmap data	Fejl i bitmap data	LinarBitmap_rsErrorInBitmapData	AnalyzerPlugins_rsErrorInBitmapData
+Error in compressed data	Fejl i komprimeret data	Deflate_rsErrorInCompressedData
+Error loading previously saved settings file: %s\rWould you like to delete it?	Error loading previously saved settings file: %s\rWould you like to delete it?	Consts_SErrorLoadingFile
+Error moving file pointer - %s	Fejl under flytning af filpointer - %s	Streams_rs_SeekFileError
+Error moving stream pointer	Fejl under flytning af stream-pointer	MemStream_rs_SeekMemError
+Error opening \"%s\" - %s	Fejl under åbning af \"%s\" - %s	Streams_rs_CreateFileError
+Error reading %s%s%s: %s	Fejl ved læsning af %s%s%s: %s	RTLConsts_SPropertyException
+Error reading from stream - %s	Fejl under læsning fra stream - %s	Streams_rs_ReadError
+Error removing control from dock tree	Fejl ved fjernelse af kontrol fra dokningstræet	Consts_SDockTreeRemoveError
+Error running Image Analyzer	Fejl ved start af Image Analyzer	PropertyEditor_rsErrorRunningImageAnalyzer
+Error setting %s.Count	Fejl ved indstilling af %s.Count	Consts_SErrorSettingCount
+Error truncating file \"%s\" - %s	Fejl under sammentrækning af fil \"%s\" - %s	Streams_rs_TruncateFileError
+Error while trying to send e-mail	Fejl ved afseldelse af e-mail	EMailUtils_rsErrorWhileTryingToSendEMail
+Error writing to stream - %s	Fejl under skrivning til stream - %s	Streams_rs_WriteError
+Esc	Esc	Consts_SmkcEsc
+Evaluate	Beregn	TExpressionEvalForm: ActionRun.Caption	TExpressionEvalForm: ActionRun.Hint
+Evaluate (F5)	Beregn (F5)	TExpressionEvalForm: RunButton.Caption
+Exception %s in module %s at %p.\r\n%s%s\r\n	Exception %s i modul %s på %p.\r\n%s%s\r\n	SysConst_SException
+Exception in safecall method	Exception i en safecall metode	SysConst_SSafecallException
+Expand	Udvid	Consts_SExpand
+Export	Eksporter	TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption
+Export all pages		DiagramExport_rsExportAllPages
+Export file DPI:	Eksportfil DPI:	DiagramExport_rsExportFileDPI
+Export page to bitmap or metafile	Eksporter side til bitmap eller metafil	TMainForm: ExportAction.Hint
+Export page...	Eksporter side...	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption
+Expression evaluator	Formelregner	TExpressionEvalForm: ExpressionEvalForm.Caption
+Expression evaluator...	Formelregner...	TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption
+Expression is empty	Udtrykket er tomt	ExpressionEval_rsExpressionIsEmpty
+External exception %x	Ekstern exception %x	SysConst_SExternalException
+Extra = found	Ekstra = fundet	ExpressionEval_rsExtraFound
+Failed to Load Stream	Fejl ved indlæsning af strøm	ComStrs_sRichEditLoadFail
+Failed to Save Stream	Fejl ved gemning af strøm	ComStrs_sRichEditSaveFail
+Failed to allocate memory for GIF DIB	Fejlede med at allokere hukommelse til GIF DIB	GIFImage_sOutOfMemDIB
+Failed to clear tab control	Kan ikke rydde fanebladskontrollen	ComStrs_sTabFailClear
+Failed to delete tab at index %d	Ude af stand til at slette faneblad ved indeks %s	ComStrs_sTabFailDelete
+Failed to get data for '%s'	Datahenting for '%s' fejlede	RTLConsts_SRegGetDataFailed
+Failed to get object at index %d	Fejl ved henting af objekt ved indeks %d	ComStrs_sTabFailGetObject
+Failed to read ImageList data from stream	Fejl ved læsning af ImageList data fra strøm	Consts_SImageReadFail
+Failed to retrieve tab at index %d	Fejl ved hentning af tab ved indeks %d	ComStrs_sTabFailRetrieve
+Failed to set data for '%s'	Fejlede ved skrivning til registreringsdatabasen for '%s'	RTLConsts_SRegSetDataFailed
+Failed to set object at index %d	Fejl ved sætning af objekt ved indeks %d	ComStrs_sTabFailSetObject
+Failed to set tab \"%s\" at index %d		ComStrs_sTabFailSet
+Failed to store GIF on clipboard	Fejlede i at gemme GIF i klippebordet	GIFImage_sFailedPaste
+Failed to write ImageList data to stream	Fejl ved skrivning af ImageList data til strøm	Consts_SImageWriteFail
+Feb	Feb	SysConst_SShortMonthNameFeb
+February	Februar	SysConst_SLongMonthNameFeb
+File	Fil	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: FileMenuAction.Caption
+File access denied	Filadgang nægtet	SysConst_SAccessDenied
+File format associations	Filformat tilknytninger.	TDesignerSetupForm: FileFormatAssociationsButton.Caption
+File from later program version	Fil fra nyere programversion	DiagramBase_rsFileFromLaterProgramVersion
+File not found	Fil ikke fundet	SysConst_SFileNotFound
+Fill	Udfyld	TMainForm: ActionManager.Caption	TMainForm: AlignPageAction.Caption
+Fill color	Udfyldningsfarve	TMainForm: FillColorAction.Hint	TPropertyEditorForm: Panel6.Caption
+Fill rectangle behind text on connector lines and curves		TMainForm: SolidConnectorLabelsAction.Hint
+Find text...	Find tekst...	TMainForm: ActionManager.Caption	TMainForm: FindTextAction.Caption
+Find x that minimizes expression	Find x der minimerer udtrykket	ExpressionEval_rsFindXThatMinimizesExpression
+First	Første	TSlideShowForm: FirstSlideItem.Caption
+Flip	Vend	TMainForm: ActionManager.Caption	TMainForm: FlipUDAction.Caption	TPagePropertiesForm: FlipButton.Caption
+Floating point division by zero	Floating point division med zero	SysConst_SZeroDivide
+Floating point overflow	Kommatalsoverløb	SysConst_SOverflow
+Floating point underflow	Kommatalsunderløb	SysConst_SUnderflow
+Font	Skrifttype	TextEditor_rsFont
+Format '%s' invalid or incompatible with argument	Formatet '%s' er ugyldigt eller inkompatibelt med argumentet	SysConst_SInvalidFormat
+Format string too long	Formattekst er for lang	SysConst_SFormatTooLong
+Fractional part of real number	Decimaldel	ExpressionEval_rsFractionalPartOfRealNumber
+Fri	Fre	SysConst_SShortDayNameFri
+Friday	Fredag	SysConst_SLongDayNameFri
+Fuchsia	Fuchsia	ExtCtrls_clNameFuchsia
+GIF Image	GIF billede	GIFImage_sGIFImageFile
+Gaussian random number, StdDev=x	Gaussfordelt tilfældigt tal, Std.afv.=x	ExpressionEval_rsGaussianRandomNumberStdDevX
+General	Generelt	TPropertyEditorForm: TabSheet1.Caption
+Get printer page format	Sideformat fra printer	TPagePropertiesForm: PrinterButton.Caption
+Global stencil	Global skabelon	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption
+Glue connectors to adjoining object link points in active layer	Forbind alle ensliggende knudepunkter	TMainForm: ConnectLinksAction.Hint
+Go to page	Gå til side	TSlideShowForm: GoToPageItem.Caption
+Gradient color		TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption
+Graphics Interchange Format	Graphics Interchange Format	GIFLoader_rsGIFImageFile
+Gray	Grå	ExtCtrls_clNameGray
+Gray Text	Går tekst	ExtCtrls_clNameGrayText
+Green	Grøn	ExtCtrls_clNameGreen
+Grid (%s)	Gitter (%s)	DesignerSetup_rsGridS
+GridBox	GridBox	TDesignerSetupForm: GridBox.Caption
+Group	Grupper	TMainForm: ActionManager.Caption	TMainForm: GroupAction.Caption
+Group must consist of connected lines	Gruppe skal bestå af forbundne linier	GroupObject_rsGroupMustConsistOfConnectedLines
+Group selected objects	Grupper markerede objekter	TMainForm: GroupAction.Hint
+Group selected objects in metafile object	Grupper markerede objekter i metafil	TMainForm: MakeMetafileAction.Hint
+GroupIndex cannot be less than a previous menu item's GroupIndex	GroupIndex kan ikke være mindre end et tidligere menupunkts GroupIndex	Consts_SGroupIndexTooLow
+Guess undefined	Startgæt ikke defineret	ExpressionEval_rsGuessUndefined
+HTML formatted color	HTML farvekode	TextEditor_rsHTMLFormattedColor
+Halftone	Udjævnet	TPropertyEditorForm: HalftoneCheckBox.Caption
+Height	Højde	TPropertyEditorForm: Panel8.Caption
+Height:	Højde:	TPagePropertiesForm: Label2.Caption
+Help	Hjælp	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: HelpMenuAction.Caption
+Help Contents	Hjælp indhold	TMainForm: ActionManager.Caption	TMainForm: HelpFileAction.Caption
+HelpLabel	HelpLabel	TExpressionEvalForm: HelpLabel.Caption
+Highlight Background	Oplysning baggrund	ExtCtrls_clNameHighlight
+Highlight Text	Oplysning tekst	ExtCtrls_clNameHighlightText
+Highlight syntax		TTextEditorForm: HighlightSyntaxBox.Caption
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.		Main_rsEditConnectorHint
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.		Main_rsEditShapeHint
+Home	Home	Consts_SmkcHome
+Horizontal	Horisontal	LinkEditor_rsHorizontal
+Horizontal scaling	Horisontal skalering	TPropertyEditorForm: HorzScaleAnchorBox.Hint
+Horizontal text alignment	Vandret tekstjustering	TPropertyEditorForm: Panel3.Caption
+I would like to thank %s and others for making their software libraries available.	Jeg vil takke %s og andre for at stille deres softwarebiblioteker til rådighed.	Main_rsIWouldLikeToThank
+I/O error %d	I/O fejl %d	SysConst_SInOutError
+IO-error: %s	IO-fejl: %s	Streams_rs_IOError
+Icon image is not valid	Ikon er ikke gyldig	Consts_SInvalidIcon
+Icons	Ikoner	Consts_SVIcons
+If you like this software then please support my work and the future development of the program, the documentation and the website.#$0DWithout your support keeping the website running is only an expense for me.	Hvis du syntes om dette program, så hjælp venligst til med programmet, dokumentationen og hjemmesiden.	TPleaseSupportForm: Label1.Caption
+Ignore all	Ignorer alle	TSpellCheckForm: IgnoreAllButton.Caption
+Image exceeds Logical Screen size	Billede overstiger den Logiske skærmstørrelse	GIFImage_sScreenSizeExceeded
+Image has no DIB	Billedet har ingen DIB	GIFImage_sNoDIB
+Image height too small for contained frames	Billedets højde er for lille til de indeholdende rammer	GIFImage_sBadHeight
+Image is empty	Billedet er tomt	GIFImage_sEmptyImage
+Image is too large for icon	Billede for stort til ikon	ICOLoader_rsImageIsTooLargeForIcon
+Image width too small for contained frames	Billedets brede er for lille til de indeholdende rammer	GIFImage_sBadWidth
+Inactive Border	Inaktiv kant	ExtCtrls_clNameInactiveBorder
+Inactive Caption	Inaktiv betegnelse	ExtCtrls_clNameInactiveCaption
+Inactive Caption Text	Inaktiv betegnelse tekst	ExtCtrls_clNameInactiveCaptionText
+Include format description in file views instead of just "XYZ File"	Inkluder formatbeskrivelse i steder for blot "XYZ fil"	TFormatAssociateForm: DescriptionBox.Hint
+Info Background	Info baggrund	ExtCtrls_clNameInfoBk
+Info Text	Info tekst	ExtCtrls_clNameInfoText
+InfoLabel	InfoLabel	TAboutBox: InfoLabel.Caption
+Information	Information	Consts_SMsgDlgInformation
+Inner bounds	Indre kanter	TPropertyEditorForm: InnerBoundsBox.Caption
+Ins	Ins	Consts_SmkcIns
+Insert inherited layer...	Indsæt nedarvet lag...	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption
+Insert picture from file	Indsæt billede fra fil	TMainForm: InsertPictureAction.Hint
+Insert picture...	Indsæt billede	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption
+Insert text	Indsæt tekst	TMainForm: DrawTextAction.Caption
+Integer overflow	Heltalsoverløb	SysConst_SIntOverflow
+Interface not supported	Interface er ikke understøttet	SysConst_SIntfCastError
+Internal error: Extension Instance does not match Extension Label	Intern fejl: Fil-indholdet stemmer ikke overens med fil-endelsen	GIFImage_sBadExtensionInstance
+Internet help page	Internet hjælpeside	TMainForm: ActionManager.Caption	TMainForm: InternetHelpAction.Caption
+Invalid GIF data	Ugyldig GIF data	GIFImage_sInvalidData
+Invalid GIF signature	Ugyldig GIF signatur	GIFImage_sBadSignature
+Invalid Image trailer	Ugyldig billede trailer	GIFImage_sBadTrailer
+Invalid ImageList	Ugyldig ImageList	Consts_SInvalidImageList
+Invalid ImageList Index	Ugyldigt ImageList indeks	Consts_SImageIndexError
+Invalid NULL variant operation	Ugyldig NULL variant handling	SysConst_SInvalidVarNullOp
+Invalid PNG data	Fejl i PNG data	PNGLoader_rsInvalidPNGData
+Invalid PNG header	Fejl i PNG header	PNGLoader_rsInvalidPNGHeader
+Invalid alpha channel format or dimensions		PNGLoader_rsInvalidAlphaChannelFormat
+Invalid argument	Ugyldigt argument	SysConst_SVarInvalid
+Invalid binary number	Ugyldig binær værdi	ExpressionEval_rsInvalidBinaryNumber
+Invalid bitmap size	Ugyldig billedstørrelse	LinarBitmap_rsInvalidBitmapSize
+Invalid buffer size	Ugyldig bufferstørrelse	BufStream_rsInvalidBufferSize
+Invalid class typecast	Ugyldig klasse typekonvertering	SysConst_SInvalidCast
+Invalid clipboard format	Ugyldigt udklipsholderformat	Consts_SInvalidClipFmt
+Invalid color index	Ugyldigt farve index	GIFImage_sBadColorIndex
+Invalid data type for '%s'	Ugyldig datatype for '%s'	RTLConsts_SInvalidRegType
+Invalid diagram	Ugyldigt diagram	DiagramBase_rsInvalidDiagram
+Invalid extension introducer	Ugyldig fil-endelses indføring	GIFImage_sBadExtensionLabel
+Invalid filename	Ugyldigt filnavn	SysConst_SInvalidFilename
+Invalid floating point operation	Ugyldig kommatalsoperation	SysConst_SInvalidOp
+Invalid image dimensions	Ugyldig billeddimensioner	GIFImage_sBadDimension
+Invalid image size	Ugyldig billedstørrelse	Consts_SInvalidImageSize
+Invalid index	Ugyldigt indeks	ComStrs_sInvalidIndex
+Invalid number format	Ugyldigt talformat	ExpressionEval_rsInvalidNumberFormat
+Invalid number of colors specified in Image Descriptor	Ugyldigt antal af farver specificeret i billedbeskrivelsen	GIFImage_sImageBadColorSize
+Invalid number of colors specified in Screen Descriptor	Ugyldigt antal af farver specificeret i skærmbeskrivelsen	GIFImage_sScreenBadColorSize
+Invalid numeric input	Ugyldig numerisk inddata	SysConst_SInvalidInput
+Invalid numeric value	Igyldig værdi	Consts_SInvalidNumber
+Invalid owner	Ugyldig ejer	ComStrs_sInvalidOwner
+Invalid pixel coordinates	Ugyldige pixel-koordinater	GIFImage_sBadPixelCoordinates
+Invalid pixel format	Ugyldigt pixelformat	Consts_SInvalidPixelFormat
+Invalid pointer operation	Ugyldig handling med pointer	SysConst_SInvalidPointer
+Invalid property path	Ugyldigt egenskabssti	RTLConsts_SInvalidPropertyPath
+Invalid property value	Ugyldigt egenskabsværdi	RTLConsts_SInvalidPropertyValue	RTLConsts_SInvalidProperty
+Invalid reduction method	Ugyldig beskæringsmetode	GIFImage_sInvalidReduction
+Invalid stream format	Ugyldigt strømformat	RTLConsts_SInvalidImage
+Invalid stream operation	Ugyldig strømhandling	GIFImage_sInvalidStream
+Invalid template palette	Ugyldig skabelonpalette	TemplateObjects_rsInvalidTemplatePalette
+Invalid variant operation	Ugyldig variant handling	SysConst_SInvalidVarOp
+Invalid variant operation (%s%.8x)\n%s	Ugyldig variant operation (%s%.8x)\n%s	SysConst_SInvalidVarOpWithHResultWithPrefix
+Invalid variant type	Ugyldig varianttype	SysConst_SVarBadType
+Invalid variant type conversion	Ugyldig varianttype konvertering	SysConst_SInvalidVarCast
+Italic	Kursiv	TextEditor_rsItalic
+Item %s has subitems, delete anyway?	Element %s har underelementer. Slet alligevel?	Consts_SDeleteItemWithSubItems
+Item %s is not allowed to be moved	Det er ikke tilladt for element %s at blive flyttet	Consts_SMoveNotAllowed
+JPEG Image File	JPEG billedfil	JConsts_sJPEGImageFile
+JPEG error #$23%d	JPEG fejl #$23%d	JConsts_sJPEGError
+Jan	Jan	SysConst_SShortMonthNameJan
+January	Januar	SysConst_SLongMonthNameJan
+Joint Photographic Experts Group		JPEGLoader_rsJPEGImageFile
+Jul	Jul	SysConst_SShortMonthNameJul
+July	Juli	SysConst_SLongMonthNameJul
+Jun	Jun	SysConst_SShortMonthNameJun
+June	Juni	SysConst_SLongMonthNameJun
+Known image formats	Kendte billedformater	Main_rsKnownImageFormats
+LabelCode1	LabelCode1	TTextEditorForm: LabelCode1.Caption
+LabelCode2	LabelCode2	TTextEditorForm: LabelCode2.Caption
+LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
+LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption
+Language:	Sprog:	TSpellCheckForm: Label5.Caption
+Last	Sidste	TSlideShowForm: LastSlideItem.Caption
+Layer		TMainForm: LayerTabSet.Hint
+Layer %d	Lag %d	Main_rsLayerD
+Layer &1	Lag &1	TMainForm: EditLayer1Action.Caption
+Layer &2	Lag &2	TMainForm: EditLayer2Action.Caption
+Layer &3	Lag &3	TMainForm: EditLayer3Action.Caption
+Layer number:	Lag nummer:	Main_rsLayerNumber
+Layout	Layout	TPropertyEditorForm: Panel18.Caption
+Left	Venstre	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint
+Left click to set		Main_rsLeftClickToSet
+Left#$0DCenter#$0DRight#$0DBlock left#$0DBlock right#$0D	Venstre#$0DCentrer#$0DHøjre#$0DBlok venstre#$0DBlok højre#$0D	TPropertyEditorForm: TextXAlignBox.Items.Strings
+Left+right click to add point		Main_rsLeftRightClickToAddPoint
+Legacy		PropertyEditor_rsLegacy
+Lime	Lime	ExtCtrls_clNameLime
+Line color	Liniefarve	TMainForm: LineColorAction.Hint	TPropertyEditorForm: Panel7.Caption
+Line end	Linieslutning	TMainForm: LineEndAction.Hint	TPropertyEditorForm: Panel13.Caption
+Line segments	Liniesegmenter	PropertyEditor_rsLineSegments
+Line start	Liniestart	TMainForm: LineStartAction.Hint	TPropertyEditorForm: Panel12.Caption
+Line style	Linietype	TPropertyEditorForm: Panel20.Caption
+Line width	Liniebredde	Main_rsLineWidth	TMainForm: LineWidthAction.Hint	TPropertyEditorForm: Panel5.Caption
+Link point editor	Knudepunkt redigering	TLinkEditorForm: LinkEditorForm.Caption
+Link positions	Knudepunkter	TPropertyEditorForm: BoundsPanel.Caption
+List capacity out of bounds (%d)	Listekapaciteten er for stor (%d)	RTLConsts_SListCapacityError
+List count out of bounds (%d)	Listeantallet er ude for gyldigt talområde (%d)	RTLConsts_SListCountError
+List does not allow duplicates ($0%x)	Listen tillader ikke dubletter ($0%x)	RTLConsts_SDuplicateItem
+List index out of bounds (%d)	Listeindeks er uden for gyldigt talområde (%d)	StringLists_rsListIndexError	RTLConsts_SListIndexError
+Listbox (%s) style must be virtual in order to set Count	Listboks (%s) stil skal være virtuel for at kunne sætte Count	Consts_SListBoxMustBeVirtual
+Load template palette	Indlæs skabelonpalette	TMainForm: LoadTemplatePaletteMenu.Caption
+Load template palette from library	Indlæs skabelonpalette fra bibliotek	TMainForm: LoadTemplatePaletteMenu.Hint
+Load template palette...	Åbn skabelonpalette	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption
+Loading...	Læser...	GIFImage_sProgressLoading	DialogsEx_rsLoading
+Look up:	Slå op:	TSpellCheckForm: LookUpLabel.Caption
+MainForm	MainForm	TMainForm: MainForm.Caption
+Make palette from active layer	Lav palette ud fra aktivt lag	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption
+Many		LineObject_rsMany
+Mar	Mar	SysConst_SShortMonthNameMar
+March	Marts	SysConst_SLongMonthNameMar
+Maroon	Kastanje	ExtCtrls_clNameMaroon
+Max 16 bits in binary number	Max 16 bits i binært tal	ExpressionEval_rsMax16BitsInBinaryNumber
+Max=	Maks=	TExpressionPlotForm: Label2.Caption
+Maximum number of undos/redos	Maximum antal "fortryd" niveauer	TDesignerSetupForm: UndoHistoryEdit.Hint
+May	Maj	SysConst_SLongMonthNameMay	SysConst_SShortMonthNameMay
+Medium Gray	Mellemgrå	ExtCtrls_clNameMedGray
+Menu	Menu	TQuickMenuSearchForm: ListView.Caption
+Menu '%s' is already being used by another form	Menu '%s' er allerede i brug af en anden formular	Consts_SDuplicateMenus
+Menu Background	Menu baggrund	ExtCtrls_clNameMenu
+Menu Text	Menu tekst	ExtCtrls_clNameMenuText
+Menu index out of range	Menuindeks er uden for gyldigt interval	Consts_SMenuIndexError
+Menu inserted twice	Menu blev indsat to gange	Consts_SMenuReinserted
+Menu search	Menu søgning	TQuickMenuSearchForm: QuickMenuSearchForm.Caption
+Metafile	Metafile	TPropertyEditorForm: Panel17.Caption
+Metafile is not valid	Metafil er ikke gyldig	Consts_SInvalidMetafile
+Metafiles	Metafiler	Consts_SVMetafiles
+Michael Vinther	Michael Vinther	TAboutBox: Label1.Caption
+Millimeters#$0DCentimeters#$0DInches#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	Milimeter#$0DCentimeter#$0DTommer#$0Dpoints#$0D300 DPI dots#$0D600 DPI dots#$0D	TDesignerSetupForm: UnitsBox.Items.Strings
+Min=	Min=	TExpressionPlotForm: Label3.Caption
+Minimum value for expression in x	Minimumværdi for funktion af x	ExpressionEval_rsMinimumValueForExpressionInX
+Mirror	Spejlvend	TMainForm: ActionManager.Caption	TMainForm: FlipLRAction.Caption
+Mon	Man	SysConst_SShortDayNameMon
+Monday	Mandag	SysConst_SLongDayNameMon
+Money Green	Dollargrøn	ExtCtrls_clNameMoneyGreen
+More Buttons	Flere knapper	Consts_SMoreButtons
+Move canvas	Flyt lærred	TMainForm: MoveCanvasAction.Caption
+MultiLine must be True when TabPosition is tpLeft or tpRight	MultiLine must be True when TabPosition is tpLeft or tpRight	ComStrs_sTabMustBeMultiLine
+Multiple-image Network Graphics	Multiple-image Network Graphics	PNGLoader_rsMNGImageFile
+Multiselect mode must be on for this feature	Multiselect tilstanden skal være slået til for denne facilitet	Consts_SMultiSelectRequired
+N&o to All	N&ej til alle	Consts_SMsgDlgNoToAll
+Name	Navn	TPropertyEditorForm: Panel1.Caption
+Name expected	Navn forventet	ExpressionEval_rsNameExpected
+Navy	Marineblå	ExtCtrls_clNameNavy
+New diagram	Nyt diagram	TMainForm: NewAction.Hint
+New line	Ny linie	TextEditor_rsNewLine
+New page	Ny side	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption
+New...	Ny...	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption
+Next	Næste	TSlideShowForm: NextSlideItem.Caption
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	Consts_SActionBarStyleMissing
+No OnGetItem event handler assigned	Ingen OnGetItem hændelseshåndterer tilknyttet	Consts_SNoGetItemEventHandler
+No argument for format '%s'	Intet argument for formatet '%s'	SysConst_SArgumentMissing
+No context-sensitive help installed	Ingen kontekst-sensitiv hjælp er installeret	HelpIntfs_hNoContext
+No dictionaries installed or dictionary path not set in the Options dialog.	Ingen ordbøger installeret eller ordbogssti ikke sat i indstillingsdialogen	Main_rsNoDictionariesFound
+No files found	Ingel filer fundet	Main_rsNoFilesFound
+No global or local color table defined	Ingen global eller lokal farvepalette er defineret	GIFImage_sNoColorTable
+No help found for %s	Ingen hjælp fundet for %s	HelpIntfs_hNothingFound
+No help keyword specified.	Mangler nøgleord til hjælpen.	WinHelpViewer_hNoKeyword
+No icons in file	Ingen ikoner i fil	ICOLoader_rsNoIconsInFile
+No more points allowed	Ikke flere punkter tilladt	LineObject_rsNoMorePointsAllowed
+No objects in active layer	Ingen objekter i aktivt lag	Main_rsNoObjectsInActiveLayer
+No solution found, try changing starting guess	Ingen løsning fundet, prøv at ændre startgæt	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess
+No topic-based help system installed	Ingen emne-baseret hjælpesystem er installeret	HelpIntfs_hNoTopics
+No version-info was associated with the requested file \"%s\"	Ingen versions-info var associeret med den anmodede fil \"%s\"	VersionInfo_rs_noversioninfo
+None	Ingen	ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone
+Not enough timers available	Ikke nok timere til rådighed	Consts_SNoTimers
+Not in dictionary:	Ikke i ordbog:	SpellChecker_rsNotInDictionary
+Note that closing tags are not required		TTextEditorForm: Label3.Caption
+Note that this action cannot be undone, and file format registrations will NOT be restored to the previous setting if the program is uninstalled.	Bemærk at denne handling ikke kan fortrydes, og fil-format registreringerne vil IKKE blive genskabt til de foregående indstillinger hvis programmet afinstalleres.	TFormatAssociateForm: NoteLabel.Caption
+Note that writing of files with multiple icons is not supported.	Bemærk at skrivning af filer med flere ikoner ikke understøttes.	TIconSelectionForm: Label1.Caption
+Nov	Nov	SysConst_SShortMonthNameNov
+November	November	SysConst_SLongMonthNameNov
+OK	Ok	TFormatAssociateForm: AssociateButton.Caption	TLanguageSelectorForm: OKButton.Caption	TAboutBox: OKButton.Caption	TIconSelectionForm: OkButton.Caption	TDesignerSetupForm: Button2.Caption	Consts_SMsgDlgOK	Consts_SOKButton	TLinkEditorForm: Button2.Caption	TPagePropertiesForm: OKBtn.Caption	TPasteSpecialForm: OKBtn.Caption	TPropertyEditorForm: OkButton.Caption	TRearrangePagesForm: OKButton.Caption	TTextEditorForm: OKButton.Caption
+Object	Objekt	TMainForm: ActionManager.Caption	TMainForm: ObjectMenuAction.Caption
+Object properties	Objekt egenskaber	TMainForm: PropertiesAction.Hint
+Object type not supported for operation	Objekttypen er ikke understøttet for operation	GIFImage_sUnsupportedClass
+Object:	Objekt:	TSpellCheckForm: Label2.Caption
+Objects cast shadows	Objekter kaster skygge	TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption
+Objects in this layer are visible in all pages		TMainForm: EditStencilAction.Hint
+Oct	Okt	SysConst_SShortMonthNameOct
+October	Oktober	SysConst_SLongMonthNameOct
+Odd rounded 1	Ulige afrundet 1	FlowchartObject_rsOddRounded1
+Odd rounded 2	Ulige afrundet 2	FlowchartObject_rsOddRounded2
+Olive	Oliven	ExtCtrls_clNameOlive
+Opacity	Synlighed	TPropertyEditorForm: Panel24.Caption
+Open	Åbn	TFormatAssociateForm: OpenActionButton.Caption	Main_rsOpen
+Open in new window...	Åbn i nyt vindue...	TMainForm: ActionManager.Caption	TMainForm: OpenNewAction.Caption
+Open...	Åbn...	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: OpenAction.Caption
+Operation aborted	Handling blev afbrudt	SysConst_SOperationAborted
+Operation not allowed on sorted list	Handling er ikke tilladt på en sorteret liste	RTLConsts_SSortedListError
+Operation not allowed on sorted string list	Operationen er ikke tilladt på den sorterede strengliste	StringLists_rsSortedListError
+Operation not supported	Operation ikke understøttet	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented
+Operation not supported on selected printer	Denne handling er kan ikke lade sig gøre med den valgte printer	Consts_SInvalidPrinterOp
+Operator expected	Operator forventet	ExpressionEval_rsOperatorExpected
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operatore:\n&\tLogisk AND\n|\tLogisk OR\n=\tLig\n#$23\tForskellig fra\n>\tStørre end\n<\tMindre end\n+\tAdder\n-\tSubtraher\n*\tMultiplicer\n/\tDivider\n%\tModulus\n^\tPotensopløftning\n\nDefinition af symboler:\n:Navn = Værdi;\n:Funk(x) = Udtryk;	ExpressionHelp_rsExpressionHelp
+Optimizing...	Optimerer...	GIFImage_sProgressOptimizing
+Options	Indstillinger	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption
+Out of memory	Ikke mere hukommelse	SysConst_SOutOfMemory
+Out of memory while expanding memory stream	Hukommelsesmangel opstod ved udpakning af hukommelsesstrøm	RTLConsts_SMemoryStreamError
+Out of system resources	Løbet tør for systemresourcer	Consts_SOutOfResources
+Overflow while converting variant of type (%s) into type (%s)	Overløb ved konvertering af variant af type (%s) til type (%s)	SysConst_SVarTypeConvertOverflow
+Overlay		TMainForm: OverlayConnectorLabelsAction.Caption
+Overline	Linie over	TextEditor_rsOverline
+Overwrite template palette contents with objects from active layer?	Overskriv skabelonpalette med objekter fra aktivt lag?	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer
+Page		Main_rsPage	TMainForm: PageTabSet.Hint
+Page %d	Side %d	DiagramBase_rsPageD
+Page count	Antal sider	TextEditor_rsPageCount
+Page number	Sidenummer	TextEditor_rsPageNumber
+Page number:	Sidenummer:	SlideShow_rsPageNumber
+Page p%s layer %d	Side p%s lag %d	PictureObject_rsPagePSLayerD
+Page properties	Sideegenskaber	TPagePropertiesForm: PagePropertiesForm.Caption
+Page properties...	Sideegenskaber...	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption
+Page title	Side titel	TextEditor_rsPageTitle
+Page title (empty for auto):	Sidetitel (tom for automatisk):	RearrangePages_rsPageTitleEmptyForAuto
+Parent given is not a parent of '%s'	Den forudsatte forældre er ikke en forældre af '%s'	Consts_SParentGivenNotAParent
+Paste	Indsæt	TLinkEditorForm: PasteButton.Hint	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: PasteAction.Caption
+Paste special	Indsæt speciel	TMainForm: ActionManager.Caption	TMainForm: PasteSpecialAction.Caption	TPasteSpecialForm: PasteSpecialForm.Caption
+PgDn	PgDn	Consts_SmkcPgDn
+PgUp	PgUp	Consts_SmkcPgUp
+Please support %s	Støt %s	TPleaseSupportForm: PleaseSupportForm.Caption
+Plot graph of expression in x	Plot graf for funktion af x	ExpressionPlot_rsPlotGraphOfExpressionInX
+Plot of	Plot af	TExpressionPlotForm: ExpressionPlotForm.Caption
+Polygon must have at least two points	Polygon skal have mindst to punkter	GroupObject_rsPolygonMustHaveAtLeastTwoPoints
+Popup note	Popop besked	TextEditor_rsPopupNote
+Portable Network Graphics	Portable Network Graphics	PNGLoader_rsPNGImageFile
+Premature end of data	For tidlig ende på data	GIFImage_sOutOfData
+Preview mode	Vis udskrift	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption
+Preview not available	Eksempel ikke tilgængelig	DialogsEx_rsPreviewNotAvailable
+Previous	Forrige	TSlideShowForm: PreviousSlideItem.Caption
+Print as bitmap		TDesignerSetupForm: PrintAsBitmapBox.Caption
+Print scaling set to %d%%	Udskriftskalering sat til %d%%	PrintDiagram_rsPrintScalingSetToD
+Print scaling:	Udskriftskalering	TDesignerSetupForm: Label7.Caption
+Print...	Udskriv...	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption
+Printer is not currently printing	Printeren skriver ikke ud lige nu	Consts_SNotPrinting
+Printer selected is not valid	Den valgte printer er ikke gyldig	Consts_SInvalidPrinter
+Printing in progress	Udskrift i gang	Consts_SPrinting
+Privileged instruction	Priviligeret CPU instruktion	SysConst_SPrivilege
+Process failed: %d		AnalyzerPlugins_rsProcessFailedD
+ProductName	ProductName	TAboutBox: ProductName.Caption
+Program must be restarted for changes to take effect.	Programmet skal genstartes før ændringerne træder i kraft	LanguageSelector_rsProgramMustBeRestartedForChangesToTakeEffect
+Properties	Egenskaber	TMainForm: TemplatePropertiesAction.Caption	TPropertyEditorForm: PropertyEditorForm.Caption
+Properties...	Egenskaber...	TMainForm: ActionManager.Caption	TMainForm: PropertiesAction.Caption
+Property %s does not exist	Egenskaben %s findes ikke	RTLConsts_SUnknownProperty
+Property is read-only	Egenskaben er skrivebeskyttet	RTLConsts_SReadOnlyProperty
+Purple	Lilla	ExtCtrls_clNamePurple
+Radius of corner arc	Radius af hjørnebue	TPropertyEditorForm: Panel22.Hint	TPropertyEditorForm: Panel24.Hint
+Random number in [0;x[	Tilfældigt tal i [0;x[	ExpressionEval_rsRandomNumberIn0X
+Range check error	Heltalsoverløb	SysConst_SRangeError
+Range:	Interval:	TExpressionPlotForm: Label1.Caption
+Read	Læsning	SysConst_SReadAccess
+Read beyond end of file	Læsning forsøgt efter slutning på fil	SysConst_SEndOfFile
+Read less than expected	Læst mindre end forventet	Streams_rs_ReadLessError
+Rearrange pages	Arranger sider	TRearrangePagesForm: RearrangePagesForm.Caption
+Rearrange pages...	Arranger sider...	TMainForm: ActionManager.Caption	TMainForm: ReorderPagesAction.Caption
+Recursive reference	Rekursiv reference	ExpressionEval_rsRecursiveReference
+Red	Rød	ExtCtrls_clNameRed
+Redo	Annuller fortryd	Main_rsRedo	TMainForm: ActionManager.Caption	TMainForm: RedoAction.Caption
+Relative page number (-1 = previous page):	Relativt sidenummer (-1 = forrige side)	Main_rsRelativePageNumber1PreviousPage
+Reload	Genindlæs	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption
+Reload and lose changes?	Genindlæs og mist ændringer?	Main_rsReloadAndLoseChanges
+Rename	Omdøb	TRearrangePagesForm: RenameButton.Caption
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.		TDesignerSetupForm: PrintAsBitmapBox.Hint
+Rendering...	Rendere...	GIFImage_sProgressRendering
+Reorder or delete pages	Omarranger eller slet sider	TMainForm: ReorderPagesAction.Hint
+Replace	Erstat	TSpellCheckForm: ReplaceButton.Caption
+Reset	Nulstil	TPropertyEditorForm: ResetHeightButton.Hint	TPropertyEditorForm: ResetWidthButton.Hint
+Reset Toolbar	Nulstil værktøjsbjælke	Consts_SResetActionToolBar
+Reset symbol table	Nulstil symboltabel	TExpressionEvalForm: ActionResetSymbols.Caption
+Resource %s not found	Resource %s ikke fundet	RTLConsts_SResNotFound
+RichEdit line insertion error	RichEdit linie indsætningsfejl	ComStrs_sRichEditInsertError
+Right	Højre	Consts_SmkcRight	TMainForm: ActionManager.Caption	TMainForm: AlignRightAction.Caption	TPropertyEditorForm: RightAnchorBox.Hint
+Right click to clear		Main_rsRightClickToClear
+Root of expression in x	Rod for funktion af x	ExpressionEval_rsRootOfExpressionInX
+Rotate	Roter	Main_rsRotate	TMainForm: ActionManager.Caption	TMainForm: RotateMenuAction.Caption	TMainForm: Rotate1.Caption
+Rotate 180°	Roter 180°	TMainForm: ActionManager.Caption	TMainForm: Rotate180Action.Caption
+Rotate 270°	Roter 270°	TMainForm: ActionManager.Caption	TMainForm: Rotate270Action.Caption
+Rotate 90°	Roter 90°	TMainForm: ActionManager.Caption	TMainForm: Rotate90Action.Caption
+Rotate selected objects counter-clockwise. Note that not all object types support this operation.	Roter markerede objekter mod uret. Bemærk at ikke alle objekttyper kan roteres.	TMainForm: RotateAction.Hint
+Rotation angle	Rotationsvinkel	Main_rsRotationAngle	TPropertyEditorForm: Panel19.Caption
+Round to nearest integer	Rund til nærmeste heltal	ExpressionEval_rsRoundToNearestInteger
+Rounded 1	Afrundet 1	FlowchartObject_rsRounded1
+Rounded 2	Afrundet 2	FlowchartObject_rsRounded2
+Rounded 3	Afrundet 3	FlowchartObject_rsRounded3
+Rounds toward negative infinity	Rund ned mod minus uendelig	ExpressionEval_rsRoundsTowardNegativeInfinity
+Rounds up toward positive infinity	Rund op mod uendelig	ExpressionEval_rsRoundsUpTowardPositiveInfinity
+Sat	Lør	SysConst_SShortDayNameSat
+Saturday	Lørdag	SysConst_SLongDayNameSat
+Save	Gem	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption
+Save as...	Gem som...	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption
+Save template palette...	Gem skabelonpalette...	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption
+Saving...	Gemmer...	GIFImage_sProgressSaving
+Scan line index out of range	Skanlinie indeks er ude for gyldigt område	Consts_SScanLine
+Scroll Bar	Rullebjælke	ExtCtrls_clNameScrollBar
+Scrollbar property out of range	Scrollbar værdi uden for gyldigt interval	Consts_SScrollBarRange
+Seeking not supported	Understøtter ikke søgning	DelphiStream_rsSeekingNotSupported
+Select all	Vælg alle	TFormatAssociateForm: AllButton.Caption	TMainForm: ActionManager.Caption	TMainForm: SelectAllAction.Caption
+Select clipboard format:	Vælg udklipsholderformat:	TPasteSpecialForm: Label1.Caption
+Select icon to import from file	Vælg ikon fra fil	TIconSelectionForm: IconSelectionForm.Caption
+Select program language	Vælg sprog	TLanguageSelectorForm: LanguageSelectorForm.Caption
+Send bug report	Send fejlrapport	StyleForm_rsSendBugReport
+Send to back	Placer bagerst	TMainForm: ActionManager.Caption	TMainForm: SendToBackAction.Caption
+Sep	Sep	SysConst_SShortMonthNameSep
+Separator	Separator	Consts_SSeparator
+Separator line	Separatorlinie	TextEditor_rsSeparatorLine
+September	September	SysConst_SLongMonthNameSep
+Set	Sæt	TPropertyEditorForm: ColorKeyButton.Caption
+Set diagram font	Vælg diagram skrifttype	TMainForm: DiagramFontAction.Hint
+Set dictionary path	Sæt sti til ordbøger	TDesignerSetupForm: DictionaryPathButton.Caption
+Set font by name	Sæt skrifttypenavn	TextEditor_rsSetFontByName
+Set layer color...	Set lag farve...	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption
+Set program language	Vælg program sprog	TDesignerSetupForm: LanguageButton.Caption
+Shift+	Shift+	Consts_SmkcShift
+Show grid	Vis gitter	TDesignerSetupForm: ShowGridBox.Caption
+Show object tree	Vis objekttræ	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption
+Show printer margins		TDesignerSetupForm: ShowMarginsBox.Caption
+Show printer margins on page in designer		TDesignerSetupForm: ShowMarginsBox.Hint
+Show this message on startup	Vis dette ved opstart	TPleaseSupportForm: CheckBox1.Caption
+Side bars	Sidebjælker	FlowchartObject_rsSideBars
+Silver	Sølv	ExtCtrls_clNameSilver
+Size of design when pasting from clipboard to other application	Størrelse af design når der kopieres via udklipholderen til andre programmer	TDesignerSetupForm: ClipboardScaleEdit.Hint
+Size of print relative to design size	Størrelse af udskrift relativt til designstørrelse	TDesignerSetupForm: PrintScalingEdit.Hint
+Skip	Spring over	FormatAssociation_rsSkip
+Skip symbols	Ignorer symboler	TSpellCheckForm: SkipSymbolsBox.Caption
+Skip words with numbers, single letters and upper case words	Ignorer ord med tal, enkelte bogstaver og ord flere store bogstaver	TSpellCheckForm: SkipSymbolsBox.Hint
+Sky Blue	Himmelblå	ExtCtrls_clNameSkyBlue
+Slant left	Skæv venstre	FlowchartObject_rsSlantLeft
+Slant right	Skæv højre	FlowchartObject_rsSlantRight
+Slide show	Præsentation	TMainForm: ActionManager.Caption	TMainForm: SlideShowAction.Caption	TSlideShowForm: SlideShowForm.Caption
+Solid		TMainForm: SolidConnectorLabelsAction.Caption
+Solid#$0D·················#$0D· · · · · · · · ·#$0D-----------------#$0D- - - - - - - - -#$0D-- -- -- -- -- --#$0D--  --  --  --  -#$0D-·-·-·-·-·-·-·-·-#$0D--·--·--·--·--·--#$0D-- - -- - -- - --#$0D========#$0D		TPropertyEditorForm: LineStyleBox.Items.Strings
+Solve equation in x	Løs ligning i x	ExpressionEval_rsSolveEquationInX
+Space	Mellemrum	Consts_SmkcSpace
+Spell check	Stavekontrol	TSpellCheckForm: SpellCheckForm.Caption
+Spell check complete.	Stavekontrol udført	SpellChecker_rsSpellCheckComplete
+Spell checker...	Stavekontrol...	TMainForm: ActionManager.Caption	TMainForm: SpellCheckAction.Caption
+Square root	Kvadratrod	ExpressionEval_rsSquareRoot
+Stack overflow	Stack overflow	SysConst_SStackOverflow
+Standard function	Standardfunktion	ExpressionHelp_rsStandardFunction
+Start point		TPropertyEditorForm: Panel27.Caption
+Stop	Stop	LineObject_rsStop	TSpellCheckForm: StopButton.Caption
+Stream not open for write	Stream ikke åben for skrivning	Deflate_rsWriteDenied
+Stream read error	Strømlæsningsfejl	RTLConsts_SReadError
+Stream write error	Strømskrivningsfejl	RTLConsts_SWriteError
+Strikeout		TextEditor_rsStrikeout
+String list does not allow duplicates	Tekstlisten tillader ikke dubletter	StringLists_rsDuplicateString	RTLConsts_SDuplicateString
+Style	Stil	TPropertyEditorForm: TabSheet2.Caption
+Sub-menu is not in menu	Undermenu er ikke i menu	Consts_SMenuNotFound
+Subscript	Lav skrift	TextEditor_rsSubscript
+Suggestions:	Forslag:	TSpellCheckForm: Label4.Caption
+Sun	Søn	SysConst_SShortDayNameSun
+Sunday	Søndag	SysConst_SLongDayNameSun
+Superscript	Høj skrift	TextEditor_rsSuperscript
+Support Diagram Designer...	Støt Diagram Designer...	TMainForm: ActionManager.Caption	TMainForm: SupportAction.Caption
+Symbol	Symbol	TExpressionEvalForm: ListView.Caption
+Symbol font	Symbolskrift	TextEditor_rsSymbolFont
+System Error.  Code: %d.\r\n%s	Systemfejl.  Kode: %d.\r\n%s	SysConst_SOSError
+Tab	Tab	Consts_SmkcTab
+Tab index out of bounds		Consts_SInvalidTabIndex
+Tab position incompatible with current tab style	Tab position er inkompatibel med nuværende tab stil	Consts_SInvalidTabPosition
+Tab style incompatible with current tab position	Tab stil er inkompatibel med nuværende tab position	Consts_SInvalidTabStyle
+Teal	Opal	ExtCtrls_clNameTeal
+Template palette	Skabelonpalette	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption
+Template palette - drag objects from here to diagram	Skabelonpalette - træk objekter til diagrammet herfra	TMainForm: TemplateScrollBox.Hint
+Terminate application	Afslut program	StyleForm_rsTerminateApplication
+Text	Tekst	Main_rsText	TPropertyEditorForm: Panel2.Caption
+Text and metafile rotation		TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint
+Text color	Tekstfarve	TMainForm: TextColorAction.Hint	TPropertyEditorForm: Panel14.Caption
+Text exceeds memo capacity	Tekst er større en kapaciteten for memo'en	Consts_SInvalidMemoSize
+Text formatting codes:	Tekstformateringskoder:	TTextEditorForm: Label1.Caption
+Text margin	Tekst margin	TPropertyEditorForm: Panel21.Caption
+Text not found	Tekst ikke fundet	Main_rsTextNotFound
+Text:	Tekst:	TSpellCheckForm: Label3.Caption
+There is no default printer currently selected	Der er ikke valgt nogen standardprinter	Consts_SNoDefaultPrinter
+This control requires version 4.70 or greater of COMCTL32.DLL	Denne kontrol kræver version 4.70 eller senere af COMCTL32.DLL	ComStrs_sInvalidComCtl32
+Thread Error: %s (%d)	Trådfejl: %s (%d)	RTLConsts_SThreadError
+Thread creation error: %s	Trådoprettelsesfejl: %s	RTLConsts_SThreadCreateError
+Three-digit font size	Trecifret skriftstørrelse	TextEditor_rsThreeDigitFontSize
+Thu	Tors	SysConst_SShortDayNameThu
+Thursday	Torsdag	SysConst_SLongDayNameThu
+Title	Titel	TQuickMenuSearchForm: ListView.Caption
+Title:	Titel:	TPagePropertiesForm: Label3.Caption
+Too few lines to create polygon	For få linier til at skabe polygon	GroupObject_rsTooFewLinesToCreatePolygon
+Too many open files	For mange åbne filer	SysConst_STooManyOpenFiles
+Top	Top	TMainForm: ActionManager.Caption	TMainForm: AlignTopAction.Caption	TPropertyEditorForm: Panel10.Caption	TPropertyEditorForm: TopAnchorBox.Hint
+Top#$0DCenter#$0DBottom#$0D	Top#$0DCentrer#$0DBund#$0D	TPropertyEditorForm: TextYAlignBox.Items.Strings
+Transparent color	Gennemsigtig farve	TIconSelectionForm: TransparentButton.Caption
+Transparent color key	Gennemsigtig farve:	TPropertyEditorForm: Panel25.Caption
+Tue	Tirs	SysConst_SShortDayNameTue
+Tuesday	Tirsdag	SysConst_SLongDayNameTue
+Turn mouse wheel to change		Main_rsUseMouseWheelToChange
+Turn mouse wheel to change size		Main_rsUseMouseWheelToChangeSize
+UML has a		LineObject_rsUMLHasA
+UML is a		LineObject_rsUMLIsA
+Unable to Replace Image	Ikke i stand til at erstatte billede	Consts_SReplaceImage
+Unable to close file	Kan ikke lukke fil	AnalyzerPlugins_rsUnableToCloseFile
+Unable to create directory	Ude af stand til at oprette mappe	SysConst_SCannotCreateDir
+Unable to evaluate guess:	Gæt kan ikke beregnes:	ExpressionEval_rsUnableToEvaluateGuess
+Unable to find a Table of Contents	Ude af stand til at finde indholdsfortegnelsen	HelpIntfs_hNoTableOfContents
+Unable to insert a line	Ikke i stand til at indsætte en linje	Consts_SInsertLineError
+Unable to insert an item	Ude af stand til at indsætte et element	ComStrs_sInsertError
+Unable to open file	Kan ikke åbne fil	AnalyzerPlugins_rsUnableToOpenFile
+Unable to save settings	Ude af stand til at gemme indstillinger	Consts_SUnableToSaveSettings
+Undefined	Ikke defineret	ExpressionEval_rsUndefined
+Undefined symbol:	Symbol ikke defineret:	ExpressionEval_rsUndefinedSymbol
+Underline	Understreget	TextEditor_rsUnderline
+Undo	Fortryd	Main_rsUndo	TMainForm: ActionManager.Caption	TMainForm: UndoAction.Caption
+Undo history size:	Antal Fortryd niveauer:	TDesignerSetupForm: Label3.Caption
+Unexpected character:	Ugyldigt tegn:	ExpressionEval_rsUnexpectedCharacter
+Unexpected variant error	Uventet variantfejl	SysConst_SVarUnexpected
+Ungroup	Opløs gruppe	TMainForm: ActionManager.Caption	TMainForm: UngroupAction.Caption
+Ungroup active object	Opløs aktiv gruppe	TMainForm: UngroupAction.Hint
+UnitLabel1	UnitLabel1	TPagePropertiesForm: UnitLabel1.Caption
+UnitLabel2	UnitLabel2	TPagePropertiesForm: UnitLabel2.Caption
+Units:	Enhed:	TDesignerSetupForm: Label5.Caption
+Unknown GIF block type	Ukendt GIF blok type	GIFImage_sBadBlock
+Unknown extension type	Ukendt fil-endelses type	GIFImage_sUnknownExtension
+Unknown seek origin	Ukendt søge ophav	DelphiStream_rsUnknownSeekOrigin
+Unsupported Application Extension block size	Unsupported Application Extension block size	GIFImage_sBadBlockSize
+Unsupported GIF version	Uunderstøttet GIF version	GIFImage_sBadVersion
+Unsupported PNG data	PNG datatype ikke understøttet	PNGLoader_rsUnsupportedPNGData
+Unsupported PixelFormat	Uunderstøttet PixelFormat	GIFImage_sInvalidPixelFormat
+Unsupported bitmap format	Bitmap format ikke understøttte	LinarBitmap_rsUnsupportedBitmapFormat
+Unsupported clipboard format	Udklipsholderformat ikke understøttet	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat
+Unsupported file format	Filformat ikke understøttet	LinarBitmap_rsUnsupportedFileFormat
+Unsupported pixel format	Pixelformat ikke understøttet	LinarBitmap_rsInvalidPixelFormat	AnalyzerPlugins_rsUnsupportedPixelFormat
+Up	Op	Consts_SmkcUp
+Value expected	Værdi forventet	ExpressionEval_rsValueExpected
+Value must be integer	Værdien skal være heltal	ValueEdits_rsValueMustBeInteger
+Value not in allowed range: [%s - %s]	Værdi ikke i tilladt interval: [%s - %s]	ValueEdits_rsValueNotInAllowedRangeSS
+Variant method calls not supported	Variantmetodekald er ikke understøttet	SysConst_SDispatchError
+Variant or safe array index out of bounds	Variant eller sikkert array indeks er ude for gyldigt område	SysConst_SVarArrayBounds
+Variant or safe array is locked	Variant eller safe array er låst	SysConst_SVarArrayLocked
+Variant overflow	Variant overløb	SysConst_SVarOverflow
+Version	Version	TAboutBox: Version.Caption
+Vertical	Lodret	LinkEditor_rsVertical
+Vertical scaling	Lodret skalering	TPropertyEditorForm: VertScaleAnchorBox.Hint
+Vertical text alignment	Lodret tekstjustering	TPropertyEditorForm: Panel4.Caption
+Warning	Advarsel	Consts_SMsgDlgWarning
+Wed	Ons	SysConst_SShortDayNameWed
+Wednesday	Onsdag	SysConst_SLongDayNameWed
+What can I do?	Hvad kan jeg gøre?	TPleaseSupportForm: Label2.Caption
+White	Hvid	ExtCtrls_clNameWhite
+Width	Bredde	TPropertyEditorForm: Panel9.Caption
+Width:	Bredde:	TPagePropertiesForm: Label1.Caption
+Window Background	Vindue baggrund	ExtCtrls_clNameWindow
+Window Frame	Vinduesramme	ExtCtrls_clNameWindowFrame
+Window Text	Vinduestekst	ExtCtrls_clNameWindowText
+Windows Enhanced metafile	Windows Enhanced metafil	WMFLoader_rsWindowsEnhancedMetafile
+Windows bitmap	Windows bitmap	BMPLoader_rsWindowsBitmap
+Windows cursor	Windows musemarkør	ICOLoader_rsWindowsCursor
+Windows icon	Windows ikon	ICOLoader_rsWindowsIcon
+Windows metafile	Windows metafil	WMFLoader_rsWindowsMetafile
+Would you like to reset to the default Priority Schedule?	Ønsker du at nulstille til standard prioritetsskemaet?	Consts_SRestoreDefaultSchedule
+Write	Skriv	SysConst_SWriteAccess
+Write text on top of connector lines and curves 		TMainForm: OverlayConnectorLabelsAction.Hint
+X:	X:	TDesignerSetupForm: Label1.Caption
+Y:	Y:	TDesignerSetupForm: Label2.Caption
+Yellow	Gul	ExtCtrls_clNameYellow
+Yes to &All	Ja til &alle	Consts_SMsgDlgYesToAll
+You are not allowed to delete this item	Du har ikke lov til at slette dette element	Consts_SDeleteNotAllowed
+Zoom	Zoom	TMainForm: ZoomBox.Hint	TMainForm: ZoomAction.Caption
+Zsoft Paintbrush	Zsoft Paintbrush	PCXLoader_rsPCXImageFile
+\"		DesignerSetup_rsInches
+add %s	tilføj %s	Main_rsAddS
+add point	tilføj punkt	Main_rsAddPoint
+cm		DesignerSetup_rsCm
+dots		DesignerSetup_rsDots
+e-mail	e-mail	TAboutBox: EMailLabel.Caption
+edit properties	rediger egenskaber	Main_rsEditProperties
+http://logicnet.dk/mail.php	http://logicnet.dk/mail.php	TAboutBox: EMailLabel.Hint
+http://meesoft.logicnet.dk	http://meesoft.logicnet.dk	TAboutBox: WWWLabel.Hint	TAboutBox: WWWLabel.Caption
+http://meesoft.logicnet.dk/DiagramDesigner/help.htm	http://meesoft.logicnet.dk/DiagramDesigner/help.htm	TMainForm: InternetHelpAction.Hint
+http://meesoft.logicnet.dk/DiagramDesigner/support.htm	http://meesoft.logicnet.dk/DiagramDesigner/support.htm	TMainForm: SupportAction.Hint
+mm		DesignerSetup_rsMm
+move	flyt	Main_rsMove
+points		DesignerSetup_rsPoints
+rename	omdøb	Main_rsRename
+size	størrelse	Main_rsSize
+· Develop plugins	· Udvikle plugins	TPleaseSupportForm: Label7.Caption
+· Help improve the documentation		TPleaseSupportForm: Label5.Caption
+· The easiest is to make a donation	· Det nemmeste er at lave en donation	TPleaseSupportForm: Label3.Caption
+· Translate the program to your language	· Oversæt programmet til dit sprog	TPleaseSupportForm: Label6.Caption
+¼ points	¼ punkt	Main_rs1_4Points	TPropertyEditorForm: MarginEditLabel.Caption	TPropertyEditorForm: LineWidthEditLabel.Caption
