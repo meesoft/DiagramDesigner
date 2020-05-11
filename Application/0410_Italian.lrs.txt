@@ -42,7 +42,7 @@ Active Border	Bordo attivo	ExtCtrls_clNameActiveBorder
 Active Caption	Didascalia attiva	ExtCtrls_clNameActiveCaption												
 Add	Aggiungi	TLinkEditorForm: AddButton.Caption	TSpellCheckForm: AddButton.Caption											
 Add template	Aggiungi modello	TMainForm: ActionManager.Caption	TMainForm: AddTemplateAction.Caption											
-Add to template palette	Aggiungi alla palette modello	TMainForm: AddTemplateAction.Hint												
+Add to template palette	Aggiungi alla scelta oggetti	TMainForm: AddTemplateAction.Hint												
 Adjust page dimensions and orientation	Adatta dimensioni e orientamento pagina	TMainForm: PagePropertiesAction.Hint												
 Adler32 error	Errore Adler32	Adler32_rsAdler32Error												
 Align	Allinea	TMainForm: ActionManager.Caption	TMainForm: AlignMenuAction.Caption	TMainForm: AlignMenu.Caption										
@@ -119,9 +119,9 @@ Cannot open clipboard	Impossibile aprire gli Appunti	Consts_SCannotOpenClipboard
 Canvas does not allow drawing	L'ambiente di lavoro non permette il disegno	Consts_SNoCanvasHandle												
 Caption Text	Didascalia	ExtCtrls_clNameCaptionText												
 Center	Centro	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: AlignCenterVAction.Caption	TMainForm: AlignCenterHAction.Caption									
-Change color of all objects in active layer	Modifica il colore di tutti gli oggetti presenti nel layer attivo	TMainForm: SetLayerColorAction.Hint												
+Change color of all objects in active layer	Modifica il colore di tutti gli oggetti presenti nello strato attivo	TMainForm: SetLayerColorAction.Hint												
 Change value	Modifica valore	ExpressionHelp_rsChangeValue												
-Check active layer only	Controlla solo layer attivo	TSpellCheckForm: ActiveLayerOnlyBox.Caption												
+Check active layer only	Controlla solo strato attivo	TSpellCheckForm: ActiveLayerOnlyBox.Caption												
 Check for updates	Controlla aggiornamenti	TMainForm: ActionManager.Caption	TMainForm: CheckForUpdatesAction.Caption											
 CheckSynchronize called from thread $%x, which is NOT the main thread	CheckSynchronize chiamato dal thread $%x, che NON è il thread principale	RTLConsts_SCheckSynchronizeError												
 Circle	Cerchio	LineObject_rsCircle												
@@ -184,7 +184,7 @@ Diagram	Diagramma	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.
 Diagram (*.ddd)|*.ddd	Diagramma (*.ddd)|*.ddd	DiagramBase_rsDiagramFileFilter												
 Diagram modified, save before closing?	Diagramma modificato. #$0D Vuoi salvarlo prima di chiudere il programma?	Main_rsDiagramModifiedSaveBeforeClosing												
 Diagram or Internet link	Diagramma o collegamento internet 	TextEditor_rsDiagramOrInternetLink												
-Diagram template palette (*.ddt)|*.ddt	Palette modelli diagramma (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter												
+Diagram template palette (*.ddt)|*.ddt	Scelte oggetti diagramma (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter												
 Diamond	Diamante	LineObject_rsDiamond												
 Dictionaries (*.dic)|*.dic	Dizionari (*.dic)|*.dic	DesignerSetup_rsDictionariesDicDic												
 Disable escape chars	Dsiabilita caratteri escape	TextEditor_rsDisableEscapeChars												
@@ -207,7 +207,7 @@ Draw rectangle	Disegna rettangolo	TMainForm: DrawRectangleAction.Caption
 Draw shadows below objects	Disegna le ombre sotto l'oggetto	TMainForm: ObjectShadowsAction.Hint												
 Edit	Modifica	TFormatAssociateForm: EditActionButton.Caption	Main_rsEdit	TLinkEditorForm: EditButton.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: MouseEditAction.Caption	TMainForm: EditMenuAction.Caption	TPropertyEditorForm: EditBitmapButton.Caption	TPropertyEditorForm: EditLinksButton.Caption			
 Edit defaults	Modifica predefiniti	TDesignerSetupForm: EditDefaultLinksButton.Caption												
-Edit layer	Modifica layer	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption											
+Edit layer	Modifica strato	TMainForm: ActionManager.Caption	TMainForm: EditLayerMenuAction.Caption											
 Edit link point	Modifica ancoraggio	LinkEditor_rsEditLinkPoint												
 Edit text	Modifica testo	TTextEditorForm: TextEditorForm.Caption												
 Edit text...	Modifica testo...	TMainForm: ActionManager.Caption	TMainForm: EditTextAction.Caption											
@@ -297,7 +297,7 @@ Gaussian random number, StdDev=x	Numero gaussiano casuale, DevStd=x	ExpressionEv
 General	Generale	TPropertyEditorForm: TabSheet1.Caption												
 Get printer page format	Imposta stampante	TPagePropertiesForm: PrinterButton.Caption												
 Global stencil	Timbro globale	TMainForm: ActionManager.Caption	TMainForm: EditStencilAction.Caption											
-Glue connectors to adjoining object link points in active layer	Incolla connettori ai punti di ancoraggio degli oggetti adiacenti nel layer attivo	TMainForm: ConnectLinksAction.Hint												
+Glue connectors to adjoining object link points in active layer	Incolla connettori ai punti di ancoraggio degli oggetti adiacenti nello strato attivo	TMainForm: ConnectLinksAction.Hint												
 Go to page	Vai a pagina	TSlideShowForm: GoToPageItem.Caption												
 Gradient color	Colore gradiente	TMainForm: GradientColorAction.Hint	TPropertyEditorForm: Panel26.Caption											
 Graphics Interchange Format	Graphics Interchange Format	GIFLoader_rsGIFImageFile												
@@ -351,7 +351,7 @@ InfoLabel	Informazioni etichetta	TAboutBox: InfoLabel.Caption
 Information	Informazioni	Consts_SMsgDlgInformation												
 Inner bounds	Delimitazioni interne	TPropertyEditorForm: InnerBoundsBox.Caption												
 Ins	Ins	Consts_SmkcIns												
-Insert inherited layer...	Inserisci layer ereditato...	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption											
+Insert inherited layer...	Inserisci strato ereditato...	TMainForm: ActionManager.Caption	TMainForm: InheritLayerAction.Caption											
 Insert picture from file	Inserisci disegno da file	TMainForm: InsertPictureAction.Hint												
 Insert picture...	Inserisci disegno...	TMainForm: ActionManager.Caption	TMainForm: InsertPictureAction.Caption											
 Insert text	Inserisci testo	TMainForm: DrawTextAction.Caption												
@@ -397,7 +397,7 @@ Invalid property value	Proprietà valore non valida	RTLConsts_SInvalidPropertyVal
 Invalid reduction method	Metodo riduzione non valido	GIFImage_sInvalidReduction												
 Invalid stream format	Formato flusso dati non valido	RTLConsts_SInvalidImage												
 Invalid stream operation	Operazione sul flusso dati non valida	GIFImage_sInvalidStream												
-Invalid template palette	Aplette modelli non valida	TemplateObjects_rsInvalidTemplatePalette												
+Invalid template palette	Scelta oggetti non valida	TemplateObjects_rsInvalidTemplatePalette												
 Invalid variant operation	Operazione variante non valida	SysConst_SInvalidVarOp												
 Invalid variant operation (%s%.8x)\n%s	Operazione variante (%s%.8x)\n%s non valida	SysConst_SInvalidVarOpWithHResultWithPrefix												
 Invalid variant type	Tipo variante non valido	SysConst_SVarBadType												
@@ -421,12 +421,12 @@ LabelDescription1	LabelDescription1	TTextEditorForm: LabelDescription1.Caption
 LabelDescription2	LabelDescription2	TTextEditorForm: LabelDescription2.Caption												
 Language:	Lingua:	TSpellCheckForm: Label5.Caption												
 Last	Ultimo	TSlideShowForm: LastSlideItem.Caption												
-Layer	Layer	TMainForm: LayerTabSet.Hint												
-Layer %d	Layer %d	Main_rsLayerD												
-Layer &1	Layer &1	TMainForm: EditLayer1Action.Caption												
-Layer &2	Layer &2	TMainForm: EditLayer2Action.Caption												
-Layer &3	Layer &3	TMainForm: EditLayer3Action.Caption												
-Layer number:	N. layer:	Main_rsLayerNumber												
+Layer	Strato	TMainForm: LayerTabSet.Hint												
+Layer %d	Strato %d	Main_rsLayerD												
+Layer &1	Strato &1	TMainForm: EditLayer1Action.Caption												
+Layer &2	Strato &2	TMainForm: EditLayer2Action.Caption												
+Layer &3	Strato &3	TMainForm: EditLayer3Action.Caption												
+Layer number:	Strato numero:	Main_rsLayerNumber												
 Layout	Disposizione	TPropertyEditorForm: Panel18.Caption												
 Left	Sinistra	Consts_SmkcLeft	TMainForm: ActionManager.Caption	TMainForm: AlignLeftAction.Caption	TPropertyEditorForm: Panel11.Caption	TPropertyEditorForm: LeftAnchorBox.Hint								
 Left click to set	Clic sinistro per impostare	Main_rsLeftClickToSet												
@@ -447,13 +447,13 @@ List count out of bounds (%d)	Elenco contatori fuori del limite (%d)	RTLConsts_S
 List does not allow duplicates ($0%x)	L'elenco non può contenere duplicati ($0%x)	RTLConsts_SDuplicateItem												
 List index out of bounds (%d)	Elenco indice fuori dal limite (%d)	StringLists_rsListIndexError	RTLConsts_SListIndexError											
 Listbox (%s) style must be virtual in order to set Count	Per poter impostare il contatore  lo stile della Listbox (%s) dev'essere virtuale	Consts_SListBoxMustBeVirtual												
-Load template palette	Carica palette modelli	TMainForm: LoadTemplatePaletteMenu.Caption												
-Load template palette from library	Carica palette modelli da libreria	TMainForm: LoadTemplatePaletteMenu.Hint												
-Load template palette...	Carica palette modelli...	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption											
+Load template palette	Carica scelta oggetti	TMainForm: LoadTemplatePaletteMenu.Caption												
+Load template palette from library	Carica scelta oggetti da libreria	TMainForm: LoadTemplatePaletteMenu.Hint												
+Load template palette...	Carica scelta oggetti...	TMainForm: ActionManager.Caption	TMainForm: LoadTemplateAction.Caption											
 Loading...	Caricamento...	GIFImage_sProgressLoading	DialogsEx_rsLoading											
 Look up:	Migliora:	TSpellCheckForm: LookUpLabel.Caption												
 MainForm	ModuloPrincipale	TMainForm: MainForm.Caption												
-Make palette from active layer	Crea palette dal layer attivo	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption											
+Make palette from active layer	Crea scelta oggetti da strato attivo	TMainForm: ActionManager.Caption	TMainForm: PageToTemplateAction.Caption											
 Many	Multi	LineObject_rsMany												
 Mar	Mar	SysConst_SShortMonthNameMar												
 March	Marzo	SysConst_SLongMonthNameMar												
@@ -506,7 +506,7 @@ No help found for %s	Guida non trovata per %s	HelpIntfs_hNothingFound
 No help keyword specified.	Nessuna parola chiave specificata per la guida in linea.	WinHelpViewer_hNoKeyword												
 No icons in file	Nessuna icona nel file	ICOLoader_rsNoIconsInFile												
 No more points allowed	Non è permesso un maggior numero di punti	LineObject_rsNoMorePointsAllowed												
-No objects in active layer	Nessun oggetto nel layer attivo	Main_rsNoObjectsInActiveLayer												
+No objects in active layer	Nessun oggetto nello strato attivo	Main_rsNoObjectsInActiveLayer												
 No solution found, try changing starting guess	Nessuna soluzione trovata.#$0DProva amodificare la congettura iniziale	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess												
 No topic-based help system installed	Nessuna guida per argomento installata nel sistema	HelpIntfs_hNoTopics												
 "No version-info was associated with the requested file \""%s\"""	"Nessuna informazione di versione è stata associata al file richiesto \""%s\"""	VersionInfo_rs_noversioninfo												
@@ -524,7 +524,7 @@ Object properties	Proprietà oggetto	TMainForm: PropertiesAction.Hint
 Object type not supported for operation	Tipo oggetto non supportato dall'operazione	GIFImage_sUnsupportedClass												
 Object:	Oggetto:	TSpellCheckForm: Label2.Caption												
 Objects cast shadows	Ombra gruppo oggetti	TMainForm: ActionManager.Caption	TMainForm: ObjectShadowsAction.Caption											
-Objects in this layer are visible in all pages	L'oggetto in questo livello è visibile in tutte le pagine	TMainForm: EditStencilAction.Hint												
+Objects in this layer are visible in all pages	Gli oggetti in questo strato sono visibili in tutte le pagine	TMainForm: EditStencilAction.Hint												
 Oct	Ott	SysConst_SShortMonthNameOct												
 October	Ottobre	SysConst_SLongMonthNameOct												
 Odd rounded 1	Tondo 1	FlowchartObject_rsOddRounded1												
@@ -549,13 +549,13 @@ Out of system resources	Risorse di sistema insufficienti	Consts_SOutOfResources
 Overflow while converting variant of type (%s) into type (%s)	Overflow durante la conversione della variante di tipo (%s) nel tipo (%s)	SysConst_SVarTypeConvertOverflow												
 Overlay	Overlay	TMainForm: OverlayConnectorLabelsAction.Caption												
 Overline	Sopralineato	TextEditor_rsOverline												
-Overwrite template palette contents with objects from active layer?	Vuoi sovrascrivere la palette modelli con gli oggetti del layer attivo?	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer												
+Overwrite template palette contents with objects from active layer?	Sovrascrivere la scelta oggetti con gli oggetti dello strato attivo?	Main_rsOverwriteTemplatePaletteContentsWithObjectsFromActiveLayer												
 Page	Pagina	Main_rsPage	TMainForm: PageTabSet.Hint											
 Page %d	Pagina %d	DiagramBase_rsPageD												
 Page count	Numero pagine	TextEditor_rsPageCount												
 Page number	Numero pagina	TextEditor_rsPageNumber												
 Page number:	Pagina numero:	SlideShow_rsPageNumber												
-Page p%s layer %d	Pagina p%s layer %d	PictureObject_rsPagePSLayerD												
+Page p%s layer %d	Pagina p%s strato %d	PictureObject_rsPagePSLayerD												
 Page properties	Proprietà pagina	TPagePropertiesForm: PagePropertiesForm.Caption												
 Page properties...	Proprietà pagina...	TMainForm: ActionManager.Caption	TMainForm: PagePropertiesAction.Caption											
 Page title	Titolo pagina	TextEditor_rsPageTitle												
@@ -635,7 +635,7 @@ Sat	Sab	SysConst_SShortDayNameSat
 Saturday	Sabato	SysConst_SLongDayNameSat												
 Save	Salva	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: SaveAction.Caption									
 Save as...	Salva come...	TMainForm: ActionManager.Caption	TMainForm: SaveAsAction.Caption											
-Save template palette...	Salva palette modelli...	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption											
+Save template palette...	Salva scelta oggetti...	TMainForm: ActionManager.Caption	TMainForm: SaveTemplateAction.Caption											
 Saving...	Salvataggio...	GIFImage_sProgressSaving												
 Scan line index out of range	Analizza indice linea fuori intervallo	Consts_SScanLine												
 Scroll Bar	Barra di scorrimento	ExtCtrls_clNameScrollBar												
@@ -655,7 +655,7 @@ Set	Imposta	TPropertyEditorForm: ColorKeyButton.Caption
 Set diagram font	Imposta font diagramma	TMainForm: DiagramFontAction.Hint												
 Set dictionary path	Imposta percorso dizionario	TDesignerSetupForm: DictionaryPathButton.Caption												
 Set font by name	Imposta nome font	TextEditor_rsSetFontByName												
-Set layer color...	Imposta colore layer	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption											
+Set layer color...	Imposta colore strato	TMainForm: ActionManager.Caption	TMainForm: SetLayerColorAction.Caption											
 Set program language	Imposta la lingua del programma	TDesignerSetupForm: LanguageButton.Caption												
 Shift+	Shift+	Consts_SmkcShift												
 Show grid	Visualizza griglia	TDesignerSetupForm: ShowGridBox.Caption												
@@ -707,8 +707,8 @@ Tab index out of bounds	Indice scheda fuori dall'area	Consts_SInvalidTabIndex
 Tab position incompatible with current tab style	Posizione scheda incompatibile con lo stile scheda corrente	Consts_SInvalidTabPosition												
 Tab style incompatible with current tab position	Stile scheda incompatibile con la posizione attuale scheda	Consts_SInvalidTabStyle												
 Teal	Grigio/blu	ExtCtrls_clNameTeal												
-Template palette	Palette modelli	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption											
-Template palette - drag objects from here to diagram	Malette modelli - Trascina oggetti da qui nel diagramma	TMainForm: TemplateScrollBox.Hint												
+Template palette	Scelta oggetti	TMainForm: ActionManager.Caption	TMainForm: TemplatePaletteMenuAction.Caption											
+Template palette - drag objects from here to diagram	Scelta oggetti - Trascina oggetti da qui nel diagramma	TMainForm: TemplateScrollBox.Hint												
 Terminate application	Termina applicazione 	StyleForm_rsTerminateApplication												
 Text	Testo	Main_rsText	TPropertyEditorForm: Panel2.Caption											
 Text and metafile rotation	Rotazione testo e metafile	TPropertyEditorForm: Panel19.Hint	TPropertyEditorForm: AngleEdit.Hint											
