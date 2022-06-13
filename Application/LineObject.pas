@@ -1769,13 +1769,15 @@ var
 
   procedure DrawSegments;
   var
-    I, LastSegment : Integer;
+    I, LineSegments : Integer;
     t : Double;
   begin
-    LastSegment:=Floor(PointDist(P[1],P[2])/DesignerDPI*50);
-    for I:=1 to LastSegment-1 do
+    LineSegments:=Floor(PointDist(P[1],P[2])/DesignerDPI*50);
+    if LineSegments>1000 then
+      LineSegments:=1000;
+    for I:=1 to LineSegments-1 do
     begin
-      t:=I/LastSegment;
+      t:=I/LineSegments;
       with CanvasInfo.CanvasPoint(CatmullRomPoly(P[0].X,P[1].X,P[2].X,P[3].X,t),
                                   CatmullRomPoly(P[0].Y,P[1].Y,P[2].Y,P[3].Y,t)) do LineTo(X,Y);
     end;
@@ -2121,16 +2123,16 @@ var
 
   procedure AddSegments;
   var
-    I, PointIndex, LastSegment : Integer;
+    I, PointIndex, LineSegments : Integer;
     t : Double;
   begin
-    LastSegment:=Floor(PointDist(P[1],P[2])/DesignerDPI*50);
-    if LastSegment=0 then Exit; // Points are identical
+    LineSegments:=Floor(PointDist(P[1],P[2])/DesignerDPI*50);
+    if LineSegments=0 then Exit; // Points are identical
     PointIndex:=Length(LinkPoints^);
-    SetLength(LinkPoints^,PointIndex+LastSegment);
-    for I:=1 to LastSegment-1 do
+    SetLength(LinkPoints^,PointIndex+LineSegments);
+    for I:=1 to LineSegments-1 do
     begin
-      t:=I/LastSegment;
+      t:=I/LineSegments;
       LinkPoints^[PointIndex]:=FloatPoint(CatmullRomPoly(P[0].X,P[1].X,P[2].X,P[3].X,t),
                                           CatmullRomPoly(P[0].Y,P[1].Y,P[2].Y,P[3].Y,t));
       Inc(PointIndex);
