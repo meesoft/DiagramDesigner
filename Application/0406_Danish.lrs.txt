@@ -139,7 +139,7 @@ Color table overflow	Farvetabel overflow	GIFImage_sTooManyColors
 Conditional value		ExpressionEval_rsConditionalValue
 Confirm	Bekræft	Consts_SMsgDlgConfirm
 Connect links	Forbind knuder	TMainForm: ActionManager.Caption	TMainForm: ConnectLinksAction.Caption
-Connector label style		TMainForm: ConnectorLabelStyleMenuAction.Caption
+Connector label style	Tekststil over linjer	TMainForm: ConnectorLabelStyleMenuAction.Caption
 Continue	Fortsæt	TPleaseSupportForm: CloseButton.Caption
 Control '%s' has no parent window	Kontrollen '%s' har intet forældervindue	Consts_SParentRequired
 Control-C hit	Control-C trykket	SysConst_SControlC
@@ -164,7 +164,7 @@ Curve must be closed Catmull-Rom spline or line segments		LineObject_rsCurveMust
 Curve type	Kurvetype	TPropertyEditorForm: Panel23.Caption
 Cut	Klip	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: CutAction.Caption
 Cut text through connector lines and curves 		TMainForm: CutConnectorLabelsAction.Hint
-Cut throgh		TMainForm: CutConnectorLabelsAction.Caption
+Cut throgh	Skær gennem	TMainForm: CutConnectorLabelsAction.Caption
 Dec	Dec	SysConst_SShortMonthNameDec
 December	December	SysConst_SLongMonthNameDec
 Decoder bit buffer under-run	Decoder bit buffer under-run	GIFImage_sDecodeTooFewBits

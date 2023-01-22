@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="8.2" version="8.2" Modules="freeware" RootPath="." Language="en">
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="AI_APP_ARGS" Value="*"/>
+    <ROW Property="ALLUSERS" Value="2"/>
+    <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
+    <ROW Property="ARPNOMODIFY" MultiBuildValue="DefaultBuild:1"/>
+    <ROW Property="ARPNOREPAIR" Value="1"/>
+    <ROW Property="ARPPRODUCTICON" Value="DiagramDesigner.exe" Type="8"/>
+    <ROW Property="ARPURLINFOABOUT" Value="http://meesoft.logicnet.dk"/>
+    <ROW Property="ARPURLUPDATEINFO" Value="http://meesoft.logicnet.dk/DiagramDesigner/CheckForUpdates.php"/>
+    <ROW Property="CTRLS" Value="3"/>
+    <ROW Property="Manufacturer" Value="MeeSoft" ValueLocId="*"/>
+    <ROW Property="ProductCode" Value="1033:{A2BFEE1A-3112-4E28-ACEA-E46DCE64648B} " Type="16"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductName" Value="Diagram Designer" ValueLocId="*"/>
+    <ROW Property="ProductVersion" Value="1.30.0"/>
+    <ROW Property="REBOOT" MultiBuildValue="DefaultBuild:ReallySuppress"/>
+    <ROW Property="RUNAPPLICATION" Value="1" Type="4"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{83C31AF8-EA2B-4BF9-BB68-8EC342897523}"/>
+    <ROW Property="VIEWREADME" Value="1" Type="4"/>
+    <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 95, Windows 95 OSR, Windows 95 OSR2.5" ValueLocId="-"/>
+    <ROW Property="WindowsType9XDisplay" MultiBuildValue="DefaultBuild:Windows 95, Windows 95 OSR, Windows 95 OSR2.5" ValueLocId="-"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="APPDIR" Directory_Parent="TARGETDIR" DefaultDir="APPDIR:." IsPseudoRoot="1"/>
+    <ROW Directory="SHORTCUTDIR" Directory_Parent="TARGETDIR" DefaultDir="SHORTC~1|SHORTCUTDIR" IsPseudoRoot="1"/>
+    <ROW Directory="TARGETDIR" DefaultDir="SourceDir"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="Chinese_Traditional_.lrs.txt" ComponentId="{603F3A3A-7409-40A7-AC00-4162DA5DBA87}" Directory_="APPDIR" Attributes="0" KeyPath="Chinese_Traditional_.lrs.txt" Type="0"/>
+    <ROW Component="DDThumb.dll" ComponentId="{05585BE8-046A-48D6-A952-4DDDF22A6503}" Directory_="APPDIR" Attributes="0" KeyPath="DDThumb.dll"/>
+    <ROW Component="DiagramDesigner.chm" ComponentId="{F0419782-6296-49D6-B23A-1D545C34386B}" Directory_="APPDIR" Attributes="0" KeyPath="DiagramDesigner.chm" Type="1"/>
+    <ROW Component="DiagramDesigner.exe" ComponentId="{7169549A-4B4C-43DC-89B4-458A80D18549}" Directory_="APPDIR" Attributes="0" KeyPath="DiagramDesigner.exe"/>
+    <ROW Component="DiagramReader.dll" ComponentId="{3DBE05D6-0501-4AB7-85DE-E6F5159F0C55}" Directory_="APPDIR" Attributes="0" KeyPath="DiagramReader.dll"/>
+    <ROW Component="README.TXT" ComponentId="{C0408DAC-2E93-4DFA-82BD-274AAE0FB82C}" Directory_="APPDIR" Attributes="0" KeyPath="README.TXT"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0" Components="Chinese_Traditional_.lrs.txt DDThumb.dll DiagramDesigner.chm DiagramDesigner.exe DiagramReader.dll README.TXT"/>
+    <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="Chinese_Simplified_.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0804_C~1.txt|0804_Chinese [Simplified].lrs.txt" Attributes="0" SourcePath="..\Application\0804_Chinese [Simplified].lrs.txt" SelfReg="false" NextFile="Portuguese.lrs.txt"/>
+    <ROW File="Chinese_Traditional_.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0404_C~1.txt|0404_Chinese [Traditional].lrs.txt" Attributes="0" SourcePath="..\Application\0404_Chinese [Traditional].lrs.txt" SelfReg="false" NextFile="Czech.lrs.txt"/>
+    <ROW File="Czech.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0405_C~1.txt|0405_Czech.lrs.txt" Attributes="0" SourcePath="..\Application\0405_Czech.lrs.txt" SelfReg="false" NextFile="Danish.lrs.txt"/>
+    <ROW File="DDThumb.dll" Component_="DDThumb.dll" FileName="DDThumb.dll" Attributes="0" SourcePath="..\Application\DDThumb.dll" SelfReg="false" NextFile="DiagramDesigner.exe"/>
+    <ROW File="Danish.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0406_D~1.txt|0406_Danish.lrs.txt" Attributes="0" SourcePath="..\Application\0406_Danish.lrs.txt" SelfReg="false" NextFile="German.lrs.txt"/>
+    <ROW File="DiagramDesigner.chm" Component_="DiagramDesigner.chm" FileName="Diagra~1.chm|DiagramDesigner.chm" Attributes="0" SourcePath="..\Help\DiagramDesigner.chm" SelfReg="false" NextFile="GUI_design_1.ddt"/>
+    <ROW File="DiagramDesigner.drc" Component_="Chinese_Traditional_.lrs.txt" FileName="Diagra~1.drc|DiagramDesigner.drc" Attributes="0" SourcePath="..\Application\DiagramDesigner.drc" SelfReg="false" NextFile="README.TXT"/>
+    <ROW File="DiagramDesigner.exe" Component_="DiagramDesigner.exe" FileName="Diagra~1.exe|DiagramDesigner.exe" Attributes="0" SourcePath="..\Application\DiagramDesigner.exe" SelfReg="false" NextFile="DiagramReader.dll"/>
+    <ROW File="DiagramReader.dll" Component_="DiagramReader.dll" FileName="Diagra~1.dll|DiagramReader.dll" Attributes="0" SourcePath="..\Application\DiagramReader.dll" SelfReg="false" NextFile="Flowchart.ddt"/>
+    <ROW File="Dutch.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0413_D~1.txt|0413_Dutch.lrs.txt" Attributes="0" SourcePath="..\Application\0413_Dutch.lrs.txt" SelfReg="false" NextFile="Norwegian.lrs.txt"/>
+    <ROW File="Electronic_Symbols_1.ddt" Component_="Chinese_Traditional_.lrs.txt" FileName="Electr~1.ddt|Electronic Symbols 1.ddt" Attributes="0" SourcePath="..\TemplatePalettes\Electronic Symbols 1.ddt" SelfReg="false" NextFile="Electronic_Symbols_2.ddt"/>
+    <ROW File="Electronic_Symbols_2.ddt" Component_="Chinese_Traditional_.lrs.txt" FileName="Electr~2.ddt|Electronic Symbols 2.ddt" Attributes="0" SourcePath="..\TemplatePalettes\Electronic Symbols 2.ddt" SelfReg="false" NextFile="Electronic_Symbols_3.ddt"/>
+    <ROW File="Electronic_Symbols_3.ddt" Component_="Chinese_Traditional_.lrs.txt" FileName="Electr~3.ddt|Electronic Symbols 3.ddt" Attributes="0" SourcePath="..\TemplatePalettes\Electronic Symbols 3.ddt" SelfReg="false" NextFile="untranslated.txt"/>
+    <ROW File="Estonian.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0425_E~1.txt|0425_Estonian.lrs.txt" Attributes="0" SourcePath="..\Application\0425_Estonian.lrs.txt" SelfReg="false" NextFile="Chinese_Simplified_.lrs.txt"/>
+    <ROW File="F_Turkish.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="041F_T~1.txt|041F_Turkish.lrs.txt" Attributes="0" SourcePath="..\Application\041F_Turkish.lrs.txt" SelfReg="false"/>
+    <ROW File="Flowchart.ddt" Component_="Chinese_Traditional_.lrs.txt" FileName="Flowch~1.ddt|Flowchart.ddt" Attributes="0" SourcePath="..\Application\Flowchart.ddt" SelfReg="false" NextFile="Line_styles.ddd"/>
+    <ROW File="GUI_design_1.ddt" Component_="Chinese_Traditional_.lrs.txt" FileName="GUIdes~1.ddt|GUI design 1.ddt" Attributes="0" SourcePath="..\TemplatePalettes\GUI design 1.ddt" SelfReg="false" NextFile="GUI_design_2.ddt"/>
+    <ROW File="GUI_design_2.ddt" Component_="Chinese_Traditional_.lrs.txt" FileName="GUIdes~2.ddt|GUI design 2.ddt" Attributes="0" SourcePath="..\TemplatePalettes\GUI design 2.ddt" SelfReg="false" NextFile="UML_Class_Diagram.ddt"/>
+    <ROW File="German.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0407_G~1.txt|0407_German.lrs.txt" Attributes="0" SourcePath="..\Application\0407_German.lrs.txt" SelfReg="false" NextFile="a_Spanish.lrs.txt"/>
+    <ROW File="Italian.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0410_I~1.txt|0410_Italian.lrs.txt" Attributes="0" SourcePath="..\Application\0410_Italian.lrs.txt" SelfReg="false" NextFile="Japanese.lrs.txt"/>
+    <ROW File="Japanese.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0411_J~1.txt|0411_Japanese.lrs.txt" Attributes="0" SourcePath="..\Application\0411_Japanese.lrs.txt" SelfReg="false" NextFile="Korean.lrs.txt"/>
+    <ROW File="Korean.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0412_K~1.txt|0412_Korean.lrs.txt" Attributes="0" SourcePath="..\Application\0412_Korean.lrs.txt" SelfReg="false" NextFile="Dutch.lrs.txt"/>
+    <ROW File="Line_styles.ddd" Component_="Chinese_Traditional_.lrs.txt" FileName="Linest~1.ddd|Line styles.ddd" Attributes="0" SourcePath="..\Application\Line styles.ddd" SelfReg="false" NextFile="DiagramDesigner.drc"/>
+    <ROW File="Norwegian.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0414_N~1.txt|0414_Norwegian.lrs.txt" Attributes="0" SourcePath="..\Application\0414_Norwegian.lrs.txt" SelfReg="false" NextFile="Polish.lrs.txt"/>
+    <ROW File="Polish.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0415_P~1.txt|0415_Polish.lrs.txt" Attributes="0" SourcePath="..\Application\0415_Polish.lrs.txt" SelfReg="false" NextFile="Portuguese_Bra_.lrs.txt"/>
+    <ROW File="Portuguese.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0816_P~1.txt|0816_Portuguese.lrs.txt" Attributes="0" SourcePath="..\Application\0816_Portuguese.lrs.txt" SelfReg="false" NextFile="DDThumb.dll"/>
+    <ROW File="Portuguese_Bra_.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0416_P~1.txt|0416_Portuguese [Bra].lrs.txt" Attributes="0" SourcePath="..\Application\0416_Portuguese [Bra].lrs.txt" SelfReg="false" NextFile="Romanian.lrs.txt"/>
+    <ROW File="README.TXT" Component_="README.TXT" FileName="README.TXT" Attributes="0" SourcePath="..\README.TXT" SelfReg="false" NextFile="DiagramDesigner.chm"/>
+    <ROW File="Romanian.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0418_R~1.txt|0418_Romanian.lrs.txt" Attributes="0" SourcePath="..\Application\0418_Romanian.lrs.txt" SelfReg="false" NextFile="Russian.lrs.txt"/>
+    <ROW File="Russian.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="0419_R~1.txt|0419_Russian.lrs.txt" Attributes="0" SourcePath="..\Application\0419_Russian.lrs.txt" SelfReg="false" NextFile="d_Swedish.lrs.txt"/>
+    <ROW File="UML_Class_Diagram.ddt" Component_="Chinese_Traditional_.lrs.txt" FileName="UMLCla~1.ddt|UML Class Diagram.ddt" Attributes="0" SourcePath="..\TemplatePalettes\UML Class Diagram.ddt" SelfReg="false" NextFile="Electronic_Symbols_1.ddt"/>
+    <ROW File="a_Serbian.lrs.txt_1" Component_="Chinese_Traditional_.lrs.txt" FileName="241a_S~1.txt|241a_Serbian.lrs.txt" Attributes="0" SourcePath="..\Application\241a_Serbian.lrs.txt" SelfReg="false" NextFile="F_Turkish.lrs.txt"/>
+    <ROW File="a_Spanish.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="040a_S~1.txt|040a_Spanish.lrs.txt" Attributes="0" SourcePath="..\Application\040a_Spanish.lrs.txt" SelfReg="false" NextFile="b_Finnish.lrs.txt"/>
+    <ROW File="b_Finnish.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="040b_F~1.txt|040b_Finnish.lrs.txt" Attributes="0" SourcePath="..\Application\040b_Finnish.lrs.txt" SelfReg="false" NextFile="c_French.lrs.txt"/>
+    <ROW File="c_French.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="040c_F~1.txt|040c_French.lrs.txt" Attributes="0" SourcePath="..\Application\040c_French.lrs.txt" SelfReg="false" NextFile="e_Hungarian.lrs.txt"/>
+    <ROW File="d_Swedish.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="041d_S~1.txt|041d_Swedish.lrs.txt" Attributes="0" SourcePath="..\Application\041d_Swedish.lrs.txt" SelfReg="false" NextFile="Estonian.lrs.txt"/>
+    <ROW File="e_Hungarian.lrs.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="040e_H~1.txt|040e_Hungarian.lrs.txt" Attributes="0" SourcePath="..\Application\040e_Hungarian.lrs.txt" SelfReg="false" NextFile="Italian.lrs.txt"/>
+    <ROW File="untranslated.txt" Component_="Chinese_Traditional_.lrs.txt" FileName="untran~1.txt|untranslated.txt" Attributes="0" SourcePath="..\Application\untranslated.txt" SelfReg="false" NextFile="a_Serbian.lrs.txt_1"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
+    <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" PackageFolder="Setup Files" PackageFileName="DiagramDesignerSetup" Languages="en" InstallationType="4"/>
+    <ATTRIBUTE name="CurrentBuild" value="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;ui_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
+    <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>
+    <ROW Fragment="FolderDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\FolderDlg.aip"/>
+    <ROW Fragment="SequenceDialogs.aip" Path="&lt;AI_THEMES&gt;classic\fragments\SequenceDialogs.aip"/>
+    <ROW Fragment="Sequences.aip" Path="&lt;AI_FRAGS&gt;Sequences.aip"/>
+    <ROW Fragment="StaticUIStrings.aip" Path="&lt;AI_FRAGS&gt;StaticUIStrings.aip"/>
+    <ROW Fragment="UI.aip" Path="&lt;AI_THEMES&gt;classic\fragments\UI.aip"/>
+    <ROW Fragment="Validation.aip" Path="&lt;AI_FRAGS&gt;Validation.aip"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlComponent">
+    <ATTRIBUTE name="FixedSizeBitmaps" value="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlEventComponent">
+    <ROW Dialog_="FolderDlg" Control_="Back" Event="NewDialog" Argument="WelcomeDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="WelcomeDlg" Control_="Next" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="FolderDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_INSTALL" Ordering="197"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceWelcomeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceWelcomeDlg" Control_="Next" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="99"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="ChangeButton" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="301"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="202"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_MAINT" Ordering="198"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="PatchWelcomeDlg" Condition="AI_PATCH" Ordering="203"/>
+    <ROW Dialog_="PatchWelcomeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_PATCH" Ordering="201"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_PATCH" Ordering="199"/>
+    <ROW Dialog_="ResumeDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_RESUME" Ordering="299"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_DOWNGRADE" Type="19" Target="4010"/>
+    <ROW Action="AI_LaunchApp" Type="1" Source="aicustact.dll" Target="[#DiagramDesigner.exe]"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Type="65" Source="aicustact.dll" Target="PrepareUpgrade"/>
+    <ROW Action="AI_ResolveKnownFolders" Type="1" Source="aicustact.dll" Target="AI_ResolveKnownFolders"/>
+    <ROW Action="AI_STORE_LOCATION" Type="51" Source="ARPINSTALLLOCATION" Target="[APPDIR]"/>
+    <ROW Action="AI_ViewReadme" Type="1" Source="aicustact.dll" Target="[#README.TXT]"/>
+    <ROW Action="SET_APPDIR" Type="307" Source="APPDIR" Target="[ProgramFilesFolder][Manufacturer]\[ProductName]" MultiBuildTarget="DefaultBuild:[ProgramFilesFolder][Manufacturer]\DiagramDesigner"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][ProductName]"/>
+    <ROW Action="SET_TARGETDIR_TO_APPDIR" Type="51" Source="TARGETDIR" Target="[APPDIR]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
+    <ROW Name="DiagramDesigner.exe" SourcePath="..\Application\DiagramDesigner.ico" Index="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiIniFileComponent">
+    <ROW IniFile="URL" FileName="meesof~1.url|meesoft.com.url" DirProperty="SHORTCUTDIR" Section="InternetShortcut" Key="URL" Value="http://meesoft.com" Action="0" Component_="Chinese_Traditional_.lrs.txt"/>
+    <ROW IniFile="WorkingDirectory" FileName="meesof~1.url|meesoft.com.url" DirProperty="SHORTCUTDIR" Section="InternetShortcut" Key="WorkingDirectory" Value="[SHORTCUTDIR]" Action="0" Component_="Chinese_Traditional_.lrs.txt"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+    <ROW Action="AI_STORE_LOCATION" Condition="Not Installed" Sequence="1501"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Condition="AI_UPGRADE=&quot;No&quot; AND (Not Installed)" Sequence="1399"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ROW Action="AI_ResolveKnownFolders" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiLaunchConditionsComponent">
+    <ROW Condition="( VersionNT OR ( Version9X AND ((Version9X &lt;&gt; 400) OR ((Version9X = 400) AND (WindowsBuild &lt;&gt; 950))) AND ((Version9X &lt;&gt; 400) OR ((Version9X = 400) AND (WindowsBuild &lt;&gt; 951))) AND ((Version9X &lt;&gt; 400) OR ((Version9X = 400) AND (WindowsBuild &lt;&gt; 1111))) ) )" Description="[ProductName] cannot be installed on the following Windows versions: [WindowsType9XDisplay]" DescriptionLocId="AI.LaunchCondition.NoSpecific9X" IsPredefined="true" Builds="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
+    <ROW Shortcut="DiagramDesigner.exe" Directory_="SHORTCUTDIR" Name="Diagra~1|DiagramDesigner" Component_="DiagramDesigner.exe" Target="[#DiagramDesigner.exe]" Description="DiagramDesigner.exe" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+    <ROW Shortcut="ReadMe" Directory_="SHORTCUTDIR" Name="ReadMe" Component_="README.TXT" Target="[#README.TXT]" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
+    <ATTRIBUTE name="UsedTheme" value="classic"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMax="[|ProductVersion]" Attributes="1025" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
+  </COMPONENT>
+</DOCUMENT>
