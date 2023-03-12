@@ -1,7 +1,7 @@
  - Dock zone has no control	 - Zona di aggancio senza controllo	Consts_SDockZoneHasNoCtl												
  - Dock zone not found	 - Zona di aggancio non trovata	Consts_SDockZoneNotFound												
 %d files selected	% file selezionati	DialogsEx_rsDFilesSelected												
-%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d è un valore 'Indice pagina' non valido. #$0DL'indice pagina dev'essere compreso tra 0 e %d	ComStrs_sPageIndexError												
+%d is an invalid PageIndex value.  PageIndex must be between 0 and %d	%d è un valore 'Indice pagina' non valido. L'indice pagina dev'essere compreso tra 0 e %d	ComStrs_sPageIndexError												
 %d link points defined	%d punti ancora definiti	PropertyEditor_rsDLinkPointsDefined												
 %s (%s, line %d)	%s (%s, linea %d)	SysConst_SAssertError												
 %s does not allow hiding	non è permesso nascondere %s	Consts_SCannotHideActionBand												
@@ -10,7 +10,7 @@
 %s not in a class registration group	%s non è in un gruppo di classe di registrazione	RTLConsts_SUnknownGroup												
 %s on %s	%s su %s	Consts_SDeviceOnPort												
 %s property out of range	proprietà %s fuori dall'intervallo	Consts_SPropertyOutOfRange												
-%s.Seek not implemented	%s. #$0DRicerca non implementata	RTLConsts_SSeekNotImplemented												
+%s.Seek not implemented	%s. Ricerca non implementata	RTLConsts_SSeekNotImplemented												
 &Abort	&Interrompi	Consts_SMsgDlgAbort												
 &Add or Remove Buttons	&Aggiungi o rimuovi pulsanti	Consts_SAddRemoveButtons												
 &All	&Tutto	Consts_SMsgDlgAll	Consts_SAllButton											
@@ -55,7 +55,7 @@ Ancestor for '%s' not found	Livello superiore '%s' non trovato	RTLConsts_SAncest
 Anchors	Ancoraggi	TPropertyEditorForm: PanelAnchors.Caption												
 Anchors used when resizing group	Ancoraggi usati in ridimensionamento gruppi	TPropertyEditorForm: PanelAnchors.Hint												
 Antialiasing	Ben tracciato	TDesignerSetupForm: AntialiasingBox.Caption												
-Antialiasing for slide show and bitmap export	Antialiasing linee per esportazione presentazioni e bitmap	TDesignerSetupForm: AntialiasingBox.Hint												
+Antialiasing for slide show and bitmap export	Linee meglio tracciate per esportazione presentazioni e immagini	TDesignerSetupForm: AntialiasingBox.Hint												
 Any angle...	Qualsiasi angolo...	TMainForm: ActionManager.Caption	TMainForm: RotateAction.Caption											
 Application Error	Errore applicazione	SysConst_SExceptTitle												
 Application Workspace	Spazio di lavoro applicazione	ExtCtrls_clNameAppWorkSpace												
@@ -83,10 +83,10 @@ Base 10 logarithm	Logaritmo base 10	ExpressionEval_rsBase10Logarithm
 Base 2 logarithm	Logaritmo base 2	ExpressionEval_rsBase2Logarithm												
 Base e logarithm	Logaritmo base e	ExpressionEval_rsBaseELogarithm												
 Bilinear interpolation stretch (not supported with transparency)	Allungamento interpolazione bilineare (non supportato con trasparenza)	TPropertyEditorForm: HalftoneCheckBox.Hint												
-Bitmap	Bitmap	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption											
-Bitmap image is not valid	Immagine bitmap non valida	Consts_SInvalidBitmap												
-Bitmap scaling	Adattamento bitmap	TPropertyEditorForm: Panel16.Caption												
-Bitmaps	Bitmap	Consts_SVBitmaps												
+Bitmap	Immagine	Main_rsBitmap	TPropertyEditorForm: Panel15.Caption											
+Bitmap image is not valid	Immagine non valida	Consts_SInvalidBitmap												
+Bitmap scaling	Scala immagini	TPropertyEditorForm: Panel16.Caption												
+Bitmaps	Immagini	Consts_SVBitmaps												
 Bits index out of range	Indice bit fuori dall'intervallo	RTLConsts_SBitsIndexError												
 BkSp	BkSp	Consts_SmkcBkSp												
 Black	Nero	ExtCtrls_clNameBlack												
@@ -109,7 +109,7 @@ Cannot change Visible in OnShow or OnHide	Impossibile cambiare 'Visibile' in 'Vi
 Cannot change the size of a JPEG image	Impossibile modificare le dimensioni di un'immagine JPEG	JConsts_sChangeJPGSize												
 Cannot change the size of an icon	Impossibile modificare le dimensioni di un'icona	Consts_SChangeIconSize												
 Cannot create file \"%s\". %s	Impossibile creare il file \"%s\". %s	RTLConsts_SFCreateErrorEx												
-Cannot create form. No MDI forms are currently active	Impossibile creare il modulo. #$0DNessun modulo MDI è attualmente attivo	Consts_SNoMDIForm												
+Cannot create form. No MDI forms are currently active	Impossibile creare il modulo. Nessun modulo MDI è attualmente attivo	Consts_SNoMDIForm												
 Cannot drag a form	Impossibile trascinare un modulo	Consts_SCannotDragForm												
 Cannot focus a disabled or invisible window	Impossibile focalizzare una finestra disabilitata o invisibile	Consts_SCannotFocus												
 Cannot hide an MDI Child Form	Impossibile nascondere un modulo MDI figlio	Consts_SMDIChildNotVisible												
@@ -182,7 +182,7 @@ Description	Descrizione	TFormatAssociateForm: DescriptionBox.Caption	TExpression
 Deselect all	Deseleziona tutto	TFormatAssociateForm: NoneButton.Caption												
 Diagram	Diagramma	TMainForm: ActionManager.Caption	TMainForm: DiagramMenuAction.Caption											
 Diagram (*.ddd)|*.ddd	Diagramma (*.ddd)|*.ddd	DiagramBase_rsDiagramFileFilter												
-Diagram modified, save before closing?	Diagramma modificato. #$0D Vuoi salvarlo prima di chiudere il programma?	Main_rsDiagramModifiedSaveBeforeClosing												
+Diagram modified, save before closing?	Diagramma modificato. Vuoi salvarlo prima di chiudere il programma?	Main_rsDiagramModifiedSaveBeforeClosing												
 Diagram or Internet link	Diagramma o collegamento internet 	TextEditor_rsDiagramOrInternetLink												
 Diagram template palette (*.ddt)|*.ddt	Teca simboli diagramma (*.ddt)|*.ddt	DiagramBase_rsTemplatePaletteFilter												
 Diamond	Diamante	LineObject_rsDiamond												
@@ -196,7 +196,7 @@ Division by zero	Divisione per zero	SysConst_SDivByZero
 Docked control must have a name	Il controllo agganciato deve avere un nome	Consts_SDockedCtlNeedsName												
 Done	Fatto	PropertyEditor_rsDone												
 Double arrow	Doppia freccia	LineObject_rsDoubleArrow3												
-Down	Giù	Consts_SmkcDown												
+Down	Basso	Consts_SmkcDown												
 Download	Scarica	PropertyEditor_rsDownload												
 Draw arrow	Disegna freccia	TMainForm: DrawArrowAction.Caption												
 Draw connector	Disegna connettore	TMainForm: DrawConnectorAction.Caption												
@@ -224,7 +224,7 @@ Error creating variant or safe array	Errore creazione variante o salvataggio vet
 Error creating window class	Errore creazione classe finestra	Consts_SWindowClass												
 Error creating window device context	Errore creazione finestra contesto dispositivo	Consts_SWindowDCError												
 Error deleting \"%s\" - %s	Errore eliminazione \"%s\" - %s	Streams_rs_DeleteFileError												
-Error in bitmap data	Errore nei dati della bitmap	LinarBitmap_rsErrorInBitmapData	AnalyzerPlugins_rsErrorInBitmapData											
+Error in bitmap data	Errore nei dati dell'immagine	LinarBitmap_rsErrorInBitmapData	AnalyzerPlugins_rsErrorInBitmapData											
 Error in compressed data	Errore nell'archivio compresso	Deflate_rsErrorInCompressedData												
 Error loading previously saved settings file: %s\rWould you like to delete it?	Errore caricamento file precedente impostazioni: %s\rVuoi eliminare il file?	Consts_SErrorLoadingFile												
 Error moving file pointer - %s	Errore spostamento puntatore file - %s	Streams_rs_SeekFileError												
@@ -247,7 +247,7 @@ Expand	Espandi	Consts_SExpand
 Export	Esporta	TPropertyEditorForm: ExportBitmapButton.Caption	TPropertyEditorForm: ExportMetafileButton.Caption											
 Export all pages	Esporta tutte le pagine	DiagramExport_rsExportAllPages												
 Export file DPI:	DPI file da esportare:	DiagramExport_rsExportFileDPI												
-Export page to bitmap or metafile	Esporta pagina come bitmap o metafile	TMainForm: ExportAction.Hint												
+Export page to bitmap or metafile	Esporta pagina come immagine o metafile	TMainForm: ExportAction.Hint												
 Export page...	Esporta pagina...	TMainForm: ActionManager.Caption	TMainForm: ExportAction.Caption											
 Expression evaluator	Risolutore di espressioni	TExpressionEvalForm: ExpressionEvalForm.Caption												
 Expression evaluator...	Risolutore di espressioni...	TMainForm: ActionManager.Caption	TMainForm: ExpressionEvaluator.Caption											
@@ -322,13 +322,13 @@ HelpLabel	EtichettaAiuto	TExpressionEvalForm: HelpLabel.Caption
 Highlight Background	Evidenzia sfondo	ExtCtrls_clNameHighlight												
 Highlight Text	Evidenzia testo	ExtCtrls_clNameHighlightText												
 Highlight syntax	Evidenzia sintassi	TTextEditorForm: HighlightSyntaxBox.Caption												
-	Mantieni premuto il tasto 'Ctrl' per disegnare solo linee orizzontali o verticali. #$0DIl tasto 'Alt' per ignorare la griglia.#$0D Il tasto 'Shift' per la scala attorno al centro.	Main_rsEditConnectorHint												
-Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.	Mantieni rpemuto il tasto 'Ctrl' per mantenere altezza e larghezza uguali. #$0DPremi 'Alt' per ignorare la griglia. #$0DPremi 'Shift' per la scala attorno al centro.	Main_rsEditShapeHint												
+Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.	Mantieni premuto il tasto 'Ctrl' per disegnare solo linee orizzontali o verticali. Il tasto 'Alt' per ignorare la griglia. Il tasto 'Shift' per la scala attorno al centro.	Main_rsEditConnectorHint												
+Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.	Mantieni premuto il tasto 'Ctrl' per mantenere altezza e larghezza uguali. Premi 'Alt' per ignorare la griglia. Premi 'Shift' per la scala attorno al centro.	Main_rsEditShapeHint												
 Home	Inizio	Consts_SmkcHome												
 Horizontal	Orizzontale	LinkEditor_rsHorizontal												
 Horizontal scaling	Scala orizzontale	TPropertyEditorForm: HorzScaleAnchorBox.Hint												
-Horizontal text alignment	Allineamento testo orizzontale	TPropertyEditorForm: Panel3.Caption												
-I would like to thank %s and others for making their software libraries available.	Voglio ringraziare#$0D%s#$0De tanti altri, per aver reso disponibili le loro librerie software.	Main_rsIWouldLikeToThank												
+Horizontal text alignment	Allineamento orizzontale	TPropertyEditorForm: Panel3.Caption												
+I would like to thank %s and others for making their software libraries available.	Voglio ringraziare %s e tanti altri per aver reso disponibili le loro librerie software.	Main_rsIWouldLikeToThank												
 I/O error %d	Errore di I/O %d	SysConst_SInOutError												
 IO-error: %s	Errore IO: %s	Streams_rs_IOError												
 Icon image is not valid	Immagine icona non valida	Consts_SInvalidIcon												
@@ -370,7 +370,7 @@ Invalid PNG header	Intestazione PNG non valida	PNGLoader_rsInvalidPNGHeader
 Invalid alpha channel format or dimensions	Formato o dimensioni del canale alpha non validi	PNGLoader_rsInvalidAlphaChannelFormat												
 Invalid argument	Argomento non valido	SysConst_SVarInvalid												
 Invalid binary number	Numero binario non valido	ExpressionEval_rsInvalidBinaryNumber												
-Invalid bitmap size	Grandezza bitmap non valida	LinarBitmap_rsInvalidBitmapSize												
+Invalid bitmap size	Grandezza immagine non valida	LinarBitmap_rsInvalidBitmapSize												
 Invalid buffer size	Grandezza buffer non valida	BufStream_rsInvalidBufferSize												
 Invalid class typecast	Classe operatore cast non valida	SysConst_SInvalidCast												
 Invalid clipboard format	Formato Appunti non valido	Consts_SInvalidClipFmt												
@@ -495,7 +495,7 @@ New line	Nuova linea	TextEditor_rsNewLine
 New page	Nuova pagina	TMainForm: ActionManager.Caption	TMainForm: NewPageAction.Caption											
 New...	Nuovo...	TMainForm: ActionManager.Caption	TMainForm: NewAction.Caption											
 Next	Seguente	TSlideShowForm: NextSlideItem.Caption												
-No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	Nessun gruppo d'azioni stile per l'elemento è presente nella clausola degli usi.#$0DL'applicazione deve includere almeno XPStyleActnCtrls, StdStyleActnCtrls o una terza versione del gruppo d'azioni di stile per elemento nella sua clausola degli usi.	Consts_SActionBarStyleMissing												
+No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause.	Nessun gruppo d'azioni stile per l'elemento è presente nella clausola degli usi.\rL'applicazione deve includere almeno XPStyleActnCtrls, StdStyleActnCtrls o una terza versione del gruppo d'azioni di stile per elemento nella sua clausola degli usi.	Consts_SActionBarStyleMissing												
 No OnGetItem event handler assigned	Nessun gestore d'evento OnGetItem assegnato	Consts_SNoGetItemEventHandler												
 No argument for format '%s'	Nessun argomento per il formato '%s'	SysConst_SArgumentMissing												
 No context-sensitive help installed	Nessuna guida sensibile al contesto installata	HelpIntfs_hNoContext												
@@ -507,7 +507,7 @@ No help keyword specified.	Nessuna parola chiave specificata per la guida in lin
 No icons in file	Nessuna icona nel file	ICOLoader_rsNoIconsInFile												
 No more points allowed	Non è permesso un maggior numero di punti	LineObject_rsNoMorePointsAllowed												
 No objects in active layer	Nessun oggetto nello strato attivo	Main_rsNoObjectsInActiveLayer												
-No solution found, try changing starting guess	Nessuna soluzione trovata.#$0DProva a modificare la congettura iniziale	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess												
+No solution found, try changing starting guess	Nessuna soluzione trovata. Prova a modificare la congettura iniziale	ExpressionEval_rsNoSolutionFoundTryChangingStartingGuess												
 No topic-based help system installed	Nessuna guida per argomento installata nel sistema	HelpIntfs_hNoTopics												
 No version-info was associated with the requested file \"%s\"	Nessuna informazione di versione è stata associata al file richiesto \"%s\"	VersionInfo_rs_noversioninfo												
 None	Nessuno	ColorDialog_rsNone	LineObject_rsNone	ExtCtrls_clNameNone										
@@ -540,7 +540,7 @@ Operation not allowed on sorted string list	Operazione non ammessa nell'elenco o
 Operation not supported	Operazione non supportata	AnalyzerPlugins_rsOperationNotSupported	SysConst_SVarNotImplemented											
 Operation not supported on selected printer	Operazione non supportata dalla stampante selezionata	Consts_SInvalidPrinterOp												
 Operator expected	Operatore atteso	ExpressionEval_rsOperatorExpected												
-Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operatori:\n&\tAND logico\n|\tOR logico\n=\tUguaglianza\n#$23\tDiverso\n>\tMaggiore\n<\tMinore\n+\tAddizione\n-\tSottrazione\n*\tProdotto\n/\tDivisione\n%\tModulo\n^\tPotenza\n\nDefinizione simboli:\n:Nome = Valore;\n:Funz(x) = Espressione;	ExpressionHelp_rsExpressionHelp												
+Operators:\n&\tLogical AND\n|\tLogical OR\n=\tEqual\n#$23\tNot equal\n>\tGreater\n<\tLess\n+\tAdd\n-\tSubtract\n*\tMultiply\n/\tDivide\n%\tModulus\n^\tPower\n\nDefining symbols:\n:Name = Value;\n:Func(x) = Expression;	Operatori:\n&\tAND logico\n|\tOR logico\n=\tUguale\n#$23\tDiverso\n>\tMaggiore\n<\tMinore\n+\tAddizione\n-\tSottrazione\n*\tProdotto\n/\tDivisione\n%\tModulo\n^\tPotenza\n\nDefinizione simboli:\n:Nome = Valore;\n:Funz(x) = Espressione;	ExpressionHelp_rsExpressionHelp												
 Optimizing...	Ottimizzazione...	GIFImage_sProgressOptimizing												
 Options	Opzioni	TDesignerSetupForm: DesignerSetupForm.Caption	TMainForm: ActionManager.Caption	TMainForm: OptionsAction.Caption										
 Out of memory	Memoria insufficiente	SysConst_SOutOfMemory												
@@ -575,7 +575,7 @@ Premature end of data	Fine prematura dei dati	GIFImage_sOutOfData
 Preview mode	Modo anteprima	TMainForm: ActionManager.Caption	TMainForm: PrintPreviewAction.Caption											
 Preview not available	Anteprima non disponibile	DialogsEx_rsPreviewNotAvailable												
 Previous	Precedente	TSlideShowForm: PreviousSlideItem.Caption												
-Print as bitmap	Stampa bitmap	TDesignerSetupForm: PrintAsBitmapBox.Caption												
+Print as bitmap	Stampa immagine	TDesignerSetupForm: PrintAsBitmapBox.Caption												
 Print scaling set to %d%%	Scala stampa impostata a %d%%	PrintDiagram_rsPrintScalingSetToD												
 Print scaling:	Scala stampa:	TDesignerSetupForm: Label7.Caption												
 Print...	Stampa...	TMainForm: ActionManager.Caption	TMainForm: PrintAction.Caption											
@@ -607,7 +607,7 @@ Relative page number (-1 = previous page):	Numero pagina relativo (-1 = pagina p
 Reload	Ricarica	TMainForm: ActionManager.Caption	TMainForm: ActionManager.Caption	TMainForm: ReloadAction.Caption										
 Reload and lose changes?	Ricaricare e perdere i cambiamenti?	Main_rsReloadAndLoseChanges												
 Rename	Rinomina	TRearrangePagesForm: RenameButton.Caption												
-Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.	Renderizza tutti gli oggetti e stampa bitmap. Può essere necessario con alcune stampanti per gestire correttamente trasparenza e gradiente.	TDesignerSetupForm: PrintAsBitmapBox.Hint												
+Render all objects to a bit and print the bitmap. This may be necessary with some printers to handle transparency and gradient fill correctly.	Renderizza tutti gli oggetti e stampa immagine. Può essere necessario con alcune stampanti per gestire correttamente trasparenza e gradiente.	TDesignerSetupForm: PrintAsBitmapBox.Hint												
 Rendering...	Rendering...	GIFImage_sProgressRendering												
 Reorder or delete pages	Riordina o elimina pagine	TMainForm: ReorderPagesAction.Hint												
 Replace	Rimpiazza	TSpellCheckForm: ReplaceButton.Caption												
@@ -660,7 +660,7 @@ Set program language	Imposta la lingua del programma	TDesignerSetupForm: Languag
 Shift+	Shift+	Consts_SmkcShift												
 Show grid	Mostra griglia	TDesignerSetupForm: ShowGridBox.Caption												
 Show object tree	Mostra albero oggetti	TMainForm: ActionManager.Caption	TMainForm: ShowTreeAction.Caption											
-Show printer margins	Mostra margini stampa	TDesignerSetupForm: ShowMarginsBox.Caption												
+Show printer margins	Margini di stampa	TDesignerSetupForm: ShowMarginsBox.Caption												
 Show printer margins on page in designer	Mostra margini di stampa nella pagina	TDesignerSetupForm: ShowMarginsBox.Hint												
 Show this message on startup	Mostra questo messaggio all'avvio	TPleaseSupportForm: CheckBox1.Caption												
 Side bars	Barre laterali	FlowchartObject_rsSideBars												
@@ -767,11 +767,11 @@ Unsupported Application Extension block size	Dimensione blocco estensione applic
 Unsupported GIF version	Versione GIF non supportata	GIFImage_sBadVersion												
 Unsupported PNG data	Dati PNG non supportati	PNGLoader_rsUnsupportedPNGData												
 Unsupported PixelFormat	Formato pixel non supportato	GIFImage_sInvalidPixelFormat												
-Unsupported bitmap format	Formato bitmap non supportato	LinarBitmap_rsUnsupportedBitmapFormat												
+Unsupported bitmap format	Formato immagine non supportato	LinarBitmap_rsUnsupportedBitmapFormat												
 Unsupported clipboard format	Formato Appunti non supportato	Main_rsUnsupportedClipboardFormat	Consts_SUnknownClipboardFormat											
 Unsupported file format	Formato file non supportato	LinarBitmap_rsUnsupportedFileFormat												
 Unsupported pixel format	Formato pixel non supportato	LinarBitmap_rsInvalidPixelFormat	AnalyzerPlugins_rsUnsupportedPixelFormat											
-Up	Su	Consts_SmkcUp												
+Up	Alto	Consts_SmkcUp												
 Value expected	Valore atteso	ExpressionEval_rsValueExpected												
 Value must be integer	Il valore deve essere intero	ValueEdits_rsValueMustBeInteger												
 Value not in allowed range: [%s - %s]	Valore non nell'intervallo permesso: [%s - %s]	ValueEdits_rsValueNotInAllowedRangeSS												
@@ -794,7 +794,7 @@ Window Background	Sfondo finestra	ExtCtrls_clNameWindow
 Window Frame	Cornice finestra	ExtCtrls_clNameWindowFrame												
 Window Text	Testo finestra	ExtCtrls_clNameWindowText												
 Windows Enhanced metafile	Metafile avanzato Windows	WMFLoader_rsWindowsEnhancedMetafile												
-Windows bitmap	Bitmap Windows	BMPLoader_rsWindowsBitmap												
+Windows bitmap	Immagine Windows	BMPLoader_rsWindowsBitmap												
 Windows cursor	Cursore Windows	ICOLoader_rsWindowsCursor												
 Windows icon	Icona Windows	ICOLoader_rsWindowsIcon												
 Windows metafile	Metafile Windows	WMFLoader_rsWindowsMetafile												
