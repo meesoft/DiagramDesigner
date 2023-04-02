@@ -23,6 +23,7 @@ package ValueEditsComponent;
 {$MINENUMSIZE 1}
 {$IMAGEBASE $400000}
 {$IMPLICITBUILD OFF}
+{$DEFINE package}
 
 requires
   rtl,
@@ -31,6 +32,6 @@ requires
   vclx;
 
 contains
-  ValueEditsControl in '..\Units\ValueEditsControl.pas';
+  ValueEdits in '..\Units\ValueEdits.pas';
 
 end.

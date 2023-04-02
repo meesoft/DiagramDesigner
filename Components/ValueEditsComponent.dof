@@ -96,7 +96,7 @@ PackageDLLOutputDir=
 PackageDCPOutputDir=
 SearchPath=..\Units;..\lib\FastMM4;..\lib\FastCode;..\lib\SynSpellCheck;..\lib\GDIPlus;..\lib\GifImage;..
 Packages=
-Conditionals=
+Conditionals=package
 DebugSourceDirs=
 UsePackages=0
 [Parameters]
@@ -135,10 +135,12 @@ ProductName=
 ProductVersion=1.0.0.0
 Comments=
 [HistoryLists\hlConditionals]
-Count=3
-Item0=UseStyleForm;VistaTaskbarButton,USEPACKAGES
-Item1=UseStyleForm;VistaTaskbarButton
-Item2=UseStyleForm
+Count=5
+Item0=package
+Item1=packages
+Item2=UseStyleForm;VistaTaskbarButton,USEPACKAGES
+Item3=UseStyleForm;VistaTaskbarButton
+Item4=UseStyleForm
 [HistoryLists\hlUnitAliases]
 Count=2
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;

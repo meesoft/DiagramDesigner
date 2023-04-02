@@ -9,7 +9,8 @@ MAKE = $(ROOT)\bin\make.exe -$(MAKEFLAGS) -f$**
 DCC = $(ROOT)\bin\dcc32.exe $**
 BRCC = $(ROOT)\bin\brcc32.exe $**
 #------------------------------------------------------------------------------
-PROJECTS = DiagramDesigner.exe DiagramReader.dll
+PROJECTS = DiagramDesigner.exe DiagramReader.dll PanelFrameComponent.bpl \
+  ValueEditsComponent.bpl
 #------------------------------------------------------------------------------
 default: $(PROJECTS)
 #------------------------------------------------------------------------------
@@ -18,6 +19,12 @@ DiagramDesigner.exe: Application\DiagramDesigner.dpr
   $(DCC)
 
 DiagramReader.dll: Application\DiagramReader.dpr
+  $(DCC)
+
+PanelFrameComponent.bpl: Components\PanelFrameComponent.dpk
+  $(DCC)
+
+ValueEditsComponent.bpl: Components\ValueEditsComponent.dpk
   $(DCC)
 
 

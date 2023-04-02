@@ -135,7 +135,7 @@ ProductName=Diagram Designer
 ProductVersion= 
 Comments=
 [HistoryLists\hlConditionals]
-Count=5
+Count=4
 Item0=NoFloatMapFileSupport;LibraryMode
 Item1=NoFloatMapFileSupport
 Item2=AssumeMultiThreaded, NoFloatMapFileSupport, _FullDebugMode
@@ -143,10 +143,10 @@ Item3=NoFloatMapFileSupport, _FullDebugMode
 Item4=NoFloatMapFileSupport, FullDebugMode
 [HistoryLists\hlUnitAliases]
 Count=3
-Item0=Forms=FormsDummy;WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
-Item1=_Forms=FormsDummy;WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+Item1=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;XPMan=XPManDummy
 Item2=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [HistoryLists\hlSearchPath]
 Count=2
-Item0=c:\progrm\delphi\units;c:\progrm\delphi\library;c:\progrm\delphi\library\gifimage;..\ecg;C:\PROGRM\DELPHI\LIBRARY\TTiffBitMap
-Item1=C:\PROGRM\DELPHI\UNITS;C:\PROGRM\DELPHI\library;C:\PROGRM\DELPHI\library\gifimage;C:\PROGRM\DELPHI\analyzer;C:\PROGRM\DELPHI\mdigrafik
+Item0=..\Units;..\lib\FastMM4;..\lib\FastCode;..\lib\SynSpellCheck;..\lib\GDIPlus;..\lib\GifImage;..
+Item1=..\Units;..\lib;..\lib\FastMM4;..\lib\FastCode;..\lib\SynSpellCheck;..\lib\GDIPlus;..\lib\GifImage;..\lib\JPEG-D7
