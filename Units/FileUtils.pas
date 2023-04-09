@@ -11,6 +11,8 @@
 //
 unit FileUtils;
 
+{$WARN SYMBOL_PLATFORM OFF}
+
 interface
 
 uses Windows, SysUtils, ShellAPI, Classes, MemUtils, Messages, Registry, Forms, Shlobj;

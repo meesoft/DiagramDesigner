@@ -159,9 +159,6 @@ Comments=
 [Excluded Packages]
 c:\program files (x86)\borland\delphi7\Bin\dclnet70.bpl=Borland Internet Components
 c:\program files (x86)\borland\delphi7\Bin\dclsoap70.bpl=Borland SOAP Components
-[HistoryLists\hlDebugSourcePath]
-Count=1
-Item0=D:\PROGRM\Delphi\UNITS\
 [HistoryLists\hlConditionals]
 Count=7
 Item0=UseStyleForm;VistaTaskbarButton
