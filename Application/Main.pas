@@ -760,8 +760,8 @@ begin
   ImageDLLLoader.Default.FindDLLs(AnalyzerPath);
   RestoreWindowPos(Self);
   Options.LoadSettings(Setup);
-  TreeView.Width:=Max(1,Setup.GetInteger('TreeWidth',TreeView.Width));
-  RightPanel.Width:=Max(1,Setup.GetInteger('TemplateWidth',RightPanel.Width));
+  TreeView.Width:=Max(20,Setup.GetInteger('TreeWidth',TreeView.Width));
+  RightPanel.Width:=Max(20,Setup.GetInteger('TemplateWidth',RightPanel.Width));
   ShowTreeAction.Checked:=TreeView.Width>1;
   RecentFileList.DelimitedText:=Setup.GetString('RecentFileList','');
   SetGridValue;
