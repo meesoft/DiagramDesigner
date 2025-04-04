@@ -139,6 +139,7 @@ type
       procedure DrawAntialiasing(Canvas: TCanvas; const CanvasInfo: TCanvasInfo); override;
       function Length: Single;
       function Angle: Single;
+      function AreaOfConnectedPolygon: Single;
     end;
 
   TArrowObject = class(TStraightLineObject)
@@ -1041,6 +1042,39 @@ end;
 function TStraightLineObject.Angle: Single;
 begin
   Result:=ComplexVal(FloatPoint(VectorSubtract(P1,P2))).Angle;
+end;
+
+function TStraightLineObject.AreaOfConnectedPolygon: Single;
+var
+  Segment : TStraightLineObject;
+  Sum : Int64;
+  IterationCount : Integer;
+begin
+  Sum:=0;
+  IterationCount:=0;
+  Segment:=Self;
+  repeat
+    Inc(IterationCount);
+    if IterationCount>1000 then // Reasonable maximum for diagram complexity
+    begin
+      Result:=0;
+      Exit;
+    end;
+    with Segment do
+    begin
+      Sum:=Sum+Int64(P1.Y+P2.Y)*(P1.X-P2.X);
+      if (FLinkObjects[1].Obj is TStraightLineObject) and (PointDist(TStraightLineObject(FLinkObjects[1].Obj).P1,P2)=0) then
+        Segment:=TStraightLineObject(FLinkObjects[1].Obj)
+      else if (FLinkObjects[2].Obj is TStraightLineObject) and (PointDist(TStraightLineObject(FLinkObjects[2].Obj).P1,P2)=0) then
+        Segment:=TStraightLineObject(FLinkObjects[2].Obj)
+      else
+      begin
+        Result:=0;
+        Exit;
+      end;
+    end;
+  until Segment=Self;
+  Result:=Abs(Sum/2);
 end;
 
 //==============================================================================================================================

@@ -535,6 +535,8 @@ resourcestring
   rsEditConnectorHint = 'Hold Ctrl to draw horizontal or vertical lines only. Alt to ignore grid. Shift to ignore links.';
   rsEditShapeHint = 'Hold Ctrl to keep height and width equal. Alt to ignore grid. Shift to scale around center.';
   rsPage = 'Page';
+  rsAngle = 'Angle';
+  rsArea = 'Area';
 
 implementation
 
@@ -2732,7 +2734,8 @@ var
 var
   CanvasMousePos : TPoint;
   MemStream : TMemStream;
-  Units : string;
+  Units, Str : string;
+  Area : single;
 begin
   {$IFOPT D-}
   try
@@ -2841,14 +2844,23 @@ begin
       if ObjectMoved and (ActiveObjectHandle>0) then
       begin
         if ActiveObject is TStraightLineObject then
-          StatusBar.Panels[sbpHint].Text:=ActiveObject.Name+' (L='+FormatFloat(DisplayUnitFormat[DisplayUnits],TStraightLineObject(ActiveObject).Length/DisplayUnitSize[DisplayUnits])+Units+
-                                          ListSeparator+' A='+FormatFloat('0.0',TStraightLineObject(ActiveObject).Angle/Pi*180)+'°)  '+
-                                          rsEditConnectorHint
+        begin
+          Area:=TStraightLineObject(ActiveObject).AreaOfConnectedPolygon;
+          Str:=ActiveObject.Name+' (L='+FormatFloat(DisplayUnitFormat[DisplayUnits],TStraightLineObject(ActiveObject).Length/DisplayUnitSize[DisplayUnits])+Units+
+               ListSeparator+' '+rsAngle+'='+FormatFloat('0.0',TStraightLineObject(ActiveObject).Angle/Pi*180)+'°';
+          if Area>0 then Str:=Str+ListSeparator+' '+rsArea+'='+FormatFloat(DisplayUnitFormat[DisplayUnits],Area/Sqr(DisplayUnitSize[DisplayUnits]))+Units+'^2';
+          StatusBar.Panels[sbpHint].Text:=Str+')  '+rsEditConnectorHint;
+        end
         else if ActiveObject is TConnectorObject then
           StatusBar.Panels[sbpHint].Text:=ActiveObject.Name+'. '+rsEditConnectorHint
 
         else if ActiveObject is TCurveLineObject then
           StatusBar.Panels[sbpHint].Text:=ActiveObject.Name+'. '+rsLeftRightClickToAddPoint
+        else if (ActiveObject is TRectangleObject) and (ActiveObject.Properties[opCornerRadius]=0) then
+          StatusBar.Panels[sbpHint].Text:=ActiveObject.Name+' (W='+FormatFloat(DisplayUnitFormat[DisplayUnits],ActiveObject.Width/DisplayUnitSize[DisplayUnits])+Units+
+                                          ListSeparator+' H='+FormatFloat(DisplayUnitFormat[DisplayUnits],ActiveObject.Height/DisplayUnitSize[DisplayUnits])+Units+
+                                          ListSeparator+' '+rsArea+'='+FormatFloat(DisplayUnitFormat[DisplayUnits],Int64(ActiveObject.Width)*ActiveObject.Height/Sqr(DisplayUnitSize[DisplayUnits]))+Units+'^2)'+'  '+
+                                          rsEditShapeHint
         else if ActiveObject is TShapeObject then
           StatusBar.Panels[sbpHint].Text:=ActiveObject.Name+' (W='+FormatFloat(DisplayUnitFormat[DisplayUnits],ActiveObject.Width/DisplayUnitSize[DisplayUnits])+Units+
                                           ListSeparator+' H='+FormatFloat(DisplayUnitFormat[DisplayUnits],ActiveObject.Height/DisplayUnitSize[DisplayUnits])+Units+')'+'  '+
