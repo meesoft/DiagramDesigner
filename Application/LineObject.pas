@@ -1048,10 +1048,18 @@ function TStraightLineObject.AreaOfConnectedPolygon: Single;
 var
   Segment : TStraightLineObject;
   Sum : Int64;
+  IterationCount : Integer;
 begin
   Sum:=0;
+  IterationCount:=0;
   Segment:=Self;
   repeat
+    Inc(IterationCount);
+    if IterationCount>1000 then // Reasonable maximum for diagram complexity
+    begin
+      Result:=0;
+      Exit;
+    end;
     with Segment do
     begin
       Sum:=Sum+Int64(P1.Y+P2.Y)*(P1.X-P2.X);

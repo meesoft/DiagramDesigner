@@ -2848,7 +2848,7 @@ begin
           Area:=TStraightLineObject(ActiveObject).AreaOfConnectedPolygon;
           Str:=ActiveObject.Name+' (L='+FormatFloat(DisplayUnitFormat[DisplayUnits],TStraightLineObject(ActiveObject).Length/DisplayUnitSize[DisplayUnits])+Units+
                ListSeparator+' '+rsAngle+'='+FormatFloat('0.0',TStraightLineObject(ActiveObject).Angle/Pi*180)+'°';
-          if Area>0 then Str:=Str+ListSeparator+' '+rsArea+'='+FormatFloat(DisplayUnitFormat[DisplayUnits],Area/Sqr(DisplayUnitSize[DisplayUnits]))+Units+'^2)';
+          if Area>0 then Str:=Str+ListSeparator+' '+rsArea+'='+FormatFloat(DisplayUnitFormat[DisplayUnits],Area/Sqr(DisplayUnitSize[DisplayUnits]))+Units+'^2';
           StatusBar.Panels[sbpHint].Text:=Str+')  '+rsEditConnectorHint;
         end
         else if ActiveObject is TConnectorObject then
