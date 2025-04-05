@@ -1063,9 +1063,9 @@ begin
     with Segment do
     begin
       Sum:=Sum+Int64(P1.Y+P2.Y)*(P1.X-P2.X);
-      if (FLinkObjects[1].Obj is TStraightLineObject) and (PointDist(TStraightLineObject(FLinkObjects[1].Obj).P1,P2)=0) then
+      if (FLinkObjects[1].Obj is TStraightLineObject) and PointsEqual(TStraightLineObject(FLinkObjects[1].Obj).P1,P2) then
         Segment:=TStraightLineObject(FLinkObjects[1].Obj)
-      else if (FLinkObjects[2].Obj is TStraightLineObject) and (PointDist(TStraightLineObject(FLinkObjects[2].Obj).P1,P2)=0) then
+      else if (FLinkObjects[2].Obj is TStraightLineObject) and PointsEqual(TStraightLineObject(FLinkObjects[2].Obj).P1,P2) then
         Segment:=TStraightLineObject(FLinkObjects[2].Obj)
       else
       begin
